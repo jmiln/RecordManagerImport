@@ -62,8 +62,10 @@ WinActivate, ahk_class SDL_app
 ; be trusted to fill properly
 
 ; From the starting point, CATEGORY
+sleep, 100
 send, {up}
 sleep, 150
+DosBoxMouseMove(190, 25)
 MouseClick, Left
 sleep, 350
 DosBoxMouseMove(190, 25)

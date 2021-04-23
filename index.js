@@ -25,167 +25,13 @@ const argv = require("minimist")(process.argv.slice(2), {
         p: "pb",    // Paperback
         b: "bc",    // Book Club
         l: "lp",    // Large Print
+        f: "first",   // 1st edition
     }
 });
 
 const isbn = process.argv[2];
-const pubMap = [
-    {
-        name: "Alfred A. Knopf",
-        aliases: ["Knopf", "Alfred"],
-        locations: ["New York"]
-    },
-    {
-        name: "Bantam Books",
-        aliases: ["Bantam"],
-        locations: ["New York"]
-    },
-    {
-        name: "Bethany House Publishers",
-        aliases: ["Bethany House"],
-        locations: ["Minneapolis, MN."]
-    },
-    {
-        name: "Del Rey/Ballantine",
-        aliases: ["Del Rey"],
-        locations: ["New York"]
-    },
-    {
-        name: "Disney / Hyperion",
-        aliases: ["Miramax", "Disney"],
-        locations: ["New York"]
-    },
-    {
-        name: "Daw Books, inc.",
-        aliases: ["DAW"],
-        locations: ["New York"]
-    },
-    {
-        name: "Donald M. Grant",
-        aliases: ["Grant"],
-        locations: ["Hampton Falls, NH."]
-    },
-    {
-        name: "Ecco / Harper-Collins",
-        aliases: ["Ecco"],
-        locations: ["New York"]
-    },
-    {
-        name: "Forge/Tom Doherty Associates",
-        aliases: ["Forge"],
-        locations: ["New York"]
-    },
-    {
-        name: "G. P. Putnam's Sons",
-        aliases: ["Putnam"],
-        locations: ["New York"]
-    },
-    {
-        name: "Grand Central Publishing",
-        aliases: ["Grand Central"],
-        locations: ["New York", "Boston"]
-    },
-    {
-        name: "Harper-Collins",
-        aliases: ["HarperCollins"],
-        locations: ["New York"]
-    },
-    {
-        name: "Howard Books / S&S",
-        aliases: ["Howard"],
-        locations: ["New York"]
-    },
-    {
-        name: "Harper-Teen",
-        aliases: ["HarperTeen"],
-        locations: ["New York"]
-    },
-    {
-        name: "Harvet House Publishers",
-        aliases: ["Harvest House"],
-        locations: ["Eugene, OR."]
-    },
-    {
-        name: "Jove / Berkley",
-        aliases: ["Jove"],
-        locations: ["New York"]
-    },
-    {
-        name: "Kensington Books",
-        aliases: ["Kensington"],
-        locations: ["New York"]
-    },
-    {
-        name: "Little, Brown & Company",
-        aliases: ["Little Brown"],
-        locations: ["New York"]
-    },
-    {
-        name: "Minotaur Books",
-        aliases: ["Minotaur"],
-        locations: ["New York"]
-    },
-    {
-        name: "New American Library",
-        aliases: ["New American Library"],
-        locations: ["New York"]
-    },
-    {
-        name: "Plume Books / Penguin",
-        aliases: ["Plume"],
-        locations: ["New York"]
-    },
-    {
-        name: "Pegasus Books",
-        aliases: ["Pegasus"],
-        locations: ["New York"]
-    },
-    {
-        name: "Penguin Books",
-        aliases: ["Penguin"],
-        locations: ["New York"]
-    },
-    {
-        name: "Random House",
-        aliases: ["Random"],
-        locations: ["New York"]
-    },
-    {
-        name: "Scribner",
-        aliases: ["Scribner"],
-        locations: ["New York"]
-    },
-    {
-        name: "Simon & Schuster",
-        aliases: ["Simon & Schuster"],
-        locations: ["New York"]
-    },
-    {
-        name: "Thomas & Mercer",
-        aliases: ["Thomas & Mercer"],
-        locations: ["Seattle, WA."]
-    },
-    {
-        name: "Tor: Tom Doherty Associates",
-        aliases: ["Tor"],
-        locations: ["New York"]
-    },
-    {
-        name: "Vintage Books",
-        aliases: ["Vintage"],
-        locations: ["New York"]
-    },
-    {
-        name: "William Morrow",
-        aliases: ["William Morrow"],
-        locations: ["New York"]
-    },
-    {
-        name: "Zebra / Kensington",
-        aliases: ["Zebra"],
-        locations: ["New York"]
-    },
-];
+const {pubMap} = require("./pubMap.js");
+
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
@@ -239,6 +85,9 @@ async function init() {
             // It's a book club book, so need to put that in the edition slot
             bookInfoArr.push("EDITION=BOOK CLUB");
         }
+        if (!argv.bc && argv.first) {
+            bookInfoArr.push("EDITION=1st printing");
+        }
 
         if (jsonOut.authors && jsonOut.authors.length) {
             let authStr = "";
@@ -263,21 +112,27 @@ async function init() {
         if (jsonOut.publishers?.length) {
             let pubName = jsonOut.publishers[0].name;
             let pubLocs = [];
-            // TODO Get a mapping so they can try to map to soemthing that matches the norm
-            // This would also allow for the location to be tied in
             if (jsonOut.publish_places?.length) {
                 pubLocs.push(...jsonOut.publish_places.map(loc => loc.name));
             }
+
+            // TODO Work out how to do handle multiple matches
             for (const pub of pubMap) {
                 if (pub.aliases.filter(a => pubName.toLowerCase().includes(a.toLowerCase())).length) {
-                    pubName = pub.name;
+                    if (Array.isArray(pub.name)) {
+                        const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n`);
+                        if (Number.isInteger(parseInt(pubRes)) && pub.name[pubRes]) {
+                            pubName = pub.name[pubRes];
+                        }
+                    } else {
+                        pubName = pub.name;
+                    }
 
                     if (pub.locations.length === 1) {
                         pubLocs.push(pub.locations[0].toLowerCase());
                     } else if (pub.locations.length > 1) {
                         pubLocs.push(...pub.locations);
                     }
-                    break;
                 }
             }
 
