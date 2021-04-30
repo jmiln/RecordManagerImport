@@ -58,7 +58,8 @@ module.exports = {
         {
             name: [
                 "Harper-Collins",
-                "Harper-Perennial"
+                "Harper-Perennial",
+                "Harper-Teen"
             ],
             aliases: ["Harper"],
             locations: ["New York"]
@@ -89,8 +90,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Little, Brown & Company",
-            aliases: ["Little Brown", "Little, Brown"],
+            name: [
+                "Little, Brown & Company",
+                "Back Bay/Little, Brown & Co.",
+            ],
+            aliases: ["Little Brown", "Little, Brown", "Back Bay"],
             locations: ["New York"]
         },
         {
@@ -139,9 +143,19 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Scout Press / S&S",
+            aliases: ["Scout"],
+            locations: ["New York"]
+        },
+        {
             name: "Simon & Schuster",
             aliases: ["Simon & Schuster"],
             locations: ["New York"]
+        },
+        {
+            name: "Sourcebooks",
+            aliases: ["Source"],
+            locations: ["Naperville, IL."]
         },
         {
             name: "Thomas Dunne Books",
@@ -159,13 +173,22 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Vintage Books",
+            name: [
+                "Vintage Books",
+                "Vintage Contemporary",
+                "Vintage International"
+            ],
             aliases: ["Vintage"],
             locations: ["New York"]
         },
         {
             name: "William Morrow",
-            aliases: ["William Morrow"],
+            aliases: ["William Morrow", "Morrow"],
+            locations: ["New York"]
+        },
+        {
+            name: "W. W. Norton & Co",
+            aliases: ["Norton"],
             locations: ["New York"]
         },
         {
