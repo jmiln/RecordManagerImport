@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
-// const {inspect} = require("util");
-const {exec} = require("child_process");
+const { inspect } = require("util");
+const { exec } = require("child_process");
 
 const readline = require("readline");
 
@@ -19,15 +19,23 @@ async function askQuestion(query) {
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
-        i: "isbn",  // ISBN (Alternative to the one that brings up the info)
-        d: "dj",    // Dust Jacket
-        h: "hc",    // Hardcover
-        p: "pb",    // Paperback
-        b: "bc",    // Book Club
-        l: "lp",    // Large Print
-        f: "first",   // 1st edition
+        i: "isbn",    // ISBN (Alternative to the one that brings up the info)
+        d: "dj",      // Dust Jacket
+
+        // Bindings
+        h: "hc",      // Hardcover
+        p: "pb",      // Paperback
+        sp: "sp",     // Spiral Binding
+
+        // Editions
+        bc: "bc",     // Book Club
+        lp: "lp",     // Large Print
+
+        f: "first",   // 1st Printing
+        l: "later",   // Later Printing
     }
 });
+
 
 const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
@@ -84,9 +92,25 @@ async function init() {
         if (argv.bc) {
             // It's a book club book, so need to put that in the edition slot
             bookInfoArr.push("EDITION=BOOK CLUB");
-        }
-        if (!argv.bc && argv.first) {
-            bookInfoArr.push("EDITION=1st printing");
+        } else if (argv.later) {
+            // It's a large print edition, so put that in the edition slot
+            bookInfoArr.push("EDITION=Later Printing");
+        } else if (!argv.bc && argv.first) {
+            // It's a first printing
+            let printing = "1st";
+            if (Number.isInteger(parseInt(argv.first))) {
+                argv.first = parseInt(argv.first);
+                if (argv.first === 1) {
+                    printing = "1st";
+                } else if (argv.first === 2) {
+                    printing = "2nd";
+                } else if (argv.first === 3) {
+                    printing = "3rd";
+                } else if ([4,5,6,7,8,9,10].indexOf(argv.first) > -1) {
+                    printing = `${argv.first}th`;
+                }
+            }
+            bookInfoArr.push(`EDITION=${printing} printing`);
         }
 
         if (jsonOut.authors && jsonOut.authors.length) {
@@ -117,40 +141,63 @@ async function init() {
             }
 
             // TODO Work out how to do handle multiple matches
+            let chosen = false;
             for (const pub of pubMap) {
                 if (pub.aliases.filter(a => pubName.toLowerCase().includes(a.toLowerCase())).length) {
                     if (Array.isArray(pub.name)) {
                         const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n`);
-                        if (Number.isInteger(parseInt(pubRes)) && pub.name[pubRes]) {
+                        if (pub.name[pubRes]) {
                             pubName = pub.name[pubRes];
+                            chosen = true;
+                            bookInfoArr.push(`PUB=${pubName}`);
                         }
                     } else {
                         pubName = pub.name;
                     }
 
+                    // Chose a location out of the possible options
                     if (pub.locations.length === 1) {
-                        pubLocs.push(pub.locations[0].toLowerCase());
+                        pubLocs.push(pub.locations[0]);
                     } else if (pub.locations.length > 1) {
                         pubLocs.push(...pub.locations);
                     }
                 }
             }
 
-            // Once it gets the publisher, ask if it should be used
-            const res = await askQuestion(`I found the publisher: ${pubName}. \nDo you want to use this? (Y)es/ (N)o\n`);
-            if (["y", "yes"].includes(res.toLowerCase())) {
-                bookInfoArr.push(`PUB=${pubName}`);
-                if (pubLocs.length) {
-                    pubLocs = [...new Set(pubLocs.map(l => l.toLowerCase()))];
-                    if (pubLocs.length > 1) {
-                        const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
-                        if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
-                            bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
-                        }
-                    } else {
-                        bookInfoArr.push(`LOC=${pubLocs[0]}`);
-                    }
+            if (!chosen) {
+                // Once it gets the publisher, ask if it should be used, so long as it wasn't chosen from a list above
+                const res = await askQuestion(`I found the publisher: ${pubName} \nDo you want to use this? (Y)es/ (N)o\n`);
+                if (["y", "yes"].includes(res.toLowerCase())) {
+                    bookInfoArr.push(`PUB=${pubName}`);
                 }
+            }
+
+            // Format all the locations and make sure there aren't duplicates
+            const stateRegex = /, [a-z]{2}$/i;
+            if (pubLocs.length) {
+                pubLocs = pubLocs.map(loc => {
+                    loc = loc.toLowerCase();
+                    if (["new york, usa", "new york, ny"].indexOf(loc) > -1) {
+                        // Get rid of the `, usa` at the end of new york
+                        loc = "new york";
+                    }
+                    if (loc.match(stateRegex)) {
+                        // Put a period at the end of a state abbreviation if it doesn't have one
+                        loc += ".";
+                    }
+                    return loc;
+                });
+            }
+            pubLocs = [...new Set(pubLocs)];
+
+            // If there is more than one location, let em choose
+            if (pubLocs.length > 1) {
+                const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${inspect(loc)}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
+                if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
+                    bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
+                }
+            } else if (pubLocs.length === 1) {
+                bookInfoArr.push(`LOC=${pubLocs[0]}`);
             }
         }
 
@@ -158,9 +205,11 @@ async function init() {
             const date = new Date(jsonOut.publish_date).getUTCFullYear();
             bookInfoArr.push(`PUBDATE=${date}`);
         }
-        if (jsonOut.number_of_pages) {
-            console.log(`Pages: ${jsonOut.number_of_pages}`);
-        }
+
+        // The page count, but it's not reliably the same number as the numbered pages in the book
+        // if (jsonOut.number_of_pages) {
+        //     console.log(`Pages: ${jsonOut.number_of_pages}`);
+        // }
 
         if (argv.hc) {
             bookInfoArr.push("BD=HC.");
@@ -189,16 +238,15 @@ async function init() {
             .map(e => e.toLowerCase())
             .join("\n")
             .replace(/’/g, "'");
+        // Write to a file, then pass that to the ahk
         await fs.writeFileSync("./bookInfo.txt", bookInfoOut);
         exec("C:/Users/Other/Desktop/Jeff/Fiddling/nodeAHK/bookOut.ahk", (error, stdout, stderror) => {
             console.log(error, stdout, stderror);
         });
     } else {
+        // TODO Change it so it will offer to input the data you've provided if it cannot find more.
+        // This being ISBN, maybe edition, maybe hc/pb/dj, as well as 1 for the quantity, and whatever else is added in the future
         console.log("No valid book found");
     }
-    // Write json to a file, then pass that to the ahk
 }
 init();
-
-
-
