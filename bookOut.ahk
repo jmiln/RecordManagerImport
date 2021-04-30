@@ -135,7 +135,13 @@ if (strLen(DJ)) {
     sendRaw, %DJ%
 }
 
-; Go abck up to the comments field since that's the next edit I need
+if (strlen(PAGES)) {
+    goDown(1)
+    sendRaw, %PAGES%
+    goUp(1)
+}
+
+; Go back up to the comments field since that's the next edit I need
 goUp(9)
 
 

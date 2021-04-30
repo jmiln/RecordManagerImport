@@ -33,6 +33,10 @@ const argv = require("minimist")(process.argv.slice(2), {
 
         f: "first",   // 1st Printing
         l: "later",   // Later Printing
+
+        // Pages
+        pg: "pages",
+        u: "unpaginated",
     }
 });
 
@@ -177,8 +181,7 @@ async function init() {
             if (pubLocs.length) {
                 pubLocs = pubLocs.map(loc => {
                     loc = loc.toLowerCase();
-                    if (["new york, usa", "new york, ny"].indexOf(loc) > -1) {
-                        // Get rid of the `, usa` at the end of new york
+                    if (loc.indexOf("new york") > -1) {
                         loc = "new york";
                     }
                     if (loc.match(stateRegex)) {
@@ -210,6 +213,14 @@ async function init() {
         // if (jsonOut.number_of_pages) {
         //     console.log(`Pages: ${jsonOut.number_of_pages}`);
         // }
+        if (argv.pages) {
+            const pg = parseInt(argv.pages, 10);
+            if (Number.isInteger(pg)) {
+                bookInfoArr.push(`PAGES=${pg}`);
+            }
+        } else if (argv.unpaginated) {
+            bookInfoArr.push("PAGES=unpaginated");
+        }
 
         if (argv.hc) {
             bookInfoArr.push("BD=HC.");
