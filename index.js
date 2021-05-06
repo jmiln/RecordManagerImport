@@ -174,6 +174,8 @@ async function init() {
                 if (["y", "yes"].includes(res.toLowerCase())) {
                     bookInfoArr.push(`PUB=${pubName}`);
                 }
+                //TODO If that's not what it should be, ask what should be there, then run the search again...
+                //This means sticking the publisher search stuff above into a function
             }
 
             // Format all the locations and make sure there aren't duplicates
@@ -244,6 +246,9 @@ async function init() {
                 bookInfoArr.push(`ISBN10=${ident.isbn_10[0]}`);
             }
         }
+
+        // TODO See if I can get a list of the author's books to stick in the keywords, as well as grab the subjects they
+        // give and offer them up, mapped against what we actually use
 
         const bookInfoOut = bookInfoArr
             .map(e => e.toLowerCase())

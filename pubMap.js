@@ -6,6 +6,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Ballantine Books",
+            aliases: ["Ballantine"],
+            locations: ["New York"]
+        },
+        {
             name: "Bantam Books",
             aliases: ["Bantam"],
             locations: ["New York"]
@@ -14,6 +19,11 @@ module.exports = {
             name: "Bethany House Publishers",
             aliases: ["Bethany House"],
             locations: ["Minneapolis, MN."]
+        },
+        {
+            name: "Daw Books, inc.",
+            aliases: ["DAW"],
+            locations: ["New York"]
         },
         {
             name: "Del Rey/Ballantine",
@@ -26,14 +36,14 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Daw Books, inc.",
-            aliases: ["DAW"],
-            locations: ["New York"]
-        },
-        {
             name: "Donald M. Grant",
             aliases: ["Grant"],
             locations: ["Hampton Falls, NH."]
+        },
+        {
+            name: "Dutton / Penguin",
+            aliases: ["Dutton"],
+            locations: ["New York"]
         },
         {
             name: "Ecco / Harper-Collins",
@@ -48,6 +58,11 @@ module.exports = {
         {
             name: "G. P. Putnam's Sons",
             aliases: ["Putnam"],
+            locations: ["New York"]
+        },
+        {
+            name: "Grove Press",
+            aliases: ["Grove"],
             locations: ["New York"]
         },
         {
@@ -98,8 +113,14 @@ module.exports = {
             name: [
                 "Little, Brown & Company",
                 "Back Bay/Little, Brown & Co.",
+                "Mulholland Books"
             ],
             aliases: ["Little Brown", "Little, Brown", "Back Bay"],
+            locations: ["New York"]
+        },
+        {
+            name: "Mariner/Houghton Mifflin Co.",
+            aliases: ["Mariner"],
             locations: ["New York"]
         },
         {
@@ -110,6 +131,11 @@ module.exports = {
         {
             name: "New American Library",
             aliases: ["New American Library"],
+            locations: ["New York"]
+        },
+        {
+            name: "Orbit / Hachette",
+            aliases: ["Orbit"],
             locations: ["New York"]
         },
         {
@@ -163,6 +189,15 @@ module.exports = {
             locations: ["Naperville, IL."]
         },
         {
+            name: [
+                "St. Martin's Griffin",
+                "St. Martin's Minotaur",
+                "St. Martin's Press",
+            ],
+            aliases: ["Martin"],
+            locations: ["New York"]
+        },
+        {
             name: "Thomas Dunne Books",
             aliases: ["Thomas Dunne"],
             locations: ["New York"]
@@ -189,6 +224,11 @@ module.exports = {
         {
             name: "William Morrow",
             aliases: ["William Morrow", "Morrow"],
+            locations: ["New York"]
+        },
+        {
+            name: "Workman Publishing",
+            aliases: ["Workman"],
             locations: ["New York"]
         },
         {
