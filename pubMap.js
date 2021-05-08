@@ -115,7 +115,7 @@ module.exports = {
                 "Back Bay/Little, Brown & Co.",
                 "Mulholland Books"
             ],
-            aliases: ["Little Brown", "Little, Brown", "Back Bay"],
+            aliases: ["Little Brown", "Little, Brown", "Back Bay", "Mulholland"],
             locations: ["New York"]
         },
         {
