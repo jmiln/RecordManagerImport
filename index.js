@@ -47,6 +47,7 @@ let pubLocs = [];
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
 const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=data&format=json`;
+processArgv();
 
 let jsonOut = null;
 async function init() {
@@ -91,30 +92,6 @@ async function init() {
             bookInfoArr.push(`TITLE=${title}${subtitle}${extraString}`);
         }
 
-        if (argv.bc) {
-            // It's a book club book, so need to put that in the edition slot
-            bookInfoArr.push("EDITION=BOOK CLUB");
-        } else if (argv.later) {
-            // It's a large print edition, so put that in the edition slot
-            bookInfoArr.push("EDITION=Later Printing");
-        } else if (!argv.bc && argv.first) {
-            // It's a first printing
-            let printing = "1st";
-            if (Number.isInteger(parseInt(argv.first))) {
-                argv.first = parseInt(argv.first);
-                if (argv.first === 1) {
-                    printing = "1st";
-                } else if (argv.first === 2) {
-                    printing = "2nd";
-                } else if (argv.first === 3) {
-                    printing = "3rd";
-                } else if ([4,5,6,7,8,9,10].indexOf(argv.first) > -1) {
-                    printing = `${argv.first}th`;
-                }
-            }
-            bookInfoArr.push(`EDITION=${printing} printing`);
-        }
-
         if (jsonOut.authors && jsonOut.authors.length) {
             let authStr = "";
 
@@ -143,13 +120,13 @@ async function init() {
 
             // TODO Work out how to do handle multiple matches
             const chosenName = await getPub(pubName);
-
             if (chosenName) {
                 // If we found a publisher name for it, stick that in then figure out a location
                 bookInfoArr.push(`PUB=${chosenName}`);
 
                 // Format all the locations and make sure there aren't duplicates
                 const stateRegex = /, [a-z]{2}$/i;
+                const longStateRegex = /, [a-z]{3}$/i;
                 if (pubLocs.length) {
                     pubLocs = pubLocs.map(loc => {
                         loc = loc.toLowerCase();
@@ -159,6 +136,15 @@ async function init() {
                         if (loc.match(stateRegex)) {
                             // Put a period at the end of a state abbreviation if it doesn't have one
                             loc += ".";
+                        } else if (loc.match(longStateRegex)) {
+                            // If it's here, they have the state as a 3 letter abbreviation
+                            const locArr = loc.split(",");
+
+                            // Get the state down to a 2 letter abbreviation and stick a period after it
+                            const formattedState = locArr[locArr.length-1].split("").slice(0,3).join("") + ".";
+
+                            // Then put them all back together
+                            loc = locArr.slice(0, locArr.length-1).concat(formattedState).join(",");
                         }
                         return loc;
                     });
@@ -183,27 +169,6 @@ async function init() {
             bookInfoArr.push(`PUBDATE=${date}`);
         }
 
-        // The page count, but it's not reliably the same number as the numbered pages in the book
-        // if (jsonOut.number_of_pages) {
-        //     console.log(`Pages: ${jsonOut.number_of_pages}`);
-        // }
-        if (argv.pages) {
-            const pg = parseInt(argv.pages, 10);
-            if (Number.isInteger(pg)) {
-                bookInfoArr.push(`PAGES=${pg}`);
-            }
-        } else if (argv.unpaginated) {
-            bookInfoArr.push("PAGES=unpaginated");
-        }
-
-        if (argv.hc) {
-            bookInfoArr.push("BD=HC.");
-        } else if (argv.pb) {
-            bookInfoArr.push("BD=PB.");
-        }
-        if (argv.dj) {
-            bookInfoArr.push("DJ=DJ.");
-        }
 
         if (jsonOut.identifiers) {
             const ident = jsonOut.identifiers;
@@ -219,35 +184,103 @@ async function init() {
             }
         }
 
-        const priceReg = /^\d{1,3}\.*\d{0,2}$/;
-        if (argv.price?.toString().match(priceReg)) {
-            bookInfoArr.push("PRICE=" + argv.price);
-        }
 
         // TODO See if I can get a list of the author's books to stick in the keywords, as well as grab the subjects they
-        // give and offer them up, mapped against what we actually use
+        // give and offer them up, mapped against what we actually use (Apparently not available through this API, so not sure if doable)
 
         if (argv.debug) {
             console.log(bookInfoArr);
             return;
         }
 
-        const bookInfoOut = bookInfoArr
-            .map(e => e.toLowerCase())
-            .join("\n")
-            .replace(/’/g, "'");
-        // Write to a file, then pass that to the ahk
-        await fs.writeFileSync("./bookInfo.txt", bookInfoOut);
-        exec("C:/Users/Other/Desktop/Jeff/Fiddling/nodeAHK/bookOut.ahk", (error, stdout, stderror) => {
-            console.log(error, stdout, stderror);
-        });
+        await saveAndRun(bookInfoArr);
     } else {
-        // TODO Change it so it will offer to input the data you've provided if it cannot find more.
+        // This will offer to input the data you've provided if it cannot find more.
         // This being ISBN, maybe edition, maybe hc/pb/dj, as well as 1 for the quantity, and whatever else is added in the future
-        console.log("No valid book found");
+        console.log("No valid book found.");
+        if (isbn && (isbn.length === 10 || isbn.length === 13)) {
+            bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
+        }
+        const procRes = await askQuestion(`\n\n${bookInfoArr.join("\n")}\n\nGiven the previous info, should I put in what I know?\n`);
+        if (["y", "yes"].includes(procRes.toLowerCase())) {
+            await saveAndRun(bookInfoArr);
+        }
     }
 }
 init();
+
+
+function processArgv() {
+    // Anything to be put in the edition field
+    if (argv.bc) {
+        // It's a book club book, so need to put that in the edition slot
+        bookInfoArr.push("EDITION=BOOK CLUB");
+    } else if (argv.later) {
+        // It's a large print edition, so put that in the edition slot
+        bookInfoArr.push("EDITION=Later Printing");
+    } else if (!argv.bc && argv.first) {
+        // It's a first printing
+        let printing = "1st";
+        if (Number.isInteger(parseInt(argv.first))) {
+            argv.first = parseInt(argv.first);
+            if (argv.first === 1) {
+                printing = "1st";
+            } else if (argv.first === 2) {
+                printing = "2nd";
+            } else if (argv.first === 3) {
+                printing = "3rd";
+            } else if ([4,5,6,7,8,9,10].indexOf(argv.first) > -1) {
+                printing = `${argv.first}th`;
+            }
+            // Anything past this (past 5th normally) should be later printing
+        }
+        bookInfoArr.push(`EDITION=${printing} printing`);
+    }
+
+    // If the page count orlack thereof is given
+    if (argv.pages) {
+        const pg = parseInt(argv.pages, 10);
+        if (Number.isInteger(pg)) {
+            bookInfoArr.push(`PAGES=${pg}`);
+        }
+    } else if (argv.unpaginated) {
+        bookInfoArr.push("PAGES=unpaginated");
+    }
+
+    // Set for hardcover, paperback, or spiral
+    if (argv.hc) {
+        bookInfoArr.push("BD=HC.");
+    } else if (argv.pb) {
+        bookInfoArr.push("BD=PB.");
+    } else if (argv.sp) {
+        bookInfoArr.push("BD=SPIRAL.");
+    }
+
+    // If it's got a DJ
+    if (argv.dj) {
+        bookInfoArr.push("DJ=DJ.");
+    }
+
+    // If the price is given
+    const priceReg = /^\d{1,3}\.*\d{0,2}$/;
+    if (argv.price?.toString().match(priceReg)) {
+        bookInfoArr.push("PRICE=" + argv.price);
+    }
+
+    return;
+}
+
+async function saveAndRun(infoArr) {
+    const bookInfoOut = infoArr
+        .map(e => e.toLowerCase())
+        .join("\n")
+        .replace(/’/g, "'");
+    // Write to a file, then pass that to the ahk
+    await fs.writeFileSync("./bookInfo.txt", bookInfoOut);
+    exec("C:/Users/Other/Desktop/Jeff/Fiddling/nodeAHK/bookOut.ahk", (error, stdout, stderror) => {
+        console.log(error, stdout, stderror);
+    });
+}
 
 async function getPub(pubName) {
     for (const pub of pubMap) {

@@ -218,6 +218,14 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Tyndale House Publishers",
+            aliases: ["Tyndale"],
+            locations: [
+                "Carol Stream, IL.",
+                "Wheaton, IL."
+            ]
+        },
+        {
             name: [
                 "Vintage Books",
                 "Vintage Contemporary",
