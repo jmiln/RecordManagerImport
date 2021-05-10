@@ -188,6 +188,7 @@ async function init() {
         // TODO See if I can get a list of the author's books to stick in the keywords, as well as grab the subjects they
         // give and offer them up, mapped against what we actually use (Apparently not available through this API, so not sure if doable)
 
+        // if I have it set to debug, just return and print out what would go through
         if (argv.debug) {
             console.log(bookInfoArr);
             return;
@@ -201,6 +202,8 @@ async function init() {
         if (isbn && (isbn.length === 10 || isbn.length === 13)) {
             bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
         }
+
+        // Check if the info is correct, and if it should be run through to stick in RM
         const procRes = await askQuestion(`\n\n${bookInfoArr.join("\n")}\n\nGiven the previous info, should I put in what I know?\n`);
         if (["y", "yes"].includes(procRes.toLowerCase())) {
             await saveAndRun(bookInfoArr);
@@ -210,6 +213,7 @@ async function init() {
 init();
 
 
+// Process any flags/ arguments that were used to add extra data
 function processArgv() {
     // Anything to be put in the edition field
     if (argv.bc) {
@@ -270,18 +274,7 @@ function processArgv() {
     return;
 }
 
-async function saveAndRun(infoArr) {
-    const bookInfoOut = infoArr
-        .map(e => e.toLowerCase())
-        .join("\n")
-        .replace(/’/g, "'");
-    // Write to a file, then pass that to the ahk
-    await fs.writeFileSync("./bookInfo.txt", bookInfoOut);
-    exec("C:/Users/Other/Desktop/Jeff/Fiddling/nodeAHK/bookOut.ahk", (error, stdout, stderror) => {
-        console.log(error, stdout, stderror);
-    });
-}
-
+// Go through and see if there is a matching publisher available
 async function getPub(pubName) {
     for (const pub of pubMap) {
         if (pub.aliases.filter(a => pubName.toLowerCase().includes(a.toLowerCase())).length) {
@@ -317,6 +310,7 @@ async function getPub(pubName) {
     return pubName;
 }
 
+// Ask a question/ prompt and wait for the reply
 async function askQuestion(query) {
     const rl = readline.createInterface({
         input: process.stdin,
@@ -329,6 +323,21 @@ async function askQuestion(query) {
     }));
 }
 
+// Run through all the data to make it all lowercase so it can be put in with caps lock on, then
+// save it to the file and run the ahk script to actually put it into Record Manager
+async function saveAndRun(infoArr) {
+    const bookInfoOut = infoArr
+        .map(e => e.toLowerCase())
+        .join("\n")
+        .replace(/’/g, "'");
+    // Write to a file, then pass that to the ahk
+    await fs.writeFileSync("./bookInfo.txt", bookInfoOut);
+    exec("C:/Users/Other/Desktop/Jeff/Fiddling/nodeAHK/bookOut.ahk", (error, stdout, stderror) => {
+        console.log(error, stdout, stderror);
+    });
+}
+
+// Send out the help strings, to show what's available for the user
 function sendHelp() {
     const helpArr = [
         "Usage: node index.js <isbn> [options]",
