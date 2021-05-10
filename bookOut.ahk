@@ -162,8 +162,14 @@ if (strlen(ISBN13)) {
     goDown(2)
 }
 
+; Set the price in
+goDown(6)
+if (strLen(PRICE)) {
+    sendRaw, %PRICE%
+}
+
 ; Go down to put it as quantity 1
-goDown(7)
+goDown(1)
 send, 1
 
 ; Go back up to the first keyword field for when I need start with thos

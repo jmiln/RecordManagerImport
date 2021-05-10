@@ -129,6 +129,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Multnomah Publishers",
+            aliases: ["Multnomah"],
+            locations: ["Sisters, OR."]
+        },
+        {
             name: "New American Library",
             aliases: ["New American Library"],
             locations: ["New York"]
@@ -159,7 +164,7 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Revell / baker Publishing",
+            name: "Revell / Baker Publishing",
             aliases: ["Revell"],
             locations: ["Grand Rapids, MI."]
         },

@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
-const { inspect } = require("util");
+const { inspect } = require("util");  // eslint-disable-line no-unused-vars
 const { exec } = require("child_process");
 
 const readline = require("readline");
@@ -28,6 +28,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         u: "unpaginated",
 
         // Other
+        pr: "price",
         debug: "debug",
         help: "help",
     }
@@ -166,7 +167,7 @@ async function init() {
 
                 // If there is more than one location, let em choose
                 if (pubLocs.length > 1) {
-                    const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${inspect(loc)}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
+                    const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
                     if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
                         bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
                     }
@@ -216,6 +217,11 @@ async function init() {
             } else if (ident.isbn_10?.length) {
                 bookInfoArr.push(`ISBN10=${ident.isbn_10[0]}`);
             }
+        }
+
+        const priceReg = /^\d{1,3}\.*\d{0,2}$/;
+        if (argv.price?.toString().match(priceReg)) {
+            bookInfoArr.push("PRICE=" + argv.price);
         }
 
         // TODO See if I can get a list of the author's books to stick in the keywords, as well as grab the subjects they
@@ -311,6 +317,7 @@ function sendHelp() {
         "  --pg <pages>         Set the page count",
         "  -u, --unpaginated    Mark this as unpaginated",
         "",
+        "  --pr <price>         Set the price",
         "  --debug              Tell it to log the info instead of sending it to RM",
         "  --help               Print this usage info"
     ];
