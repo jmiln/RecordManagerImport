@@ -38,6 +38,10 @@ if (argv.help) {
     return sendHelp();
 }
 
+if (argv.debug) {
+    console.log(`ArgV: \n${inspect(argv)}\n\n`);
+}
+
 const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
 const bookInfoArr = [];
@@ -245,7 +249,7 @@ function processArgv() {
     if (argv.pages) {
         const pg = parseInt(argv.pages, 10);
         if (Number.isInteger(pg)) {
-            bookInfoArr.push(`PAGES=${pg}`);
+            bookInfoArr.push(`PAGES=${pg}${argv.pages.endsWith("+") ? "+" : ""}`);
         }
     } else if (argv.unpaginated) {
         bookInfoArr.push("PAGES=unpaginated");
