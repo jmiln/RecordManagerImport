@@ -29,6 +29,7 @@ const argv = require("minimist")(process.argv.slice(2), {
 
         // Other
         pr: "price",
+        pub: "publisher",
         debug: "debug",
         help: "help",
     }
@@ -46,12 +47,12 @@ const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
 const bookInfoArr = [];
 let pubLocs = [];
+processArgv();
 
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
 const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=data&format=json`;
-processArgv();
 
 let jsonOut = null;
 async function init() {
@@ -116,7 +117,20 @@ async function init() {
             bookInfoArr.push(`AUTHOR=${authStr}`);
         }
 
-        if (jsonOut.publishers?.length) {
+        if (argv.publisher) {
+            const chosenName = await getPub(argv.publisher);
+            if (chosenName) {
+                bookInfoArr.push(`PUB=${chosenName}`);
+            }
+            if (pubLocs.length > 1) {
+                const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
+                if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
+                    bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
+                }
+            } else if (pubLocs.length === 1) {
+                bookInfoArr.push(`LOC=${pubLocs[0]}`);
+            }
+        } else if (jsonOut.publishers?.length && !argv.publisher) {
             const pubName = jsonOut.publishers[0].name;
             if (jsonOut.publish_places?.length) {
                 pubLocs.push(...jsonOut.publish_places.map(loc => loc.name));
@@ -165,7 +179,6 @@ async function init() {
                     bookInfoArr.push(`LOC=${pubLocs[0]}`);
                 }
             }
-
         }
 
         if (jsonOut.publish_date) {
@@ -207,8 +220,28 @@ async function init() {
             bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
         }
 
+        if (argv.publisher) {
+            const chosenName = await getPub(argv.publisher);
+            if (chosenName) {
+                bookInfoArr.push(`PUB=${chosenName}`);
+            }
+            if (pubLocs.length > 1) {
+                const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
+                if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
+                    bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
+                }
+            } else if (pubLocs.length === 1) {
+                bookInfoArr.push(`LOC=${pubLocs[0]}`);
+            }
+        }
+
+        if (argv.debug) {
+            console.log(bookInfoArr);
+            return;
+        }
+
         // Check if the info is correct, and if it should be run through to stick in RM
-        const procRes = await askQuestion(`\n\n${bookInfoArr.join("\n")}\n\nGiven the previous info, should I put in what I know?\n`);
+        const procRes = await askQuestion(`\n\n${bookInfoArr.join("\n")}\n\nGiven the previous info, should I put in what I know? (Y)es / (N)o\n`);
         if (["y", "yes"].includes(procRes.toLowerCase())) {
             await saveAndRun(bookInfoArr);
         }
@@ -249,7 +282,7 @@ function processArgv() {
     if (argv.pages) {
         const pg = parseInt(argv.pages, 10);
         if (Number.isInteger(pg)) {
-            bookInfoArr.push(`PAGES=${pg}${argv.pages.endsWith("+") ? "+" : ""}`);
+            bookInfoArr.push(`PAGES=${pg}${argv.pages.toString().endsWith("+") ? "+" : ""}`);
         }
     } else if (argv.unpaginated) {
         bookInfoArr.push("PAGES=unpaginated");
@@ -297,6 +330,7 @@ async function getPub(pubName) {
             } else if (pub.locations.length > 1) {
                 pubLocs.push(...pub.locations);
             }
+            break;
         }
     }
 
