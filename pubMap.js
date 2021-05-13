@@ -16,6 +16,14 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: [
+                "Berkley Books",
+                "Berkley Prime Crime"
+            ],
+            aliases: ["Berkley"],
+            locations: ["New York"]
+        },
+        {
             name: "Bethany House Publishers",
             aliases: ["Bethany House"],
             locations: ["Minneapolis, MN."]
@@ -227,7 +235,16 @@ module.exports = {
         },
         {
             name: [
+                "Viking",
+                "Viking / Penguin",
+            ],
+            aliases: ["Viking"],
+            locations: ["New York"]
+        },
+        {
+            name: [
                 "Vintage Books",
+                "Vintage Classics",
                 "Vintage Contemporary",
                 "Vintage International"
             ],
