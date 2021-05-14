@@ -6,6 +6,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Algonquin Books",
+            aliases: ["Algonquin"],
+            locations: ["Chapel Hill, NC."]
+        },
+        {
             name: "Ballantine Books",
             aliases: ["Ballantine"],
             locations: ["New York"]
@@ -190,6 +195,14 @@ module.exports = {
             name: "Scout Press / S&S",
             aliases: ["Scout"],
             locations: ["New York"]
+        },
+        {
+            name: [
+                "Silhouette Publishers",
+                "Harlequin Books"
+            ],
+            aliases: ["Silhouette", "Harlequin"],
+            locations: ["New York", "Toronto, Ontario"]
         },
         {
             name: "Simon & Schuster",
