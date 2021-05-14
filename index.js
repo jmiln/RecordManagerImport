@@ -35,8 +35,34 @@ const argv = require("minimist")(process.argv.slice(2), {
     }
 });
 
+const helpArr = [
+    "Usage: node index.js <isbn> [options]",
+    "",
+    "Options:",
+    "  -i, --isbn <isbn>    Use this alternative ISBN",
+    "  -d, --dj             Mark that this book has a dust jacket",
+    "",
+    "  -h, --hc             Mark this as a hardcover book",
+    "  -p, --pb             Mark this as a paperback book",
+    "  --sp                 Mark this as a spiral bound book",
+    "",
+    "  --bc                 Mark this as a book club book",
+    "  --lp                 Mark this as a large print book",
+    "",
+    "  -f, --first [prt #]  Mark this as a 1st - 9th printing",
+    "  -l, --later          Mark this as a later printing",
+    "",
+    "  --pg <pages>         Set the page count",
+    "  -u, --unpaginated    Mark this as unpaginated",
+    "",
+    "  --pr <price>         Set the price",
+    "  --pub <publisher>    Specify a publisher to try and match/ use",
+    "  --debug              Tell it to log the info instead of sending it to RM",
+    "  --help               Print this usage info"
+];
+
 if (argv.help) {
-    return sendHelp();
+    return console.log(helpArr.join("\n"));
 }
 
 if (argv.debug) {
@@ -53,6 +79,16 @@ processArgv();
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
 const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=data&format=json`;
+
+// TODO-list
+//
+// - Work out keywords to automate part of the conditions,
+//     - HC & DJ means start with vg/vg, pb means vg in wraps, etc
+//
+// - Work out filling in keywords "--cat mys" or something to default the
+//   normal mystery keywords and so on?
+//
+// - Make it so if you select a pub from the list, it doesn't ask again if you wanna use it
 
 let jsonOut = null;
 async function init() {
@@ -375,34 +411,6 @@ async function saveAndRun(infoArr) {
     });
 }
 
-// Send out the help strings, to show what's available for the user
-function sendHelp() {
-    const helpArr = [
-        "Usage: node index.js <isbn> [options]",
-        "",
-        "Options:",
-        "  -i, --isbn <isbn>    Use this alternative ISBN",
-        "  -d, --dj             Mark that this book has a dust jacket",
-        "",
-        "  -h, --hc             Mark this as a hardcover book",
-        "  -p, --pb             Mark this as a paperback book",
-        "  --sp                 Mark this as a spiral bound book",
-        "",
-        "  --bc                 Mark this as a book club book",
-        "  --lp                 Mark this as a large print book",
-        "",
-        "  -f, --first [prt #]  Mark this as a 1st - 9th printing",
-        "  -l, --later          Mark this as a later printing",
-        "",
-        "  --pg <pages>         Set the page count",
-        "  -u, --unpaginated    Mark this as unpaginated",
-        "",
-        "  --pr <price>         Set the price",
-        "  --debug              Tell it to log the info instead of sending it to RM",
-        "  --help               Print this usage info"
-    ];
-    return console.log(helpArr.join("\n"));
-}
 
 
 
