@@ -24,14 +24,15 @@ const argv = require("minimist")(process.argv.slice(2), {
         l: "later",   // Later Printing
 
         // Pages
-        pg: "pages",
-        u: "unpaginated",
+        pg: "pages",        // Specify the page count
+        u: "unpaginated",   // Set the pages as unpaginated
 
         // Other
-        pr: "price",
-        pub: "publisher",
-        debug: "debug",
-        help: "help",
+        n: "novel",         // Tack `: a novel` onto the title
+        pr: "price",        // Set the price
+        pub: "publisher",   // Give it a publisher to prioritize looking for
+        debug: "debug",     // Don't actually run the ahk script, just print the output
+        help: "help",       // Print out the help info, don't do anything else
     }
 });
 
@@ -55,6 +56,7 @@ const helpArr = [
     "  --pg <pages>         Set the page count",
     "  -u, --unpaginated    Mark this as unpaginated",
     "",
+    "  -n, --novel          Specify to tack `: a novel` onto the end if not there",
     "  --pr <price>         Set the price",
     "  --pub <publisher>    Specify a publisher to try and match/ use",
     "  --debug              Tell it to log the info instead of sending it to RM",
@@ -118,7 +120,7 @@ async function init() {
                 .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
                 .replace(/\s\s+/g, " ");        // Replace multiple spaces with singles
 
-            const subtitle = jsonOut.subtitle ? ": " + jsonOut.subtitle : "";
+            let subtitle = jsonOut.subtitle ? ": " + jsonOut.subtitle : "";
             const bcString = " - book club edition";
             const lpString = " - large print edition";
             const bclpString = " - large print book club edition";
@@ -129,6 +131,18 @@ async function init() {
                 extraString = bcString;
             } else if (argv.lp) {
                 extraString = lpString;
+            }
+            if (title.indexOf("a novel")) {
+                title.replace(/a novel/i, "");
+                if (!subtitle?.length) {
+                    subtitle = ": a novel";
+                }
+            } else if (argv.novel) {
+                if (!subtitle?.length) {
+                    subtitle = ": a novel";
+                } else {
+                    subtitle += " - a novel";
+                }
             }
             bookInfoArr.push(`TITLE=${title}${subtitle}${extraString}`);
         }
