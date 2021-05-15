@@ -11,6 +11,14 @@ module.exports = {
             locations: ["Chapel Hill, NC."]
         },
         {
+            name: [
+                "Anchor / Doubleday",
+                "Anchor / Random House"
+            ],
+            aliases: ["Anchor"],
+            locations: ["New York"]
+        },
+        {
             name: "Ballantine Books",
             aliases: ["Ballantine"],
             locations: ["New York"]
@@ -64,6 +72,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Flatiron Books",
+            aliases: ["Flatiron"],
+            locations: ["New York"]
+        },
+        {
             name: "Forge/Tom Doherty Associates",
             aliases: ["Forge"],
             locations: ["New York"]
@@ -71,6 +84,11 @@ module.exports = {
         {
             name: "G. P. Putnam's Sons",
             aliases: ["Putnam"],
+            locations: ["New York"]
+        },
+        {
+            name: "Gallery Books / S&S",
+            aliases: ["Gallery"],
             locations: ["New York"]
         },
         {
@@ -169,6 +187,11 @@ module.exports = {
         {
             name: "Penguin Books",
             aliases: ["Penguin"],
+            locations: ["New York"]
+        },
+        {
+            name: "Pantheon Books",
+            aliases: ["Pantheon"],
             locations: ["New York"]
         },
         {
