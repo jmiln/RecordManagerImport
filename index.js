@@ -106,7 +106,8 @@ if (argv.debug) {
 
 const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
-const pubLocs = [];
+let pubOut = null;
+let pubLocs = [];
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
@@ -116,8 +117,6 @@ let jsonOut = null;
 async function init() {
     const oldArgs = await readOld();
     const bookInfoArr = processArgv(oldArgs);
-    console.log("Old: ");
-    console.log(oldArgs);
 
     await fetch(API_URL)
         .then((res) => res.json())
@@ -193,7 +192,11 @@ async function init() {
         }
 
         if (argv.publisher) {
-            const {pub: chosenName, locs: pubLocs} = await getPub(argv.publisher);
+            await getPub(argv.publisher);
+            let chosenName;
+            if (pubOut) {
+                chosenName = pubOut;
+            }
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
             }
@@ -207,12 +210,17 @@ async function init() {
             }
         } else if (jsonOut.publishers?.length && !argv.publisher) {
             const pubName = jsonOut.publishers[0].name;
+            await getPub(pubName);
+
+            let chosenName;
+            if (pubOut) {
+                chosenName = pubOut;
+            }
+
             if (jsonOut.publish_places?.length) {
                 pubLocs.push(...jsonOut.publish_places.map(loc => loc.name));
             }
 
-            let {pub: chosenName, locs: pubLocs} = await getPub(pubName);
-            chosenName = chosenName + "";  // This is just to make the linter shut up
             if (chosenName) {
                 // If we found a publisher name for it, stick that in then figure out a location
                 bookInfoArr.push(`PUB=${chosenName}`);
@@ -417,6 +425,19 @@ function processArgv(oldArgs) {
         }
     }
 
+    // Work out some default conditions
+    if (argv.pb) {
+        // Default condition to start with for pb books
+        outArr.push("COND=VG IN WRAPS.  PAGES CLEAN & TIGHT.");
+    } else if (argv.hc && argv.dj) {
+        // Default condition to start with for hc books with a dj
+        outArr.push("COND=VG/VG   PAGES CLEAN & TIGHT.");
+    } else if (argv.hc) {
+        // Default condition to start with for hc books without a dj
+        //  - This will be vg in pictorial boards, cloth, etc
+        outArr.push("COND=VG IN X BOARDS.  PAGES CLEAN & TIGHT.");
+    }
+
     return outArr;
 }
 
@@ -427,22 +448,25 @@ async function getPub(pubName) {
             if (Array.isArray(pub.name)) {
                 const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n`);
                 if (pub.name[pubRes]) {
-                    pubName = pub.name[pubRes];
+                    pubOut = pub.name[pubRes];
+                    pubLocs.push(...pub.locations);
                 }
+                return;
             } else {
-                const res = await askQuestion(`I found the publisher: ${pubName} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
+                const res = await askQuestion(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
                 if (["y", "yes"].includes(res.toLowerCase())) {
-                    return {pub: pub.name, locs: pub.locations};
+                    pubOut = pub.name;
+                    pubLocs.push(pub.locations);
+                    return;
                 } else if (["c", "cancel"].includes(res.toLowerCase())) {
-                    return {pub: null, locs: null};
+                    return;
                 } else {
                     // If that's not what it should be, ask what should be there, then run the search again...
                     // This means sticking the publisher search stuff above into a function
                     const newPub = await askQuestion("What publisher should I search for?\n");
-                    pubName = await getPub(newPub);
+                    return await getPub(newPub);
                 }
             }
-            return {pub: pubName, locs: pub.locations};
         }
     }
 

@@ -96,12 +96,20 @@ if (strLen(TITLE)) {
     sendRaw, %TITLE%
 }
 
-; 5 more from title to publisher
+; 1-2 to the condition
 if (strLen(TITLE) > 64) {
-    goDown(4)
+    goDown(1)
 } else {
-    goDown(5)
+    goDown(2)
 }
+
+if (strLen(COND)) {
+    sendRaw, %COND%
+}
+
+; Then 4 down to the publisher
+goDown(4)
+
 
 ; If there's a publisher
 if (strLen(PUB)) {
