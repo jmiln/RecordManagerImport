@@ -405,6 +405,7 @@ async function getPub(pubName) {
                 const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n`);
                 if (pub.name[pubRes]) {
                     pubName = pub.name[pubRes];
+
                 }
             } else {
                 pubName = pub.name;
@@ -416,7 +417,7 @@ async function getPub(pubName) {
             } else if (pub.locations.length > 1) {
                 pubLocs.push(...pub.locations);
             }
-            break;
+            return pubName;
         }
     }
 
