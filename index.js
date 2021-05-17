@@ -34,6 +34,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         n: "novel",         // Tack `: a novel` onto the title
         pr: "price",        // Set the price
         pub: "publisher",   // Give it a publisher to prioritize looking for
+        rep: "repeat",      // Try to repeat given args (kw, pr, pg, etc...)
     }
 });
 
@@ -106,7 +107,6 @@ if (argv.debug) {
 const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
 let pubLocs = [];
-const bookInfoArr = processArgv();
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
@@ -114,6 +114,11 @@ const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=da
 
 let jsonOut = null;
 async function init() {
+    const oldArgs = await readOld();
+    const bookInfoArr = processArgv(oldArgs);
+    console.log("Old: ");
+    console.log(oldArgs);
+
     await fetch(API_URL)
         .then((res) => res.json())
         .then((json) => jsonOut = json)
@@ -321,8 +326,26 @@ init();
 
 
 // Process any flags/ arguments that were used to add extra data
-function processArgv() {
+function processArgv(oldArgs) {
     const outArr = [];
+
+    if (argv.repeat) {
+        const reps = argv.repeat.split(",");
+        for (const rep of reps.map(r => r.toLowerCase())) {
+            if (rep === "kw" && oldArgs.kw) {
+                argv.keywords = oldArgs.kw;
+            } else if (rep === "pr" && oldArgs.pr) {
+                argv.price = oldArgs.pr;
+            } else if (rep === "pg" && oldArgs.pg) {
+                argv.pages = oldArgs.pg;
+            } else if (rep === "pub" && oldArgs.pub) {
+                argv.publisher = oldArgs.pub;
+            }
+        }
+    }
+
+
+
     // Anything to be put in the edition field
     if (argv.bc) {
         // It's a book club book, so need to put that in the edition slot
@@ -408,7 +431,17 @@ async function getPub(pubName) {
 
                 }
             } else {
-                pubName = pub.name;
+                const res = await askQuestion(`I found the publisher: ${pubName} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
+                if (["y", "yes"].includes(res.toLowerCase())) {
+                    return pubName;
+                } else if (["c", "cancel"].includes(res.toLowerCase())) {
+                    return null;
+                } else {
+                    // If that's not what it should be, ask what should be there, then run the search again...
+                    // This means sticking the publisher search stuff above into a function
+                    const newPub = await askQuestion("What publisher should I search for?\n");
+                    pubName = await getPub(newPub);
+                }
             }
 
             // Chose a location out of the possible options
@@ -421,18 +454,13 @@ async function getPub(pubName) {
         }
     }
 
-    const res = await askQuestion(`I found the publisher: ${pubName} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
-    if (["y", "yes"].includes(res.toLowerCase())) {
-        return pubName;
-    } else if (["c", "cancel"].includes(res.toLowerCase())) {
-        return null;
-    } else {
-        // If that's not what it should be, ask what should be there, then run the search again...
-        // This means sticking the publisher search stuff above into a function
+    const noRes = await askQuestion(`I did not find any matches for ${pubName}, would you like to try again? (Y)es / (N)o\n`);
+    if (["y", "yes"].includes(noRes.toLowerCase())) {
         const newPub = await askQuestion("What publisher should I search for?\n");
         pubName = await getPub(newPub);
+    } else {
+        return null;
     }
-    return pubName;
 }
 
 // Ask a question/ prompt and wait for the reply
@@ -463,6 +491,52 @@ async function saveAndRun(infoArr) {
 }
 
 
+async function readOld() {
+    const bookInfoIn = await fs.readFileSync("./bookInfo.txt", "utf-8");
+    const outObj = {};
+    const bookInfo = bookInfoIn.split("\n");
+
+    const kw = [];
+
+    for (const row of bookInfo) {
+        const [key, value] = row.split("=");
+        if (key.startsWith("kw")) {
+            const kwKey = Object.keys(kwMap).find(k => kwMap[k].toLowerCase() === value);
+            if (kwKey) {
+                kw.push(kwKey);
+            }
+        } else if (key === "pages") {
+            outObj.pages = value;
+            outObj.pg = value;
+        } else if (key === "edition") {
+            if (value === "later printing") {
+                outObj.lp = true;
+            } else if (value === "book club") {
+                outObj.bc = true;
+            } else if (value.match(/\d{1,2}[a-z]{2} printing/)) {
+                const prt = parseInt(value.substr(0,1));
+                if (prt === 1) {
+                    outObj.f = true;
+                } else {
+                    outObj.f = prt;
+                }
+            }
+        } else if (key === "pub") {
+            outObj.publisher = value;
+            outObj.pub = value;
+        } else if (key === "price") {
+            outObj.price = value;
+            outObj.pr = value;
+        }
+    }
+
+    if (kw.length) {
+        outObj.keywords = kw.join(",");
+        outObj.kw = kw.join(",");
+    }
+
+    return outObj;
+}
 
 
 
