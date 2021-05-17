@@ -106,7 +106,7 @@ if (argv.debug) {
 
 const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
-let pubLocs = [];
+const pubLocs = [];
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
@@ -193,7 +193,7 @@ async function init() {
         }
 
         if (argv.publisher) {
-            const chosenName = await getPub(argv.publisher);
+            const {pub: chosenName, locs: pubLocs} = await getPub(argv.publisher);
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
             }
@@ -211,8 +211,8 @@ async function init() {
                 pubLocs.push(...jsonOut.publish_places.map(loc => loc.name));
             }
 
-            // TODO Work out how to do handle multiple matches
-            const chosenName = await getPub(pubName);
+            let {pub: chosenName, locs: pubLocs} = await getPub(pubName);
+            chosenName = chosenName + "";  // This is just to make the linter shut up
             if (chosenName) {
                 // If we found a publisher name for it, stick that in then figure out a location
                 bookInfoArr.push(`PUB=${chosenName}`);
@@ -428,14 +428,13 @@ async function getPub(pubName) {
                 const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n`);
                 if (pub.name[pubRes]) {
                     pubName = pub.name[pubRes];
-
                 }
             } else {
                 const res = await askQuestion(`I found the publisher: ${pubName} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
                 if (["y", "yes"].includes(res.toLowerCase())) {
-                    return pubName;
+                    return {pub: pub.name, locs: pub.locations};
                 } else if (["c", "cancel"].includes(res.toLowerCase())) {
-                    return null;
+                    return {pub: null, locs: null};
                 } else {
                     // If that's not what it should be, ask what should be there, then run the search again...
                     // This means sticking the publisher search stuff above into a function
@@ -443,14 +442,7 @@ async function getPub(pubName) {
                     pubName = await getPub(newPub);
                 }
             }
-
-            // Chose a location out of the possible options
-            if (pub.locations.length === 1) {
-                pubLocs.push(pub.locations[0]);
-            } else if (pub.locations.length > 1) {
-                pubLocs.push(...pub.locations);
-            }
-            return pubName;
+            return {pub: pubName, locs: pub.locations};
         }
     }
 
@@ -459,7 +451,7 @@ async function getPub(pubName) {
         const newPub = await askQuestion("What publisher should I search for?\n");
         pubName = await getPub(newPub);
     } else {
-        return null;
+        return {pub: null, locs: null};
     }
 }
 
