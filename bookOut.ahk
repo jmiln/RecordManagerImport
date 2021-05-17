@@ -151,13 +151,36 @@ goUp(9)
 
 send, {pgdn}
 
-; 5 to the isbn10 slot, 7 to the isbn13
+; If there are keywords included, go ahead and stick em in
+if(strlen(KW1)) {
+    sendRaw, %KW1%
+}
+goDown(1)
+if(strlen(KW2)) {
+    sendRaw, %KW2%
+}
 
+goDown(1)
+if(strlen(KW3)) {
+    sendRaw, %KW3%
+}
+
+goDown(1)
+if(strlen(KW4)) {
+    sendRaw, %KW4%
+}
+goDown(1)
+if(strlen(KW5)) {
+    sendRaw, %KW5%
+}
+goDown(1)
+
+
+; 5 to the isbn10 slot, 7 to the isbn13
 if (strlen(ISBN13)) {
-    goDown(7)
+    goDown(2)
     sendRaw, %ISBN13%
 } else if (strLen(ISBN10)) {
-    goDown(5)
     sendRaw, %ISBN10%
     goDown(2)
 }

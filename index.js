@@ -28,11 +28,12 @@ const argv = require("minimist")(process.argv.slice(2), {
         u: "unpaginated",   // Set the pages as unpaginated
 
         // Other
+        kw: "keywords",     // Stick some keywords into the keyword slots
+        debug: "debug",     // Don't actually run the ahk script, just print the output
+        help: "help",       // Print out the help info, don't do anything else
         n: "novel",         // Tack `: a novel` onto the title
         pr: "price",        // Set the price
         pub: "publisher",   // Give it a publisher to prioritize looking for
-        debug: "debug",     // Don't actually run the ahk script, just print the output
-        help: "help",       // Print out the help info, don't do anything else
     }
 });
 
@@ -43,25 +44,56 @@ const helpArr = [
     "  -i, --isbn <isbn>    Use this alternative ISBN",
     "  -d, --dj             Mark that this book has a dust jacket",
     "",
+    "Bindings",
     "  -h, --hc             Mark this as a hardcover book",
     "  -p, --pb             Mark this as a paperback book",
     "  --sp                 Mark this as a spiral bound book",
     "",
+    "Special versions",
     "  --bc                 Mark this as a book club book",
     "  --lp                 Mark this as a large print book",
     "",
+    "Printing / Edition",
     "  -f, --first [prt #]  Mark this as a 1st - 9th printing",
     "  -l, --later          Mark this as a later printing",
     "",
+    "Pages",
     "  --pg <pages>         Set the page count",
     "  -u, --unpaginated    Mark this as unpaginated",
     "",
-    "  -n, --novel          Specify to tack `: a novel` onto the end if not there",
+    "Other",
+    "  --debug              Tell it to log the info instead of sending it to RM",
+    "  --help               Print this usage info",
+    "  -kw, --keywords      Put in some of the keywords (Comma separated only)",
     "  --pr <price>         Set the price",
     "  --pub <publisher>    Specify a publisher to try and match/ use",
-    "  --debug              Tell it to log the info instead of sending it to RM",
-    "  --help               Print this usage info"
+    "  -n, --novel          Specify to tack `: a novel` onto the end if not there",
 ];
+
+
+// Mapping the keywords so they're usable
+const kwMap = {
+    chi: "Children's Books",
+    cri: "Crime Fiction",
+    fan: "Fantasy",
+    fic: "Fiction",
+    hfi: "Historical Fiction",
+    hor: "Horror",
+    juv: "Juvenile",
+    lit: "Literature",
+    mys: "Mystery & Suspense",
+    pic: "Picture Books",
+    poe: "Poetry",
+    rom: "Romance",
+    sci: "Science",
+    sfi: "Science Fiction",
+    tee: "Teen Fiction",
+    thr: "Thrillers",
+    xfi: "Christian Fiction",
+    wes: "Westerns",
+    ww2: "World War II",
+    ya:  "Young Adult"
+};
 
 if (argv.help) {
     return console.log(helpArr.join("\n"));
@@ -73,10 +105,8 @@ if (argv.debug) {
 
 const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
-const bookInfoArr = [];
 let pubLocs = [];
-processArgv();
-
+const bookInfoArr = processArgv();
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
@@ -292,13 +322,14 @@ init();
 
 // Process any flags/ arguments that were used to add extra data
 function processArgv() {
+    const outArr = [];
     // Anything to be put in the edition field
     if (argv.bc) {
         // It's a book club book, so need to put that in the edition slot
-        bookInfoArr.push("EDITION=BOOK CLUB");
+        outArr.push("EDITION=BOOK CLUB");
     } else if (argv.later) {
         // It's a large print edition, so put that in the edition slot
-        bookInfoArr.push("EDITION=Later Printing");
+        outArr.push("EDITION=Later Printing");
     } else if (!argv.bc && argv.first) {
         // It's a first printing
         let printing = "1st";
@@ -315,40 +346,55 @@ function processArgv() {
             }
             // Anything past this (past 5th normally) should be later printing
         }
-        bookInfoArr.push(`EDITION=${printing} printing`);
+        outArr.push(`EDITION=${printing} printing`);
     }
 
     // If the page count orlack thereof is given
     if (argv.pages) {
         const pg = parseInt(argv.pages, 10);
         if (Number.isInteger(pg)) {
-            bookInfoArr.push(`PAGES=${pg}${argv.pages.toString().endsWith("+") ? "+" : ""}`);
+            outArr.push(`PAGES=${pg}${argv.pages.toString().endsWith("+") ? "+" : ""}`);
         }
     } else if (argv.unpaginated) {
-        bookInfoArr.push("PAGES=unpaginated");
+        outArr.push("PAGES=unpaginated");
     }
 
     // Set for hardcover, paperback, or spiral
     if (argv.hc) {
-        bookInfoArr.push("BD=HC.");
+        outArr.push("BD=HC.");
     } else if (argv.pb) {
-        bookInfoArr.push("BD=PB.");
+        outArr.push("BD=PB.");
     } else if (argv.sp) {
-        bookInfoArr.push("BD=SPIRAL.");
+        outArr.push("BD=SPIRAL.");
     }
 
     // If it's got a DJ
     if (argv.dj) {
-        bookInfoArr.push("DJ=DJ.");
+        outArr.push("DJ=DJ.");
     }
 
     // If the price is given
     const priceReg = /^\d{1,3}\.*\d{0,2}$/;
     if (argv.price?.toString().match(priceReg)) {
-        bookInfoArr.push("PRICE=" + argv.price);
+        outArr.push("PRICE=" + argv.price);
     }
 
-    return;
+    if (argv.keywords) {
+        const keywords = argv.keywords.split(",");
+        if (keywords.lengh > 5) return console.log("You can only have 5 keywords MAX.");
+
+        let ix = 1;
+        for (const kw of keywords.map(k => k.toLowerCase())) {
+            // Check against a list of em somewhere up top
+            // If found, stick it in, else continue, maybe log it?
+            if (Object.keys(kwMap).indexOf(kw) > -1) {
+                outArr.push(`KW${ix}=${kwMap[kw]}`);
+                ix += 1;
+            }
+        }
+    }
+
+    return outArr;
 }
 
 // Go through and see if there is a matching publisher available
