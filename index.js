@@ -76,12 +76,15 @@ const helpArr = [
 // Mapping the keywords so they're usable
 const kwMap = {
     chi: "Children's Books",
-    cri: "Crime Fiction",
+    cfi: "Crime Fiction",
+    coo: "Cooking",
     fan: "Fantasy",
     fic: "Fiction",
     hfi: "Historical Fiction",
     hor: "Horror",
     juv: "Juvenile",
+    jfa: "Juvenile Fantasy",
+    jfi: "Juvenile Fiction",
     lit: "Literature",
     mys: "Mystery & Suspense",
     pic: "Picture Books",
@@ -89,12 +92,12 @@ const kwMap = {
     rom: "Romance",
     sci: "Science",
     sfi: "Science Fiction",
-    tee: "Teen Fiction",
+    tfi: "Teen Fiction",
     thr: "Thrillers",
-    xfi: "Christian Fiction",
     wes: "Westerns",
     ww2: "World War II",
-    ya:  "Young Adult"
+    xfi: "Christian Fiction",
+    ya:  "Young Adult",
 };
 
 if (argv.help) {
