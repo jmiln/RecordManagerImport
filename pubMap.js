@@ -19,6 +19,16 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Atria Books / S&S",
+            aliases: ["Atria"],
+            locations: ["New York"]
+        },
+        {
+            name: "Avon Books / Harper",
+            aliases: ["Avon"],
+            locations: ["New York"]
+        },
+        {
             name: "Ballantine Books",
             aliases: ["Ballantine"],
             locations: ["New York"]
@@ -62,6 +72,15 @@ module.exports = {
             locations: ["Hampton Falls, NH."]
         },
         {
+            name: [
+                "Doubleday",
+                "Doubleday & Company",
+                "Doubleday / Crime Club"
+            ],
+            aliases: ["Doubleday"],
+            locations: ["New York"]
+        },
+        {
             name: "Dutton / Penguin",
             aliases: ["Dutton"],
             locations: ["New York"]
@@ -100,6 +119,11 @@ module.exports = {
             name: "Grand Central Publishing",
             aliases: ["Grand Central"],
             locations: ["New York", "Boston"]
+        },
+        {
+            name: "Harmony Books / Random",
+            aliases: ["Harmony"],
+            locations: ["New York"]
         },
         {
             name: [
@@ -233,7 +257,10 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Sourcebooks",
+            name: [
+                "Sourcebooks",
+                "Sourcebooks Landmark"
+            ],
             aliases: ["Source"],
             locations: ["Naperville, IL."]
         },
