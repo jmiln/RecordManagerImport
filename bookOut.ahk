@@ -107,8 +107,8 @@ if (strLen(COND)) {
     sendRaw, %COND%
 }
 
-; Then 4 down to the publisher
-goDown(4)
+; Then 3 down to the publisher
+goDown(3)
 
 
 ; If there's a publisher

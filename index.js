@@ -34,6 +34,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         n: "novel",         // Tack `: a novel` onto the title
         pr: "price",        // Set the price
         pub: "publisher",   // Give it a publisher to prioritize looking for
+        rem: "remainder",   // Mark that it has a remainder mark
         rep: "repeat",      // Try to repeat given args (kw, pr, pg, etc...)
     }
 });
@@ -110,8 +111,6 @@ if (argv.debug) {
 
 const isbn = process.argv[2];
 const {pubMap} = require("./pubMap.js");
-// const pubOut = null;
-// const pubLocs = [];
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
@@ -212,6 +211,7 @@ async function init() {
         } else if (jsonOut.publishers?.length && !argv.publisher) {
             const pubName = jsonOut.publishers[0].name;
             let {pub: chosenName, locs: pubLocs} = await getPub(pubName);
+            if (!pubLocs?.length) pubLocs = [];
             chosenName += "";
 
             if (jsonOut.publish_places?.length) {
@@ -426,16 +426,20 @@ function processArgv(oldArgs) {
     }
 
     // Work out some default conditions
+    let remStr = "";
+    if (argv.remainder) {
+        remStr = "Remainder Mark.  ";
+    }
     if (argv.pb) {
         // Default condition to start with for pb books
-        outArr.push("COND=VG IN WRAPS.  PAGES CLEAN & TIGHT.");
+        outArr.push(`COND=VG IN WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
     } else if (argv.hc && argv.dj) {
         // Default condition to start with for hc books with a dj
-        outArr.push("COND=VG/VG   PAGES CLEAN & TIGHT.");
+        outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
     } else if (argv.hc) {
         // Default condition to start with for hc books without a dj
         //  - This will be vg in pictorial boards, cloth, etc
-        outArr.push("COND=VG IN X BOARDS.  PAGES CLEAN & TIGHT.");
+        outArr.push(`COND=VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`);
     }
 
     return outArr;
