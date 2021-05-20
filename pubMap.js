@@ -1,6 +1,11 @@
 module.exports = {
     pubMap: [
         {
+            name: "Abacus / Little, Brown",
+            aliases: ["Abacus"],
+            locations: ["London"]
+        },
+        {
             name: "Alfred A. Knopf",
             aliases: ["Knopf", "Alfred"],
             locations: ["New York"]
@@ -192,6 +197,11 @@ module.exports = {
             name: "New American Library",
             aliases: ["New American Library"],
             locations: ["New York"]
+        },
+        {
+            name: "Orion Books",
+            aliases: ["Orion"],
+            locations: ["London"]
         },
         {
             name: "Orbit / Hachette",
