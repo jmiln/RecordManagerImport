@@ -62,8 +62,19 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Del Rey/Ballantine",
+            name: [
+                "Del Rey / Ballantine",
+                "Del Rey / Random"
+            ],
             aliases: ["Del Rey"],
+            locations: ["New York"]
+        },
+        {
+            name: [
+                "Dial Press",
+                "Dial Press / Random"
+            ],
+            aliases: ["Dial"],
             locations: ["New York"]
         },
         {
@@ -209,8 +220,8 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Plume Books / Penguin",
-            aliases: ["Plume"],
+            name: "Pantheon Books",
+            aliases: ["Pantheon"],
             locations: ["New York"]
         },
         {
@@ -224,8 +235,23 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Pantheon Books",
-            aliases: ["Pantheon"],
+            name: "Picador USA",
+            aliases: ["Picador"],
+            locations: ["New York"]
+        },
+        {
+            name: "Pintail / Penguin",
+            aliases: ["Pintail"],
+            locations: ["Toronto, Ontario"]
+        },
+        {
+            name: "Plume Books / Penguin",
+            aliases: ["Plume"],
+            locations: ["New York"]
+        },
+        {
+            name: "Pocket Books / S&S",
+            aliases: ["Pocket"],
             locations: ["New York"]
         },
         {
@@ -264,6 +290,14 @@ module.exports = {
         {
             name: "Simon & Schuster",
             aliases: ["Simon & Schuster"],
+            locations: ["New York"]
+        },
+        {
+            name: [
+                "Soho Press",
+                "Soho Crime"
+            ],
+            aliases: ["Soho"],
             locations: ["New York"]
         },
         {
@@ -319,6 +353,7 @@ module.exports = {
                 "Vintage Books",
                 "Vintage Classics",
                 "Vintage Contemporary",
+                "Vintage Crime / Black Lizard",
                 "Vintage International"
             ],
             aliases: ["Vintage"],
