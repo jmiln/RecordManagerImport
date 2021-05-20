@@ -161,25 +161,45 @@ send, {pgdn}
 
 ; If there are keywords included, go ahead and stick em in
 if(strlen(KW1)) {
-    sendRaw, %KW1%
+    if (KW1 == "^f") {
+        send, %KW1%
+    } else {
+        sendRaw, %KW1%
+    }
 }
 goDown(1)
 if(strlen(KW2)) {
-    sendRaw, %KW2%
+    if (KW2 == "^f") {
+        send, %KW2%
+    } else {
+        sendRaw, %KW2%
+    }
 }
 
 goDown(1)
 if(strlen(KW3)) {
-    sendRaw, %KW3%
+    if (KW3 == "^f") {
+        send, %KW3%
+    } else {
+        sendRaw, %KW3%
+    }
 }
 
 goDown(1)
 if(strlen(KW4)) {
-    sendRaw, %KW4%
+    if (KW4 == "^f") {
+        send, %KW4%
+    } else {
+        sendRaw, %KW4%
+    }
 }
 goDown(1)
 if(strlen(KW5)) {
-    sendRaw, %KW5%
+    if (KW5 == "^f") {
+        send, %KW5%
+    } else {
+        sendRaw, %KW5%
+    }
 }
 goDown(1)
 

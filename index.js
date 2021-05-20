@@ -31,6 +31,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         kw: "keywords",     // Stick some keywords into the keyword slots
         debug: "debug",     // Don't actually run the ahk script, just print the output
         help: "help",       // Print out the help info, don't do anything else
+        fill: "fill",       // Fill in the extra keyword slots with previous entries (ctrl+f) if available
         n: "novel",         // Tack `: a novel` onto the title
         pr: "price",        // Set the price
         pub: "publisher",   // Give it a publisher to prioritize looking for
@@ -65,8 +66,9 @@ const helpArr = [
     "",
     "Other",
     "  --debug              Tell it to log the info instead of sending it to RM",
+    "  --fill               Fill in the extra keyword slots with previous entries (ctrl+f) if available",
     "  --help               Print this usage info",
-    "  -kw, --keywords      Put in some of the keywords (Comma separated only)",
+    "  -kw <keywords>       Put in some of the keywords (Comma separated only)",
     "  --pr <price>         Set the price",
     "  --pub <publisher>    Specify a publisher to try and match/ use",
     "  -n, --novel          Specify to tack `: a novel` onto the end if not there",
@@ -141,7 +143,7 @@ async function init() {
             jsonOut = jsonOut[Object.keys(jsonOut)[0]];
         }
         if (jsonOut.title) {
-            const title = jsonOut.title
+            let title = jsonOut.title
                 .replace(/^the /i, "")          // Replace "the " at the beginning of titles
                 .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
                 .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
@@ -159,8 +161,10 @@ async function init() {
             } else if (argv.lp) {
                 extraString = lpString;
             }
-            if (title.indexOf("a novel")) {
-                title.replace(/a novel/i, "");
+            if (title.toLowerCase().indexOf("a novel") > -1) {
+                title = title
+                    .replace(/: a novel/i, "")
+                    .replace(/a novel/i, "");
                 if (!subtitle?.length) {
                     subtitle = ": a novel";
                 }
@@ -195,7 +199,6 @@ async function init() {
         }
 
         if (argv.publisher) {
-            // await getPub(argv.publisher);
             const {pub: chosenName, locs: pubLocs} = await getPub(argv.publisher);
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
@@ -212,13 +215,12 @@ async function init() {
             const pubName = jsonOut.publishers[0].name;
             let {pub: chosenName, locs: pubLocs} = await getPub(pubName);
             if (!pubLocs?.length) pubLocs = [];
-            chosenName += "";
 
             if (jsonOut.publish_places?.length) {
                 pubLocs.push(...jsonOut.publish_places.map(loc => loc.name));
             }
 
-            if (chosenName) {
+            if (chosenName && chosenName.toString().length) {
                 // If we found a publisher name for it, stick that in then figure out a location
                 bookInfoArr.push(`PUB=${chosenName}`);
 
@@ -282,9 +284,6 @@ async function init() {
         }
 
 
-        // TODO See if I can get a list of the author's books to stick in the keywords, as well as grab the subjects they
-        // give and offer them up, mapped against what we actually use (Apparently not available through this API, so not sure if doable)
-
         // if I have it set to debug, just return and print out what would go through
         if (argv.debug) {
             console.log(bookInfoArr);
@@ -302,9 +301,6 @@ async function init() {
 
         if (argv.publisher) {
             const {pub: chosenName, locs: pubLocs} = await getPub(argv.publisher);
-            if (chosenName) {
-                bookInfoArr.push(`PUB=${chosenName}`);
-            }
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
             }
@@ -411,15 +407,24 @@ function processArgv(oldArgs) {
     }
 
     if (argv.keywords) {
-        const keywords = argv.keywords.split(",");
-        if (keywords.lengh > 5) return console.log("You can only have 5 keywords MAX.");
-
         let ix = 1;
-        for (const kw of keywords.map(k => k.toLowerCase())) {
-            // Check against a list of em somewhere up top
-            // If found, stick it in, else continue, maybe log it?
-            if (Object.keys(kwMap).indexOf(kw) > -1) {
-                outArr.push(`KW${ix}=${kwMap[kw]}`);
+        if (typeof argv.keywords === "string") {
+            const keywords = argv.keywords.split(",");
+            if (keywords.lengh > 5) return console.log("You can only have 5 keywords MAX.");
+
+            for (const kw of keywords.map(k => k.toLowerCase())) {
+                // Check against a list of em somewhere up top
+                // If found, stick it in, else continue, maybe log it?
+                if (Object.keys(kwMap).indexOf(kw) > -1) {
+                    outArr.push(`KW${ix}=${kwMap[kw]}`);
+                    ix += 1;
+                }
+            }
+        }
+
+        if (argv.fill) {
+            while (ix <= 5) {
+                outArr.push(`KW${ix}=^f`);
                 ix += 1;
             }
         }
