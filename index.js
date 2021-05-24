@@ -459,10 +459,18 @@ async function getPub(pubName) {
     for (const pub of pubMap) {
         if (pub.aliases.filter(a => pubName.toLowerCase().includes(a.toLowerCase())).length) {
             if (Array.isArray(pub.name)) {
-                const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n`);
+                const chooseOtherStr = `\n[${pub.name.length}] Choose other`;
+                const cancelStr = `\n[${pub.name.length+1}] Cancel`;
+                const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
                 if (pub.name[pubRes]) {
                     out.pub = pub.name[pubRes];
                     out.locs = pub.locations;
+                } else if (parseInt(pubRes, 10) === pub.name.length) {
+                    const newPub = await askQuestion("What publisher should I search for?\n");
+                    out = await getPub(newPub);
+                } else if (parseInt(pubRes, 10) === pub.name.length+1) {
+                    out.pub = null;
+                    out.locs = null;
                 }
             } else {
                 const res = await askQuestion(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
@@ -478,6 +486,9 @@ async function getPub(pubName) {
                     const newPub = await askQuestion("What publisher should I search for?\n");
                     out = await getPub(newPub);
                 }
+            }
+            if (out.pub?.length > 28) {
+                throw new Error(`Invalid pub name length: ${out.pub}`);
             }
             return out;
         }
