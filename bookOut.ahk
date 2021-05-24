@@ -230,5 +230,6 @@ goUp(14)
 ; Go back to the first page so I can start entering as needed
 send, {pgup}
 
+ExitApp
 
-Clipboard := PUB
+LAlt::ExitApp
