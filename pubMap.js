@@ -16,11 +16,21 @@ module.exports = {
             locations: ["Chapel Hill, NC."]
         },
         {
+            name: "Amulet / Abrams",
+            aliases: ["Amulet"],
+            locations: ["Chapel Hill, NC."]
+        },
+        {
             name: [
                 "Anchor / Doubleday",
                 "Anchor / Random House"
             ],
             aliases: ["Anchor"],
+            locations: ["New York"]
+        },
+        {
+            name: "Atheneum Books / S&S",
+            aliases: ["Atheneum"],
             locations: ["New York"]
         },
         {
@@ -34,8 +44,13 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Ballantine Books",
-            aliases: ["Ballantine"],
+            name: "ballantine books",
+            aliases: ["ballantine"],
+            locations: ["new york"]
+        },
+        {
+            name: "Balzer + Bray/Harper-collins",
+            aliases: ["Balzer"],
             locations: ["New York"]
         },
         {
@@ -78,8 +93,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Disney / Hyperion",
-            aliases: ["Miramax", "Disney"],
+            name: [
+                "Disney / Hyperion",
+                "Hyperion / Disney"
+            ],
+            aliases: ["Miramax", "Disney", "Hyperion"],
             locations: ["New York"]
         },
         {
@@ -147,7 +165,7 @@ module.exports = {
                 "Harper-Perennial",
                 "Harper-Teen"
             ],
-            aliases: ["Harper"],
+            aliases: ["Harper", "Harp"],
             locations: ["New York"]
         },
         {
@@ -235,7 +253,10 @@ module.exports = {
             locations: ["New York"]
         },
         {
-            name: "Picador USA",
+            name: [
+                "Picador USA",
+                "Picador / Henry Holt & Co."
+            ],
             aliases: ["Picador"],
             locations: ["New York"]
         },
@@ -293,6 +314,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Simon Pulse / S&S",
+            aliases: ["Pulse"],
+            locations: ["New York"]
+        },
+        {
             name: [
                 "Soho Press",
                 "Soho Crime"
@@ -307,6 +333,16 @@ module.exports = {
             ],
             aliases: ["Source"],
             locations: ["Naperville, IL."]
+        },
+        {
+            name: "Speak / Penguin Random",
+            aliases: ["Speak"],
+            locations: ["New York"]
+        },
+        {
+            name: "Square Fish/Henry Holt & Co.",
+            aliases: ["Square Fish"],
+            locations: ["New York"]
         },
         {
             name: [
