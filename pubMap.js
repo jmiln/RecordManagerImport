@@ -72,6 +72,16 @@ module.exports = {
             locations: ["Minneapolis, MN."]
         },
         {
+            name: "Bloomsbury",
+            aliases: ["Bloomsbury"],
+            locations: ["New York", "London"]
+        },
+        {
+            name: "Broadway Books / Random",
+            aliases: ["Broadway"],
+            locations: ["New York"]
+        },
+        {
             name: "Daw Books, inc.",
             aliases: ["DAW"],
             locations: ["New York"]
@@ -199,6 +209,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Lake Union Publishing",
+            aliases: ["lake Union"],
+            locations: ["Seattle, WA."]
+        },
+        {
             name: [
                 "Little, Brown & Company",
                 "Back Bay/Little, Brown & Co.",
@@ -224,7 +239,7 @@ module.exports = {
         },
         {
             name: "New American Library",
-            aliases: ["New American Library"],
+            aliases: ["New American Library", "New", "American"],
             locations: ["New York"]
         },
         {
@@ -276,6 +291,11 @@ module.exports = {
             locations: ["New York"]
         },
         {
+            name: "Poisoned Pen Press",
+            aliases: ["Poisoned"],
+            locations: ["Naperville, IL."]
+        },
+        {
             name: "Random House",
             aliases: ["Random"],
             locations: ["New York"]
@@ -321,7 +341,7 @@ module.exports = {
         {
             name: [
                 "Soho Press",
-                "Soho Crime"
+                "Soho Crime / Soho Press"
             ],
             aliases: ["Soho"],
             locations: ["New York"]
