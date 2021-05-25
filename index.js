@@ -37,6 +37,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         pub: "publisher",   // Give it a publisher to prioritize looking for
         rem: "remainder",   // Mark that it has a remainder mark
         rep: "repeat",      // Try to repeat given args (kw, pr, pg, etc...)
+        sub: "subtitle",    // Stick in a subtitle manually
     }
 });
 
@@ -73,6 +74,7 @@ const helpArr = [
     "  --pub <publisher>    Specify a publisher to try and match/ use",
     "  -n, --novel          Specify to tack `: a novel` onto the end if not there",
     "  --rep <keys>         Tell it to repeat some of pub, keywords, price, and pages",
+    "  --sub <subtitle>     Give it a subtitle to stick in, surround it with quotes (\") if there are spaces",
 ];
 
 
@@ -164,6 +166,9 @@ async function init() {
             } else if (argv.lp) {
                 extraString = lpString;
             }
+            if (argv.subtitle && !subtitle?.length) {
+                subtitle = argv.subtitle;
+            }
             if (title.toLowerCase().indexOf("a novel") > -1) {
                 title = title
                     .replace(/: a novel/i, "")
@@ -206,17 +211,18 @@ async function init() {
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
             }
-            if (pubLocs.length > 1) {
+            if (pubLocs?.length > 1) {
                 const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
                 if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
                     bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
                 }
-            } else if (pubLocs.length === 1) {
+            } else if (pubLocs?.length === 1) {
                 bookInfoArr.push(`LOC=${pubLocs[0]}`);
             }
         } else if (jsonOut.publishers?.length && !argv.publisher) {
             const pubName = jsonOut.publishers[0].name;
             let {pub: chosenName, locs: pubLocs} = await getPub(pubName);
+            chosenName += "";
             if (!pubLocs?.length) pubLocs = [];
 
             if (jsonOut.publish_places?.length) {
@@ -263,6 +269,20 @@ async function init() {
                 } else if (pubLocs.length === 1) {
                     bookInfoArr.push(`LOC=${pubLocs[0]}`);
                 }
+            }
+        } else {
+            // There's no pb, so ask
+            const {pub: chosenName, locs: pubLocs} = await getEmptyPub();
+            if (chosenName) {
+                bookInfoArr.push(`PUB=${chosenName}`);
+            }
+            if (pubLocs.length > 1) {
+                const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
+                if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
+                    bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
+                }
+            } else if (pubLocs.length === 1) {
+                bookInfoArr.push(`LOC=${pubLocs[0]}`);
             }
         }
 
@@ -456,6 +476,9 @@ function processArgv(oldArgs) {
 // Go through and see if there is a matching publisher available
 async function getPub(pubName) {
     let out = {};
+    if (!pubName?.length) {
+        return new Error("Missing pubName to search for.");
+    }
     for (const pub of pubMap) {
         if (pub.aliases.filter(a => pubName.toLowerCase().includes(a.toLowerCase())).length) {
             if (Array.isArray(pub.name)) {
@@ -504,6 +527,21 @@ async function getPub(pubName) {
     }
     return out;
 }
+
+// If there's no pub given, ask if it's wanted
+async function getEmptyPub() {
+    let out = {};
+    const noRes = await askQuestion("I did not find any publisher, would you like to find one? (Y)es / (N)o\n");
+    if (["y", "yes"].includes(noRes.toLowerCase())) {
+        const newPub = await askQuestion("What publisher should I search for?\n");
+        out = await getPub(newPub);
+    } else {
+        out.pub = null;
+        out.locs = null;
+    }
+    return out;
+}
+
 
 // Ask a question/ prompt and wait for the reply
 async function askQuestion(query) {
