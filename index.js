@@ -5,6 +5,9 @@ const { exec } = require("child_process");
 
 const readline = require("readline");
 
+const helpArr  = require("./data/helpOut.js");
+const kwMap    = require("./data/keywordMap.js");
+const {pubMap} = require("./data/pubMap.js");
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
@@ -41,72 +44,6 @@ const argv = require("minimist")(process.argv.slice(2), {
     }
 });
 
-const helpArr = [
-    "Usage: node index.js <isbn> [options]",
-    "",
-    "Options:",
-    "  -i, --isbn <isbn>    Use this alternative ISBN",
-    "  -d, --dj             Mark that this book has a dust jacket",
-    "",
-    "Bindings",
-    "  -h, --hc             Mark this as a hardcover book",
-    "  -p, --pb             Mark this as a paperback book",
-    "  --sp                 Mark this as a spiral bound book",
-    "",
-    "Special versions",
-    "  --bc                 Mark this as a book club book",
-    "  --lp                 Mark this as a large print book",
-    "",
-    "Printing / Edition",
-    "  -f, --first [prt #]  Mark this as a 1st - 9th printing",
-    "  -l, --later          Mark this as a later printing",
-    "",
-    "Pages",
-    "  --pg <pages>         Set the page count",
-    "  -u, --unpaginated    Mark this as unpaginated",
-    "",
-    "Other",
-    "  --debug              Tell it to log the info instead of sending it to RM",
-    "  --fill               Fill in the extra keyword slots with previous entries (ctrl+f) if available",
-    "  --help               Print this usage info",
-    "  -kw <keywords>       Put in some of the keywords (Comma separated only)",
-    "  --pr <price>         Set the price",
-    "  --pub <publisher>    Specify a publisher to try and match/ use",
-    "  -n, --novel          Specify to tack `: a novel` onto the end if not there",
-    "  --rep <keys>         Tell it to repeat some of pub, keywords, price, and pages",
-    "  --sub <subtitle>     Give it a subtitle to stick in, surround it with quotes (\") if there are spaces",
-];
-
-
-// Mapping the keywords so they're usable
-const kwMap = {
-    chi: "Children's Books",
-    cfi: "Crime Fiction",
-    coo: "Cooking",
-    fan: "Fantasy",
-    fic: "Fiction",
-    hfi: "Historical Fiction",
-    hor: "Horror",
-    juv: "Juvenile",
-    jfa: "Juvenile Fantasy",
-    jfi: "Juvenile Fiction",
-    lit: "Literature",
-    mfi: "Military Fiction",
-    mil: "Military History",
-    mys: "Mystery & Suspense",
-    pic: "Picture Books",
-    poe: "Poetry",
-    rom: "Romance",
-    sci: "Science",
-    sfi: "Science Fiction",
-    tcr: "True Crime",
-    tfi: "Teen Fiction",
-    thr: "Thrillers",
-    wes: "Westerns",
-    ww2: "World War II",
-    xfi: "Christian Fiction",
-    ya:  "Young Adult",
-};
 
 if (argv.help) {
     return console.log(helpArr.join("\n"));
@@ -117,7 +54,6 @@ if (argv.debug) {
 }
 
 const isbn = process.argv[2];
-const {pubMap} = require("./pubMap.js");
 
 if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
 
