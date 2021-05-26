@@ -84,42 +84,8 @@ async function init() {
             jsonOut = jsonOut[Object.keys(jsonOut)[0]];
         }
         if (jsonOut.title) {
-            let title = jsonOut.title
-                .replace(/^the /i, "")          // Replace "the " at the beginning of titles
-                .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
-                .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
-                .replace(/\s\s+/g, " ");        // Replace multiple spaces with singles
-
-            let subtitle = jsonOut.subtitle ? ": " + jsonOut.subtitle : "";
-            const bcString = " - book club edition";
-            const lpString = " - large print edition";
-            const bclpString = " - large print book club edition";
-            let extraString = "";
-            if (argv.bc && argv.lp) {
-                extraString = bclpString;
-            } else if (argv.bc) {
-                extraString = bcString;
-            } else if (argv.lp) {
-                extraString = lpString;
-            }
-            if (argv.subtitle && !subtitle?.length) {
-                subtitle = argv.subtitle;
-            }
-            if (title.toLowerCase().indexOf("a novel") > -1) {
-                title = title
-                    .replace(/: a novel/i, "")
-                    .replace(/a novel/i, "");
-                if (!subtitle?.length) {
-                    subtitle = ": a novel";
-                }
-            } else if (argv.novel) {
-                if (!subtitle?.length) {
-                    subtitle = ": a novel";
-                } else {
-                    subtitle += " - a novel";
-                }
-            }
-            bookInfoArr.push(`TITLE=${title}${subtitle}${extraString}`);
+            const titleOut = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
+            bookInfoArr.push(`TITLE=${titleOut}`);
         }
 
         if (jsonOut.authors && jsonOut.authors.length) {
@@ -158,7 +124,6 @@ async function init() {
         } else if (jsonOut.publishers?.length && !argv.publisher) {
             const pubName = jsonOut.publishers[0].name;
             let {pub: chosenName, locs: pubLocs} = await getPub(pubName);
-            chosenName += "";
             if (!pubLocs?.length) pubLocs = [];
 
             if (jsonOut.publish_places?.length) {
@@ -555,6 +520,53 @@ async function readOld() {
 }
 
 
+function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
+    if (!titleIn?.length) {
+        throw new Error("[parseTitle] Missing title");
+    }
+    let title = titleIn
+        .replace(/^the /i, "")          // Replace "the " at the beginning of titles
+        .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
+        .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
+        .replace(/\s\s+/g, " ");        // Replace multiple spaces with singles
+
+    const bcString = " - book club edition";
+    const lpString = " - large print edition";
+    const bclpString = " - large print book club edition";
+    let extraString = "";
+
+    let subtitle = subtitleIn ? ": " + subtitleIn : "";
+
+    if (isBookClub && isLargePrint) {
+        extraString = bclpString;
+    } else if (isBookClub) {
+        extraString = bcString;
+    } else if (isLargePrint) {
+        extraString = lpString;
+    }
+    if (manualSub && !subtitle?.length) {
+        subtitle = manualSub;
+    }
+
+    if (title.toLowerCase().indexOf("a novel") > -1) {
+        // In case the ": a novel" is baked into the title instead of being a subtitle like it should
+        title = title
+            .replace(/: a novel/i, "")
+            .replace(/a novel/i, "");
+        if (!subtitle?.length) {
+            subtitle = ": a novel";
+        }
+    } else if (argv.novel) {
+        // Or if I want to force it, just in case/ if it's not there and should be
+        if (!subtitle?.length) {
+            subtitle = ": a novel";
+        } else {
+            subtitle += " - a novel";
+        }
+    }
+
+    return `${title}${subtitle}${extraString}`;
+}
 
 
 
