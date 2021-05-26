@@ -389,6 +389,9 @@ async function getPub(pubName, inLocs) {
                     // This means sticking the publisher search stuff above into a function
                     const newPub = await askQuestion("What publisher should I search for?\n");
                     out = await getPub(newPub);
+                    if (out.locs) {
+                        inLocs.push(...out.locs);
+                    }
                 }
             }
             if (out.pub?.length > 28) {
@@ -437,6 +440,7 @@ async function getPub(pubName, inLocs) {
         inLocs = [...new Set(inLocs)];
 
         let outLoc = null;
+        out.locs = inLocs;
 
         // If there is more than one location, let em choose
         if (inLocs?.length > 1) {
