@@ -107,8 +107,15 @@ if (strLen(COND)) {
     sendRaw, %COND%
 }
 
-; Then 3 down to the publisher
-goDown(3)
+goDown(1)
+
+; If there's an illustration set
+if (strLen(ILLUS)) {
+    sendRaw, %ILLUS%
+}
+
+; Then 2 down to the publisher
+goDown(2)
 
 
 ; If there's a publisher

@@ -7,7 +7,7 @@ const readline = require("readline");
 
 const helpArr  = require("./data/helpOut.js");
 const kwMap    = require("./data/keywordMap.js");
-const {pubMap} = require("./data/pubMap.js");
+const pubMap = require("./data/pubMap.js");
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
@@ -35,6 +35,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         debug: "debug",     // Don't actually run the ahk script, just print the output
         help: "help",       // Print out the help info, don't do anything else
         fill: "fill",       // Fill in the extra keyword slots with previous entries (ctrl+f) if available
+        ill: "illustrated",// If it has illustrations, pop up the menu to ask what kind
         n: "novel",         // Tack `: a novel` onto the title
         pr: "price",        // Set the price
         pub: "publisher",   // Give it a publisher to prioritize looking for
@@ -109,81 +110,35 @@ async function init() {
         }
 
         if (argv.publisher) {
-            const {pub: chosenName, locs: pubLocs} = await getPub(argv.publisher);
+            const {pub: chosenName, loc: pubLoc} = await getPub(argv.publisher);
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
-            }
-            if (pubLocs?.length > 1) {
-                const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
-                if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
-                    bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
+                if (pubLoc) {
+                    bookInfoArr.push(`LOC=${pubLoc}`);
                 }
-            } else if (pubLocs?.length === 1) {
-                bookInfoArr.push(`LOC=${pubLocs[0]}`);
             }
         } else if (jsonOut.publishers?.length && !argv.publisher) {
             const pubName = jsonOut.publishers[0].name;
-            let {pub: chosenName, locs: pubLocs} = await getPub(pubName);
-            if (!pubLocs?.length) pubLocs = [];
-
+            let inLocs = null;
             if (jsonOut.publish_places?.length) {
-                pubLocs.push(...jsonOut.publish_places.map(loc => loc.name));
+                inLocs = jsonOut.publish_places.map(loc => loc.name);
             }
 
-            if (chosenName && chosenName.toString().length) {
-                // If we found a publisher name for it, stick that in then figure out a location
+            const {pub: chosenName, loc: pubLoc} = await getPub(pubName, inLocs);
+            if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
-
-                // Format all the locations and make sure there aren't duplicates
-                const stateRegex = /, [a-z]{2}$/i;
-                const longStateRegex = /, [a-z]{3}$/i;
-                if (pubLocs.length) {
-                    pubLocs = pubLocs.map(loc => {
-                        loc = loc.toLowerCase();
-                        if (loc.indexOf("new york") > -1) {
-                            loc = "new york";
-                        }
-                        if (loc.match(stateRegex)) {
-                            // Put a period at the end of a state abbreviation if it doesn't have one
-                            loc += ".";
-                        } else if (loc.match(longStateRegex)) {
-                            // If it's here, they have the state as a 3 letter abbreviation
-                            const locArr = loc.split(",");
-
-                            // Get the state down to a 2 letter abbreviation and stick a period after it
-                            const formattedState = locArr[locArr.length-1].split("").slice(0,3).join("") + ".";
-
-                            // Then put them all back together
-                            loc = locArr.slice(0, locArr.length-1).concat(formattedState).join(",");
-                        }
-                        return loc;
-                    });
-                }
-                pubLocs = [...new Set(pubLocs)];
-
-                // If there is more than one location, let em choose
-                if (pubLocs.length > 1) {
-                    const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
-                    if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
-                        bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
-                    }
-                } else if (pubLocs.length === 1) {
-                    bookInfoArr.push(`LOC=${pubLocs[0]}`);
+                if (pubLoc) {
+                    bookInfoArr.push(`LOC=${pubLoc}`);
                 }
             }
         } else {
-            // There's no pb, so ask
-            const {pub: chosenName, locs: pubLocs} = await getEmptyPub();
+            // There's no pub given/ found, so ask
+            const {pub: chosenName, loc: pubLoc} = await getEmptyPub();
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
-            }
-            if (pubLocs.length > 1) {
-                const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
-                if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
-                    bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
+                if (pubLoc) {
+                    bookInfoArr.push(`LOC=${pubLoc}`);
                 }
-            } else if (pubLocs.length === 1) {
-                bookInfoArr.push(`LOC=${pubLocs[0]}`);
             }
         }
 
@@ -192,7 +147,26 @@ async function init() {
             bookInfoArr.push(`PUBDATE=${date}`);
         }
 
+        if (argv.illustrated) {
+            const illusOptions = [
+                "Illustrated by author",
+                "Illustrated",
+                "Illustrated by photographs",
+                "Bound sheet music",
+                "Musical score",
+                "Full color illustrations",
+                "Full color photographs",
+                "Illustrated throughout",
+                "Photographs throughout",
+                "Photographs & illustrations"
+            ];
+            const illRes = await askQuestion(`What sort of illustrations are they?\n\n${illusOptions.map((ill, ix) => `[${ix}] ${ill}`).join("\n")} \n\n`);
+            if (Number.isInteger(parseInt(illRes)) && illusOptions[illRes]) {
+                bookInfoArr.push(`ILLUS=${illusOptions[illRes]}`);
+            }
+        }
 
+        // This is where it'll work out the ISBN
         if (jsonOut.identifiers) {
             const ident = jsonOut.identifiers;
             if (argv.isbn) {
@@ -206,7 +180,6 @@ async function init() {
                 bookInfoArr.push(`ISBN10=${ident.isbn_10[0]}`);
             }
         }
-
 
         // if I have it set to debug, just return and print out what would go through
         if (argv.debug) {
@@ -268,6 +241,8 @@ function processArgv(oldArgs) {
                 argv.pages = oldArgs.pg;
             } else if (rep === "pub" && oldArgs.pub) {
                 argv.publisher = oldArgs.pub;
+            } else if (rep === "ill" && oldArgs.ill) {
+                argv.illustrated = oldArgs.ill;
             }
         }
     }
@@ -375,8 +350,11 @@ function processArgv(oldArgs) {
 }
 
 // Go through and see if there is a matching publisher available
-async function getPub(pubName) {
+async function getPub(pubName, inLocs) {
     let out = {};
+    if (!inLocs) {
+        inLocs = [];
+    }
     if (!pubName?.length) {
         return new Error("Missing pubName to search for.");
     }
@@ -388,19 +366,21 @@ async function getPub(pubName) {
                 const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
                 if (pub.name[pubRes]) {
                     out.pub = pub.name[pubRes];
-                    out.locs = pub.locations;
+                    inLocs.push(...pub.locations);
                 } else if (parseInt(pubRes, 10) === pub.name.length) {
                     const newPub = await askQuestion("What publisher should I search for?\n");
                     out = await getPub(newPub);
+                    if (out.locs) {
+                        inLocs.push(...out.locs);
+                    }
                 } else if (parseInt(pubRes, 10) === pub.name.length+1) {
                     out.pub = null;
-                    out.locs = null;
                 }
             } else {
                 const res = await askQuestion(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
                 if (["y", "yes"].includes(res.toLowerCase())) {
                     out.pub = pub.name;
-                    out.locs = pub.locations;
+                    inLocs.push(...pub.locations);
                 } else if (["c", "cancel"].includes(res.toLowerCase())) {
                     out.pub = null;
                     out.locs = null;
@@ -414,18 +394,62 @@ async function getPub(pubName) {
             if (out.pub?.length > 28) {
                 throw new Error(`Invalid pub name length: ${out.pub}`);
             }
-            return out;
         }
     }
 
-    const noRes = await askQuestion(`I did not find any matches for ${pubName}, would you like to try again? (Y)es / (N)o\n`);
-    if (["y", "yes"].includes(noRes.toLowerCase())) {
-        const newPub = await askQuestion("What publisher should I search for?\n");
-        out = await getPub(newPub);
-    } else {
-        out.pub = null;
-        out.locs = null;
+    if (!out.pub?.length) {
+        const noRes = await askQuestion(`I did not find any matches for ${pubName}, would you like to try again? (Y)es / (N)o\n`);
+        if (["y", "yes"].includes(noRes.toLowerCase())) {
+            const newPub = await askQuestion("What publisher should I search for?\n");
+            out = await getPub(newPub);
+            if (out.locs.length) {
+                inLocs.push(...out.locs);
+            }
+        } else {
+            out.pub = null;
+            out.locs = null;
+        }
     }
+
+    if (inLocs?.length) {
+        const stateRegex = /, [a-z]{2}$/i;
+        const longStateRegex = /, [a-z]{3,4}$/i;
+        inLocs = inLocs.map(loc => {
+            loc = loc.toLowerCase();
+            if (loc.indexOf("new york") > -1) {
+                loc = "new york";
+            }
+            if (loc.match(stateRegex)) {
+                // Put a period at the end of a state abbreviation if it doesn't have one
+                loc += ".";
+            } else if (loc.match(longStateRegex)) {
+                // If it's here, they have the state as a 3 letter abbreviation
+                const locArr = loc.split(",");
+
+                // Get the state down to a 2 letter abbreviation and stick a period after it
+                const formattedState = locArr[locArr.length-1].split("").slice(0,3).join("") + ".";
+
+                // Then put them all back together
+                loc = locArr.slice(0, locArr.length-1).concat(formattedState).join(",");
+            }
+            return loc;
+        });
+        inLocs = [...new Set(inLocs)];
+
+        let outLoc = null;
+
+        // If there is more than one location, let em choose
+        if (inLocs?.length > 1) {
+            const locRes = await askQuestion(`I found these location(s): \n\n${inLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
+            if (Number.isInteger(parseInt(locRes)) && inLocs[locRes]) {
+                outLoc = inLocs[locRes];
+            }
+        } else if (inLocs?.length === 1) {
+            outLoc = inLocs[0];
+        }
+        out.loc = outLoc;
+    }
+
     return out;
 }
 
