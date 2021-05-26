@@ -13,6 +13,7 @@ module.exports = {
     mfi: "Military Fiction",
     mil: "Military History",
     mys: "Mystery & Suspense",
+    pho: "Photography",
     pic: "Picture Books",
     poe: "Poetry",
     rom: "Romance",

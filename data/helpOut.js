@@ -27,6 +27,7 @@ module.exports = [
     "  --fill               Fill in the extra keyword slots with previous entries (ctrl+f) if available",
     "  --help               Print this usage info",
     "  -kw <keywords>       Put in some of the keywords (Comma separated only)",
+    "  --ill                Choose how it's illustrated from a menu",
     "  --pr <price>         Set the price",
     "  --pub <publisher>    Specify a publisher to try and match/ use",
     "  -n, --novel          Specify to tack `: a novel` onto the end if not there",
