@@ -9,6 +9,7 @@ module.exports = [
     "  -h, --hc             Mark this as a hardcover book",
     "  -p, --pb             Mark this as a paperback book",
     "  --sp                 Mark this as a spiral bound book",
+    "  --fr, --french       Mark this as having french wraps (PB only)"
     "",
     "Special versions",
     "  --bc                 Mark this as a book club book",

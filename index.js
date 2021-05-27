@@ -18,6 +18,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         h: "hc",      // Hardcover
         p: "pb",      // Paperback
         sp: "sp",     // Spiral Binding
+        fr: "french", // French Wraps
 
         // Editions
         bc: "bc",     // Book Club
@@ -330,13 +331,11 @@ function processArgv(oldArgs) {
     }
 
     // Work out some default conditions
-    let remStr = "";
-    if (argv.remainder) {
-        remStr = "Remainder Mark.  ";
-    }
+    const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
+    const frenchStr = argv.french ? "FRENCH " : "";
     if (argv.pb) {
         // Default condition to start with for pb books
-        outArr.push(`COND=VG IN WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
+        outArr.push(`COND=VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
     } else if (argv.hc && argv.dj) {
         // Default condition to start with for hc books with a dj
         outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
