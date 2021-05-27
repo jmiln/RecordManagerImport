@@ -420,6 +420,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Warner Books",
+        aliases: ["Warner"],
+        locations: ["New York"]
+    },
+    {
         name: "William Morrow",
         aliases: ["William Morrow", "Morrow"],
         locations: ["New York"]
