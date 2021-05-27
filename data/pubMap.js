@@ -232,6 +232,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Mira Books",
+        aliases: ["Mira"],
+        locations: ["Toronto, Ontario"]
+    },
+    {
         name: "Multnomah Publishers",
         aliases: ["Multnomah"],
         locations: ["Sisters, OR."]

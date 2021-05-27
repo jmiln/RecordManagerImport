@@ -578,7 +578,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     if (title.toLowerCase().indexOf("a novel") > -1) {
         // In case the ": a novel" is baked into the title instead of being a subtitle like it should
         title = title
-            .replace(/: a novel/i, "")
+            .replace(/\s*: a novel/i, "")
             .replace(/a novel/i, "");
         if (!subtitle?.length) {
             subtitle = ": a novel";
