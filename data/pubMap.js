@@ -214,8 +214,8 @@ module.exports = [
     },
     {
         name: [
-            "Little, Brown & Company",
             "Back Bay/Little, Brown & Co.",
+            "Little, Brown & Company",
             "Mulholland Books"
         ],
         aliases: ["Little Brown", "Little, Brown", "Back Bay", "Mulholland"],
@@ -255,6 +255,11 @@ module.exports = [
         name: "Pantheon Books",
         aliases: ["Pantheon"],
         locations: ["New York"]
+    },
+    {
+        name: "Park Row Books",
+        aliases: ["Park Row", "Park"],
+        locations: ["Toronto, Ontario"]
     },
     {
         name: "Pegasus Books",
