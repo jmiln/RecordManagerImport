@@ -24,6 +24,7 @@ module.exports = {
     thr: "Thrillers",
     wes: "Westerns",
     ww2: "World War II",
+    ww1: "World War I",
     xfi: "Christian Fiction",
     ya:  "Young Adult",
 };

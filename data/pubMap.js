@@ -242,6 +242,16 @@ module.exports = [
         locations: ["Sisters, OR."]
     },
     {
+        name: "Nan A. Talese / Doubleday",
+        aliases: [
+            "Nan A. Talese/Doubleday",
+            "Nan A. Talese",
+            "Nan",
+            "Talese"
+        ],
+        locations: ["New York"]
+    },
+    {
         name: "New American Library",
         aliases: ["New American Library", "New", "American"],
         locations: ["New York"]
@@ -432,6 +442,11 @@ module.exports = [
     {
         name: "Warner Books",
         aliases: ["Warner"],
+        locations: ["New York"]
+    },
+    {
+        name: "Washington Square Press",
+        aliases: ["Washington Square"],
         locations: ["New York"]
     },
     {
