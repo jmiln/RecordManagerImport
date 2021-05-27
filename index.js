@@ -360,21 +360,26 @@ async function getPub(pubName, inLocs) {
     for (const pub of pubMap) {
         if (pub.aliases.filter(a => pubName.toLowerCase().includes(a.toLowerCase())).length) {
             if (Array.isArray(pub.name)) {
-                const chooseOtherStr = `\n[${pub.name.length}] Choose other`;
-                const cancelStr = `\n[${pub.name.length+1}] Cancel`;
+                const OTHER_NUM = pub.name.length;
+                const chooseOtherStr = `\n[${OTHER_NUM}] Choose other`;
+
+                const CANCEL_NUM = pub.name.length+1;
+                const cancelStr = `\n[${CANCEL_NUM}] Cancel`;
+
                 const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pub.name.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
                 if (pub.name[pubRes]) {
                     out.pub = pub.name[pubRes];
                     inLocs.push(...pub.locations);
-                } else if (parseInt(pubRes, 10) === pub.name.length) {
+                } else if (parseInt(pubRes, 10) === OTHER_NUM) {
                     const newPub = await askQuestion("What publisher should I search for?\n");
                     out = await getPub(newPub);
                     if (out.locs) {
                         inLocs.push(...out.locs);
                     }
-                } else if (parseInt(pubRes, 10) === pub.name.length+1) {
+                } else if (parseInt(pubRes, 10) === CANCEL_NUM) {
                     out.pub = null;
                 }
+                break;
             } else {
                 const res = await askQuestion(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
                 if (["y", "yes"].includes(res.toLowerCase())) {
@@ -383,6 +388,7 @@ async function getPub(pubName, inLocs) {
                 } else if (["c", "cancel"].includes(res.toLowerCase())) {
                     out.pub = null;
                     out.locs = null;
+                    break;
                 } else {
                     // If that's not what it should be, ask what should be there, then run the search again...
                     // This means sticking the publisher search stuff above into a function
@@ -391,6 +397,7 @@ async function getPub(pubName, inLocs) {
                     if (out.locs) {
                         inLocs.push(...out.locs);
                     }
+                    break;
                 }
             }
             if (out.pub?.length > 28) {
