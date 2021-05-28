@@ -175,12 +175,18 @@ module.exports = [
     },
     {
         name: [
-            "Harper-Collins",
+            "Harper / Harper-collins",
+            "Harper-Collins Publishers",
             "Harper-Perennial",
             "Harper-Teen"
         ],
         aliases: ["Harper", "Harp"],
         locations: ["New York"]
+    },
+    {
+        name: "Harvet House Publishers",
+        aliases: ["Harvest House"],
+        locations: ["Eugene, OR."]
     },
     {
         name: "Henry Holt & Company",
@@ -193,14 +199,9 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Harper-Teen",
-        aliases: ["HarperTeen"],
-        locations: ["New York"]
-    },
-    {
-        name: "Harvet House Publishers",
-        aliases: ["Harvest House"],
-        locations: ["Eugene, OR."]
+        name: "Houghton Mifflin Company",
+        aliases: ["Houghton", "Mifflin"],
+        locations: []
     },
     {
         name: "Image Comics",
@@ -245,6 +246,13 @@ module.exports = [
         name: "Mira Books",
         aliases: ["Mira"],
         locations: ["Toronto, Ontario"]
+    },
+    {
+        name: [
+            "MacMillan Company"
+        ],
+        aliases: ["MacMillan", "MPS"],
+        locations: []
     },
     {
         name: "Multnomah Publishers",
@@ -293,7 +301,7 @@ module.exports = [
     },
     {
         name: "Penguin Books",
-        aliases: ["Penguin"],
+        aliases: ["Penguin", "Peng"],
         locations: ["New York"]
     },
     {
@@ -326,7 +334,7 @@ module.exports = [
     },
     {
         name: "Random House",
-        aliases: ["Random"],
+        aliases: ["Random", "Rand"],
         locations: ["New York"]
     },
     {
@@ -340,7 +348,10 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Scribner",
+        name: [
+            "Scribner",
+            "Scribner / Simon & Schuster"
+        ],
         aliases: ["Scribner"],
         locations: ["New York"]
     },
@@ -423,6 +434,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Touchstone / Simon & Schuster",
+        aliases: ["Touchstone"],
+        locations: []
+    },
+    {
         name: "Tyndale House Publishers",
         aliases: ["Tyndale"],
         locations: [
@@ -434,6 +450,7 @@ module.exports = [
         name: [
             "Viking",
             "Viking / Penguin",
+            "Viking Press"
         ],
         aliases: ["Viking"],
         locations: ["New York"]
