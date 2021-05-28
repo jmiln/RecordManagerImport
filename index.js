@@ -562,7 +562,8 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         .replace(/^the /i, "")          // Replace "the " at the beginning of titles
         .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
         .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
-        .replace(/\s\s+/g, " ");        // Replace multiple spaces with singles
+        .replace(/\s\s+/g, " ")         // Replace multiple spaces with singles
+        .replace(/[éè]+/g, "e");        // Replace accented E's with a normal one
 
     const bcString = " - book club edition";
     const lpString = " - large print edition";
