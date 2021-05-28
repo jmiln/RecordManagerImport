@@ -294,7 +294,6 @@ function processArgv(oldArgs) {
         outArr.push("PRICE=" + argv.price);
     }
 
-    const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
     const frenchStr = argv.french ? "FRENCH " : "";
     if (argv.condition) {
         let startStr = "";
@@ -305,14 +304,14 @@ function processArgv(oldArgs) {
 
         if (argv.pb) {
             // Default condition to start with for pb books
-            startStr = `VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`;
+            startStr = `VG IN ${frenchStr}WRAPS.`;
         } else if (argv.hc && argv.dj) {
             // Default condition to start with for hc books with a dj
-            startStr = `VG/VG  ${remStr}PAGES CLEAN & TIGHT.`;
+            startStr = "VG/VG";
         } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
             //  - This will be vg in pictorial boards, cloth, etc
-            startStr = `VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`;
+            startStr = "VG IN X BOARDS.";
         }
         if (startStr?.length) {
             conds.push(startStr);
@@ -352,6 +351,8 @@ function processArgv(oldArgs) {
         }
 
     } else {
+        const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
+
         // Work out some default conditions
         if (argv.pb) {
             // Default condition to start with for pb books
@@ -402,7 +403,7 @@ async function getPub(pubName, inLocs) {
         return new Error("Missing pubName to search for.");
     }
     for (const pub of pubMap) {
-        if (pub.aliases.filter(a => pubName.toLowerCase().includes(a.toLowerCase())).length) {
+        if (pub.aliases.find(a => pubName.toLowerCase().includes(a.toLowerCase()))) {
             if (Array.isArray(pub.name)) {
                 const OTHER_NUM = pub.name.length;
                 const chooseOtherStr = `\n[${OTHER_NUM}] Choose other`;
@@ -429,6 +430,7 @@ async function getPub(pubName, inLocs) {
                 if (["y", "yes"].includes(res.toLowerCase())) {
                     out.pub = pub.name;
                     inLocs.push(...pub.locations);
+                    break;
                 } else if (["c", "cancel"].includes(res.toLowerCase())) {
                     out.pub = null;
                     out.locs = null;
@@ -444,9 +446,9 @@ async function getPub(pubName, inLocs) {
                     break;
                 }
             }
-            if (out.pub?.length > 28) {
-                throw new Error(`Invalid pub name length: ${out.pub}`);
-            }
+            // if (out.pub?.length > 28) {
+            //     throw new Error(`Invalid pub name length: ${out.pub}`);
+            // }
         }
     }
 
