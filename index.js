@@ -32,11 +32,12 @@ const argv = require("minimist")(process.argv.slice(2), {
         u: "unpaginated",   // Set the pages as unpaginated
 
         // Other
+        cond: "condition",  // Flag for condition strings
         kw: "keywords",     // Stick some keywords into the keyword slots
         debug: "debug",     // Don't actually run the ahk script, just print the output
         help: "help",       // Print out the help info, don't do anything else
         fill: "fill",       // Fill in the extra keyword slots with previous entries (ctrl+f) if available
-        ill: "illustrated",// If it has illustrations, pop up the menu to ask what kind
+        ill: "illustrated", // If it has illustrations, pop up the menu to ask what kind
         n: "novel",         // Tack `: a novel` onto the title
         pr: "price",        // Set the price
         pub: "publisher",   // Give it a publisher to prioritize looking for
@@ -149,18 +150,7 @@ async function init() {
         }
 
         if (argv.illustrated) {
-            const illusOptions = [
-                "Illustrated by author",
-                "Illustrated",
-                "Illustrated by photographs",
-                "Bound sheet music",
-                "Musical score",
-                "Full color illustrations",
-                "Full color photographs",
-                "Illustrated throughout",
-                "Photographs throughout",
-                "Photographs & illustrations"
-            ];
+            const illusOptions = require("./data/illustrations.js");
             const illRes = await askQuestion(`What sort of illustrations are they?\n\n${illusOptions.map((ill, ix) => `[${ix}] ${ill}`).join("\n")} \n\n`);
             if (Number.isInteger(parseInt(illRes)) && illusOptions[illRes]) {
                 bookInfoArr.push(`ILLUS=${illusOptions[illRes]}`);
@@ -248,14 +238,12 @@ function processArgv(oldArgs) {
         }
     }
 
-
-
     // Anything to be put in the edition field
     if (argv.bc) {
         // It's a book club book, so need to put that in the edition slot
         outArr.push("EDITION=BOOK CLUB");
     } else if (argv.later) {
-        // It's a large print edition, so put that in the edition slot
+        // It's a later printing, so put that in the edition slot
         outArr.push("EDITION=Later Printing");
     } else if (!argv.bc && argv.first) {
         // It's a first printing
@@ -306,6 +294,78 @@ function processArgv(oldArgs) {
         outArr.push("PRICE=" + argv.price);
     }
 
+    const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
+    const frenchStr = argv.french ? "FRENCH " : "";
+    if (argv.condition) {
+        let startStr = "";
+        const endStr = "Pages Clean & Tight.";
+        const condMap = require("./data/condStrings.js");
+        const conds = [];
+        const MAX_LEN = 64;
+
+        if (argv.pb) {
+            // Default condition to start with for pb books
+            startStr = `VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`;
+        } else if (argv.hc && argv.dj) {
+            // Default condition to start with for hc books with a dj
+            startStr = `VG/VG  ${remStr}PAGES CLEAN & TIGHT.`;
+        } else if (argv.hc) {
+            // Default condition to start with for hc books without a dj
+            //  - This will be vg in pictorial boards, cloth, etc
+            startStr = `VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`;
+        }
+        if (startStr?.length) {
+            conds.push(startStr);
+        }
+
+        if (typeof argv.condition === "string") {
+            const conditions = argv.condition.split(",");
+
+            for (const condition of conditions.map(k => k.toLowerCase())) {
+                if (Object.keys(condMap).indexOf(condition) > -1) {
+                    conds.push(condMap[condition]);
+                }
+            }
+        }
+        conds.push(endStr);
+
+        // See how many of the condition strings can fit into the fields
+        const condOut = {1: "", 2: ""};
+        for (const cond of conds) {
+            if (condOut[1].length + cond.length < MAX_LEN) {
+                // Stick the condition into the main condition area
+                condOut[1] += condOut[1].length ? "  " + cond : cond;
+            } else if (condOut[2].length + cond.length < MAX_LEN*2) {
+                // Stick the condition into the 2nd condition area
+                condOut[2] += condOut[2].length ? "  " + cond : cond;
+            } else {
+                // It's gotten too big so back out
+                console.log("The condition lines were too long to fit everything.");
+                break;
+            }
+        }
+        if (condOut[1].length) {
+            outArr.push(`COND=${condOut[1]}`);
+        }
+        if (condOut[2].length) {
+            outArr.push(`COND2=${condOut[2]}`);
+        }
+
+    } else {
+        // Work out some default conditions
+        if (argv.pb) {
+            // Default condition to start with for pb books
+            outArr.push(`COND=VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
+        } else if (argv.hc && argv.dj) {
+            // Default condition to start with for hc books with a dj
+            outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
+        } else if (argv.hc) {
+            // Default condition to start with for hc books without a dj
+            //  - This will be vg in pictorial boards, cloth, etc
+            outArr.push(`COND=VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`);
+        }
+    }
+
     if (argv.keywords) {
         let ix = 1;
         if (typeof argv.keywords === "string") {
@@ -313,8 +373,7 @@ function processArgv(oldArgs) {
             if (keywords.lengh > 5) return console.log("You can only have 5 keywords MAX.");
 
             for (const kw of keywords.map(k => k.toLowerCase())) {
-                // Check against a list of em somewhere up top
-                // If found, stick it in, else continue, maybe log it?
+                // Check against a list of em from data/keywordMap.js
                 if (Object.keys(kwMap).indexOf(kw) > -1) {
                     outArr.push(`KW${ix}=${kwMap[kw]}`);
                     ix += 1;
@@ -328,21 +387,6 @@ function processArgv(oldArgs) {
                 ix += 1;
             }
         }
-    }
-
-    // Work out some default conditions
-    const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
-    const frenchStr = argv.french ? "FRENCH " : "";
-    if (argv.pb) {
-        // Default condition to start with for pb books
-        outArr.push(`COND=VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
-    } else if (argv.hc && argv.dj) {
-        // Default condition to start with for hc books with a dj
-        outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
-    } else if (argv.hc) {
-        // Default condition to start with for hc books without a dj
-        //  - This will be vg in pictorial boards, cloth, etc
-        outArr.push(`COND=VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`);
     }
 
     return outArr;

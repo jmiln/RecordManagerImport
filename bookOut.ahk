@@ -156,6 +156,17 @@ if (strlen(PAGES)) {
     goUp(1)
 }
 
+if (strlen(COND2)) {
+    goDown(2)
+    sendRaw, %COND2%
+    if (strLen(COND2) > 64) {
+        goUp(3)
+    } else {
+        goUp(2)
+    }
+}
+
+
 ; Go back up to the comments field since that's the next edit I need
 goUp(9)
 
