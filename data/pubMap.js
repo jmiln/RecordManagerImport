@@ -81,6 +81,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Chronicle Books",
+        aliases: ["Chronicle"],
+        locations: ["San Francisco, CA."]
+    },
+    {
         name: "Daw Books, inc.",
         aliases: ["DAW"],
         locations: ["New York"]
@@ -196,6 +201,11 @@ module.exports = [
         name: "Harvet House Publishers",
         aliases: ["Harvest House"],
         locations: ["Eugene, OR."]
+    },
+    {
+        name: "Image Comics",
+        aliases: ["Image"],
+        locations: ["Berkeley, CA."]
     },
     {
         name: "Jove / Berkley",
