@@ -404,7 +404,7 @@ async function getPub(pubName, inLocs) {
     }
     for (const pub of pubMap) {
         if (pub.aliases.find(a => pubName.toLowerCase().includes(a.toLowerCase()))) {
-            if (Array.isArray(pub.name)) {
+            if (Array.isArray(pub.name)) {  // If it's an array, then there is more than one name to choose from
                 const OTHER_NUM = pub.name.length;
                 const chooseOtherStr = `\n[${OTHER_NUM}] Choose other`;
 
@@ -425,13 +425,15 @@ async function getPub(pubName, inLocs) {
                     out.pub = null;
                 }
                 break;
-            } else {
+            } else {    // Otherwise, it's just a string, so check if it's correct
                 const res = await askQuestion(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
                 if (["y", "yes"].includes(res.toLowerCase())) {
+                    // If it has the correct publisher, go ahead and use it
                     out.pub = pub.name;
                     inLocs.push(...pub.locations);
                     break;
                 } else if (["c", "cancel"].includes(res.toLowerCase())) {
+                    // If it's not, or you want to stop looking, this will break out and it'll just ignore the publishers
                     out.pub = null;
                     out.locs = null;
                     break;
@@ -446,9 +448,6 @@ async function getPub(pubName, inLocs) {
                     break;
                 }
             }
-            // if (out.pub?.length > 28) {
-            //     throw new Error(`Invalid pub name length: ${out.pub}`);
-            // }
         }
     }
 
@@ -468,7 +467,7 @@ async function getPub(pubName, inLocs) {
 
     if (inLocs?.length) {
         const stateRegex = /, [a-z]{2}$/i;
-        const longStateRegex = /, [a-z]{3,4}$/i;
+        const longStateRegex = /, [a-z]{3,4}\.*$/i;
         inLocs = inLocs.map(loc => {
             loc = loc.toLowerCase();
             if (loc.indexOf("new york") > -1) {
