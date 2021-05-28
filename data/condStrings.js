@@ -5,6 +5,12 @@ module.exports = {
     fewd: "Faint Edgewear to DJ.",
     lewd: "Light Edgewear to DJ.",
 
+    // General Wear
+    fw:  "Faint Wear.",
+    lw:  "Light Wear.",
+    fwd: "Faint Wear to DJ.",
+    lwd: "Light Wear to DJ.",
+
     djm: "DJ in Mylar Wrap.",
     lp:  "Large Print Edition.",
 

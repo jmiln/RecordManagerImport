@@ -43,18 +43,23 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "ballantine books",
-        aliases: ["ballantine"],
-        locations: ["new york"]
+        name: "Ballantine Books",
+        aliases: ["Ballantine"],
+        locations: ["New York"]
     },
     {
         name: "Balzer + Bray/Harper-collins",
-        aliases: ["Balzer"],
+        aliases: ["Balzer", "Bray"],
         locations: ["New York"]
     },
     {
         name: "Bantam Books",
         aliases: ["Bantam"],
+        locations: ["New York"]
+    },
+    {
+        name: "Beach Lane Books / S&S",
+        aliases: ["Beach Lane"],
         locations: ["New York"]
     },
     {
@@ -165,7 +170,7 @@ module.exports = [
     },
     {
         name: "Grand Central Publishing",
-        aliases: ["Grand Central"],
+        aliases: ["Grand Central", "Grand"],
         locations: ["New York", "Boston"]
     },
     {
@@ -185,12 +190,12 @@ module.exports = [
     },
     {
         name: "Harvet House Publishers",
-        aliases: ["Harvest House"],
+        aliases: ["Harvest House", "Harvest"],
         locations: ["Eugene, OR."]
     },
     {
         name: "Henry Holt & Company",
-        aliases: ["Holt"],
+        aliases: ["Henry", "Holt"],
         locations: ["New York"]
     },
     {
@@ -220,7 +225,7 @@ module.exports = [
     },
     {
         name: "Lake Union Publishing",
-        aliases: ["lake Union"],
+        aliases: ["Lake Union"],
         locations: ["Seattle, WA."]
     },
     {
@@ -420,7 +425,7 @@ module.exports = [
     },
     {
         name: "Thomas Dunne Books",
-        aliases: ["Thomas Dunne"],
+        aliases: ["Thomas Dunne", "Dunne"],
         locations: ["New York"]
     },
     {
