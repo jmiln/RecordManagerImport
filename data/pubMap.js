@@ -104,6 +104,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Delta / Random House",
+        aliases: ["Delta"],
+        locations: ["New York"]
+    },
+    {
         name: [
             "Dial Press",
             "Dial Press / Random"
@@ -432,6 +437,11 @@ module.exports = [
         name: "Thomas & Mercer",
         aliases: ["Thomas & Mercer"],
         locations: ["Seattle, WA."]
+    },
+    {
+        name: "Thomas Nelson, Inc.",
+        aliases: ["Thomas Nelson", "Nelson"],
+        locations: ["Nashville, TN."]
     },
     {
         name: "Tor: Tom Doherty Associates",

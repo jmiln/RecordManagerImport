@@ -80,7 +80,7 @@ sleep, 70
 
 ; 3 to author, but really 2 since from the cat field, it'll automatically go one
 ; more in when tabbed over
-SetKeyDelay, 30
+SetKeyDelay, 5
 goDown(3)
 if (strLen(AUTHOR)) {
     sendRaw, %AUTHOR%

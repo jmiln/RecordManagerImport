@@ -34,6 +34,7 @@ module.exports = {
     myt: "Mythology",
     nw:  "Northwest",
     obl: "Oprah's Book List",
+    par: "Paranormal",
     phi: "Philosophy",
     pho: "Photography",
     phy: "Physics",
