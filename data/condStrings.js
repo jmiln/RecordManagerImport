@@ -15,7 +15,7 @@ module.exports = {
     lp:  "Large Print Edition.",
 
     // Previous owner stuff
-    poad:  "Prev. Owner's address label inside.",
+    poad: "Prev. Owner's address label inside.",
     pona: "Prev. Owner's name inside.",
     pono: "Prev. Owner note indside.",
 
@@ -25,5 +25,10 @@ module.exports = {
     // Toning
     fton: "Faint toning to page edges.",
     lton: "Light toning to page edges.",
-    ton:  "Toning to page edges."
+    ton:  "Toning to page edges.",
+
+    // Something special
+    sig: "Signed by author.",
+    ins: "Inscribed to prev. owner.",
+    sigins: "Inscribed & Signed by author.",
 };

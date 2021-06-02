@@ -139,6 +139,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Down & Out Books",
+        aliases: ["Down & Out"],
+        locations: ["Lutz, FL."]
+    },
+    {
         name: "Dutton / Penguin",
         aliases: ["Dutton"],
         locations: ["New York"]
@@ -146,6 +151,16 @@ module.exports = [
     {
         name: "Ecco / Harper-Collins",
         aliases: ["Ecco"],
+        locations: ["New York"]
+    },
+    {
+        name: "Emily Bestler Books",
+        aliases: ["Emily Bestler", "Emily", "Bestler"],
+        locations: ["New York"]
+    },
+    {
+        name: "Farrar, Straus and Giroux",
+        aliases: ["Farrar", "Straus", "Giroux", "FSG"],
         locations: ["New York"]
     },
     {
@@ -177,6 +192,16 @@ module.exports = [
         name: "Grand Central Publishing",
         aliases: ["Grand Central", "Grand"],
         locations: ["New York", "Boston"]
+    },
+    {
+        name: "Hachette Books",
+        aliases: ["Hachette"],
+        locations: ["New York"]
+    },
+    {
+        name: "Harcourt, Inc.",
+        aliases: ["Harcourt"],
+        locations: ["Orlando, FL."]
     },
     {
         name: "Harmony Books / Random",
@@ -353,6 +378,11 @@ module.exports = [
         locations: ["Grand Rapids, MI."]
     },
     {
+        name: "Riverhead Books / Penguin",
+        aliases: ["Riverhead"],
+        locations: ["New York"]
+    },
+    {
         name: "Scholastic Press",
         aliases: ["Scholastic"],
         locations: ["New York"]
@@ -425,7 +455,7 @@ module.exports = [
             "St. Martin's Minotaur",
             "St. Martin's Press",
         ],
-        aliases: ["Martin"],
+        aliases: ["Martin", "Griffin"],
         locations: ["New York"]
     },
     {
@@ -449,7 +479,7 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Touchstone / Simon & Schuster",
+        name: "Touchstone/ Simon & Schuster",
         aliases: ["Touchstone"],
         locations: []
     },

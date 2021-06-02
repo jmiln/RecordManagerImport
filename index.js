@@ -111,7 +111,7 @@ async function init() {
             bookInfoArr.push(`AUTHOR=${authStr}`);
         }
 
-        if (argv.publisher) {
+        if (argv.publisher && argv.publisher?.length) {
             const {pub: chosenName, loc: pubLoc} = await getPub(argv.publisher);
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
@@ -456,7 +456,7 @@ async function getPub(pubName, inLocs) {
         if (["y", "yes"].includes(noRes.toLowerCase())) {
             const newPub = await askQuestion("What publisher should I search for?\n");
             out = await getPub(newPub);
-            if (out.locs.length) {
+            if (out.locs?.length) {
                 inLocs.push(...out.locs);
             }
         } else {
