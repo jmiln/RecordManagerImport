@@ -52,9 +52,7 @@ if (argv.help) {
     return console.log(helpArr.join("\n"));
 }
 
-if (argv.debug) {
-    console.log(`ArgV: \n${inspect(argv)}\n\n`);
-}
+debugLog("argV: ", argv);
 
 const isbn = process.argv[2];
 
@@ -178,8 +176,7 @@ async function init() {
 
         // if I have it set to debug, just return and print out what would go through
         if (argv.debug) {
-            console.log(bookInfoArr);
-            return;
+            return console.log(bookInfoArr);
         }
 
         await saveAndRun(bookInfoArr);
@@ -207,8 +204,7 @@ async function init() {
         }
 
         if (argv.debug) {
-            console.log(bookInfoArr);
-            return;
+            return console.log(bookInfoArr);
         }
 
         // Check if the info is correct, and if it should be run through to stick in RM
@@ -684,6 +680,19 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     }
 
     return `${title}${subtitle}${extraString}`;
+}
+
+function debugLog(text, other) {
+    if (argv.debug) {
+        if (other) {
+            // If there's an object or something you want logged, this way it whould behave better
+            console.log("\n[DEBUG] " + text);
+            console.log(inspect(other));
+            console.log("\n");
+        } else {
+            console.log("\n[DEBUG] " + text);
+        }
+    }
 }
 
 
