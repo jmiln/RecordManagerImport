@@ -33,6 +33,7 @@ module.exports = {
     mus: "Music",
     mys: "Mystery & Suspense",
     myt: "Mythology",
+    nob: "Nobel Prize Author",
     nw:  "Northwest",
     obl: "Oprah's Book List",
     par: "Paranormal",

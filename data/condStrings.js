@@ -27,8 +27,13 @@ module.exports = {
     lton: "Light toning to page edges.",
     ton:  "Toning to page edges.",
 
+    // Soiling to page edges
+    fsoi: "Faint soiling to page edges.",
+    lsoi: "Light soiling to page edges.",
+
     // Something special
     sig: "Signed by author.",
     ins: "Inscribed to prev. owner.",
     sigins: "Inscribed & Signed by author.",
+    siginsp: "Inscribed to Prev. Owner & Signed by author.",
 };

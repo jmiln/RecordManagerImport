@@ -33,6 +33,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Atlantic Monthly Press",
+        aliases: ["Atlantic"],
+        locations: ["New York"]
+    },
+    {
         name: "Atria Books / S&S",
         aliases: ["Atria"],
         locations: ["New York"]
@@ -89,6 +94,11 @@ module.exports = [
         name: "Chronicle Books",
         aliases: ["Chronicle"],
         locations: ["San Francisco, CA."]
+    },
+    {
+        name: "Crown Books / Random House",
+        aliases: ["Crown"],
+        locations: ["New York"]
     },
     {
         name: "Daw Books, inc.",
@@ -154,8 +164,18 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Ember / Random House",
+        aliases: ["Ember"],
+        locations: ["New York"]
+    },
+    {
         name: "Emily Bestler Books",
         aliases: ["Emily Bestler", "Emily", "Bestler"],
+        locations: ["New York"]
+    },
+    {
+        name: "Europa Editions",
+        aliases: ["Europa"],
         locations: ["New York"]
     },
     {
@@ -236,7 +256,7 @@ module.exports = [
     {
         name: "Houghton Mifflin Company",
         aliases: ["Houghton", "Mifflin"],
-        locations: []
+        locations: ["New York"]
     },
     {
         name: "Image Comics",
@@ -246,6 +266,11 @@ module.exports = [
     {
         name: "Jove / Berkley",
         aliases: ["Jove"],
+        locations: ["New York"]
+    },
+    {
+        name: "Katherine Tegen Books",
+        aliases: ["Katherine", "Tegen"],
         locations: ["New York"]
     },
     {
@@ -270,7 +295,7 @@ module.exports = [
     {
         name: "Mariner/Houghton Mifflin Co.",
         aliases: ["Mariner"],
-        locations: ["New York"]
+        locations: ["New York", "Boston"]
     },
     {
         name: "Minotaur Books",
@@ -320,7 +345,20 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Pantheon Books",
+        name: "Quirk Books",
+        aliases: ["Quirk"],
+        locations: ["Philadelphia, PA."]
+    },
+    {
+        name: "Pan Books",
+        aliases: ["Pan Books"],
+        locations: ["New York"]
+    },
+    {
+        name: [
+            "Pantheon Books",
+            "Pantheon Books/ Random House"
+        ],
         aliases: ["Pantheon"],
         locations: ["New York"]
     },
@@ -332,6 +370,16 @@ module.exports = [
     {
         name: "Pegasus Books",
         aliases: ["Pegasus"],
+        locations: ["New York"]
+    },
+    {
+        name: "Perennial / Harper-collins",
+        aliases: ["Perennial"],
+        locations: ["New York"]
+    },
+    {
+        name: "Philomel Books/ Random House",
+        aliases: ["Philomel"],
         locations: ["New York"]
     },
     {
@@ -370,6 +418,11 @@ module.exports = [
     {
         name: "Random House",
         aliases: ["Random", "Rand"],
+        locations: ["New York"]
+    },
+    {
+        name: "Razor Bill / Penguin Random",
+        aliases: ["Razor", "Bill"],
         locations: ["New York"]
     },
     {
