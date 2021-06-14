@@ -634,17 +634,26 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
 
     if (title.toLowerCase().indexOf("a novel") > -1) {
         // In case the ": a novel" is baked into the title instead of being a subtitle like it should
+        // If it is, then wipe it out from the title, then put it on how I need it
         title = title
             .replace(/\s*: a novel/i, "")
+            .replace(/\s*- a novel/i, "")
             .replace(/a novel/i, "");
         if (!subtitle?.length) {
             subtitle = ": a novel";
+        } else {
+            subtitle += " - a novel";
         }
     } else if (argv.novel) {
         // Or if I want to force it, just in case/ if it's not there and should be
         if (!subtitle?.length) {
             subtitle = ": a novel";
-        } else {
+        } else if (subtitle.indexOf("novel") < 0) {
+            // Make sure it's not in the subtitle already
+            subtitle = subtitle
+                .replace(/\s*: a novel/i, "")
+                .replace(/\s*- a novel/i, "")
+                .replace(/a novel/i, "");
             subtitle += " - a novel";
         }
     }
