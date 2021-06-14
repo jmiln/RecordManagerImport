@@ -372,7 +372,7 @@ module.exports = [
     {
         name: "Park Row Books",
         aliases: ["Park Row", "Park"],
-        locations: ["Toronto, Ontario"]
+        locations: ["Toronto", "Ontario"]
     },
     {
         name: "Pegasus Books",
