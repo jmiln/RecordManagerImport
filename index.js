@@ -58,9 +58,13 @@ if (argv.debug) {
 
 const isbn = process.argv[2];
 
-if (!isbn || (isbn.length !== 10 && isbn.length !== 13)) return console.log("Invalid isbn length");
+if (!isbn) {
+    return console.log("Missing ISBN.");
+} else if (isbn.length !== 10 && isbn.length !== 13) {
+    return console.log(`"${isbn}" is not a valid ISBN. (Invalid isbn length)`);
+}
 
-const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=data&format=json`;
+const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString().toUpperCase()}&jscmd=data&format=json`;
 
 let jsonOut = null;
 async function init() {
@@ -544,15 +548,15 @@ async function saveAndRun(infoArr) {
         .join("\n")
         .replace(/’/g, "'");
     // Write to a file, then pass that to the ahk
-    await fs.writeFileSync("./bookInfo.txt", bookInfoOut);
-    exec("C:/Users/Other/Desktop/Jeff/Fiddling/nodeAHK/bookOut.ahk", (error, stdout, stderror) => {
+    await fs.writeFileSync(__dirname + "/bookInfo.txt", bookInfoOut);
+    await exec(__dirname + "/bookOut.ahk", (error, stdout, stderror) => {
         console.log(error, stdout, stderror);
     });
 }
 
 
 async function readOld() {
-    const bookInfoIn = await fs.readFileSync("./bookInfo.txt", "utf-8");
+    const bookInfoIn = await fs.readFileSync(__dirname + "/bookInfo.txt", "utf-8");
     const outObj = {};
     const bookInfo = bookInfoIn.split("\n");
 
