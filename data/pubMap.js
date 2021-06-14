@@ -70,6 +70,7 @@ module.exports = [
     {
         name: [
             "Berkley Books",
+            "Berkley Books/Penguin Random",
             "Berkley Prime Crime"
         ],
         aliases: ["Berkley"],
@@ -94,6 +95,11 @@ module.exports = [
         name: "Chronicle Books",
         aliases: ["Chronicle"],
         locations: ["San Francisco, CA."]
+    },
+    {
+        name: "Crooked Lane Books",
+        aliases: ["Crooked"],
+        locations: ["New York"]
     },
     {
         name: "Crown Books / Random House",
@@ -143,7 +149,8 @@ module.exports = [
         name: [
             "Doubleday",
             "Doubleday & Company",
-            "Doubleday / Crime Club"
+            "Doubleday / Crime Club",
+            "Doubleday / Random House"
         ],
         aliases: ["Doubleday"],
         locations: ["New York"]
