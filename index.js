@@ -416,9 +416,29 @@ async function getPub(pubName, inLocs) {
     pubName = pubName.toLowerCase();
 
     // Filter down the list to only include ones that have matching aliases (May need to change this in the future)
-    const possiblePubs = pubMap.filter(p => p.aliases.find(a => pubName.includes(a.toLowerCase())));
+    let possiblePubs = pubMap.filter(pub => pub.aliases.find(a => pubName.includes(a.toLowerCase())));
+
+    // If it cannot find an alias that matches just right, try searching the aliases to see if any of them include the given string
+    if (!possiblePubs.length) {
+        possiblePubs = pubMap.filter(pub => pub.aliases.find(a => a.toLowerCase().includes(pubName)));
+    }
+
+    // Then if somehow, it cannot find a match in the aliases, check the names
+    if (!possiblePubs.length) {
+        possiblePubs = pubMap.filter(pub => {
+            let valid = false;
+            if (Array.isArray(pub.name)) {
+                valid = pub.name.find(n => n.toLowerCase().includes(pubName));
+            } else {
+                valid = pub.name.toLowerCase().includes(pubName);
+            }
+            return valid;
+        });
+    }
 
     const pubChoices = [];  // Fill it with objects with name/loc each
+
+    // Go through the matched publishers, and stick them into pubChoices with their possible locations
     for (const pub of possiblePubs) {
         if (Array.isArray(pub.name)) {
             for (const name of pub.name) {
