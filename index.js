@@ -322,10 +322,12 @@ function processArgv(oldArgs) {
         }
 
         if (typeof argv.condition === "string") {
-            const conditions = argv.condition.split(",");
+            const conditions = argv.condition.split(",").map(c => c.toLowerCase());
 
-            for (const condition of conditions.map(k => k.toLowerCase())) {
-                if (Object.keys(condMap).indexOf(condition) > -1) {
+            // Go through the condition map and check for matches, so it can keep the
+            // conditions in the order specified there
+            for (const condition of Object.keys(condMap)) {
+                if (conditions.indexOf(condition) > -1) {
                     conds.push(condMap[condition]);
                 }
             }
@@ -334,13 +336,15 @@ function processArgv(oldArgs) {
 
         // See how many of the condition strings can fit into the fields
         const condOut = {1: "", 2: ""};
+        let maxFirst = false; // If it needs to go into the 2nd, don't keep putting stuff into the first
         for (const cond of conds) {
-            if (condOut[1].length + cond.length < MAX_LEN) {
+            if (condOut[1].length + cond.length < MAX_LEN && !maxFirst) {
                 // Stick the condition into the main condition area
                 condOut[1] += condOut[1].length ? "  " + cond : cond;
             } else if (condOut[2].length + cond.length < MAX_LEN*2) {
                 // Stick the condition into the 2nd condition area
                 condOut[2] += condOut[2].length ? "  " + cond : cond;
+                maxFirst = true;
             } else {
                 // It's gotten too big so back out
                 console.log("The condition lines were too long to fit everything.");
