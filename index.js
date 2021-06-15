@@ -1,13 +1,14 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
-const { inspect } = require("util");  // eslint-disable-line no-unused-vars
+const { inspect } = require("util");
 const { exec } = require("child_process");
 
 const readline = require("readline");
 
-const helpArr  = require("./data/helpOut.js");
-const kwMap    = require("./data/keywordMap.js");
-const pubMap = require("./data/pubMap.js");
+const helpArr = require(__dirname + "/data/helpOut.js");
+const kwMap   = require(__dirname + "/data/keywordMap.js");
+const pubMap  = require(__dirname + "/data/pubMap.js");
+const locMap  = require(__dirname + "/data/locations.js"); // eslint-disable-line no-unused-vars
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
@@ -432,7 +433,7 @@ async function getPub(pubName, inLocs) {
         });
     }
 
-    const pubChoices = [];  // Fill it with objects with name/loc each
+    let pubChoices = [];  // Fill it with objects with name/loc each
 
     // Go through the matched publishers, and stick them into pubChoices with their possible locations
     for (const pub of possiblePubs) {
@@ -451,8 +452,10 @@ async function getPub(pubName, inLocs) {
         }
     }
 
+    pubChoices = pubChoices.sort((a, b) => a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1);
+
     // If there were matches, work through those and spit out the choices
-    if (pubChoices?.length) {
+    if (pubChoices?.length > 1) {
         const OTHER_NUM = pubChoices.length;
         const chooseOtherStr = `\n[${OTHER_NUM}] Choose other`;
 
@@ -472,6 +475,26 @@ async function getPub(pubName, inLocs) {
         } else if (parseInt(pubRes, 10) === CANCEL_NUM) {
             out.pub = null;
         }
+    } else if (pubChoices.length == 1) {
+        const pub = pubChoices[0];
+        const res = await askQuestion(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel\n`);
+        if (["y", "yes"].includes(res.toLowerCase())) {
+            // If it has the correct publisher, go ahead and use it
+            out.pub = pub.name;
+            inLocs.push(...pub.locations);
+        } else if (["c", "cancel"].includes(res.toLowerCase())) {
+            // If it's not, or you want to stop looking, this will break out and it'll just ignore the publishers
+            out.pub = null;
+            out.locs = null;
+        } else {
+            // If that's not what it should be, ask what should be there, then run the search again...
+            // This means sticking the publisher search stuff above into a function
+            const newPub = await askQuestion("What publisher should I search for?\n");
+            out = await getPub(newPub);
+            if (out.locs) {
+                inLocs.push(...out.locs);
+            }
+        }
     }
 
     // If it does not successfully find a publisher, ask if it should look for another, and get a new name to try
@@ -490,9 +513,28 @@ async function getPub(pubName, inLocs) {
     }
 
     // If there were any locations found for whatever publisher, format em and see which is correct
-    if (inLocs?.length) {
-        const stateRegex = /, [a-z]{2}$/i;
-        const longStateRegex = /, [a-z]{3,4}\.*$/i;
+    out.loc = await getLocs(inLocs);
+    out.locs = [out.loc];
+
+    return out;
+}
+
+// Given however many locations,
+//  * If more than one, ask which one
+//  * If none, ask to find one, and match against the location file
+//  * If only one, go ahead and accept it
+async function getLocs(inLocs=[]) { // eslint-disable-line no-unused-vars
+    if (!Array.isArray(inLocs)) {
+        inLocs = [inLocs];
+    }
+
+    debugLog("In getLocs, given locations are: ", inLocs);
+
+    const stateRegex = /, [a-z]{2}$/i;
+    const longStateRegex = /, [a-z]{3,4}\.*$/i;
+    let outLoc = null;
+
+    if (inLocs.length) {
         inLocs = inLocs.map(loc => {
             loc = loc.toLowerCase();
             if (loc.indexOf("new york") > -1) {
@@ -515,22 +557,45 @@ async function getPub(pubName, inLocs) {
         });
         inLocs = [...new Set(inLocs)];
 
-        let outLoc = null;
-        out.locs = inLocs;
-
         // If there is more than one location, let em choose
         if (inLocs?.length > 1) {
-            const locRes = await askQuestion(`I found these location(s): \n\n${inLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
+            const OTHER_NUM = inLocs.length;
+            const chooseOtherStr = `\n[${OTHER_NUM}] Choose other`;
+
+            const CANCEL_NUM = inLocs.length+1;
+            const cancelStr = `\n[${CANCEL_NUM}] Cancel`;
+
+            const locRes = await askQuestion(`I found these location(s), which one should I use?\n\n${inLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
             if (Number.isInteger(parseInt(locRes)) && inLocs[locRes]) {
                 outLoc = inLocs[locRes];
+            } else if (parseInt(locRes, 10) == OTHER_NUM) {
+                // Ask for something to search by, and run it through this again with the results from that
+                const targetLoc = await askQuestion("Which location are you looking for?\n\n");
+                const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
+                if (possibleLocs.length) {
+                    outLoc = getLocs(possibleLocs);
+                }
+            } else if (parseInt(locRes, 10) == CANCEL_NUM) {
+                // Cancel it/ send back nothing so it'll be left blank
+                return null;
             }
         } else if (inLocs?.length === 1) {
-            outLoc = inLocs[0];
+            return inLocs[0];
+        } else {
+            // There were no matching locations, so see if they want to find one
+            const locRes = await askQuestion("I did not find any matching locations, would you like to find one?\n");
+            if (["y", "yes"].includes(locRes.toLowerCase())) {
+                const targetLoc = await askQuestion("Which location are you looking for?\n\n");
+                const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
+                if (possibleLocs.length) {
+                    outLoc = getLocs(possibleLocs);
+                }
+            } else {
+                return null;
+            }
         }
-        out.loc = outLoc;
     }
-
-    return out;
+    return outLoc;
 }
 
 // If there's no pub given, ask if it's wanted
