@@ -312,7 +312,7 @@ module.exports = [
     {
         name: "Mira Books",
         aliases: ["Mira"],
-        locations: ["Toronto, Ontario"]
+        locations: ["Toronto", "Ontario"]
     },
     {
         name: [
