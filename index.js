@@ -80,7 +80,7 @@ async function init() {
         // ISBN=123123123131
         // TITLE=wheel of time
         // AUTHOR=jordan, robert
-        //
+
         // Take off "the", "a", etc from the start of titles, put the authors' last name first,
         // lowercase everything, since caps will be on, and we want it all caps (Unless it's an edited by or illustrated or something)
 
@@ -97,14 +97,14 @@ async function init() {
         if (jsonOut.authors && jsonOut.authors.length) {
             let authStr = "";
 
-            // Make sure that there are no duplicates
+            // Make sure that there are no duplicate authors
             const authSet = new Set(jsonOut.authors.map(a => a.name));
             const authArr = [...authSet];
 
             for (const auth of authArr) {
                 const name = auth.split(" ");
                 if (authStr.length) {
-                    // There's already an author there
+                    // There's already an author there, tack any more onto the end, split by a semicolon
                     authStr += `; ${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
                 } else {
                     // This is the first name
@@ -115,6 +115,7 @@ async function init() {
         }
 
         if (argv.publisher && argv.publisher?.length) {
+            // If there's a manually given publisher, look for that
             const {pub: chosenName, loc: pubLoc} = await getPub(argv.publisher);
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
@@ -123,6 +124,7 @@ async function init() {
                 }
             }
         } else if (jsonOut.publishers?.length && !argv.publisher) {
+            // If there's a publisher supplied from the api response, look for a match for that
             const pubName = jsonOut.publishers[0].name;
             let inLocs = null;
             if (jsonOut.publish_places?.length) {
@@ -147,11 +149,13 @@ async function init() {
             }
         }
 
+        // If the api gives a date, grab the year from that
         if (jsonOut.publish_date) {
             const date = new Date(jsonOut.publish_date).getUTCFullYear();
             bookInfoArr.push(`PUBDATE=${date}`);
         }
 
+        // If the illustrations flag is given, ask which one it should put, based on the options in data/illustrations.js
         if (argv.illustrated) {
             const illusOptions = require("./data/illustrations.js");
             const illRes = await askQuestion(`What sort of illustrations are they?\n\n${illusOptions.map((ill, ix) => `[${ix}] ${ill}`).join("\n")} \n\n`);
@@ -160,19 +164,13 @@ async function init() {
             }
         }
 
-        // This is where it'll work out the ISBN
-        if (jsonOut.identifiers) {
-            const ident = jsonOut.identifiers;
-            if (argv.isbn) {
-                isbn = argv.isbn.toString();
-            }
-            if (isbn && (isbn.length === 10 || isbn.length === 13)) {
-                bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
-            } else if (ident.isbn_13?.length) {
-                bookInfoArr.push(`ISBN13=${ident.isbn_13[0]}`);
-            } else if (ident.isbn_10?.length) {
-                bookInfoArr.push(`ISBN10=${ident.isbn_10[0]}`);
-            }
+        // Work out whatever isbn stuff for the output file
+        argv.isbn = argv.isbn.toString();
+        if (argv.isbn && (argv.isbn.length === 10 || argv.isbn.length === 13)) {
+            isbn = argv.isbn.toString();
+        }
+        if (isbn && (isbn.length === 10 || isbn.length === 13)) {
+            bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
         }
 
         // if I have it set to debug, just return and print out what would go through
@@ -180,6 +178,7 @@ async function init() {
             return console.log(bookInfoArr);
         }
 
+        // If it's not set to debug, go ahead and save the bookInfoArr to the file, and start up the ahk script
         await saveAndRun(bookInfoArr);
     } else {
         // This will offer to input the data you've provided if it cannot find more.
@@ -189,15 +188,16 @@ async function init() {
             bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
         }
 
+        // Work out the publisher if one is given
         if (argv.publisher) {
             const {pub: chosenName, locs: pubLocs} = await getPub(argv.publisher);
             if (chosenName) {
                 bookInfoArr.push(`PUB=${chosenName}`);
             }
             if (pubLocs.length > 1) {
-                const locRes = await askQuestion(`I found these location(s): \n\n${pubLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")} \n\nWhich one should I use? (N to cancel) \n`);
-                if (Number.isInteger(parseInt(locRes)) && pubLocs[locRes]) {
-                    bookInfoArr.push(`LOC=${pubLocs[locRes]}`);
+                const loc = await getLoc(pubLocs);
+                if (loc) {
+                    bookInfoArr.push(`LOC=${loc}`);
                 }
             } else if (pubLocs.length === 1) {
                 bookInfoArr.push(`LOC=${pubLocs[0]}`);
@@ -513,7 +513,7 @@ async function getPub(pubName, inLocs) {
     }
 
     // If there were any locations found for whatever publisher, format em and see which is correct
-    out.loc = await getLocs(inLocs);
+    out.loc = await getLoc(inLocs);
     out.locs = [out.loc];
 
     return out;
@@ -523,12 +523,12 @@ async function getPub(pubName, inLocs) {
 //  * If more than one, ask which one
 //  * If none, ask to find one, and match against the location file
 //  * If only one, go ahead and accept it
-async function getLocs(inLocs=[]) { // eslint-disable-line no-unused-vars
+async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
     if (!Array.isArray(inLocs)) {
         inLocs = [inLocs];
     }
 
-    debugLog("In getLocs, given locations are: ", inLocs);
+    debugLog("In getLoc, given locations are: ", inLocs);
 
     const stateRegex = /, [a-z]{2}$/i;
     const longStateRegex = /, [a-z]{3,4}\.*$/i;
@@ -573,7 +573,7 @@ async function getLocs(inLocs=[]) { // eslint-disable-line no-unused-vars
                 const targetLoc = await askQuestion("Which location are you looking for?\n\n");
                 const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
                 if (possibleLocs.length) {
-                    outLoc = getLocs(possibleLocs);
+                    outLoc = getLoc(possibleLocs);
                 }
             } else if (parseInt(locRes, 10) == CANCEL_NUM) {
                 // Cancel it/ send back nothing so it'll be left blank
@@ -588,7 +588,7 @@ async function getLocs(inLocs=[]) { // eslint-disable-line no-unused-vars
                 const targetLoc = await askQuestion("Which location are you looking for?\n\n");
                 const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
                 if (possibleLocs.length) {
-                    outLoc = getLocs(possibleLocs);
+                    outLoc = getLoc(possibleLocs);
                 }
             } else {
                 return null;
