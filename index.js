@@ -111,6 +111,15 @@ async function init() {
                     authStr = `${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
                 }
             }
+
+            // This solution via https://stackoverflow.com/a/37511463 since the multiple replaces below didn't work for whatever reason
+            authStr = authStr.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
+            // .replace(/á/g,    "a")          // Replace accented A's with a normal one
+            // .replace(/[éè]/g, "e")          // Replace accented E's with a normal one
+            // .replace(/í/g,    "i")          // Replace accented I's with a normal one
+            // .replace(/ñ/g,    "n")          // Replace accented N's with a normal one
+            // .replace(/ó/g,    "o")          // Replace accented O's with a normal one
+            // .replace(/[úü]/g, "u");         // Replace accented U's with a normal one
             bookInfoArr.push(`AUTHOR=${authStr}`);
         }
 
@@ -700,7 +709,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
         .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
         .replace(/\s\s+/g, " ")         // Replace multiple spaces with singles
-        .replace(/[éè]+/g, "e");        // Replace accented E's with a normal one
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
 
     const bcString = " - book club edition";
     const lpString = " - large print edition";
