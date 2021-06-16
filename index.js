@@ -90,7 +90,10 @@ async function init() {
             jsonOut = jsonOut[Object.keys(jsonOut)[0]];
         }
         if (jsonOut.title) {
-            const titleOut = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
+            const [titleOut, sub] = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
+            if (sub?.length) {
+                bookInfoArr.push(`SUB=${sub}`);
+            }
             bookInfoArr.push(`TITLE=${titleOut}`);
         }
 
@@ -246,9 +249,12 @@ function processArgv(oldArgs) {
                 argv.publisher = oldArgs.pub;
             } else if (rep === "ill" && oldArgs.ill) {
                 argv.illustrated = oldArgs.ill;
+            } else if (rep === "sub" && oldArgs.sub) {
+                argv.subtitle = oldArgs.sub;
             }
         }
     }
+    debugLog("OldArgs: ", oldArgs);
 
     // Anything to be put in the edition field
     if (argv.bc) {
@@ -688,6 +694,9 @@ async function readOld() {
         } else if (key === "price") {
             outObj.price = value;
             outObj.pr = value;
+        } else if (key === "sub") {
+            outObj.subtitle = value;
+            outObj.sub = value;
         }
     }
 
@@ -755,7 +764,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         }
     }
 
-    return `${title}${subtitle}${extraString}`;
+    return [`${title}${subtitle}${extraString}`, `${subtitle}${extraString}`];
 }
 
 function debugLog(text, other) {
