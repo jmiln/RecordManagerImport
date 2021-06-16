@@ -196,6 +196,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Forever Books / Hachette",
+        aliases: ["Forever"],
+        locations: ["New York"]
+    },
+    {
         name: "Forge/Tom Doherty Associates",
         aliases: ["Forge"],
         locations: ["New York"]

@@ -21,6 +21,7 @@ module.exports = {
 
     // Previous owner stuff
     poad: "Prev. Owner's address label inside.",
+    poin: "Prev. Owner's initials inside.",
     pona: "Prev. Owner's name inside.",
     pono: "Prev. Owner note indside.",
 
