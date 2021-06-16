@@ -165,9 +165,11 @@ async function init() {
         }
 
         // Work out whatever isbn stuff for the output file
-        argv.isbn = argv.isbn.toString();
-        if (argv.isbn && (argv.isbn.length === 10 || argv.isbn.length === 13)) {
-            isbn = argv.isbn.toString();
+        if (argv.isbn) {
+            argv.isbn = argv.isbn.toString();
+            if (argv.isbn.length === 10 || argv.isbn.length === 13) {
+                isbn = argv.isbn.toString();
+            }
         }
         if (isbn && (isbn.length === 10 || isbn.length === 13)) {
             bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
