@@ -7,7 +7,9 @@ module.exports = {
 
     // Remainders
     red: "Remainder Dot.",
+    remd: "Remainder Dot.",
     rem: "Remainder Mark.",
+    remm: "Remainder Mark.",
 
     // Edgewear
     few:  "Faint Edgewear.",
@@ -20,10 +22,11 @@ module.exports = {
     lp:  "Large Print Edition.",
 
     // Previous owner stuff
-    poad: "Prev. Owner's address label inside.",
-    poin: "Prev. Owner's initials inside.",
-    pona: "Prev. Owner's name inside.",
-    pono: "Prev. Owner note indside.",
+    poad:  "Prev. Owner's address label inside.",
+    poin:  "Prev. Owner's initials inside.",
+    poins: "Prev. Owner's inscription inside.",
+    pona:  "Prev. Owner's name inside.",
+    pono:  "Prev. Owner note indside.",
 
     // Toning
     fton: "Faint toning to page edges.",

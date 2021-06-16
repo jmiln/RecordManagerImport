@@ -305,6 +305,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Margaret K. McElderry Books",
+        aliases: ["Margaret", "McElderry"],
+        locations: ["New York"]
+    },
+    {
         name: "Mariner/Houghton Mifflin Co.",
         aliases: ["Mariner"],
         locations: ["New York", "Boston"]
@@ -546,7 +551,7 @@ module.exports = [
     {
         name: "Touchstone/ Simon & Schuster",
         aliases: ["Touchstone"],
-        locations: []
+        locations: ["New York"]
     },
     {
         name: "Tyndale House Publishers",

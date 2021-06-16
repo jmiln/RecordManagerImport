@@ -1,8 +1,10 @@
 module.exports = {
+    bio: "Biographies",
     bus: "Business",
     chi: "Children's Books",
     chr: "Christianity",
     cfi: "Crime Fiction",
+    civ: "American Civil War",
     coo: "Cooking",
     dnd: "Dungeons & Dragons",
     env: "Environment",
