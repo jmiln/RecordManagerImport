@@ -38,6 +38,8 @@ module.exports = {
     lsoi: "Light soiling to page edges.",
 
     // DJ stuff
+    fewb: "Faint Edgewear to Boards.",
+    lewb: "Light Edgewear to Boards.",
     fewd: "Faint Edgewear to DJ.",
     lewd: "Light Edgewear to DJ.",
     fwd: "Faint Wear to DJ.",

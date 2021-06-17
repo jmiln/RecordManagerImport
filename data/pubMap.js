@@ -68,6 +68,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Beacon Press",
+        aliases: ["Beacon"],
+        locations: ["Boston"]
+    },
+    {
         name: [
             "Berkley Books",
             "Berkley Books/Penguin Random",
@@ -92,6 +97,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Candlewick Press",
+        aliases: ["Candlewick"],
+        locations: ["Somerville, MA."]
+    },
+    {
         name: "Chronicle Books",
         aliases: ["Chronicle"],
         locations: ["San Francisco, CA."]
@@ -114,7 +124,7 @@ module.exports = [
     {
         name: [
             "Del Rey / Ballantine",
-            "Del Rey / Random"
+            "Del Rey / Random House"
         ],
         aliases: ["Del Rey"],
         locations: ["New York"]
@@ -322,7 +332,7 @@ module.exports = [
     {
         name: "Mira Books",
         aliases: ["Mira"],
-        locations: ["Toronto", "Ontario"]
+        locations: ["Toronto, Ontario"]
     },
     {
         name: [
@@ -382,7 +392,7 @@ module.exports = [
     {
         name: "Park Row Books",
         aliases: ["Park Row", "Park"],
-        locations: ["Toronto", "Ontario"]
+        locations: ["Toronto, Ontario"]
     },
     {
         name: "Pegasus Books",
@@ -450,6 +460,11 @@ module.exports = [
     {
         name: "Riverhead Books / Penguin",
         aliases: ["Riverhead"],
+        locations: ["New York"]
+    },
+    {
+        name: "ROC/ New American Library",
+        aliases: ["ROC"],
         locations: ["New York"]
     },
     {
