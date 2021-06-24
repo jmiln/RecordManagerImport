@@ -55,12 +55,14 @@ if (argv.help) {
 
 debugLog("argV: ", argv);
 
-const isbn = process.argv[2];
+let isbn = process.argv[2];
 
 if (!isbn) {
     return console.log("Missing ISBN.");
 } else if (isbn.length !== 10 && isbn.length !== 13) {
     return console.log(`"${isbn}" is not a valid ISBN. (Invalid isbn length)`);
+} else {
+    isbn = isbn.toString().toUpperCase();
 }
 
 const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString().toUpperCase()}&jscmd=data&format=json`;
