@@ -137,7 +137,7 @@ async function init() {
             }
         } else if (jsonOut.publishers?.length && !argv.publisher) {
             // If there's a publisher supplied from the api response, look for a match for that
-            const pubName = jsonOut.publishers[0].name;
+            const pubName = jsonOut.publishers.map(p => p.name).join(" ");
             let inLocs = null;
             if (jsonOut.publish_places?.length) {
                 inLocs = jsonOut.publish_places.map(loc => loc.name);
@@ -653,7 +653,9 @@ async function saveAndRun(infoArr) {
     // Write to a file, then pass that to the ahk
     await fs.writeFileSync(__dirname + "/bookInfo.txt", bookInfoOut);
     await exec(__dirname + "/bookOut.ahk", (error, stdout, stderror) => {
-        console.log(error, stdout, stderror);
+        if (error) {
+            console.log(error);
+        }
     });
 }
 
