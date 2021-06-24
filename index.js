@@ -518,13 +518,16 @@ async function getPub(pubName, inLocs) {
 
     // If it does not successfully find a publisher, ask if it should look for another, and get a new name to try
     if (!out.pub?.length) {
-        const noRes = await askQuestion(`I did not find any matches for ${pubName}, would you like to try again? (Y)es / (N)o\n`);
+        const noRes = await askQuestion(`I did not find any matches for ${pubName}, would you like to try again? (Y)es / (N)o / (U)se\n`);
         if (["y", "yes"].includes(noRes.toLowerCase())) {
             const newPub = await askQuestion("What publisher should I search for?\n");
             out = await getPub(newPub);
             if (out.locs?.length) {
                 inLocs.push(...out.locs);
             }
+        } else if (["u", "use"].includes(noRes.toLowerCase())) {
+            // Just go ahead and stick in what it finds, without needing to verify with the pubMap
+            out.pub = pubName;
         } else {
             out.pub = null;
             out.locs = null;

@@ -5,10 +5,6 @@
 
 - Add in the option to give a publisher manually, in case of a rare one/ one that never shows up?
 
-- Or, more commonly needed, is something to just tell it to go ahead and use the
-  publisher that it got from the json response, if it's not something that's already
-  listed/ doesn't have a match in the pubMap.
-
 - Let it check through any api supplied subjects so we can choose em for keywords (Subject/ subject places, maybe classifications?)
   https://openlibrary.org/api/books?bibkeys=ISBN:9781400034109&jscmd=data&format=json
 
