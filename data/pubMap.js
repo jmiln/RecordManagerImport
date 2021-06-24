@@ -33,7 +33,10 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Atlantic Monthly Press",
+        name: [
+            "Atlantic Monthly Press",
+            "Mysterious Press"
+        ],
         aliases: ["Atlantic"],
         locations: ["New York"]
     },
@@ -311,6 +314,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Llewellyn Publications",
+        aliases: ["Llewellyn"],
+        locations: ["St. Paul, MN."]
+    },
+    {
         name: [
             "Back Bay/Little, Brown & Co.",
             "Little, Brown & Company",
@@ -380,6 +388,11 @@ module.exports = [
         name: "Overlook Press / Peter Mayer",
         aliases: ["Overlook"],
         locations: ["Woodstock, NY.", "New York"]
+    },
+    {
+        name: "Oxford University Press",
+        aliases: ["Oxford"],
+        locations: ["Oxford"]
     },
     {
         name: "Quirk Books",
@@ -454,7 +467,7 @@ module.exports = [
     },
     {
         name: "Random House",
-        aliases: ["Random", "Rand"],
+        aliases: ["Random"],
         locations: ["New York"]
     },
     {
@@ -599,7 +612,7 @@ module.exports = [
         name: [
             "Vintage Books",
             "Vintage Classics",
-            "Vintage Contemporary",
+            "Vintage Contemporaries",
             "Vintage Crime / Black Lizard",
             "Vintage International"
         ],
