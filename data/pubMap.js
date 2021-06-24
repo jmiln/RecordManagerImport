@@ -137,7 +137,7 @@ module.exports = [
     {
         name: [
             "Dial Press",
-            "Dial Press / Random"
+            "Dial Press / Penguin Random"
         ],
         aliases: ["Dial"],
         locations: ["New York"]
@@ -306,6 +306,11 @@ module.exports = [
         locations: ["Seattle, WA."]
     },
     {
+        name: "Lee Boudreaux / Back Bay",
+        aliases: ["Lee", "Boudreaux"],
+        locations: ["New York"]
+    },
+    {
         name: [
             "Back Bay/Little, Brown & Co.",
             "Little, Brown & Company",
@@ -370,6 +375,11 @@ module.exports = [
         name: "Orbit / Hachette",
         aliases: ["Orbit"],
         locations: ["New York"]
+    },
+    {
+        name: "Overlook Press / Peter Mayer",
+        aliases: ["Overlook"],
+        locations: ["Woodstock, NY.", "New York"]
     },
     {
         name: "Quirk Books",
@@ -610,6 +620,11 @@ module.exports = [
         name: "William Morrow",
         aliases: ["William Morrow", "Morrow"],
         locations: ["New York"]
+    },
+    {
+        name: "Wizards of the Coast, Inc.",
+        aliases: ["Wizards"],
+        locations: ["Renton, WA"]
     },
     {
         name: "Workman Publishing",
