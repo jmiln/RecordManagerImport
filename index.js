@@ -352,7 +352,7 @@ function processArgv(oldArgs) {
         const condOut = {1: "", 2: ""};
         let maxFirst = false; // If it needs to go into the 2nd, don't keep putting stuff into the first
         for (const cond of conds) {
-            if (condOut[1].length + cond.length < MAX_LEN && !maxFirst) {
+            if ((condOut[1].length + cond.length + 2) < MAX_LEN && !maxFirst) {
                 // Stick the condition into the main condition area
                 condOut[1] += condOut[1].length ? "  " + cond : cond;
             } else if (condOut[2].length + cond.length < MAX_LEN*2) {
@@ -652,7 +652,7 @@ async function saveAndRun(infoArr) {
         .replace(/’/g, "'");
     // Write to a file, then pass that to the ahk
     await fs.writeFileSync(__dirname + "/bookInfo.txt", bookInfoOut);
-    await exec(__dirname + "/bookOut.ahk", (error, stdout, stderror) => {
+    await exec(__dirname + "/bookOut.ahk", (error) => {
         if (error) {
             console.log(error);
         }
