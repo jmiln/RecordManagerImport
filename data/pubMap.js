@@ -28,6 +28,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Arthur A. Levine Books",
+        aliases: ["Arthur"],
+        locations: ["New York"]
+    },
+    {
         name: "Atheneum Books / S&S",
         aliases: ["Atheneum"],
         locations: ["New York"]

@@ -3,12 +3,14 @@ const fs = require("fs");
 const { inspect } = require("util");
 const { exec } = require("child_process");
 
+
 const readline = require("readline");
 
-const helpArr = require(__dirname + "/data/helpOut.js");
-const kwMap   = require(__dirname + "/data/keywordMap.js");
-const pubMap  = require(__dirname + "/data/pubMap.js");
-const locMap  = require(__dirname + "/data/locations.js"); // eslint-disable-line no-unused-vars
+const authorMap = require(__dirname + "/data/authors.json"); // eslint-disable-line no-unused-vars
+const helpArr   = require(__dirname + "/data/helpOut.js");
+const kwMap     = require(__dirname + "/data/keywordMap.js");
+const locMap    = require(__dirname + "/data/locations.js");
+const pubMap    = require(__dirname + "/data/pubMap.js");
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
@@ -191,6 +193,7 @@ async function init() {
 
         // if I have it set to debug, just return and print out what would go through
         if (argv.debug) {
+            await saveToAuth(bookInfoArr);
             return console.log(bookInfoArr);
         }
 
@@ -223,6 +226,8 @@ async function init() {
         if (argv.debug) {
             return console.log(bookInfoArr);
         }
+
+        await saveToAuth(bookInfoArr);
 
         // Check if the info is correct, and if it should be run through to stick in RM
         const procRes = await askQuestion(`\n\n${bookInfoArr.join("\n")}\n\nGiven the previous info, should I put in what I know? (Y)es / (N)o\n`);
@@ -558,6 +563,7 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
 
     if (inLocs.length) {
         inLocs = inLocs.map(loc => {
+            if (!loc) return;
             loc = loc.toLowerCase();
             if (loc.indexOf("new york") > -1) {
                 loc = "new york";
@@ -662,6 +668,105 @@ async function saveAndRun(infoArr) {
             console.log(error);
         }
     });
+}
+
+
+// Save the book info to the authors file.
+// Author, Title, series
+//
+// Series ought to depend on the subtitle?
+//   - Wipe out `: a novel` / `- a novel`
+//   - Compare against other series' under the author to see if there's a match
+async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
+    const infoObj = {};
+    let updated = false;
+    infoArr.forEach(row => {
+        const [key, val] = row.split("=").map(e => e.toLowerCase());
+        if (["author", "title", "sub"].includes(key)) {
+            if (key == "sub") {
+                const num = val.match(/book (\d{1,3})/i);
+                if (num) {
+                    infoObj.number = num;
+                }
+                infoObj.sub = val.toProperCase();
+            } else {
+                infoObj[key] = val.toProperCase();
+            }
+        } else if (key === "pubdate") {
+            infoObj.pubDate = val;
+        }
+        if (infoObj.sub && infoObj.title) {
+            infoObj.title = infoObj.title.replace(infoObj.sub, "");
+        }
+    });
+
+    if (authorMap[infoObj.author]) {
+        if (infoObj.sub) {
+            // Fiddle with series here
+            infoObj.sub = infoObj.sub.replace("a novel", "").replace(/^[:-]/, "").trim();
+            if (infoObj.sub.length) {
+                // Make sure it wasn't just that little bit
+                for (const series of Object.keys(authorMap[infoObj.author])) {
+                    if (series.includes(infoObj.sub) || infoObj.sub.includes(series)) {
+                        if (authorMap[infoObj.author][series].find(t => t.title.toLowerCase() == infoObj.title.toLowerCase())) {
+                            // If the title already exists, back out
+                            console.log("[saveToAuth] Title already exists under the series: " + series);
+                            break;
+                        }
+                        const out = {
+                            title: infoObj.title,
+                            pubDate: infoObj.pubDate
+                        };
+                        if (infoObj.number) {
+                            out.number = infoObj.number;
+                        }
+                        console.log("Out (Series):");
+                        console.log(out);
+                        authorMap[infoObj.author][series].push(out);
+                        updated = true;
+                        break;
+                    }
+                }
+            }
+        }
+        // If it's gone through all the series', or doesn't have a subtitle, go ahead and check the standalones
+        if (!updated) {
+            if (!authorMap[infoObj.author].Standalone) authorMap[infoObj.author].Standalone = [];
+            if (authorMap[infoObj.author].Standalone.find(t => t.title.toLowerCase() == infoObj.title.toLowerCase())) {
+                // If the title already exists, back out
+                console.log("[saveToAuth] Standalone title already exists.");
+                return;
+            }
+            const out = {
+                title: infoObj.title,
+                pubDate: infoObj.pubDate
+            };
+            console.log("Out (Standalone):");
+            console.log(out);
+
+            authorMap[infoObj.author].Standalone.push(out);
+            updated = true;
+        }
+    } else {
+        // Author does not exist in the file
+        authorMap[infoObj.author] = {};
+        authorMap[infoObj.author].Standalone = [{
+            title: infoObj.title,
+            pubDate: infoObj.pubDate
+        }];
+        updated = true;
+    }
+
+    if (updated) {
+        // If something changed, JSON.stringify the authorMap, then save it back where it goes
+        console.log("Saving authors file:");
+        const data = JSON.stringify(authorMap, null, 4);
+        await fs.writeFileSync(__dirname + "/data/authors.json", data);
+    } else {
+        console.log("Nothing updated: " + updated);
+    }
+    console.log("SaveToAuth:");
+    console.log(infoObj);
 }
 
 
@@ -787,6 +892,12 @@ function debugLog(text, other) {
     }
 }
 
+// Like camel-case but with spaces
+String.prototype.toProperCase = function() {
+    return this.replace(/([^\W_]+[^\s-]*) */g, function(txt) {
+        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+    });
+};
 
 
 

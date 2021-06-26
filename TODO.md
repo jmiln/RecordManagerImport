@@ -20,3 +20,13 @@
             ...
         }
     }
+
+    - This has been started, and currently has a bunch of Patterson & Jance in there
+    - Need to work it out so that it checks against the 1st author, and if it matches one in
+      this, it will ask if you want to check against other titles by the author, then check
+      which of the series/ headers, then ask about the titles inside.
+
+    - This should be filtered by titles that are small enough to fit.
+
+    - Should probably change it to a json, so that each time a new book is put in, it will add
+      in automatically. Maybe under each of the different authors?
