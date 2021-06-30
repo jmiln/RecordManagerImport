@@ -56,6 +56,11 @@ module.exports = [
         locations: ["New York"]
     },
     {
+        name: "Baen Publishing / S&S",
+        aliases: ["Baen"],
+        locations: ["New York"]
+    },
+    {
         name: "Ballantine Books",
         aliases: ["Ballantine"],
         locations: ["New York"]
@@ -110,6 +115,11 @@ module.exports = [
         locations: ["Somerville, MA."]
     },
     {
+        name: "Caezik SF & Fantasy",
+        aliases: ["Caezik"],
+        locations: ["Rockville, MD."]
+    },
+    {
         name: "Chronicle Books",
         aliases: ["Chronicle"],
         locations: ["San Francisco, CA."]
@@ -140,6 +150,11 @@ module.exports = [
     {
         name: "Delta / Random House",
         aliases: ["Delta"],
+        locations: ["New York"]
+    },
+    {
+        name: "Delacorte Press / Random House",
+        aliases: ["Delacorte"],
         locations: ["New York"]
     },
     {

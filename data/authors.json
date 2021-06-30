@@ -12,6 +12,10 @@
             {
                 "title": "After The Fire",
                 "pubDate": "2013"
+            },
+            {
+                "title": "Cruel Intent",
+                "pubDate": "2019"
             }
         ],
         "Ali Reynolds": [
@@ -213,33 +217,6 @@
                 "pubDate": "2021"
             }
         ],
-        "Walker Family": [
-            {
-                "number": "1",
-                "title": "Hour of the Hunter ",
-                "pubDate": "1991"
-            },
-            {
-                "number": "2",
-                "title": "Kiss of the Bees ",
-                "pubDate": "2000"
-            },
-            {
-                "number": "3",
-                "title": "Day of the Dead ",
-                "pubDate": "2004"
-            },
-            {
-                "number": "4",
-                "title": "Queen of the Night ",
-                "pubDate": "2010"
-            },
-            {
-                "number": "5",
-                "title": "Dance of the Bones ",
-                "pubDate": "2015"
-            }
-        ],
         "J. P. Beaumont": [
             {
                 "number": "1",
@@ -381,493 +358,36 @@
                 "title": "Nothing to Lose",
                 "pubDate": "2022"
             }
-        ]
-    },
-    "Patterson, James": {
-        "Alex Cross": [
+        ],
+        "Walker Family": [
             {
                 "number": "1",
-                "title": "Along Came a Spider",
-                "pubDate": "1993"
+                "title": "Hour of the Hunter ",
+                "pubDate": "1991"
             },
             {
                 "number": "2",
-                "title": "Kiss the Girls",
-                "pubDate": "1994"
-            },
-            {
-                "number": "3",
-                "title": "Jack and Jill",
-                "pubDate": "1996"
-            },
-            {
-                "number": "4",
-                "title": "Cat and Mouse",
-                "pubDate": "1997"
-            },
-            {
-                "number": "6",
-                "title": "Roses Are Red",
+                "title": "Kiss of the Bees ",
                 "pubDate": "2000"
             },
             {
-                "number": "7",
-                "title": "Violets Are Blue",
-                "pubDate": "2001"
-            },
-            {
-                "number": "8",
-                "title": "Four Blind Mice",
-                "pubDate": "2002"
-            },
-            {
-                "number": "9",
-                "title": "The Big Bad Wolf",
-                "pubDate": "2001"
-            },
-            {
-                "number": "10",
-                "title": "London Bridges",
-                "pubDate": "2004"
-            },
-            {
-                "number": "11",
-                "title": "Mary Mary",
-                "pubDate": "2005"
-            },
-            {
-                "number": "12",
-                "title": "Cross",
-                "pubDate": "2006"
-            },
-            {
-                "number": "13",
-                "title": "Double Cross",
-                "pubDate": "2007"
-            },
-            {
-                "number": "14",
-                "title": "Cross Country",
-                "pubDate": "2008"
-            },
-            {
-                "number": "15",
-                "title": "Alex Cross's Trial",
-                "pubDate": "2009"
-            },
-            {
-                "number": "16",
-                "title": "I, Alex Cross",
-                "pubDate": "2009"
-            },
-            {
-                "number": "17",
-                "title": "Cross Fire",
-                "pubDate": "2010"
-            },
-            {
-                "number": "18",
-                "title": "Kill Alex Cross",
-                "pubDate": "2011"
-            },
-            {
-                "number": "19",
-                "title": "Merry Christmas, Alex Cross",
-                "pubDate": "2011"
-            },
-            {
-                "number": "20",
-                "title": "Alex Cross, Run",
-                "pubDate": "2013"
-            },
-            {
-                "number": "21",
-                "title": "Cross My Heart",
-                "pubDate": "2013"
-            },
-            {
-                "number": "22",
-                "title": "Hope to Die",
-                "pubDate": "2014"
-            },
-            {
-                "number": "23",
-                "title": "Cross Justice",
-                "pubDate": "2013"
-            },
-            {
-                "number": "24",
-                "title": "Cross the Line",
-                "pubDate": "2016"
-            },
-            {
-                "number": "24.4",
-                "title": "Cross Kill",
-                "pubDate": "2016"
-            },
-            {
-                "number": "24.5",
-                "title": "Detective Cross",
-                "pubDate": "2017"
-            },
-            {
-                "number": "27",
-                "title": "Criss Cross",
-                "pubDate": "2019"
-            },
-            {
-                "number": "28",
-                "title": "Deadly Cross",
-                "pubDate": "2020"
-            },
-            {
-                "number": "29",
-                "title": "Fear No Evil",
-                "pubDate": "2021"
-            }
-        ],
-        "Miracle": [
-            {
-                "number": "1",
-                "title": "Miracle on the 17th Green",
-                "pubDate": "1996"
-            },
-            {
-                "number": "2",
-                "title": "Miracle at Augusta",
-                "pubDate": "2015"
-            },
-            {
                 "number": "3",
-                "title": "Miracle at St Andrews",
-                "pubDate": "2019"
-            }
-        ],
-        "Women's Murder Club": [
-            {
-                "number": "1",
-                "title": "1st to Die",
-                "pubDate": "2001"
-            },
-            {
-                "number": "2",
-                "title": "2nd Chance",
-                "pubDate": "2002"
-            },
-            {
-                "number": "3",
-                "title": "3rd Degree",
+                "title": "Day of the Dead ",
                 "pubDate": "2004"
             },
             {
                 "number": "4",
-                "title": "4th of July",
-                "pubDate": "2005"
-            },
-            {
-                "number": "5",
-                "title": "The 5th Horseman",
-                "pubDate": "2006"
-            },
-            {
-                "number": "6",
-                "title": "The 6th Target",
-                "pubDate": "2007"
-            },
-            {
-                "number": "7",
-                "title": "7th Heaven",
-                "pubDate": "2007"
-            },
-            {
-                "number": "8",
-                "title": "8th Confession",
-                "pubDate": "2009"
-            },
-            {
-                "number": "9",
-                "title": "9th Judgment",
+                "title": "Queen of the Night ",
                 "pubDate": "2010"
             },
             {
-                "number": "10",
-                "title": "10th Anniversary",
-                "pubDate": "2011"
-            },
-            {
-                "number": "11",
-                "title": "11th Hour",
-                "pubDate": "2012"
-            },
-            {
-                "number": "12",
-                "title": "12th of Never",
-                "pubDate": "2013"
-            },
-            {
-                "number": "13",
-                "title": "Unlucky 13",
-                "pubDate": "2014"
-            },
-            {
-                "number": "14",
-                "title": "14th Deadly Sin",
-                "pubDate": "2015"
-            },
-            {
-                "number": "15",
-                "title": "15th Affair",
-                "pubDate": "2016"
-            },
-            {
-                "number": "15.5",
-                "title": "The Trial",
-                "pubDate": "2016"
-            },
-            {
-                "number": "16",
-                "title": "16th Seduction",
-                "pubDate": "2017"
-            },
-            {
-                "number": "16.5",
-                "title": "The Medical Examiner",
-                "pubDate": "2017"
-            },
-            {
-                "number": "17",
-                "title": "17th Suspect",
-                "pubDate": "2018"
-            },
-            {
-                "number": "18",
-                "title": "The 18th Abduction",
-                "pubDate": "2019"
-            },
-            {
-                "number": "19",
-                "title": "19th Christmas",
-                "pubDate": "2019"
-            },
-            {
-                "number": "20",
-                "title": "The 20th Victim",
-                "pubDate": "2020"
-            },
-            {
-                "number": "21",
-                "title": "21st Birthday",
-                "pubDate": "2021"
-            }
-        ],
-        "Maximum Ride": [
-            {
-                "number": "1",
-                "title": "The Angel Experiment",
-                "pubDate": "2005"
-            },
-            {
-                "number": "3",
-                "title": "Saving the World",
-                "pubDate": "2007"
-            },
-            {
-                "number": "4",
-                "title": "The Final Warning",
-                "pubDate": "2007"
-            },
-            {
                 "number": "5",
-                "title": "Max",
-                "pubDate": "2009"
-            },
-            {
-                "number": "6",
-                "title": "Fang",
-                "pubDate": "2010"
-            },
-            {
-                "number": "7",
-                "title": "Angel",
-                "pubDate": "2011"
-            },
-            {
-                "number": "8",
-                "title": "Nevermore",
-                "pubDate": "2012"
-            },
-            {
-                "number": "9",
-                "title": "Maximum Ride Forever",
+                "title": "Dance of the Bones ",
                 "pubDate": "2015"
             }
-        ],
-        "Michael Bennett": [
-            {
-                "number": "1",
-                "title": "Step on a Crack",
-                "pubDate": "2007"
-            },
-            {
-                "number": "2",
-                "title": "Run for Your Life",
-                "pubDate": "2009"
-            },
-            {
-                "number": "3",
-                "title": "Worst Case",
-                "pubDate": "2010"
-            },
-            {
-                "number": "4",
-                "title": "Tick Tock",
-                "pubDate": "2011"
-            },
-            {
-                "number": "5",
-                "title": "I, Michael Bennett",
-                "pubDate": "2012"
-            },
-            {
-                "number": "6",
-                "title": "Gone",
-                "pubDate": "2011"
-            },
-            {
-                "number": "7",
-                "title": "Burn",
-                "pubDate": "2014"
-            },
-            {
-                "number": "8",
-                "title": "Alert",
-                "pubDate": "2015"
-            },
-            {
-                "number": "9",
-                "title": "Bullseye",
-                "pubDate": "2016"
-            },
-            {
-                "number": "9.5",
-                "title": "Chase",
-                "pubDate": "2016"
-            },
-            {
-                "number": "10",
-                "title": "Haunted",
-                "pubDate": "2017"
-            },
-            {
-                "number": "10.5",
-                "title": "Manhunt",
-                "pubDate": "2017"
-            },
-            {
-                "number": "11",
-                "title": "Ambush",
-                "pubDate": "2018"
-            },
-            {
-                "number": "12",
-                "title": "Blindside",
-                "pubDate": "2020"
-            },
-            {
-                "number": "13",
-                "title": "The Russian",
-                "pubDate": "2021"
-            }
-        ],
-        "Private": [
-            {
-                "number": "1",
-                "title": "Private",
-                "pubDate": "2010"
-            },
-            {
-                "number": "2",
-                "title": "Private London",
-                "pubDate": "2011"
-            },
-            {
-                "number": "3",
-                "title": "Private Games",
-                "pubDate": "2012"
-            },
-            {
-                "number": "5",
-                "title": "Private Berlin",
-                "pubDate": "2012"
-            },
-            {
-                "number": "6",
-                "title": "Private Down Under",
-                "pubDate": "2013"
-            },
-            {
-                "number": "8",
-                "title": "Private India",
-                "pubDate": "2014"
-            },
-            {
-                "number": "9",
-                "title": "Private Vegas",
-                "pubDate": "2015"
-            },
-            {
-                "number": "10",
-                "title": "Private Sydney",
-                "pubDate": "2015"
-            },
-            {
-                "number": "11",
-                "title": "Private Paris",
-                "pubDate": "2016"
-            },
-            {
-                "number": "12",
-                "title": "The Games",
-                "pubDate": "2016"
-            },
-            {
-                "number": "13",
-                "title": "Private Delhi",
-                "pubDate": "2017"
-            },
-            {
-                "number": "14",
-                "title": "Princess",
-                "pubDate": "2018"
-            },
-            {
-                "number": "15",
-                "title": "Private Moscow",
-                "pubDate": "2020"
-            },
-            {
-                "number": "16",
-                "title": "Private Rogue",
-                "pubDate": "2021"
-            }
-        ],
-        "Black Book Thriller": [
-            {
-                "number": "1",
-                "title": "The Black Book",
-                "pubDate": "2017"
-            },
-            {
-                "number": "2",
-                "title": "The Red Book",
-                "pubDate": "2021"
-            },
-            {
-                "number": "3",
-                "title": "The Coldest Case",
-                "pubDate": "2021"
-            }
-        ],
+        ]
+    },
+    "Patterson, James": {
         "Standalone": [
             {
                 "title": "Thomas Berryman Number",
@@ -1121,13 +641,725 @@
                 "title": "Death of the Black Widow",
                 "pubDate": "2022"
             }
+        ],
+        "Alex Cross": [
+            {
+                "number": "1",
+                "title": "Along Came a Spider",
+                "pubDate": "1993"
+            },
+            {
+                "number": "2",
+                "title": "Kiss the Girls",
+                "pubDate": "1994"
+            },
+            {
+                "number": "3",
+                "title": "Jack and Jill",
+                "pubDate": "1996"
+            },
+            {
+                "number": "4",
+                "title": "Cat and Mouse",
+                "pubDate": "1997"
+            },
+            {
+                "number": "6",
+                "title": "Roses Are Red",
+                "pubDate": "2000"
+            },
+            {
+                "number": "7",
+                "title": "Violets Are Blue",
+                "pubDate": "2001"
+            },
+            {
+                "number": "8",
+                "title": "Four Blind Mice",
+                "pubDate": "2002"
+            },
+            {
+                "number": "9",
+                "title": "The Big Bad Wolf",
+                "pubDate": "2001"
+            },
+            {
+                "number": "10",
+                "title": "London Bridges",
+                "pubDate": "2004"
+            },
+            {
+                "number": "11",
+                "title": "Mary Mary",
+                "pubDate": "2005"
+            },
+            {
+                "number": "12",
+                "title": "Cross",
+                "pubDate": "2006"
+            },
+            {
+                "number": "13",
+                "title": "Double Cross",
+                "pubDate": "2007"
+            },
+            {
+                "number": "14",
+                "title": "Cross Country",
+                "pubDate": "2008"
+            },
+            {
+                "number": "15",
+                "title": "Alex Cross's Trial",
+                "pubDate": "2009"
+            },
+            {
+                "number": "16",
+                "title": "I, Alex Cross",
+                "pubDate": "2009"
+            },
+            {
+                "number": "17",
+                "title": "Cross Fire",
+                "pubDate": "2010"
+            },
+            {
+                "number": "18",
+                "title": "Kill Alex Cross",
+                "pubDate": "2011"
+            },
+            {
+                "number": "19",
+                "title": "Merry Christmas, Alex Cross",
+                "pubDate": "2011"
+            },
+            {
+                "number": "20",
+                "title": "Alex Cross, Run",
+                "pubDate": "2013"
+            },
+            {
+                "number": "21",
+                "title": "Cross My Heart",
+                "pubDate": "2013"
+            },
+            {
+                "number": "22",
+                "title": "Hope to Die",
+                "pubDate": "2014"
+            },
+            {
+                "number": "23",
+                "title": "Cross Justice",
+                "pubDate": "2013"
+            },
+            {
+                "number": "24",
+                "title": "Cross the Line",
+                "pubDate": "2016"
+            },
+            {
+                "number": "24.4",
+                "title": "Cross Kill",
+                "pubDate": "2016"
+            },
+            {
+                "number": "24.5",
+                "title": "Detective Cross",
+                "pubDate": "2017"
+            },
+            {
+                "number": "27",
+                "title": "Criss Cross",
+                "pubDate": "2019"
+            },
+            {
+                "number": "28",
+                "title": "Deadly Cross",
+                "pubDate": "2020"
+            },
+            {
+                "number": "29",
+                "title": "Fear No Evil",
+                "pubDate": "2021"
+            }
+        ],
+        "Black Book Thriller": [
+            {
+                "number": "1",
+                "title": "The Black Book",
+                "pubDate": "2017"
+            },
+            {
+                "number": "2",
+                "title": "The Red Book",
+                "pubDate": "2021"
+            },
+            {
+                "number": "3",
+                "title": "The Coldest Case",
+                "pubDate": "2021"
+            }
+        ],
+        "Maximum Ride": [
+            {
+                "number": "1",
+                "title": "The Angel Experiment",
+                "pubDate": "2005"
+            },
+            {
+                "number": "3",
+                "title": "Saving the World",
+                "pubDate": "2007"
+            },
+            {
+                "number": "4",
+                "title": "The Final Warning",
+                "pubDate": "2007"
+            },
+            {
+                "number": "5",
+                "title": "Max",
+                "pubDate": "2009"
+            },
+            {
+                "number": "6",
+                "title": "Fang",
+                "pubDate": "2010"
+            },
+            {
+                "number": "7",
+                "title": "Angel",
+                "pubDate": "2011"
+            },
+            {
+                "number": "8",
+                "title": "Nevermore",
+                "pubDate": "2012"
+            },
+            {
+                "number": "9",
+                "title": "Maximum Ride Forever",
+                "pubDate": "2015"
+            }
+        ],
+        "Michael Bennett": [
+            {
+                "number": "1",
+                "title": "Step on a Crack",
+                "pubDate": "2007"
+            },
+            {
+                "number": "2",
+                "title": "Run for Your Life",
+                "pubDate": "2009"
+            },
+            {
+                "number": "3",
+                "title": "Worst Case",
+                "pubDate": "2010"
+            },
+            {
+                "number": "4",
+                "title": "Tick Tock",
+                "pubDate": "2011"
+            },
+            {
+                "number": "5",
+                "title": "I, Michael Bennett",
+                "pubDate": "2012"
+            },
+            {
+                "number": "6",
+                "title": "Gone",
+                "pubDate": "2011"
+            },
+            {
+                "number": "7",
+                "title": "Burn",
+                "pubDate": "2014"
+            },
+            {
+                "number": "8",
+                "title": "Alert",
+                "pubDate": "2015"
+            },
+            {
+                "number": "9",
+                "title": "Bullseye",
+                "pubDate": "2016"
+            },
+            {
+                "number": "9.5",
+                "title": "Chase",
+                "pubDate": "2016"
+            },
+            {
+                "number": "10",
+                "title": "Haunted",
+                "pubDate": "2017"
+            },
+            {
+                "number": "10.5",
+                "title": "Manhunt",
+                "pubDate": "2017"
+            },
+            {
+                "number": "11",
+                "title": "Ambush",
+                "pubDate": "2018"
+            },
+            {
+                "number": "12",
+                "title": "Blindside",
+                "pubDate": "2020"
+            },
+            {
+                "number": "13",
+                "title": "The Russian",
+                "pubDate": "2021"
+            }
+        ],
+        "Miracle": [
+            {
+                "number": "1",
+                "title": "Miracle on the 17th Green",
+                "pubDate": "1996"
+            },
+            {
+                "number": "2",
+                "title": "Miracle at Augusta",
+                "pubDate": "2015"
+            },
+            {
+                "number": "3",
+                "title": "Miracle at St Andrews",
+                "pubDate": "2019"
+            }
+        ],
+        "Private": [
+            {
+                "number": "1",
+                "title": "Private",
+                "pubDate": "2010"
+            },
+            {
+                "number": "2",
+                "title": "Private London",
+                "pubDate": "2011"
+            },
+            {
+                "number": "3",
+                "title": "Private Games",
+                "pubDate": "2012"
+            },
+            {
+                "number": "5",
+                "title": "Private Berlin",
+                "pubDate": "2012"
+            },
+            {
+                "number": "6",
+                "title": "Private Down Under",
+                "pubDate": "2013"
+            },
+            {
+                "number": "8",
+                "title": "Private India",
+                "pubDate": "2014"
+            },
+            {
+                "number": "9",
+                "title": "Private Vegas",
+                "pubDate": "2015"
+            },
+            {
+                "number": "10",
+                "title": "Private Sydney",
+                "pubDate": "2015"
+            },
+            {
+                "number": "11",
+                "title": "Private Paris",
+                "pubDate": "2016"
+            },
+            {
+                "number": "12",
+                "title": "The Games",
+                "pubDate": "2016"
+            },
+            {
+                "number": "13",
+                "title": "Private Delhi",
+                "pubDate": "2017"
+            },
+            {
+                "number": "14",
+                "title": "Princess",
+                "pubDate": "2018"
+            },
+            {
+                "number": "15",
+                "title": "Private Moscow",
+                "pubDate": "2020"
+            },
+            {
+                "number": "16",
+                "title": "Private Rogue",
+                "pubDate": "2021"
+            }
+        ],
+        "Women's Murder Club": [
+            {
+                "number": "1",
+                "title": "1st to Die",
+                "pubDate": "2001"
+            },
+            {
+                "number": "2",
+                "title": "2nd Chance",
+                "pubDate": "2002"
+            },
+            {
+                "number": "3",
+                "title": "3rd Degree",
+                "pubDate": "2004"
+            },
+            {
+                "number": "4",
+                "title": "4th of July",
+                "pubDate": "2005"
+            },
+            {
+                "number": "5",
+                "title": "The 5th Horseman",
+                "pubDate": "2006"
+            },
+            {
+                "number": "6",
+                "title": "The 6th Target",
+                "pubDate": "2007"
+            },
+            {
+                "number": "7",
+                "title": "7th Heaven",
+                "pubDate": "2007"
+            },
+            {
+                "number": "8",
+                "title": "8th Confession",
+                "pubDate": "2009"
+            },
+            {
+                "number": "9",
+                "title": "9th Judgment",
+                "pubDate": "2010"
+            },
+            {
+                "number": "10",
+                "title": "10th Anniversary",
+                "pubDate": "2011"
+            },
+            {
+                "number": "11",
+                "title": "11th Hour",
+                "pubDate": "2012"
+            },
+            {
+                "number": "12",
+                "title": "12th of Never",
+                "pubDate": "2013"
+            },
+            {
+                "number": "13",
+                "title": "Unlucky 13",
+                "pubDate": "2014"
+            },
+            {
+                "number": "14",
+                "title": "14th Deadly Sin",
+                "pubDate": "2015"
+            },
+            {
+                "number": "15",
+                "title": "15th Affair",
+                "pubDate": "2016"
+            },
+            {
+                "number": "15.5",
+                "title": "The Trial",
+                "pubDate": "2016"
+            },
+            {
+                "number": "16",
+                "title": "16th Seduction",
+                "pubDate": "2017"
+            },
+            {
+                "number": "16.5",
+                "title": "The Medical Examiner",
+                "pubDate": "2017"
+            },
+            {
+                "number": "17",
+                "title": "17th Suspect",
+                "pubDate": "2018"
+            },
+            {
+                "number": "18",
+                "title": "The 18th Abduction",
+                "pubDate": "2019"
+            },
+            {
+                "number": "19",
+                "title": "19th Christmas",
+                "pubDate": "2019"
+            },
+            {
+                "number": "20",
+                "title": "The 20th Victim",
+                "pubDate": "2020"
+            },
+            {
+                "number": "21",
+                "title": "21st Birthday",
+                "pubDate": "2021"
+            }
         ]
     },
     "Baldacci, David": {
-        "Standalone": [
+        "Atlee Pine": [
             {
                 "title": "Daylight",
                 "pubDate": "2021"
+            }
+        ],
+        "Standalone": [
+            {
+                "title": "Gambling Man",
+                "pubDate": "2021"
+            }
+        ]
+    },
+    "Thayne, Raeanne": {
+        "Standalone": [
+            {
+                "title": "Christmas At Holiday House",
+                "pubDate": "2020"
+            },
+            {
+                "title": "Season Of Wonder",
+                "pubDate": "2018"
+            }
+        ]
+    },
+    "Wiseman, Beth": {
+        "Standalone": [
+            {
+                "title": "House That Love Built",
+                "pubDate": "2013"
+            }
+        ]
+    },
+    "Long, Kelly": {
+        "Standalone": [
+            {
+                "title": "Arms Of Love",
+                "pubDate": "2012"
+            },
+            {
+                "title": "Threads Of Grace",
+                "pubDate": "2013"
+            }
+        ]
+    },
+    "Lee, Sharon; Miller, Steve": {
+        "Standalone": [
+            {
+                "title": "Liaden Universe Constellation, Vol. 2",
+                "pubDate": "2014"
+            },
+            {
+                "title": "Liaden Universe Constellation Volume Iii (Baen)",
+                "pubDate": "2015"
+            }
+        ]
+    },
+    "Jordan, Robert": {
+        "Wheel of Time": [
+            {
+                "title": "Knife Of Dreams",
+                "pubDate": "2005",
+                "number": "11"
+            }
+        ]
+    },
+    "Sapkowski, Andrzej": {
+        "Standalone": [
+            {
+                "title": "Tower Of Fools",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "Weeks, Brent": {
+        "Lightbringer": [
+            {
+                "title": "Blood Mirror",
+                "pubDate": "2016",
+                "number": "4"
+            }
+        ]
+    },
+    "Heinlein, Robert A.; Weber, David": {
+        "Standalone": [
+            {
+                "title": "Pursuit Of The Pankera",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "Heinlein, Robert A.": {
+        "Standalone": [
+            {
+                "title": "Number Of The Beast",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "Flint, Eric; Spoor, Ryk E.": {
+        "Standalone": [
+            {
+                "title": "Castaway Resolution",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "Morris, Cass": {
+        "Standalone": [
+            {
+                "title": "Give Way To Night",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "Varley, John": {
+        "Standalone": [
+            {
+                "title": "Steel Beach",
+                "pubDate": "1992"
+            }
+        ]
+    },
+    "Stabenow, Dana": {
+        "Silk and Song": [
+            {
+                "title": "Everything Under The Heavens",
+                "pubDate": "2014"
+            }
+        ]
+    },
+    "Burke, James Lee": {
+        "Dave Robicheaux": [
+            {
+                "title": "Light Of The World",
+                "pubDate": "2013"
+            }
+        ]
+    },
+    "Hurwitz, Gregg": {
+        "Standalone": [
+            {
+                "title": "Out Of The Dark",
+                "pubDate": "2019"
+            }
+        ]
+    },
+    "Coben, Harlan": {
+        "Standalone": [
+            {
+                "title": "Win",
+                "pubDate": "2021"
+            }
+        ]
+    },
+    "Mills, Kyle": {
+        "Standalone": [
+            {
+                "title": "Red War",
+                "pubDate": "2018"
+            }
+        ]
+    },
+    "Daywalt, Drew": {
+        "Standalone": [
+            {
+                "title": "Day The Crayons Came Home",
+                "pubDate": "2015"
+            }
+        ]
+    },
+    "D'yans, Masha": {
+        "Standalone": [
+            {
+                "title": "Poem As Big As New York City Little Kids Write About The Big Apple",
+                "pubDate": "2012"
+            }
+        ]
+    },
+    "Lee, Stacey": {
+        "Standalone": [
+            {
+                "title": "Downstairs Girl",
+                "pubDate": "2019"
+            }
+        ]
+    },
+    "Meyer, Stephenie": {
+        "Standalone": [
+            {
+                "title": "Midnight Sun",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "King, Stephen": {
+        "Standalone": [
+            {
+                "title": "Under The Dome",
+                "pubDate": "2009"
+            }
+        ]
+    },
+    "Carr, Robyn": {
+        "Standalone": [
+            {
+                "title": "What We Find",
+                "pubDate": "2021"
+            }
+        ]
+    },
+    "O'reilly, Brian": {
+        "Standalone": [
+            {
+                "title": "Angelina's Bachelors",
+                "pubDate": "2011"
+            }
+        ]
+    },
+    "Wingate, Lisa": {
+        "Standalone": [
+            {
+                "title": "Beyond Summer",
+                "pubDate": "2010"
+            }
+        ]
+    },
+    "Ward, Jesmyn": {
+        "Standalone": [
+            {
+                "title": "Sing, Unburied, Sing",
+                "pubDate": "2018"
             }
         ]
     }

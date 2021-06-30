@@ -40,7 +40,7 @@ module.exports = {
     nob: "Nobel Prize Author",
     nw:  "Northwest",
     obl: "Oprah's Book List",
-    par: "Paranormal",
+    par: "Paranormal Fiction",
     phi: "Philosophy",
     pho: "Photography",
     phy: "Physics",
