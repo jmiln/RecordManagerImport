@@ -58,6 +58,7 @@ if (argv.help) {
 debugLog("argV: ", argv);
 
 let isbn = process.argv[2];
+let globalKWLen = null;
 
 if (!isbn) {
     return console.log("Missing ISBN.");
@@ -107,6 +108,7 @@ async function init() {
             // Make sure that there are no duplicate authors
             const authSet = new Set(jsonOut.authors.map(a => a.name));
             const authArr = [...authSet];
+            let firstAuth = null;
 
             for (const auth of authArr) {
                 const name = auth.split(" ");
@@ -116,18 +118,24 @@ async function init() {
                 } else {
                     // This is the first name
                     authStr = `${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
+                    firstAuth = authStr;
                 }
             }
 
             // This solution via https://stackoverflow.com/a/37511463 since the multiple replaces below didn't work for whatever reason
             authStr = authStr.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
-            // .replace(/á/g,    "a")          // Replace accented A's with a normal one
-            // .replace(/[éè]/g, "e")          // Replace accented E's with a normal one
-            // .replace(/í/g,    "i")          // Replace accented I's with a normal one
-            // .replace(/ñ/g,    "n")          // Replace accented N's with a normal one
-            // .replace(/ó/g,    "o")          // Replace accented O's with a normal one
-            // .replace(/[úü]/g, "u");         // Replace accented U's with a normal one
             bookInfoArr.push(`AUTHOR=${authStr}`);
+
+
+            if (5 - globalKWLen > 0) {
+                const kwTitles = await getFromAuthMap(firstAuth);
+                if (kwTitles?.length) {
+                    for (const title of kwTitles) {
+                        globalKWLen++;
+                        bookInfoArr.push(`kw${globalKWLen}=${title}`);
+                    }
+                }
+            }
         }
 
         if (argv.publisher && argv.publisher?.length) {
@@ -193,9 +201,11 @@ async function init() {
 
         // if I have it set to debug, just return and print out what would go through
         if (argv.debug) {
-            await saveToAuth(bookInfoArr);
             return console.log(bookInfoArr);
         }
+
+        // Save the author/ title info
+        await saveToAuth(bookInfoArr);
 
         // If it's not set to debug, go ahead and save the bookInfoArr to the file, and start up the ahk script
         await saveAndRun(bookInfoArr);
@@ -226,8 +236,6 @@ async function init() {
         if (argv.debug) {
             return console.log(bookInfoArr);
         }
-
-        await saveToAuth(bookInfoArr);
 
         // Check if the info is correct, and if it should be run through to stick in RM
         const procRes = await askQuestion(`\n\n${bookInfoArr.join("\n")}\n\nGiven the previous info, should I put in what I know? (Y)es / (N)o\n`);
@@ -417,6 +425,7 @@ function processArgv(oldArgs) {
                 ix += 1;
             }
         }
+        globalKWLen = ix-1;
     }
 
     return outArr;
@@ -686,7 +695,7 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
             if (key == "sub") {
                 const num = val.match(/book (\d{1,3})/i);
                 if (num) {
-                    infoObj.number = num;
+                    infoObj.number = num[1];
                 }
                 infoObj.sub = val.toProperCase();
             } else {
@@ -707,7 +716,7 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
             if (infoObj.sub.length) {
                 // Make sure it wasn't just that little bit
                 for (const series of Object.keys(authorMap[infoObj.author])) {
-                    if (series.includes(infoObj.sub) || infoObj.sub.includes(series)) {
+                    if (series.toLowerCase().includes(infoObj.sub.toLowerCase()) || infoObj.sub.toLowerCase().includes(series.toLowerCase())) {
                         if (authorMap[infoObj.author][series].find(t => t.title.toLowerCase() == infoObj.title.toLowerCase())) {
                             // If the title already exists, back out
                             console.log("[saveToAuth] Title already exists under the series: " + series);
@@ -720,8 +729,7 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
                         if (infoObj.number) {
                             out.number = infoObj.number;
                         }
-                        console.log("Out (Series):");
-                        console.log(out);
+                        debugLog("Out (Series):", out);
                         authorMap[infoObj.author][series].push(out);
                         updated = true;
                         break;
@@ -741,8 +749,7 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
                 title: infoObj.title,
                 pubDate: infoObj.pubDate
             };
-            console.log("Out (Standalone):");
-            console.log(out);
+            debugLog("Out (Standalone):", out);
 
             authorMap[infoObj.author].Standalone.push(out);
             updated = true;
@@ -769,6 +776,54 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
     console.log(infoObj);
 }
 
+async function getFromAuthMap(auth) {
+    const fromMap = authorMap[auth];
+    // debugLog("[getFromAuthMap] FromMap: ", fromMap);
+    if (!fromMap) return null;
+
+    const authSeries = Object.keys(fromMap);
+    // debugLog("[getFromAuthMap] authSeries: ", authSeries);
+    let series = null;
+
+    if (!authSeries.length) {
+        // This should be at least one entry long if the author is there
+        return null;
+    } else if (authSeries.length === 1) {
+        // If there's only one series entry, set it to that one
+        series = authSeries[0];
+    } else if (authSeries.length > 1) {
+        // If there's more than one entry for series, have em choose which to use
+        const seriesList = authSeries.map((s, ix) => `[${ix}] ${s}`).join("\n");
+        const res = await askQuestion(`Which of the following series' would you like to grab titles from?\n\n${seriesList}\n\n[c] Cancel\n\n`);
+        if (Number.isInteger(parseInt(res, 10)) && authSeries[res]) {
+            series = authSeries[res];
+        } else {
+            console.log("[getFromAuthMap] Invalid series choice, continuing...");
+        }
+    }
+
+    // debugLog("Series Out: ", series);
+
+    if (series && fromMap[series]) {
+        const outArr = [];
+        const titleList = fromMap[series].filter(book => book.title.length <= 19).map((book, ix) => `${`[${ix}]`.padEnd(5)} ${book.number ? `${book.number} - ` : ""}${book.title} (${book.pubDate})`).join("\n");
+        if (!titleList.length) return null;
+
+        const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n`);
+        if (!res || ["c", "cancel"].includes(res.toLowerCase())) {
+            return null;
+        } else {
+            const choices = res.split(",");
+            for (const choice of choices) {
+                if (fromMap[series][choice]) {
+                    outArr.push(fromMap[series][choice]);
+                }
+            }
+        }
+
+        return outArr.map(book => book.title).slice(0, 5-globalKWLen);
+    }
+}
 
 async function readOld() {
     const bookInfoIn = await fs.readFileSync(__dirname + "/bookInfo.txt", "utf-8");
