@@ -785,6 +785,7 @@ async function getFromAuthMap(auth, titleIn) {
     // debugLog("[getFromAuthMap] authSeries: ", authSeries);
     let series = null;
     let useAll = false;
+    let useAuto = false;
 
     if (!authSeries.length) {
         // This should be at least one entry long if the author is there
@@ -796,9 +797,12 @@ async function getFromAuthMap(auth, titleIn) {
         // If there's more than one entry for series, have em choose which to use
         const allNum = authSeries.length;
         const seriesList = authSeries.map((s, ix) => `[${ix}] ${s}`).join("\n");
-        const res = await askQuestion(`Which of the following series' would you like to grab titles from?\n\n${seriesList}\n\n[${allNum}] All of them\n\n[c] Cancel\n\n`);
+        const res = await askQuestion(`Which of the following series' would you like to grab titles from?\n\n${seriesList}\n\n[${allNum}] All of them\n\n[a] Auto (Grab the ${5-globalKWLen} newest)\n[c] Cancel\n\n`);
         if (allNum == parseInt(res, 10)) {
             useAll = true;
+        } else if (["a", "auto"].includes(res.toLowerCase())) {
+            useAll = true;
+            useAuto = true;
         } else if (Number.isInteger(parseInt(res, 10)) && authSeries[res]) {
             series = authSeries[res];
         } else {
@@ -814,23 +818,34 @@ async function getFromAuthMap(auth, titleIn) {
 
     const titleFilter = (book) => !(book.title.toLowerCase().includes(titleIn.toLowerCase()) || titleIn.toLowerCase().includes(book.title.toLowerCase()));
     const lengthFilter = (book) => book.title.length <= 19;
-    const titleMap = (book, ix) => `${`[${ix}]`.padEnd(5)} ${book.number ? `${book.number} - ` : ""}${book.title} (${book.pubDate})`;
+    const dateSort = (a, b) => parseInt(a.pubDate, 10) > parseInt(b.pubDate, 10) ? 1 : -1;
+    const titleMap = (book, ix) => `${`[${ix}]`.padEnd(5)} ${book.number && !useAll ? `${book.number} - ` : ""}${book.title} (${book.pubDate})`;
 
     if (useAll) {
         authSeries.forEach(s => {
             titles = titles.concat(...fromMap[s]);
         });
-        titles = titles.filter(titleFilter).filter(lengthFilter);
-        titleList = titles.map(titleMap).join("\n");
     } else if (series && fromMap[series]) {
-        titles = fromMap[series].filter(titleFilter).filter(lengthFilter);
-        titleList = titles.map(titleMap).join("\n");
+        titles = fromMap[series];
     }
+    titles = titles.filter(titleFilter).filter(lengthFilter).sort(dateSort);
+
+    if (useAuto) {
+        // Just grab the right number of titles automatically
+        return titles
+            .slice(titles.length - (5 - globalKWLen), titles.length)
+            .map(book => book.title);
+    }
+
+    titleList = titles.map(titleMap).join("\n");
     if (!titleList.length) return null;
 
-    const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n`);
+    const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n[a] Auto (Grab the newest ${5-globalKWLen})\n\n`);
     if (!res || ["c", "cancel"].includes(res.toLowerCase())) {
         return null;
+    } else if (["a", "auto"].includes(res.toLowerCase())) {
+        // If it's set to auto, just grab the last amount needed
+        outArr.push(...titles.slice(titles.length - (5 - globalKWLen), titles.length));
     } else {
         const choices = res.split(",");
         for (const choice of choices) {

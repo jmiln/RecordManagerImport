@@ -32,7 +32,7 @@
     - (DONE) Should probably change it to a json, so that each time a new book is put in, it will add
       in automatically. Maybe under each of the different authors?
 
-    - Possibly just grab the newest X titles from the matching series instead of choosing them (Or rather, ask if it should put put titles in, then grab em automatically)?
+    - (DONE) Possibly just grab the newest X titles from the matching series instead of choosing them (Or rather, ask if it should put put titles in, then grab em automatically)?
 
     - (DONE) Also make sure to filter out any matching titles so it's not a duplicate
 
