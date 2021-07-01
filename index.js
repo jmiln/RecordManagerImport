@@ -128,7 +128,7 @@ async function init() {
 
 
             if (5 - globalKWLen > 0) {
-                const kwTitles = await getFromAuthMap(firstAuth);
+                const kwTitles = await getFromAuthMap(firstAuth, jsonOut.title);
                 if (kwTitles?.length) {
                     for (const title of kwTitles) {
                         globalKWLen++;
@@ -776,7 +776,7 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
     console.log(infoObj);
 }
 
-async function getFromAuthMap(auth) {
+async function getFromAuthMap(auth, titleIn) {
     const fromMap = authorMap[auth];
     // debugLog("[getFromAuthMap] FromMap: ", fromMap);
     if (!fromMap) return null;
@@ -784,6 +784,7 @@ async function getFromAuthMap(auth) {
     const authSeries = Object.keys(fromMap);
     // debugLog("[getFromAuthMap] authSeries: ", authSeries);
     let series = null;
+    let useAll = false;
 
     if (!authSeries.length) {
         // This should be at least one entry long if the author is there
@@ -793,9 +794,12 @@ async function getFromAuthMap(auth) {
         series = authSeries[0];
     } else if (authSeries.length > 1) {
         // If there's more than one entry for series, have em choose which to use
+        const allNum = authSeries.length;
         const seriesList = authSeries.map((s, ix) => `[${ix}] ${s}`).join("\n");
-        const res = await askQuestion(`Which of the following series' would you like to grab titles from?\n\n${seriesList}\n\n[c] Cancel\n\n`);
-        if (Number.isInteger(parseInt(res, 10)) && authSeries[res]) {
+        const res = await askQuestion(`Which of the following series' would you like to grab titles from?\n\n${seriesList}\n\n[${allNum}] All of them\n\n[c] Cancel\n\n`);
+        if (allNum == parseInt(res, 10)) {
+            useAll = true;
+        } else if (Number.isInteger(parseInt(res, 10)) && authSeries[res]) {
             series = authSeries[res];
         } else {
             console.log("[getFromAuthMap] Invalid series choice, continuing...");
@@ -804,25 +808,40 @@ async function getFromAuthMap(auth) {
 
     // debugLog("Series Out: ", series);
 
-    if (series && fromMap[series]) {
-        const outArr = [];
-        const titleList = fromMap[series].filter(book => book.title.length <= 19).map((book, ix) => `${`[${ix}]`.padEnd(5)} ${book.number ? `${book.number} - ` : ""}${book.title} (${book.pubDate})`).join("\n");
-        if (!titleList.length) return null;
+    const outArr = [];
+    let titles = [];
+    let titleList = null;
 
-        const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n`);
-        if (!res || ["c", "cancel"].includes(res.toLowerCase())) {
-            return null;
-        } else {
-            const choices = res.split(",");
-            for (const choice of choices) {
-                if (fromMap[series][choice]) {
-                    outArr.push(fromMap[series][choice]);
-                }
+    const titleFilter = (book) => !(book.title.toLowerCase().includes(titleIn.toLowerCase()) || titleIn.toLowerCase().includes(book.title.toLowerCase()));
+    const lengthFilter = (book) => book.title.length <= 19;
+    const titleMap = (book, ix) => `${`[${ix}]`.padEnd(5)} ${book.number ? `${book.number} - ` : ""}${book.title} (${book.pubDate})`;
+
+    if (useAll) {
+        authSeries.forEach(s => {
+            titles = titles.concat(...fromMap[s]);
+        });
+        titles = titles.filter(titleFilter).filter(lengthFilter);
+        titleList = titles.map(titleMap).join("\n");
+    } else if (series && fromMap[series]) {
+        titles = fromMap[series].filter(titleFilter).filter(lengthFilter);
+        titleList = titles.map(titleMap).join("\n");
+    }
+    console.log(`BookIn: ${titleIn}\nbook.title: ${titles.map(b => b.title)}`);
+    if (!titleList.length) return null;
+
+    const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n`);
+    if (!res || ["c", "cancel"].includes(res.toLowerCase())) {
+        return null;
+    } else {
+        const choices = res.split(",");
+        for (const choice of choices) {
+            if (titles[choice]) {
+                outArr.push(titles[choice]);
             }
         }
-
-        return outArr.map(book => book.title).slice(0, 5-globalKWLen);
     }
+
+    return outArr.map(book => book.title).slice(0, 5-globalKWLen);
 }
 
 async function readOld() {
