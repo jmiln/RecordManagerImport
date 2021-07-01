@@ -826,7 +826,6 @@ async function getFromAuthMap(auth, titleIn) {
         titles = fromMap[series].filter(titleFilter).filter(lengthFilter);
         titleList = titles.map(titleMap).join("\n");
     }
-    console.log(`BookIn: ${titleIn}\nbook.title: ${titles.map(b => b.title)}`);
     if (!titleList.length) return null;
 
     const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n`);
