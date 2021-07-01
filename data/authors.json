@@ -1138,6 +1138,14 @@
             {
                 "title": "Gambling Man",
                 "pubDate": "2021"
+            },
+            {
+                "title": "Redemption",
+                "pubDate": "2019"
+            },
+            {
+                "title": "King And Maxwell",
+                "pubDate": "2014"
             }
         ]
     },
@@ -1360,6 +1368,82 @@
             {
                 "title": "Sing, Unburied, Sing",
                 "pubDate": "2018"
+            }
+        ]
+    },
+    "Riley, Lucinda": {
+        "Standalone": [
+            {
+                "title": "Royal Secret",
+                "pubDate": "2019"
+            }
+        ]
+    },
+    "Bowen, Rhys": {
+        "Standalone": [
+            {
+                "title": "Four Funerals And Maybe A Wedding",
+                "pubDate": "2019"
+            }
+        ]
+    },
+    "Todd, Charles": {
+        "Standalone": [
+            {
+                "title": "Racing The Devil",
+                "pubDate": "2018"
+            }
+        ]
+    },
+    "Harper, Jane": {
+        "Standalone": [
+            {
+                "title": "Dry",
+                "pubDate": "2018"
+            }
+        ]
+    },
+    "Lippman, Laura": {
+        "Standalone": [
+            {
+                "title": "Wilde Lake",
+                "pubDate": "2017"
+            }
+        ]
+    },
+    "Krueger, William Kent": {
+        "Standalone": [
+            {
+                "title": "Boundary Waters",
+                "pubDate": "2009"
+            },
+            {
+                "title": "Iron Lake",
+                "pubDate": "2009"
+            }
+        ]
+    },
+    "Crais, Robert": {
+        "Standalone": [
+            {
+                "title": "Promise",
+                "pubDate": "2015"
+            }
+        ]
+    },
+    "Flynn, Vince": {
+        "Standalone": [
+            {
+                "title": "Pursuit Of Honor",
+                "pubDate": "2021"
+            }
+        ]
+    },
+    "Monroe, Mary Alice": {
+        "Standalone": [
+            {
+                "title": "Swimming Lessons",
+                "pubDate": "2008"
             }
         ]
     }

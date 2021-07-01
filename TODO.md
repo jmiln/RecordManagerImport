@@ -34,4 +34,10 @@
 
     - Possibly just grab the newest X titles from the matching series instead of choosing them (Or rather, ask if it should put put titles in, then grab em automatically)?
 
-    - Also make sure to filter out any matching titles so it's not a duplicate
+    - (DONE) Also make sure to filter out any matching titles so it's not a duplicate
+
+
+At some point, I should just start logging all the books that come in, and save em to another json, so it can
+check that first before going to the api, so I can edit in subtitles and such as needed.  This would also give
+another spot to check for other titles, juse by filtering out the author then going from there.
+(Possible overhaul to the new authors file?)
