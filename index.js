@@ -835,21 +835,22 @@ async function getFromAuthMap(auth, titleIn) {
 
     if (useAuto) {
         // Just grab the right number of titles automatically
-        return titles
-            .slice(titles.length - (5 - globalKWLen), titles.length)
-            .map(book => book.title);
+        return titles.slice(5 - globalKWLen).map(book => book.title);
     }
 
+    // Map the titles out so they're listed nicely when it's printed
     titleList = titles.map(titleMap).join("\n");
     if (!titleList.length) return null;
 
     const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n[a] Auto (Grab the newest ${5-globalKWLen})\n\n`);
     if (!res || ["c", "cancel"].includes(res.toLowerCase())) {
+        // If we don't want to use any of the options, go ahead and back out
         return null;
     } else if (["a", "auto"].includes(res.toLowerCase())) {
         // If it's set to auto, just grab the last amount needed
         outArr.push(...titles.slice(globalKWLen-5));
     } else {
+        // If we just give it a bunch of numbers, split those up, and grab the specified titles
         const choices = res.split(",");
         for (const choice of choices) {
             if (titles[choice]) {
@@ -858,6 +859,7 @@ async function getFromAuthMap(auth, titleIn) {
         }
     }
 
+    // Make it send back just the titles, and only as many as we need
     return outArr.map(book => book.title).slice(0, 5-globalKWLen);
 }
 
