@@ -1502,5 +1502,89 @@
                 "pubDate": "2006"
             }
         ]
+    },
+    "Taylor, Brad": {
+        "Standalone": [
+            {
+                "title": "One Rough Man",
+                "pubDate": "2011"
+            }
+        ]
+    },
+    "Mccafferty, Keith": {
+        "Standalone": [
+            {
+                "title": "Royal Wulff Murders",
+                "pubDate": "2012"
+            }
+        ]
+    },
+    "Meltzer, Brad": {
+        "Standalone": [
+            {
+                "title": "Fifth Assassin",
+                "pubDate": "2013"
+            }
+        ]
+    },
+    "Forsyth, Frederick": {
+        "Standalone": [
+            {
+                "title": "Kill List",
+                "pubDate": "2013"
+            }
+        ]
+    },
+    "Berry, Steve": {
+        "Standalone": [
+            {
+                "title": "Third Secret",
+                "pubDate": "2005"
+            }
+        ]
+    },
+    "Connelly, Michael": {
+        "Standalone": [
+            {
+                "title": "Drop",
+                "pubDate": "2011"
+            }
+        ]
+    },
+    "Martini, Steve": {
+        "Paul Madriani": [
+            {
+                "title": "The Enemy Inside",
+                "pubDate": "2015"
+            }
+        ]
+    },
+    "Lehtolainen, Leena": {
+        "Standalone": [
+            {
+                "title": "My First Murder",
+                "pubDate": "2012"
+            }
+        ]
+    },
+    "Bates, Quentin": {
+        "Standalone": [
+            {
+                "title": "Frozen Assets",
+                "pubDate": "2011"
+            },
+            {
+                "title": "Cold Comfort",
+                "pubDate": "2011"
+            }
+        ]
+    },
+    "Hiekkapelto, Kati": {
+        "Standalone": [
+            {
+                "title": "The Defenceless",
+                "pubDate": "2015"
+            }
+        ]
     }
 }

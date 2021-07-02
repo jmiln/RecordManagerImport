@@ -99,6 +99,7 @@ async function init() {
             if (sub?.length) {
                 bookInfoArr.push(`SUB=${sub}`);
             }
+            bookInfoArr.push(`RAWTITLE=${jsonOut.title}`);
             bookInfoArr.push(`TITLE=${titleOut}`);
         }
 
@@ -691,13 +692,15 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
     let updated = false;
     infoArr.forEach(row => {
         const [key, val] = row.split("=").map(e => e.toLowerCase());
-        if (["author", "title", "sub"].includes(key)) {
+        if (["author", "rawtitle", "sub"].includes(key)) {
             if (key == "sub") {
                 const num = val.match(/book (\d{1,3})/i);
                 if (num) {
                     infoObj.number = num[1];
                 }
                 infoObj.sub = val.toProperCase();
+            } else if (key == "rawtitle") {
+                infoObj.title = val.toProperCase();
             } else {
                 infoObj[key] = val.toProperCase();
             }
