@@ -1420,6 +1420,10 @@
             {
                 "title": "Iron Lake",
                 "pubDate": "2009"
+            },
+            {
+                "title": "Mercy Falls",
+                "pubDate": "2009"
             }
         ]
     },
@@ -1584,6 +1588,70 @@
             {
                 "title": "The Defenceless",
                 "pubDate": "2015"
+            }
+        ]
+    },
+    "Cook, John L.": {
+        "Standalone": [
+            {
+                "title": "Rescue Under Fire",
+                "pubDate": "1998"
+            }
+        ]
+    },
+    "Wright, James": {
+        "Standalone": [
+            {
+                "title": "Enduring Vietnam: An American Generation And Its War",
+                "pubDate": "2017"
+            }
+        ]
+    },
+    "Stanton, Doug": {
+        "Standalone": [
+            {
+                "title": "The Odyssey Of Echo Company",
+                "pubDate": "2017"
+            }
+        ]
+    },
+    "Cullison, Marc": {
+        "Standalone": [
+            {
+                "title": "The Other Vietnam War",
+                "pubDate": "2015"
+            }
+        ]
+    },
+    "Markaris, Petros": {
+        "Standalone": [
+            {
+                "title": "Deadline In Athens",
+                "pubDate": "2005"
+            }
+        ]
+    },
+    "Mattich, Alen": {
+        "Standalone": [
+            {
+                "title": "Zagreb Cowboy",
+                "pubDate": "2012"
+            }
+        ]
+    },
+    "Siger, Jeffrey": {
+        "Standalone": [
+            {
+                "title": "Murder In Mykonos An Inspector Kaaldis Novel",
+                "pubDate": "2011"
+            }
+        ]
+    },
+    "Bowen, Peter; Meskimen, Jim": {
+        "Standalone": [
+            {
+                "title": "Wolf, No Wolf",
+                "pubDate": "2018"
             }
         ]
     }

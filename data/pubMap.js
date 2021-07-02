@@ -384,8 +384,6 @@ module.exports = [
         aliases: [
             "Nan A. Talese/Doubleday",
             "Nan A. Talese",
-            "Nan",
-            "Talese"
         ],
         locations: ["New York"]
     },

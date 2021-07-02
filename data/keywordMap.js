@@ -63,6 +63,7 @@ module.exports = {
     usp: "U. S. Presidents",
     us:  "United States",
     vie: "Vietnam War",
+    vic: "Vietnam Conflict",
     wes: "Westerns",
     wpo: "World Politics",
     ww1: "World War I",
