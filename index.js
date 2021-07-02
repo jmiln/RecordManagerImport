@@ -848,7 +848,7 @@ async function getFromAuthMap(auth, titleIn) {
         return null;
     } else if (["a", "auto"].includes(res.toLowerCase())) {
         // If it's set to auto, just grab the last amount needed
-        outArr.push(...titles.slice(titles.length - (5 - globalKWLen), titles.length));
+        outArr.push(...titles.slice(globalKWLen-5));
     } else {
         const choices = res.split(",");
         for (const choice of choices) {
