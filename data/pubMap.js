@@ -391,7 +391,7 @@ module.exports = [
     },
     {
         name: "New American Library",
-        aliases: ["New American Library", "New", "American"],
+        aliases: ["New American Library"],
         locations: ["New York"]
     },
     {

@@ -1446,5 +1446,61 @@
                 "pubDate": "2008"
             }
         ]
+    },
+    "Books, Stackpole": {
+        "Standalone": [
+            {
+                "title": "Hunters Shooting Guide",
+                "pubDate": "1991"
+            }
+        ]
+    },
+    "Mccaughrean, Geraldine": {
+        "Standalone": [
+            {
+                "title": "Peter Pan In Scarlet",
+                "pubDate": "2006"
+            }
+        ]
+    },
+    "Schwab, Victoria; Schwab, Ve; Schwab, V. E.": {
+        "Standalone": [
+            {
+                "title": "Gathering Of Shadows (A Darker Shade Of Magic)",
+                "pubDate": "2016"
+            }
+        ]
+    },
+    "James, Marlon": {
+        "Standalone": [
+            {
+                "title": "John Crow's Devil",
+                "pubDate": "2015"
+            }
+        ]
+    },
+    "Quinn, Kate": {
+        "Standalone": [
+            {
+                "title": "Alice Network",
+                "pubDate": "2017"
+            }
+        ]
+    },
+    "Fitzgerald, F. Scott": {
+        "Standalone": [
+            {
+                "title": "Great Gatsby",
+                "pubDate": "1995"
+            }
+        ]
+    },
+    "Mccarthy, Cormac": {
+        "Standalone": [
+            {
+                "title": "Road",
+                "pubDate": "2006"
+            }
+        ]
     }
 }
