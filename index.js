@@ -95,11 +95,11 @@ async function init() {
             jsonOut = jsonOut[Object.keys(jsonOut)[0]];
         }
         if (jsonOut.title) {
-            const [titleOut, sub] = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
+            const [titleOut, sub, rawTitle] = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
             if (sub?.length) {
                 bookInfoArr.push(`SUB=${sub}`);
             }
-            bookInfoArr.push(`RAWTITLE=${jsonOut.title}`);
+            bookInfoArr.push(`RAWTITLE=${rawTitle}`);
             bookInfoArr.push(`TITLE=${titleOut}`);
         }
 
@@ -969,7 +969,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         }
     }
 
-    return [`${title}${subtitle}${extraString}`, `${subtitle}${extraString}`];
+    return [`${title}${subtitle}${extraString}`, `${subtitle}${extraString}`, title];
 }
 
 function debugLog(text, other) {

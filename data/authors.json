@@ -1467,7 +1467,7 @@
             }
         ]
     },
-    "Schwab, Victoria; Schwab, Ve; Schwab, V. E.": {
+    "Schwab, Victoria": {
         "Darker Shade of Magic": [
             {
                 "title": "Gathering Of Shadows",
@@ -1558,7 +1558,7 @@
     "Martini, Steve": {
         "Paul Madriani": [
             {
-                "title": "The Enemy Inside",
+                "title": "Enemy Inside",
                 "pubDate": "2015"
             }
         ]
@@ -1586,7 +1586,7 @@
     "Hiekkapelto, Kati": {
         "Standalone": [
             {
-                "title": "The Defenceless",
+                "title": "Defenceless",
                 "pubDate": "2015"
             }
         ]
@@ -1610,7 +1610,7 @@
     "Stanton, Doug": {
         "Standalone": [
             {
-                "title": "The Odyssey Of Echo Company",
+                "title": "Odyssey Of Echo Company",
                 "pubDate": "2017"
             }
         ]
@@ -1618,7 +1618,7 @@
     "Cullison, Marc": {
         "Standalone": [
             {
-                "title": "The Other Vietnam War",
+                "title": "Other Vietnam War",
                 "pubDate": "2015"
             }
         ]
@@ -1642,7 +1642,8 @@
     "Siger, Jeffrey": {
         "Standalone": [
             {
-                "title": "Murder In Mykonos An Inspector Kaaldis Novel",
+                "title": "Murder In Mykonos",
+                "sub": "An Inspector Kaaldis Novel",
                 "pubDate": "2011"
             }
         ]
@@ -1652,6 +1653,26 @@
             {
                 "title": "Wolf, No Wolf",
                 "pubDate": "2018"
+            }
+        ]
+    },
+    "Traviss, Karen": {
+        "Standalone": [
+            {
+                "title": "No Prisoners: Star Wars",
+                "pubDate": "2009"
+            }
+        ]
+    },
+    "Johnson, Craig": {
+        "Standalone": [
+            {
+                "title": "Highwayman",
+                "pubDate": "2017"
+            },
+            {
+                "title": "Next To Last Stand",
+                "pubDate": "2020"
             }
         ]
     }
