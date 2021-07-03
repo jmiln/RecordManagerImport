@@ -74,11 +74,19 @@ let jsonOut = null;
 async function init() {
     const oldArgs = await readOld();
     const bookInfoArr = processArgv(oldArgs);
+    const oldBooks = require("./data/bookLog.json");
 
-    await fetch(API_URL)
-        .then((res) => res.json())
-        .then((json) => jsonOut = json)
-        .catch((err) => console.log(err));
+    const oldJsonOut = oldBooks.find(ob => ob.isbn == isbn);
+    if (oldJsonOut) {
+        debugLog(`Found older data for ${isbn}, using that.`);
+        jsonOut = oldJsonOut;
+    } else {
+        debugLog(`No old data found for ${isbn}, trying to fetch new.`);
+        await fetch(API_URL)
+            .then((res) => res.json())
+            .then((json) => jsonOut = json)
+            .catch((err) => console.log(err));
+    }
 
     if (jsonOut && Object.keys(jsonOut).length) {
         // Format all the info as it will be needed, ex:
@@ -94,10 +102,11 @@ async function init() {
             isbn = Object.keys(jsonOut)[0].split(":")[1];
             jsonOut = jsonOut[Object.keys(jsonOut)[0]];
         }
+        let titleOut, subtitle, rawTitle = null;
         if (jsonOut.title) {
-            const [titleOut, sub, rawTitle] = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
-            if (sub?.length) {
-                bookInfoArr.push(`SUB=${sub}`);
+            [titleOut, subtitle, rawTitle] = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
+            if (subtitle?.length) {
+                bookInfoArr.push(`SUB=${subtitle}`);
             }
             bookInfoArr.push(`RAWTITLE=${rawTitle}`);
             bookInfoArr.push(`TITLE=${titleOut}`);
@@ -139,11 +148,14 @@ async function init() {
             }
         }
 
+        let chosenPub = null, pubLoc = null;
         if (argv.publisher && argv.publisher?.length) {
             // If there's a manually given publisher, look for that
-            const {pub: chosenName, loc: pubLoc} = await getPub(argv.publisher);
-            if (chosenName) {
-                bookInfoArr.push(`PUB=${chosenName}`);
+            const {pub, loc} = await getPub(argv.publisher);
+            chosenPub = pub ? pub : null;
+            pubLoc = loc ? loc : null;
+            if (chosenPub) {
+                bookInfoArr.push(`PUB=${chosenPub}`);
                 if (pubLoc) {
                     bookInfoArr.push(`LOC=${pubLoc}`);
                 }
@@ -156,18 +168,22 @@ async function init() {
                 inLocs = jsonOut.publish_places.map(loc => loc.name);
             }
 
-            const {pub: chosenName, loc: pubLoc} = await getPub(pubName, inLocs);
-            if (chosenName) {
-                bookInfoArr.push(`PUB=${chosenName}`);
+            const {pub, loc} = await getPub(pubName, inLocs);
+            chosenPub = pub ? pub : null;
+            pubLoc = loc ? loc : null;
+            if (chosenPub) {
+                bookInfoArr.push(`PUB=${chosenPub}`);
                 if (pubLoc) {
                     bookInfoArr.push(`LOC=${pubLoc}`);
                 }
             }
         } else {
             // There's no pub given/ found, so ask
-            const {pub: chosenName, loc: pubLoc} = await getEmptyPub();
-            if (chosenName) {
-                bookInfoArr.push(`PUB=${chosenName}`);
+            const {pub, loc} = await getEmptyPub();
+            chosenPub = pub ? pub : null;
+            pubLoc = loc ? loc : null;
+            if (chosenPub) {
+                bookInfoArr.push(`PUB=${chosenPub}`);
                 if (pubLoc) {
                     bookInfoArr.push(`LOC=${pubLoc}`);
                 }
@@ -175,8 +191,9 @@ async function init() {
         }
 
         // If the api gives a date, grab the year from that
+        let date = null;
         if (jsonOut.publish_date) {
-            const date = new Date(jsonOut.publish_date).getUTCFullYear();
+            date = new Date(jsonOut.publish_date).getUTCFullYear();
             bookInfoArr.push(`PUBDATE=${date}`);
         }
 
@@ -207,6 +224,31 @@ async function init() {
 
         // Save the author/ title info
         await saveToAuth(bookInfoArr);
+
+        // Format the jsonOut data to only keep the bits that matter
+        if (!oldBooks.find(ob => ob.isbn == isbn)) {
+            const jsonToSave = {
+                isbn: isbn,
+                title: rawTitle,
+                subtitle: subtitle,
+                authors: jsonOut.authors.map(a => { return {name: a.name};}),
+                publish_date: date,
+                publishers: [
+                    {
+                        name: chosenPub
+                    }
+                ],
+                publish_places: [
+                    {
+                        name: pubLoc
+                    }
+                ]
+            };
+
+            oldBooks.push(jsonToSave);
+            const booksToSave = JSON.stringify(oldBooks, null, 4);
+            await saveBooks(booksToSave);
+        }
 
         // If it's not set to debug, go ahead and save the bookInfoArr to the file, and start up the ahk script
         await saveAndRun(bookInfoArr);
@@ -666,6 +708,9 @@ async function askQuestion(query) {
 
 // Run through all the data to make it all lowercase so it can be put in with caps lock on, then
 // save it to the file and run the ahk script to actually put it into Record Manager
+async function saveBooks(bookJson) {
+    await fs.writeFileSync(__dirname + "/data/bookLog.json", bookJson);
+}
 async function saveAndRun(infoArr) {
     const bookInfoOut = infoArr
         .map(e => e.toLowerCase())

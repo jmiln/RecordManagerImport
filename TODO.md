@@ -7,7 +7,3 @@
   https://openlibrary.org/api/books?bibkeys=ISBN:9781400034109&jscmd=data&format=json
 
 
-At some point, I should just start logging all the books that come in, and save em to another json, so it can
-check that first before going to the api, so I can edit in subtitles and such as needed.  This would also give
-another spot to check for other titles, juse by filtering out the author then going from there.
-(Possible overhaul to the new authors file?)

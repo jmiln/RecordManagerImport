@@ -1675,5 +1675,53 @@
                 "pubDate": "2020"
             }
         ]
+    },
+    "Rosenberg, Joel C.": {
+        "Standalone": [
+            {
+                "title": "Auschwitz Escape",
+                "pubDate": "2014"
+            }
+        ]
+    },
+    "Bernhardt, William": {
+        "Standalone": [
+            {
+                "title": "Death Row",
+                "pubDate": "2003"
+            }
+        ]
+    },
+    "Copeland, Lori": {
+        "Standalone": [
+            {
+                "title": "Drifter",
+                "pubDate": "2005"
+            }
+        ]
+    },
+    "Ball, Donna": {
+        "Standalone": [
+            {
+                "title": "Year On Ladybug Farm",
+                "pubDate": "2009"
+            }
+        ]
+    },
+    "Deutsch, Dennis E. Showalter And Harold C.": {
+        "Standalone": [
+            {
+                "title": "If The Allies Had Fallen",
+                "pubDate": "2014"
+            }
+        ]
+    },
+    "Showalter, Dennis E.; Deutsch, Harold C.": {
+        "Standalone": [
+            {
+                "title": "If The Allies Had Fallen",
+                "pubDate": "1970"
+            }
+        ]
     }
 }

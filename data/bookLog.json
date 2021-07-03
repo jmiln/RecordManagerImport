@@ -1,0 +1,71 @@
+[
+    {
+        "isbn": "9780425225875",
+        "title": "year on Ladybug Farm",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": 2009,
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781606712382",
+        "title": "If the Allies Had Fallen",
+        "subtitle": ": Sixty Alternate Scenarios of World War II",
+        "authors": [
+            {
+                "name": "Dennis E. Showalter"
+            },
+            {
+                "name": "Harold C. Deutsch"
+            }
+        ],
+        "publish_date": 2014,
+        "publishers": [
+            {
+                "name": "mjf books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": null,
+        "title": "If the Allies Had Fallen",
+        "subtitle": ": : Sixty Alternate Scenarios of World War II",
+        "authors": [
+            {
+                "name": "Dennis E. Showalter"
+            },
+            {
+                "name": "Harold C. Deutsch"
+            }
+        ],
+        "publish_date": 1970,
+        "publishers": [
+            {
+                "name": "mjf books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    }
+]
