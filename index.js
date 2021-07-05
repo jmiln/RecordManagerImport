@@ -231,9 +231,9 @@ async function init() {
             const jsonToSave = {
                 isbn: isbn,
                 title: rawTitle,
-                subtitle: subtitle,
+                subtitle: subtitle?.replace(/^:/, "").trim(),
                 authors: jsonOut.authors.map(a => { return {name: a.name};}),
-                publish_date: date.toString()
+                publish_date: date.toString(),
                 publishers: [
                     {
                         name: chosenPub
@@ -744,7 +744,7 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
                 if (num) {
                     infoObj.number = num[1];
                 }
-                infoObj.sub = val.toProperCase();
+                infoObj.sub = val.replace(/^:\s*/, "").toProperCase();
             } else if (key == "rawtitle") {
                 infoObj.title = val.toProperCase();
             } else {
