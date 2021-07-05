@@ -109,5 +109,275 @@
                 "name": "boston"
             }
         ]
+    },
+    {
+        "isbn": "9781609450786",
+        "title": "My Brilliant Friend",
+        "subtitle": ": Book One of the Naepolitan Novels",
+        "authors": [
+            {
+                "name": "Elena Ferrante"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062684561",
+        "title": "Unsheltered",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Barbara Kingsolver"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442497092",
+        "title": "Death weavers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brandon Mull"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Aladdin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142402511",
+        "title": "Looking for Alaska",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Green"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593189801",
+        "title": "Q Is for Quarry",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sue Grafton"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316478830",
+        "title": "Injustice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538751572",
+        "title": "Judge & Jury",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Andrew Gross"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501194221",
+        "title": "Her One Mistake",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Heidi Perks"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635574203",
+        "title": "This is Happiness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Niall Williams"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401212339",
+        "title": "Wonder Woman",
+        "subtitle": "Who is Wonder Woman?",
+        "authors": [
+            {
+                "name": "Allan Heinberg"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "dc comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401268800",
+        "title": "Wonder Woman",
+        "subtitle": "Year one",
+        "authors": [
+            {
+                "name": "Greg Rucka"
+            },
+            {
+                "name": "Nicola Scott"
+            },
+            {
+                "name": "Romulo Fajardo Jr."
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "dc comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, CA."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401267780",
+        "title": "Wonder Woman",
+        "subtitle": "Volume One, The Lies",
+        "authors": [
+            {
+                "name": "Greg Rucka"
+            },
+            {
+                "name": "Liam Sharp"
+            },
+            {
+                "name": "Laura Martin"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "DC Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "burbank, ca."
+            }
+        ]
     }
 ]

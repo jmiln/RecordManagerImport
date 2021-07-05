@@ -5,6 +5,11 @@ module.exports = [
         locations: ["London"]
     },
     {
+        name: "Aladdin / Simon & Schuster",
+        aliases: ["Aladdin"],
+        locations: ["New York"]
+    },
+    {
         name: "Alfred A. Knopf",
         aliases: ["Knopf", "Alfred"],
         locations: ["New York"]
@@ -133,6 +138,14 @@ module.exports = [
         name: "Crown Books / Random House",
         aliases: ["Crown"],
         locations: ["New York"]
+    },
+    {
+        name: "DC Comics",
+        aliases: [],
+        locations: [
+            "New York",
+            "Burbank, CA."
+        ]
     },
     {
         name: "Daw Books, inc.",

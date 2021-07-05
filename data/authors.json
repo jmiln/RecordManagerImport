@@ -640,6 +640,10 @@
             {
                 "title": "Death of the Black Widow",
                 "pubDate": "2022"
+            },
+            {
+                "title": "Injustice",
+                "pubDate": "2018"
             }
         ],
         "Alex Cross": [
@@ -1737,6 +1741,87 @@
             {
                 "title": "July, July",
                 "pubDate": "2014"
+            }
+        ]
+    },
+    "Ferrante, Elena": {
+        "Neapolitan": [
+            {
+                "title": "My Brilliant Friend",
+                "pubDate": "2012",
+                "number": 1
+            }
+        ]
+    },
+    "Kingsolver, Barbara": {
+        "Standalone": [
+            {
+                "title": "Unsheltered",
+                "pubDate": "2018"
+            }
+        ]
+    },
+    "Mull, Brandon": {
+        "Standalone": [
+            {
+                "title": "Death Weavers",
+                "pubDate": "2016"
+            }
+        ]
+    },
+    "Green, John": {
+        "Standalone": [
+            {
+                "title": "Looking For Alaska",
+                "pubDate": "2006"
+            }
+        ]
+    },
+    "Grafton, Sue": {
+        "Standalone": [
+            {
+                "title": "Q Is For Quarry",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "Patterson, James; Gross, Andrew": {
+        "Standalone": [
+            {
+                "title": "Judge & Jury",
+                "pubDate": "2006"
+            }
+        ]
+    },
+    "Perks, Heidi": {
+        "Standalone": [
+            {
+                "title": "Her One Mistake",
+                "pubDate": "2019"
+            }
+        ]
+    },
+    "Williams, Niall": {
+        "Standalone": [
+            {
+                "title": "This Is Happiness",
+                "pubDate": "2019"
+            }
+        ]
+    },
+    "Heinberg, Allan": {
+        "Standalone": [
+            {
+                "title": "Wonder Woman",
+                "pubDate": "2008"
+            }
+        ]
+    },
+    "Rucka, Greg": {
+        "Standalone": [
+            {
+                "title": "Wonder Woman",
+                "pubDate": "2017"
             }
         ]
     }
