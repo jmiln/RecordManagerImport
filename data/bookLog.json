@@ -67,5 +67,47 @@
                 "name": "new york"
             }
         ]
+    },
+    {
+        "isbn": "9780593085233",
+        "title": "Bookshop of the Broken Hearted",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Hillman"
+            }
+        ],
+        "publish_date": 2020,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780544217577",
+        "title": "July, July",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tim O'Brien"
+            }
+        ],
+        "publish_date": 2014,
+        "publishers": [
+            {
+                "name": "Mariner/Houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "boston"
+            }
+        ]
     }
 ]

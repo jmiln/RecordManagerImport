@@ -80,6 +80,7 @@ async function init() {
     if (oldJsonOut) {
         debugLog(`Found older data for ${isbn}, using that.`);
         jsonOut = oldJsonOut;
+        debugLog("Old data:", jsonOut);
     } else {
         debugLog(`No old data found for ${isbn}, trying to fetch new.`);
         await fetch(API_URL)
@@ -193,7 +194,7 @@ async function init() {
         // If the api gives a date, grab the year from that
         let date = null;
         if (jsonOut.publish_date) {
-            date = new Date(jsonOut.publish_date).getUTCFullYear();
+            date = new Date(jsonOut.publish_date.toString()).getUTCFullYear();
             bookInfoArr.push(`PUBDATE=${date}`);
         }
 
@@ -232,7 +233,7 @@ async function init() {
                 title: rawTitle,
                 subtitle: subtitle,
                 authors: jsonOut.authors.map(a => { return {name: a.name};}),
-                publish_date: date,
+                publish_date: date.toString()
                 publishers: [
                     {
                         name: chosenPub

@@ -1723,5 +1723,21 @@
                 "pubDate": "1970"
             }
         ]
+    },
+    "Hillman, Robert": {
+        "Standalone": [
+            {
+                "title": "Bookshop Of The Broken Hearted",
+                "pubDate": "2020"
+            }
+        ]
+    },
+    "O'brien, Tim": {
+        "Standalone": [
+            {
+                "title": "July, July",
+                "pubDate": "2014"
+            }
+        ]
     }
 }
