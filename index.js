@@ -41,6 +41,7 @@ const argv = require("minimist")(process.argv.slice(2), {
         help: "help",       // Print out the help info, don't do anything else
         fill: "fill",       // Fill in the extra keyword slots with previous entries (ctrl+f) if available
         ill: "illustrated", // If it has illustrations, pop up the menu to ask what kind
+        loc: "location",    // Specify a location for it to use
         n: "novel",         // Tack `: a novel` onto the title
         pr: "price",        // Set the price
         pub: "publisher",   // Give it a publisher to prioritize looking for
@@ -609,6 +610,15 @@ async function getPub(pubName, inLocs) {
 async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
     if (!Array.isArray(inLocs)) {
         inLocs = [inLocs];
+    }
+    if (argv.location?.length) {
+        // If the user supplied a location, try and match it against one of the ones in the list
+        const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(argv.location.toLowerCase()) > -1);
+        if (possibleLocs.length) {
+            inLocs.push(...possibleLocs);
+        } else {
+            inLocs.push(argv.location);
+        }
     }
 
     debugLog("In getLoc, given locations are: ", inLocs);
