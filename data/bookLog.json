@@ -23,7 +23,7 @@
     {
         "isbn": "9781606712382",
         "title": "If the Allies Had Fallen",
-        "subtitle": ": Sixty Alternate Scenarios of World War II",
+        "subtitle": "Sixty Alternate Scenarios of World War II",
         "authors": [
             {
                 "name": "Dennis E. Showalter"
@@ -33,30 +33,6 @@
             }
         ],
         "publish_date": 2014,
-        "publishers": [
-            {
-                "name": "mjf books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "new york"
-            }
-        ]
-    },
-    {
-        "isbn": null,
-        "title": "If the Allies Had Fallen",
-        "subtitle": ": : Sixty Alternate Scenarios of World War II",
-        "authors": [
-            {
-                "name": "Dennis E. Showalter"
-            },
-            {
-                "name": "Harold C. Deutsch"
-            }
-        ],
-        "publish_date": 1970,
         "publishers": [
             {
                 "name": "mjf books"
@@ -113,7 +89,7 @@
     {
         "isbn": "9781609450786",
         "title": "My Brilliant Friend",
-        "subtitle": ": Book One of the Naepolitan Novels",
+        "subtitle": "Book One of the Naepolitan Novels",
         "authors": [
             {
                 "name": "Elena Ferrante"
@@ -329,7 +305,7 @@
     {
         "isbn": "9781401268800",
         "title": "Wonder Woman",
-        "subtitle": "Year one",
+        "subtitle": "Volume Two, Year one",
         "authors": [
             {
                 "name": "Greg Rucka"
@@ -377,6 +353,27 @@
         "publish_places": [
             {
                 "name": "burbank, ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062654199",
+        "title": "Alice network",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Kate Quinn"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
             }
         ]
     }
