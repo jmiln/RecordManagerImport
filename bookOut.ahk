@@ -229,6 +229,8 @@ if (strlen(ISBN13)) {
 } else if (strLen(ISBN10)) {
     sendRaw, %ISBN10%
     goDown(2)
+} else {
+    MsgBox, This entry had no ISBN, please make sure everything processed correctly
 }
 
 ; Set the price in

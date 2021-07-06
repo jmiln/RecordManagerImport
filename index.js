@@ -79,7 +79,10 @@ async function init() {
     const oldJsonOut = oldBooks.find(ob => ob.isbn == isbn);
     if (oldJsonOut) {
         debugLog(`Found older data for ${isbn}, using that.`);
-        jsonOut = oldJsonOut;
+        jsonOut = {};
+
+        // Stick it as an object with the isbn as it's key so it matches the api response
+        jsonOut["ISBN:" + oldJsonOut.isbn] = oldJsonOut;
         debugLog("Old data:", jsonOut);
     } else {
         debugLog(`No old data found for ${isbn}, trying to fetch new.`);
@@ -804,7 +807,7 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
             updated = true;
         }
     } else {
-        // Author does not exist in the file
+        // Author does not exist in the file, so don't bother with series. We can add that manually if needed
         authorMap[infoObj.author] = {};
         authorMap[infoObj.author].Standalone = [{
             title: infoObj.title,
@@ -818,11 +821,11 @@ async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
         console.log("Saving authors file:");
         const data = JSON.stringify(authorMap, null, 4);
         await fs.writeFileSync(__dirname + "/data/authors.json", data);
+        console.log("SaveToAuth:");
+        console.log(infoObj);
     } else {
         console.log("Nothing updated: " + updated);
     }
-    console.log("SaveToAuth:");
-    console.log(infoObj);
 }
 
 async function getFromAuthMap(auth, titleIn) {
@@ -858,8 +861,6 @@ async function getFromAuthMap(auth, titleIn) {
             console.log("[getFromAuthMap] Invalid series choice, continuing...");
         }
     }
-
-    // debugLog("Series Out: ", series);
 
     const outArr = [];
     let titles = [];
