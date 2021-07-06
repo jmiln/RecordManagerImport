@@ -14,40 +14,39 @@ const pubMap    = require(__dirname + "/data/pubMap.js");
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
-        i: "isbn",    // ISBN (Alternative to the one that brings up the info)
-        d: "dj",      // Dust Jacket
+        i:     "isbn",        // ISBN (Alternative to the one that brings up the info)
+        d:     "dj",          // Dust Jacket
 
         // Bindings
-        h: "hc",      // Hardcover
-        p: "pb",      // Paperback
-        sp: "sp",     // Spiral Binding
-        fr: "french", // French Wraps
+        h:     "hc",          // Hardcover
+        p:     "pb",          // Paperback
+        sp:    "sp",          // Spiral Binding
+        fr:    "french",      // French Wraps
 
         // Editions
-        bc: "bc",     // Book Club
-        lp: "lp",     // Large Print
+        bc:    "bc",          // Book Club
+        lp:    "lp",          // Large Print
 
-        f: "first",   // 1st Printing
-        l: "later",   // Later Printing
+        f:     "first",       // 1st Printing
+        l:     "later",       // Later Printing
 
         // Pages
-        pg: "pages",        // Specify the page count
-        u: "unpaginated",   // Set the pages as unpaginated
+        pg:    "pages",       // Specify the page count
+        u:     "unpaginated", // Set the pages as unpaginated
 
         // Other
-        cond: "condition",  // Flag for condition strings
-        kw: "keywords",     // Stick some keywords into the keyword slots
-        debug: "debug",     // Don't actually run the ahk script, just print the output
-        help: "help",       // Print out the help info, don't do anything else
-        fill: "fill",       // Fill in the extra keyword slots with previous entries (ctrl+f) if available
-        ill: "illustrated", // If it has illustrations, pop up the menu to ask what kind
-        loc: "location",    // Specify a location for it to use
-        n: "novel",         // Tack `: a novel` onto the title
-        pr: "price",        // Set the price
-        pub: "publisher",   // Give it a publisher to prioritize looking for
-        rem: "remainder",   // Mark that it has a remainder mark
-        rep: "repeat",      // Try to repeat given args (kw, pr, pg, etc...)
-        sub: "subtitle",    // Stick in a subtitle manually
+        cond:  "condition",   // Flag for condition strings
+        kw:    "keywords",    // Stick some keywords into the keyword slots
+        debug: "debug",       // Don't actually run the ahk script, just print the output
+        help:  "help",        // Print out the help info, don't do anything else
+        fill:  "fill",        // Fill in the extra keyword slots with previous entries (ctrl+f) if available
+        ill:   "illustrated", // If it has illustrations, pop up the menu to ask what kind
+        loc:   "location",    // Specify a location for it to use
+        n:     "novel",       // Tack `: a novel` onto the title
+        pr:    "price",       // Set the price
+        pub:   "publisher",   // Give it a publisher to prioritize looking for
+        rem:   "remainder",   // Mark that it has a remainder mark
+        sub:   "subtitle",    // Stick in a subtitle manually
     }
 });
 
@@ -73,8 +72,7 @@ const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString(
 
 let jsonOut = null;
 async function init() {
-    const oldArgs = await readOld();
-    const bookInfoArr = processArgv(oldArgs);
+    const bookInfoArr = processArgv();
     const oldBooks = require("./data/bookLog.json");
 
     const oldJsonOut = oldBooks.find(ob => ob.isbn == isbn);
@@ -296,28 +294,8 @@ init();
 
 
 // Process any flags/ arguments that were used to add extra data
-function processArgv(oldArgs) {
+function processArgv() {
     const outArr = [];
-
-    if (argv.repeat) {
-        const reps = argv.repeat.split(",");
-        for (const rep of reps.map(r => r.toLowerCase())) {
-            if (rep === "kw" && oldArgs.kw) {
-                argv.keywords = oldArgs.kw;
-            } else if (rep === "pr" && oldArgs.pr) {
-                argv.price = oldArgs.pr;
-            } else if (rep === "pg" && oldArgs.pg) {
-                argv.pages = oldArgs.pg;
-            } else if (rep === "pub" && oldArgs.pub) {
-                argv.publisher = oldArgs.pub;
-            } else if (rep === "ill" && oldArgs.ill) {
-                argv.illustrated = oldArgs.ill;
-            } else if (rep === "sub" && oldArgs.sub) {
-                argv.subtitle = oldArgs.sub;
-            }
-        }
-    }
-    debugLog("OldArgs: ", oldArgs);
 
     // Anything to be put in the edition field
     if (argv.bc) {
@@ -918,56 +896,6 @@ async function getFromAuthMap(auth, titleIn) {
 
     // Make it send back just the titles, and only as many as we need
     return outArr.map(book => book.title).slice(0, 5-globalKWLen);
-}
-
-async function readOld() {
-    const bookInfoIn = await fs.readFileSync(__dirname + "/bookInfo.txt", "utf-8");
-    const outObj = {};
-    const bookInfo = bookInfoIn.split("\n");
-
-    const kw = [];
-
-    for (const row of bookInfo) {
-        const [key, value] = row.split("=");
-        if (key.startsWith("kw")) {
-            const kwKey = Object.keys(kwMap).find(k => kwMap[k].toLowerCase() === value);
-            if (kwKey) {
-                kw.push(kwKey);
-            }
-        } else if (key === "pages") {
-            outObj.pages = value;
-            outObj.pg = value;
-        } else if (key === "edition") {
-            if (value === "later printing") {
-                outObj.lp = true;
-            } else if (value === "book club") {
-                outObj.bc = true;
-            } else if (value.match(/\d{1,2}[a-z]{2} printing/)) {
-                const prt = parseInt(value.substr(0,1));
-                if (prt === 1) {
-                    outObj.f = true;
-                } else {
-                    outObj.f = prt;
-                }
-            }
-        } else if (key === "pub") {
-            outObj.publisher = value;
-            outObj.pub = value;
-        } else if (key === "price") {
-            outObj.price = value;
-            outObj.pr = value;
-        } else if (key === "sub") {
-            outObj.subtitle = value;
-            outObj.sub = value;
-        }
-    }
-
-    if (kw.length) {
-        outObj.keywords = kw.join(",");
-        outObj.kw = kw.join(",");
-    }
-
-    return outObj;
 }
 
 
