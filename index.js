@@ -72,9 +72,8 @@ const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString(
 let jsonOut = null;
 async function init() {
     const bookInfoArr = processArgv();
-    const oldBooks = require("./data/bookLog.json");
 
-    const oldJsonOut = oldBooks.find(ob => ob.isbn == isbn);
+    const oldJsonOut = bookLog.find(ob => ob.isbn == isbn);
     if (oldJsonOut) {
         debugLog(`Found older data for ${isbn}, using that.`);
         jsonOut = {};
@@ -141,9 +140,12 @@ async function init() {
                 const kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
-                    for (const title of kwTitles) {
-                        globalKWLen++;
-                        bookInfoArr.push(`kw${globalKWLen}=${title}`);
+                    const res = await askQuestion(`I found ${kwTitles.length} titles to use as keywords.\nShould I use them? (Y)es / (N)o\n`);
+                    if (["y", "yes"].includes(res.toLowerCase())) {
+                        for (const title of kwTitles) {
+                            globalKWLen++;
+                            bookInfoArr.push(`kw${globalKWLen}=${title}`);
+                        }
                     }
                 }
             }
@@ -224,11 +226,11 @@ async function init() {
         }
 
         // Format the jsonOut data to only keep the bits that matter
-        if (!oldBooks.find(ob => ob.isbn == isbn)) {
+        if (!bookLog.find(ob => ob.isbn == isbn)) {
             const jsonToSave = {
                 isbn: isbn,
                 title: rawTitle,
-                subtitle: subtitle?.replace(/^:/, "").trim(),
+                subtitle: subtitle?.replace(/^[-:]/, "").trim(),
                 authors: jsonOut.authors.map(a => { return {name: a.name};}),
                 publish_date: date.toString(),
                 publishers: [
@@ -243,8 +245,8 @@ async function init() {
                 ]
             };
 
-            oldBooks.push(jsonToSave);
-            const booksToSave = JSON.stringify(oldBooks, null, 4);
+            bookLog.push(jsonToSave);
+            const booksToSave = JSON.stringify(bookLog, null, 4);
             await saveBooks(booksToSave);
         }
 
