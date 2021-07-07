@@ -6,11 +6,12 @@ const { exec } = require("child_process");
 
 const readline = require("readline");
 
-const authorMap = require(__dirname + "/data/authors.json"); // eslint-disable-line no-unused-vars
+// const authorMap = require(__dirname + "/data/authors.json");
 const helpArr   = require(__dirname + "/data/helpOut.js");
 const kwMap     = require(__dirname + "/data/keywordMap.js");
 const locMap    = require(__dirname + "/data/locations.js");
 const pubMap    = require(__dirname + "/data/pubMap.js");
+const bookLog   = require(__dirname + "/data/bookLog.json");
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
@@ -36,11 +37,11 @@ const argv = require("minimist")(process.argv.slice(2), {
 
         // Other
         cond:  "condition",   // Flag for condition strings
-        kw:    "keywords",    // Stick some keywords into the keyword slots
         debug: "debug",       // Don't actually run the ahk script, just print the output
-        help:  "help",        // Print out the help info, don't do anything else
         fill:  "fill",        // Fill in the extra keyword slots with previous entries (ctrl+f) if available
+        help:  "help",        // Print out the help info, don't do anything else
         ill:   "illustrated", // If it has illustrations, pop up the menu to ask what kind
+        kw:    "keywords",    // Stick some keywords into the keyword slots
         loc:   "location",    // Specify a location for it to use
         n:     "novel",       // Tack `: a novel` onto the title
         pr:    "price",       // Set the price
@@ -54,7 +55,6 @@ const argv = require("minimist")(process.argv.slice(2), {
 if (argv.help) {
     return console.log(helpArr.join("\n"));
 }
-
 debugLog("argV: ", argv);
 
 let isbn = process.argv[2];
@@ -121,7 +121,6 @@ async function init() {
             // Make sure that there are no duplicate authors
             const authSet = new Set(jsonOut.authors.map(a => a.name));
             const authArr = [...authSet];
-            let firstAuth = null;
 
             for (const auth of authArr) {
                 const name = auth.split(" ");
@@ -131,7 +130,6 @@ async function init() {
                 } else {
                     // This is the first name
                     authStr = `${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
-                    firstAuth = authStr;
                 }
             }
 
@@ -141,7 +139,8 @@ async function init() {
 
 
             if (5 - globalKWLen > 0) {
-                const kwTitles = await getFromAuthMap(firstAuth, jsonOut.title);
+                const kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
+                debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
                     for (const title of kwTitles) {
                         globalKWLen++;
@@ -224,9 +223,6 @@ async function init() {
         if (argv.debug) {
             return console.log(bookInfoArr);
         }
-
-        // Save the author/ title info
-        await saveToAuth(bookInfoArr);
 
         // Format the jsonOut data to only keep the bits that matter
         if (!oldBooks.find(ob => ob.isbn == isbn)) {
@@ -718,184 +714,23 @@ async function saveAndRun(infoArr) {
 }
 
 
-// Save the book info to the authors file.
-// Author, Title, series
-//
-// Series ought to depend on the subtitle?
-//   - Wipe out `: a novel` / `- a novel`
-//   - Compare against other series' under the author to see if there's a match
-async function saveToAuth(infoArr) { // eslint-disable-line no-unused-vars
-    const infoObj = {};
-    let updated = false;
-    infoArr.forEach(row => {
-        const [key, val] = row.split("=").map(e => e.toLowerCase());
-        if (["author", "rawtitle", "sub"].includes(key)) {
-            if (key == "sub") {
-                const num = val.match(/book (\d{1,3})/i);
-                if (num) {
-                    infoObj.number = num[1];
-                }
-                infoObj.sub = val.replace(/^:\s*/, "").toProperCase();
-            } else if (key == "rawtitle") {
-                infoObj.title = val.toProperCase();
-            } else {
-                infoObj[key] = val.toProperCase();
-            }
-        } else if (key === "pubdate") {
-            infoObj.pubDate = val;
-        }
-        if (infoObj.sub && infoObj.title) {
-            infoObj.title = infoObj.title.replace(infoObj.sub, "");
-        }
-    });
-
-    if (authorMap[infoObj.author]) {
-        if (infoObj.sub) {
-            // Fiddle with series here
-            infoObj.sub = infoObj.sub.replace("a novel", "").replace(/^[:-]/, "").trim();
-            if (infoObj.sub.length) {
-                // Make sure it wasn't just that little bit
-                for (const series of Object.keys(authorMap[infoObj.author])) {
-                    if (series.toLowerCase().includes(infoObj.sub.toLowerCase()) || infoObj.sub.toLowerCase().includes(series.toLowerCase())) {
-                        if (authorMap[infoObj.author][series].find(t => t.title.toLowerCase() == infoObj.title.toLowerCase())) {
-                            // If the title already exists, back out
-                            console.log("[saveToAuth] Title already exists under the series: " + series);
-                            break;
-                        }
-                        const out = {
-                            title: infoObj.title,
-                            pubDate: infoObj.pubDate
-                        };
-                        if (infoObj.number) {
-                            out.number = infoObj.number;
-                        }
-                        debugLog("Out (Series):", out);
-                        authorMap[infoObj.author][series].push(out);
-                        updated = true;
-                        break;
-                    }
-                }
-            }
-        }
-        // If it's gone through all the series', or doesn't have a subtitle, go ahead and check the standalones
-        if (!updated) {
-            if (!authorMap[infoObj.author].Standalone) authorMap[infoObj.author].Standalone = [];
-            if (authorMap[infoObj.author].Standalone.find(t => t.title.toLowerCase() == infoObj.title.toLowerCase())) {
-                // If the title already exists, back out
-                console.log("[saveToAuth] Standalone title already exists.");
-                return;
-            }
-            const out = {
-                title: infoObj.title,
-                pubDate: infoObj.pubDate
-            };
-            debugLog("Out (Standalone):", out);
-
-            authorMap[infoObj.author].Standalone.push(out);
-            updated = true;
-        }
-    } else {
-        // Author does not exist in the file, so don't bother with series. We can add that manually if needed
-        authorMap[infoObj.author] = {};
-        authorMap[infoObj.author].Standalone = [{
-            title: infoObj.title,
-            pubDate: infoObj.pubDate
-        }];
-        updated = true;
-    }
-
-    if (updated) {
-        // If something changed, JSON.stringify the authorMap, then save it back where it goes
-        console.log("Saving authors file:");
-        const data = JSON.stringify(authorMap, null, 4);
-        await fs.writeFileSync(__dirname + "/data/authors.json", data);
-        console.log("SaveToAuth:");
-        console.log(infoObj);
-    } else {
-        console.log("Nothing updated: " + updated);
-    }
-}
-
+// Quick little function to get the most recent x titles to use in the keyword slots
 async function getFromAuthMap(auth, titleIn) {
-    const fromMap = authorMap[auth];
-    // debugLog("[getFromAuthMap] FromMap: ", fromMap);
-    if (!fromMap) return null;
-
-    const authSeries = Object.keys(fromMap);
-    // debugLog("[getFromAuthMap] authSeries: ", authSeries);
-    let series = null;
-    let useAll = false;
-    let useAuto = false;
-
-    if (!authSeries.length) {
-        // This should be at least one entry long if the author is there
-        return null;
-    } else if (authSeries.length === 1) {
-        // If there's only one series entry, set it to that one
-        series = authSeries[0];
-    } else if (authSeries.length > 1) {
-        // If there's more than one entry for series, have em choose which to use
-        const allNum = authSeries.length;
-        const seriesList = authSeries.map((s, ix) => `[${ix}] ${s}`).join("\n");
-        const res = await askQuestion(`Which of the following series' would you like to grab titles from?\n\n${seriesList}\n\n[${allNum}] All of them\n\n[a] Auto (Grab the ${5-globalKWLen} newest)\n[c] Cancel\n\n`);
-        if (allNum == parseInt(res, 10)) {
-            useAll = true;
-        } else if (["a", "auto"].includes(res.toLowerCase())) {
-            useAll = true;
-            useAuto = true;
-        } else if (Number.isInteger(parseInt(res, 10)) && authSeries[res]) {
-            series = authSeries[res];
-        } else {
-            console.log("[getFromAuthMap] Invalid series choice, continuing...");
-        }
-    }
-
-    const outArr = [];
-    let titles = [];
-    let titleList = null;
+    debugLog("[getFromAuthMap] AuthIn: ", auth);
+    const fromMap = bookLog.filter(b => b.authors.some(a => a.name.toLowerCase() === auth.toLowerCase()));
+    debugLog("[getFromAuthMap] FromMap: ", fromMap);
+    if (!fromMap?.length) return null;
 
     const titleFilter = (book) => !(book.title.toLowerCase().includes(titleIn.toLowerCase()) || titleIn.toLowerCase().includes(book.title.toLowerCase()));
     const lengthFilter = (book) => book.title.length <= 19;
-    const dateSort = (a, b) => parseInt(a.pubDate, 10) > parseInt(b.pubDate, 10) ? 1 : -1;
-    const titleMap = (book, ix) => `${`[${ix}]`.padEnd(5)} ${book.number && !useAll ? `${book.number} - ` : ""}${book.title} (${book.pubDate})`;
+    const dateSort = (a, b) => parseInt(a.publish_date, 10) > parseInt(b.publish_date, 10) ? 1 : -1;
 
-    if (useAll) {
-        authSeries.forEach(s => {
-            titles = titles.concat(...fromMap[s]);
-        });
-    } else if (series && fromMap[series]) {
-        titles = fromMap[series];
-    }
-    titles = titles.filter(titleFilter).filter(lengthFilter).sort(dateSort);
+    const titles = fromMap
+        .filter(titleFilter)
+        .filter(lengthFilter)
+        .sort(dateSort);
 
-    if (useAuto) {
-        // Just grab the right number of titles automatically
-        return titles.slice(5 - globalKWLen).map(book => book.title);
-    }
-
-    // Map the titles out so they're listed nicely when it's printed
-    titleList = titles.map(titleMap).join("\n");
-    if (!titleList.length) return null;
-
-    const res = await askQuestion(`Which of these titles would you like to use?\nChoose up to ${5-globalKWLen} choices, comma separated.\n\n${titleList}\n\n[a] Auto (Grab the newest ${5-globalKWLen})\n\n`);
-    if (!res || ["c", "cancel"].includes(res.toLowerCase())) {
-        // If we don't want to use any of the options, go ahead and back out
-        return null;
-    } else if (["a", "auto"].includes(res.toLowerCase())) {
-        // If it's set to auto, just grab the last amount needed
-        outArr.push(...titles.slice(globalKWLen-5));
-    } else {
-        // If we just give it a bunch of numbers, split those up, and grab the specified titles
-        const choices = res.split(",");
-        for (const choice of choices) {
-            if (titles[choice]) {
-                outArr.push(titles[choice]);
-            }
-        }
-    }
-
-    // Make it send back just the titles, and only as many as we need
-    return outArr.map(book => book.title).slice(0, 5-globalKWLen);
+    return titles.slice(globalKWLen-5).map(book => book.title);
 }
 
 
