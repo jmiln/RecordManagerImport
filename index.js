@@ -325,6 +325,8 @@ function processArgv() {
         const pg = parseInt(argv.pages, 10);
         if (Number.isInteger(pg)) {
             outArr.push(`PAGES=${pg}${argv.pages.toString().endsWith("+") ? "+" : ""}`);
+        } else if (argv.pages.toString().toLowerCase() === "u") {
+            outArr.push("PAGES=unpaginated");
         }
     } else if (argv.unpaginated) {
         outArr.push("PAGES=unpaginated");
