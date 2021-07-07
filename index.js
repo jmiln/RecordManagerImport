@@ -226,24 +226,21 @@ async function init() {
         }
 
         // Format the jsonOut data to only keep the bits that matter
+        // TODO check if there are any differences, and if so, overwrite?
         if (!bookLog.find(ob => ob.isbn == isbn)) {
             const jsonToSave = {
                 isbn: isbn,
                 title: rawTitle,
                 subtitle: subtitle?.replace(/^[-:]/, "").trim(),
                 authors: jsonOut.authors.map(a => { return {name: a.name};}),
-                publish_date: date.toString(),
-                publishers: [
-                    {
-                        name: chosenPub
-                    }
-                ],
-                publish_places: [
-                    {
-                        name: pubLoc
-                    }
-                ]
+                publish_date: date?.toString()
             };
+            if (chosenPub) {
+                jsonToSave.publishers = [{name: chosenPub}];
+            }
+            if (pubLoc) {
+                jsonToSave.publish_places = [{name: pubLoc}];
+            }
 
             bookLog.push(jsonToSave);
             const booksToSave = JSON.stringify(bookLog, null, 4);
