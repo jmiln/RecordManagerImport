@@ -6,7 +6,6 @@ const { exec } = require("child_process");
 
 const readline = require("readline");
 
-// const authorMap = require(__dirname + "/data/authors.json");
 const helpArr   = require(__dirname + "/data/helpOut.js");
 const kwMap     = require(__dirname + "/data/keywordMap.js");
 const locMap    = require(__dirname + "/data/locations.js");
