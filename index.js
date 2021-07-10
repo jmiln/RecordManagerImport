@@ -140,7 +140,7 @@ async function init() {
                 const kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
-                    const res = await askQuestion(`I found ${kwTitles.length} titles to use as keywords.\nShould I use them? (Y)es / (N)o\n`);
+                    const res = await askQuestion(`I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.join(", ")}\nShould I use them? (Y)es / (N)o\n`);
                     if (["y", "yes"].includes(res.toLowerCase())) {
                         for (const title of kwTitles) {
                             globalKWLen++;
@@ -152,7 +152,7 @@ async function init() {
         }
 
         let chosenPub = null, pubLoc = null;
-        if (argv.publisher && argv.publisher?.length) {
+        if (argv.publisher?.length) {
             // If there's a manually given publisher, look for that
             const {pub, loc} = await getPub(argv.publisher);
             chosenPub = pub ? pub : null;

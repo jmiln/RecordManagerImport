@@ -373,5 +373,1669 @@
                 "name": "new york"
             }
         ]
+    },
+    {
+        "isbn": "9780316187480",
+        "title": "dark",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lemony Snicket"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780152059101",
+        "title": "Lives of the Explorers: Discoveries, Disasters (and What the Neighbors Thought)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kathleen Krull"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781742208145",
+        "title": "not-for-parents travel book",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Dubois"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "lonely planet"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "footscray, vi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868084",
+        "title": "Cold Millions",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jess Walter"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062297747",
+        "title": "bully of order",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Brian Hart"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781951627294",
+        "title": "Fortune",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lenny Bartulin"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Skyhorse Publishing, inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802157065",
+        "title": "Committed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Viet Thanh Nguyen"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780544279292",
+        "title": "Falling from horses",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Molly Gloss"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778310167",
+        "title": "Ventriloquists",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "E. R. Ramzipoor"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "toronto, ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735216730",
+        "title": "Deacon King Kong",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James McBride"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0143034901",
+        "title": "Shadow of the Wind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carlos Ruiz Zafón"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679732761",
+        "title": "Invisible Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ralph Ellison"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375725760",
+        "title": "Eventide",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Kent Haruf"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982148249",
+        "title": "Outsider",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062438492",
+        "title": "Murder in Matera",
+        "subtitle": "A True Story of Passion, Family, and Forgiveness in Southern Italy",
+        "authors": [
+            {
+                "name": "Helene Stapinski"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781620403792",
+        "title": "Gangster warlords",
+        "subtitle": "drug dollars, killing fields, and the new politics of Latin America",
+        "authors": [
+            {
+                "name": "Ioan Grillo"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0970461402",
+        "title": "Alcatraz",
+        "subtitle": "a definitive history of the penitentiary years",
+        "authors": [
+            {
+                "name": "Michael Esslinger"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "ocean view pub."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "san francisco, calif"
+            }
+        ]
+    },
+    {
+        "isbn": "0679732268",
+        "title": "Light in August",
+        "subtitle": "the corrected text",
+        "authors": [
+            {
+                "name": "William Faulkner"
+            }
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "067973225X",
+        "title": "As I lay dying",
+        "subtitle": "the corrected text",
+        "authors": [
+            {
+                "name": "William Faulkner"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0679732241",
+        "title": "sound and the fury",
+        "subtitle": "the corrected text",
+        "authors": [
+            {
+                "name": "William Faulkner"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538731857",
+        "title": "City of Endless Night",
+        "subtitle": "A Penergast Novel",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538701379",
+        "title": "Old Bones",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538747278",
+        "title": "Scorpion's Tail",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lincoln Child"
+            },
+            {
+                "name": "Douglas Preston"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818461",
+        "title": "Sentinel",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            },
+            {
+                "name": "Andrew Child"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Delacorte Press / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735227422",
+        "title": "line in the dark",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Malinda Lo"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781630790479",
+        "title": "Nice girls endure",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christina Struyk-Bonn"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "switch press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338053845",
+        "title": "Scar Island",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Gemeinhart"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781772780239",
+        "title": "Drive",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sylvia Gunnery"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "pajama press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781623367916",
+        "title": "Everything all at once",
+        "subtitle": "how to unleash your inner nerd, tap into radical curiosity and solve any problem",
+        "authors": [
+            {
+                "name": "Bill Nye"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "rodale"
+            }
+        ]
+    },
+    {
+        "isbn": "9781631582929",
+        "title": "Pentagon papers",
+        "subtitle": "the secret history of the Vietnam War",
+        "authors": [
+            {
+                "name": "Neil Sheehan"
+            },
+            {
+                "name": "E. W. Kenworthy"
+            },
+            {
+                "name": "Fox Butterfield"
+            },
+            {
+                "name": "Hendrick Smith"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "racehorce publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9780881928990",
+        "title": "An Oregon companion",
+        "subtitle": "an historical gazetteer of the useful, the curious, and the arcane",
+        "authors": [
+            {
+                "name": "Richard H. Engeman"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "timber press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "portland, or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780544272880",
+        "title": "immortal Irishman",
+        "subtitle": "the Irish revolutionary who became an American hero",
+        "authors": [
+            {
+                "name": "Timothy Egan"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547678313",
+        "title": "Bright Continent: Breaking Rules and Making Change in Modern Africa",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dayo Olopade"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802118776",
+        "title": "Blood river",
+        "subtitle": "a journey to Africa's broken heart",
+        "authors": [
+            {
+                "name": "Tim Butcher"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062908339",
+        "title": "Stargazer",
+        "subtitle": "A Leaphorn, Chee & Manuelito Novel",
+        "authors": [
+            {
+                "name": "Anne Hillerman"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375707544",
+        "title": "Juneteenth",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ralph Ellison"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250133755",
+        "title": "Anonymous Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Greer Hendricks"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780393609455",
+        "title": "Black Death at the Golden Gate",
+        "subtitle": "The Race to Save America from the Bubonic Plague",
+        "authors": [
+            {
+                "name": "David K. Randall"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316221047",
+        "title": "Operation paperclip",
+        "subtitle": "the secret intelligence program that brought Nazi scientists to America",
+        "authors": [
+            {
+                "name": "Annie Jacobsen"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781453247136",
+        "title": "Coyote Wind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter Bowen"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "open road media mystery & thriller brand: open road media"
+            }
+        ]
+    },
+    {
+        "isbn": "9781453247143",
+        "title": "Specimen Song",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter Bowen"
+            }
+        ],
+        "publish_date": "2012"
+    },
+    {
+        "isbn": "9781909807563",
+        "title": "hummingbird",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kati Hiekkapelto"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Arcadia Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "london"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062698629",
+        "title": "lighthouse keeper's daughter",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Hazel Gaynor"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455563920",
+        "title": "Pachinko (National Book Award Finalist)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Min Jin Lee"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781566894883",
+        "title": "In the distance",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hernán Díaz"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "coffee house press"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593318317",
+        "title": "Whereabouts",
+        "subtitle": "A novel",
+        "authors": [
+            {
+                "name": "Jhumpa Lahiri"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781640094000",
+        "title": "Elephant of Belfast",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "S. Kirk Walsh"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "counterpoint counterpoint llc"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061131622",
+        "title": "Mandy (Julie Andrews Collection)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Andrews Edwards"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442498501",
+        "title": "U.S. Presidents",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Jennings"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442498495",
+        "title": "Greek Mythology",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Jennings"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442498488",
+        "title": "Maps and geography",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Jennings"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781547800001",
+        "title": "United States of Sports",
+        "subtitle": "An Atlas of Teams, Stats, Stars, and Facts for Every State in America",
+        "authors": [
+            {
+                "name": "The Editors of Sports Illustrated Kids"
+            },
+            {
+                "name": "Bill Syken"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "sports illustrated for kids"
+            }
+        ]
+    },
+    {
+        "isbn": "9780752455037",
+        "title": "Cavalry of the Clouds",
+        "subtitle": "Air War over Europe, 1914-1918",
+        "authors": [
+            {
+                "name": "Sweetman, John"
+            }
+        ],
+        "publish_date": "2010"
+    },
+    {
+        "isbn": "9781846031502",
+        "title": "Sherman Firefly vs Tiger",
+        "subtitle": "Normandy 1944 (Duel)",
+        "authors": [
+            {
+                "name": "Stephen Hart"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "osprey publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9780811733410",
+        "title": "German early war armored fighting vehicles",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bradford, George."
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "stackpole books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "mechanicsburg, pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780789485625",
+        "title": "way science works",
+        "subtitle": "discover the secrets of science with exciting, accessible experiments",
+        "authors": [
+            {
+                "name": "Robin Kerrod"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "dk publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0670813648",
+        "title": "Misery",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "1987",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743219600",
+        "title": "Shroud for a nightingale",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "P. D. James"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743294300",
+        "title": "Best Friends Forever",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Weiner"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316154680",
+        "title": "When You Are Engulfed in Flames",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Back Bay/Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008433963",
+        "title": "Forgotten Orphan",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Glynis Peters"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "one more chapter"
+            }
+        ]
+    },
+    {
+        "isbn": "0060930535",
+        "title": "poisonwood Bible",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Barbara Kingsolver"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0375702709",
+        "title": "lesson before dying",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest J. Gaines"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0965058823",
+        "title": "patchwork planet",
+        "subtitle": "- book club edition",
+        "authors": [
+            {
+                "name": "Anne Tyler"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0684801221",
+        "title": "old man and the sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0684833395",
+        "title": "Catch-22",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Joseph Heller"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0375411550",
+        "title": "Bluest Eye",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "067168518X",
+        "title": "Buffalo girls",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Larry McMurtry"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0060196246",
+        "title": "Wild justice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Phillip Margolin"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0380978865",
+        "title": "winter haunting",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Simmons"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0380978946",
+        "title": "Olympos",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Simmons"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0670858692",
+        "title": "Rose Madder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312584160",
+        "title": "Maybe This Time",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Crusie"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338635171",
+        "title": "Ballad Of Songbirds And Snakes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Suzanne Collins"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643750255",
+        "title": "Afterlife",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Julia Alvarez"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "chapel hill, nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780553349498",
+        "title": "Even cowgirls get the blues",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tom Robbins"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062491831",
+        "title": "Commonwealth",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501173219",
+        "title": "All the Light We Cannot See",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492699248",
+        "title": "No Way to Die",
+        "subtitle": "a cal claxton oregon mystery",
+        "authors": [
+            {
+                "name": "Warren C. Easley"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "naperville, il."
+            }
+        ]
+    },
+    {
+        "isbn": "0385470029",
+        "title": "Gone, but not forgotten",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Phillip Margolin"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0553063030",
+        "title": "Jubal Sackett Louis Lamour Collection",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louis L'Amour"
+            }
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476738024",
+        "title": "Man Called Ove",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
     }
 ]

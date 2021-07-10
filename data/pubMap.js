@@ -11,7 +11,7 @@ module.exports = [
     },
     {
         name: "Alfred A. Knopf",
-        aliases: ["Knopf", "Alfred"],
+        aliases: ["Alfred A. Knopf"],
         locations: ["New York"]
     },
     {
@@ -31,6 +31,11 @@ module.exports = [
         ],
         aliases: ["Anchor"],
         locations: ["New York"]
+    },
+    {
+        name: "Arcadia Books",
+        aliases: ["Arcadia"],
+        locations: ["London"]
     },
     {
         name: "Arthur A. Levine Books",
@@ -166,7 +171,7 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Delacorte Press / Random House",
+        name: "Delacorte Press/Random House",
         aliases: ["Delacorte"],
         locations: ["New York"]
     },
@@ -406,14 +411,19 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Orion Books",
-        aliases: ["Orion"],
-        locations: ["London"]
+        name: "Open Road Media",
+        aliases: ["Open Road"],
+        locations: ["New York"]
     },
     {
         name: "Orbit / Hachette",
         aliases: ["Orbit"],
         locations: ["New York"]
+    },
+    {
+        name: "Orion Books",
+        aliases: ["Orion"],
+        locations: ["London"]
     },
     {
         name: "Overlook Press / Peter Mayer",
@@ -549,7 +559,7 @@ module.exports = [
     },
     {
         name: "Simon & Schuster",
-        aliases: ["Simon & Schuster"],
+        aliases: ["Simon and Schuster"],
         locations: ["New York"]
     },
     {
@@ -614,7 +624,7 @@ module.exports = [
     },
     {
         name: "Tor: Tom Doherty Associates",
-        aliases: ["Tor"],
+        aliases: ["Tom Doherty"],
         locations: ["New York"]
     },
     {
