@@ -728,9 +728,12 @@ async function getFromAuthMap(auth, titleIn) {
     const titles = fromMap
         .filter(titleFilter)
         .filter(lengthFilter)
-        .sort(dateSort);
+        .sort(dateSort)
+        .map(book => book.title);
 
-    return titles.slice(globalKWLen-5).map(book => book.title);
+    const noDupTitles = [...new Set(titles)];
+
+    return noDupTitles.slice(globalKWLen-5);
 }
 
 
