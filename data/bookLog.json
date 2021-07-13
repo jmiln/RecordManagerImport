@@ -1254,7 +1254,7 @@
     },
     {
         "isbn": "9781455563920",
-        "title": "Pachinko (National Book Award Finalist)",
+        "title": "Pachinko",
         "subtitle": "",
         "authors": [
             {
@@ -2030,6 +2030,1029 @@
         "publishers": [
             {
                 "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501181009",
+        "title": "Outsider",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "1880418592",
+        "title": "Song of Susannah",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Donald M. Grant"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "hampton falls, nh."
+            }
+        ]
+    },
+    {
+        "isbn": "1880418622",
+        "title": "Dark Tower",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Donald M. Grant"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "hampton falls, nh."
+            }
+        ]
+    },
+    {
+        "isbn": "0670835382",
+        "title": "Four Past Midnight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743289412",
+        "title": "Lisey's story",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0679425241",
+        "title": "Dark Rivers of the Heart",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dean Koontz"
+            }
+        ],
+        "publish_date": "1994",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812997873",
+        "title": "complete poetry",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maya Angelou"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0380978938",
+        "title": "Ilium",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Simmons"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804137270",
+        "title": "Armada",
+        "subtitle": "A novel by the author of Ready Player One",
+        "authors": [
+            {
+                "name": "Ernest Cline"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780449000724",
+        "title": "Sarum",
+        "subtitle": "The Novel of England",
+        "authors": [
+            {
+                "name": "Edward Rutherfurd"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "034547936X",
+        "title": "Forest",
+        "subtitle": "[none on front cover; \"A Novel\" on title page only]",
+        "authors": [
+            {
+                "name": "Edward Rutherfurd"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312890179",
+        "title": "Shadow & claw",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gene Wolfe"
+            }
+        ],
+        "publish_date": "1994",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765319982",
+        "title": "Risen Empire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Scott Westerfeld"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312537074",
+        "title": "Firefly Lane",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250080400",
+        "title": "Nightingale",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425247440",
+        "title": "What Alice forgot",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liane Moriarty"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316776967",
+        "title": "Me Talk Pretty One Day",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316154703",
+        "title": "Let's Explore Diabetes with Owls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Back Bay/Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425291009",
+        "title": "I Am Still Alive",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kate Alice Marshall"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619630642",
+        "title": "Crown of Midnight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619630345",
+        "title": "Throne of Glass",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142412145",
+        "title": "Let it snow",
+        "subtitle": "three holiday romances",
+        "authors": [
+            {
+                "name": "John Green"
+            },
+            {
+                "name": "Maureen Johnson"
+            },
+            {
+                "name": "Lauren Myracle"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250012579",
+        "title": "Eleanor & Park",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rainbow Rowell"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423133162",
+        "title": "Deep Blue",
+        "subtitle": "Waterfire Saga #1",
+        "authors": [
+            {
+                "name": "Jennifer Donnelly"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0060557540",
+        "title": "known world",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward P. Jones"
+            },
+            {
+                "name": "Antonio Fernandez Lera"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374270605",
+        "title": "collected stories of Lydia Davis.",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lydia Davis"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Farrar, Straus and Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307947727",
+        "title": "sense of an ending",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julian Barnes"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455564118",
+        "title": "ice cream queen of Orchard Street",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Susan Jane Gilman"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101971383",
+        "title": "Starless Sea",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Erin Morgenstern"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062188519",
+        "title": "Orchardist",
+        "subtitle": "a Novel",
+        "authors": [
+            {
+                "name": "Amanda Coplin"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679745655",
+        "title": "Breakfast at Tiffany's and three stories",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Truman Capote"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0060740450",
+        "title": "One Hundred Years of Solitude",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gabriel García Márquez"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679734772",
+        "title": "House on Mango Street",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandra Cisneros"
+            }
+        ],
+        "publish_date": "1991",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501115073",
+        "title": "My Grandmother Asked Me to Tell You She's Sorry",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            },
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804171472",
+        "title": "Narrow Road to the Deep North",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Flanagan"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804170123",
+        "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Haruki Murakami"
+            },
+            {
+                "name": "Philip Gabriel"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812979527",
+        "title": "My Name Is Lucy Barton",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Strout"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0141181303",
+        "title": "fifth queen",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ford Madox Ford"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "london"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142004234",
+        "title": "East of Eden",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Steinbeck"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715666",
+        "title": "Life's Too Short",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Abby Jimenez"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455586462",
+        "title": "Last Mile",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593085318",
+        "title": "Savage Run",
+        "subtitle": "a joe pickett novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400031573",
+        "title": "Faceless Killers",
+        "subtitle": "the first kurt wallander mystery",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678799",
+        "title": "Casualty of War",
+        "subtitle": "A Bess Crawford Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525620983",
+        "title": "Death in Focus",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062436665",
+        "title": "American Agent",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0399146237",
+        "title": "Running blind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0553803573",
+        "title": "collected short stories of Louis L'Amour",
+        "subtitle": "the frontier stories",
+        "authors": [
+            {
+                "name": "Louis L'Amour"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Bantam Books"
             }
         ],
         "publish_places": [

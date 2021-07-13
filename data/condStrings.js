@@ -27,6 +27,7 @@ module.exports = {
     poins: "Prev. Owner's inscription inside.",
     pona:  "Prev. Owner's name inside.",
     pono:  "Prev. Owner note inside.",
+    pobp:  "Prev. Owner bookplate inside.",
 
     // Toning
     fton: "Faint toning to page edges.",

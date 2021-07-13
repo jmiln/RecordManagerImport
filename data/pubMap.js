@@ -624,7 +624,10 @@ module.exports = [
     },
     {
         name: "Tor: Tom Doherty Associates",
-        aliases: ["Tom Doherty"],
+        aliases: [
+            "Tom Doherty",
+            "Tor Books"
+        ],
         locations: ["New York"]
     },
     {
