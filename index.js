@@ -220,19 +220,14 @@ async function init() {
             bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
         }
 
-        // if I have it set to debug, just return and print out what would go through
-        if (argv.debug) {
-            return console.log(bookInfoArr);
-        }
-
         // Format the jsonOut data to only keep the bits that matter
         // TODO check if there are any differences, and if so, overwrite?
-        if (!bookLog.find(ob => ob.isbn == isbn)) {
+        if (!bookLog.find(ob => ob.isbn == isbn) || argv.debug) {
             const jsonToSave = {
                 isbn: isbn,
-                title: rawTitle,
-                subtitle: subtitle?.replace(/^[-:]/, "").trim(),
-                authors: jsonOut.authors.map(a => { return {name: a.name};}),
+                title: rawTitle.toProperCase(),
+                subtitle: subtitle?.replace(/^[-:]/, "").replace(/[:-] book club edition/i, "").trim().toProperCase(),
+                authors: jsonOut.authors.map(a => { return {name: a.name.toProperCase()};}),
                 publish_date: date?.toString()
             };
             if (chosenPub) {
@@ -244,7 +239,15 @@ async function init() {
 
             bookLog.push(jsonToSave);
             const booksToSave = JSON.stringify(bookLog, null, 4);
-            await saveBooks(booksToSave);
+            debugLog("JSON to save: ", jsonToSave);
+            if (!argv.debug) {
+                await saveBooks(booksToSave);
+            }
+        }
+
+        // if I have it set to debug, just return and print out what would go through
+        if (argv.debug) {
+            return console.log(bookInfoArr);
         }
 
         // If it's not set to debug, go ahead and save the bookInfoArr to the file, and start up the ahk script
