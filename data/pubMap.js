@@ -115,6 +115,11 @@ module.exports = [
         locations: ["New York", "London"]
     },
     {
+        name: "Broadman & Holman Publishers",
+        aliases: ["Broadman"],
+        locations: ["Nashville, TN."]
+    },
+    {
         name: "Broadway Books / Random",
         aliases: ["Broadway"],
         locations: ["New York"]
@@ -138,6 +143,11 @@ module.exports = [
         name: "Crooked Lane Books",
         aliases: ["Crooked"],
         locations: ["New York"]
+    },
+    {
+        name: "Crossway Books",
+        aliases: ["Crossway"],
+        locations: ["Wheaton, IL."]
     },
     {
         name: "Crown Books / Random House",
@@ -185,6 +195,7 @@ module.exports = [
     },
     {
         name: [
+            "Hyperion",
             "Disney / Hyperion",
             "Hyperion / Disney"
         ],
@@ -348,7 +359,7 @@ module.exports = [
     },
     {
         name: "Lee Boudreaux / Back Bay",
-        aliases: ["Lee", "Boudreaux"],
+        aliases: ["Boudreaux"],
         locations: ["New York"]
     },
     {
@@ -507,6 +518,11 @@ module.exports = [
         locations: ["Naperville, IL."]
     },
     {
+        name: "Quercus",
+        aliases: ["Quercus"],
+        locations: ["New York"]
+    },
+    {
         name: "Random House",
         aliases: ["Random"],
         locations: ["New York"]
@@ -619,8 +635,13 @@ module.exports = [
     },
     {
         name: "Thomas Nelson, Inc.",
-        aliases: ["Thomas Nelson", "Nelson"],
+        aliases: ["Thomas Nelson"],
         locations: ["Nashville, TN."]
+    },
+    {
+        name: "Tin House Books",
+        aliases: ["Tin House"],
+        locations: ["Portland, OR."]
     },
     {
         name: "Tor: Tom Doherty Associates",
@@ -672,6 +693,11 @@ module.exports = [
         name: "Washington Square Press",
         aliases: ["Washington Square"],
         locations: ["New York"]
+    },
+    {
+        name: "Waterbrook Press",
+        aliases: ["Waterbrook"],
+        locations: ["Colorado Springs, CO."]
     },
     {
         name: "William Morrow",

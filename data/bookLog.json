@@ -3060,5 +3060,1742 @@
                 "name": "new york"
             }
         ]
+    },
+    {
+        "isbn": "9780670825370",
+        "title": "Satanic Verses",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Salman Rushdie"
+            }
+        ],
+        "publish_date": "1989",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616955724",
+        "title": "Jane and the Twelve Days of Christmas",
+        "subtitle": "A Jane Austen Mystery",
+        "authors": [
+            {
+                "name": "Stephanie Barron"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316422772",
+        "title": "Lethal White",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Galbraith"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316206891",
+        "title": "Silkworm (A Cormoran Strike Novel)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Galbraith"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553386714",
+        "title": "Jane and the Canterbury tale",
+        "subtitle": "A Jane Austen Mystery",
+        "authors": [
+            {
+                "name": "Barron, Stephanie"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553386707",
+        "title": "Jane and the madness of Lord Byron",
+        "subtitle": "A Jane Austen mystery",
+        "authors": [
+            {
+                "name": "Barron, Stephanie"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501133879",
+        "title": "Darktown",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Thomas Mullen"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Atria Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812988284",
+        "title": "American Spy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lauren Wilkinson"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524745035",
+        "title": "When You See Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Gardner"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316703567",
+        "title": "You'll Thank Me for This",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nina Siegal"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525538233",
+        "title": "Long Range",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681442419",
+        "title": "Marathon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brian Freeman"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501138799",
+        "title": "Lightning men",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Thomas Mullen"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Atria Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400067534",
+        "title": "many deaths of the Firefly Brothers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Thomas Mullen"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525620785",
+        "title": "Mexican Gothic",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Silvia Moreno-Garcia"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101966631",
+        "title": "Katharine Parr, The Sixth Wife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alison Weir"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524705947",
+        "title": "Eleanor Oliphant Is Completely Fine",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Gail Honeyman"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143039433",
+        "title": "Grapes of Wrath",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Steinbeck"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0679743340",
+        "title": "Winter's tales",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Isak Dinesen"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785197782",
+        "title": "Miles Morales",
+        "subtitle": "Ultimate Spider-Man Ultimate Collection Book 1",
+        "authors": [
+            {
+                "name": "Brian Michael Bendis"
+            },
+            {
+                "name": "David Marquez"
+            },
+            {
+                "name": "Mark Bagley"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "marvel worldwide, incorporated"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758267030",
+        "title": "Torn",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Erica O'Rourke"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780147510655",
+        "title": "Atlantia",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ally Condie"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142423622",
+        "title": "Salt to the Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruta Sepetys"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781599904832",
+        "title": "Sovay",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Celia Rees"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481400947",
+        "title": "Moon bear",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gill Lewis"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Atheneum Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781419712173",
+        "title": "El Deafo",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cece Bell"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Amulet / Abrams"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "chapel hill, nc."
+            }
+        ]
+    },
+    {
+        "isbn": "0060293152",
+        "title": "two princesses of Bamarre",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gail Carson Levine"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0439309107",
+        "title": "quiltmaker's gift",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jeff Brumbeau"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0385248008",
+        "title": "Young Merlin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert D."
+            },
+            {
+                "name": "Robert D. San Souci"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0385263694",
+        "title": "legend of King Arthur",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robin Lister"
+            }
+        ],
+        "publish_date": "1989",
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416942061",
+        "title": "cow loves cookies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karma Wilson"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Margaret K. McElderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "158536097X",
+        "title": "C is for cowboy",
+        "subtitle": "a Wyoming alphabet",
+        "authors": [
+            {
+                "name": "Eugene M. Gagliano"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "sleeping bear press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "chelsea, mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780525954972",
+        "title": "Column of Fire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0765307154",
+        "title": "last jihad",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Joel C. Rosenberg"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Forge/Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781611689761",
+        "title": "Escape from Dannemora",
+        "subtitle": "Richard Matt, David Sweat, and the Great Adirondack manhunt",
+        "authors": [
+            {
+                "name": "Michael Benson"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "foreedge"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330418911",
+        "title": "Helen of Troy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margaret George"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307589972",
+        "title": "Mermaid",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carolyn Turgeon"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780800721701",
+        "title": "In the Shadow of Jezebel",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Mesu Andrews"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "grand rapids, mi."
+            }
+        ]
+    },
+    {
+        "isbn": "1581342802",
+        "title": "general's notorious widow",
+        "subtitle": "the belles of lordsburg, book 2",
+        "authors": [
+            {
+                "name": "Stephen A. Bly"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "crossway books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "wheaton, il."
+            }
+        ]
+    },
+    {
+        "isbn": "1581343590",
+        "title": "outlaw's twin sister",
+        "subtitle": "the belles of lordsburg, book 3",
+        "authors": [
+            {
+                "name": "Stephen A. Bly"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "crossway books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "wheaton, il."
+            }
+        ]
+    },
+    {
+        "isbn": "1581342365",
+        "title": "senator's other daughter",
+        "subtitle": "the belles of lordsburg, book 1",
+        "authors": [
+            {
+                "name": "Stephen A. Bly"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "crossway books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "wheaton, il."
+            }
+        ]
+    },
+    {
+        "isbn": "0736900683",
+        "title": "Tuesday's child",
+        "subtitle": "A Day to Remember, book 2",
+        "authors": [
+            {
+                "name": "Linda Lee Chaikin"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "eugene, or."
+            }
+        ]
+    },
+    {
+        "isbn": "0736900705",
+        "title": "Thursday's child",
+        "subtitle": "A Day to Remember, book 4",
+        "authors": [
+            {
+                "name": "Linda Lee Chaikin"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "eugene, or."
+            }
+        ]
+    },
+    {
+        "isbn": "0736906576",
+        "title": "Friday's child",
+        "subtitle": "A Day to Remember, book 5",
+        "authors": [
+            {
+                "name": "Linda Lee Chaikin"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "eugene, or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781595543165",
+        "title": "Without a Trace",
+        "subtitle": "A Rock Harbor Mystery, book 1",
+        "authors": [
+            {
+                "name": "Colleen Coble"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "nashville, tn."
+            }
+        ]
+    },
+    {
+        "isbn": "0805419691",
+        "title": "Echoes of mercy",
+        "subtitle": "Blessed Assurance Series, vol. 3",
+        "authors": [
+            {
+                "name": "Lyn Cote"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "broadman & holman publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "nashville, tn."
+            }
+        ]
+    },
+    {
+        "isbn": "0805419683",
+        "title": "Lost in his love",
+        "subtitle": "Blessed Assurance Series, vol. 2",
+        "authors": [
+            {
+                "name": "Lyn Cote"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "broadman & holman"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "nashville, tn."
+            }
+        ]
+    },
+    {
+        "isbn": "0805419675",
+        "title": "Whispers of love",
+        "subtitle": "Blessed Assurance Series, vol. 1",
+        "authors": [
+            {
+                "name": "Lyn Cote"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "broadman & holman publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "nashville, tn."
+            }
+        ]
+    },
+    {
+        "isbn": "1578562325",
+        "title": "All together in one place",
+        "subtitle": "Book one of the kinship, courage, and faith series",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Waterbrook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "colorado springs, co."
+            }
+        ]
+    },
+    {
+        "isbn": "1556616961",
+        "title": "Wings of Healing",
+        "subtitle": "Guardians of the North #5",
+        "authors": [
+            {
+                "name": "Alan Morris"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556615663",
+        "title": "Song in a Strange Land",
+        "subtitle": "The Liberty Bell #2",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556615698",
+        "title": "Wind From the Wilderness",
+        "subtitle": "The Liberty Bell #5",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556615701",
+        "title": "Right Hand of God",
+        "subtitle": "The Liberty Bell #6",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0800755219",
+        "title": "Time to Die",
+        "subtitle": "The American Odyssey Series, book two",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "1994",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "grand rapids, mi."
+            }
+        ]
+    },
+    {
+        "isbn": "080075610X",
+        "title": "Time of War",
+        "subtitle": "The American Odyssey Series, book five",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "grand rapids, mi."
+            }
+        ]
+    },
+    {
+        "isbn": "0800756452",
+        "title": "Time to Build",
+        "subtitle": "The American Odyssey Series, book six",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "grand rapids, mi."
+            }
+        ]
+    },
+    {
+        "isbn": "0764224514",
+        "title": "Dana's valley",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Janette Oke"
+            },
+            {
+                "name": "Laurel Oke Logan"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0764222295",
+        "title": "Birthright",
+        "subtitle": "song of acadia, book 3",
+        "authors": [
+            {
+                "name": "Janette Oke"
+            },
+            {
+                "name": "T. Davis Bunn"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556618786",
+        "title": "Return to Harmony",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Janette Oke"
+            },
+            {
+                "name": "T. Davis Bunn"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556618646",
+        "title": "Promise for Tomorrow",
+        "subtitle": "Ribbons of Steel, book 3",
+        "authors": [
+            {
+                "name": "Judith Pella"
+            },
+            {
+                "name": "Tracie Peterson"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556615787",
+        "title": "Land To Call Home",
+        "subtitle": "Red River of the North, book 3",
+        "authors": [
+            {
+                "name": "Lauraine Snelling"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0764220896",
+        "title": "Tender Mercies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lauraine Snelling"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "076422090X",
+        "title": "Blessing In Disguise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lauraine Snelling"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556610998",
+        "title": "Riders Of The Silver Rim",
+        "subtitle": "Saga of the Sierras",
+        "authors": [
+            {
+                "name": "Brock Thoene"
+            },
+            {
+                "name": "Bodie Thoene"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556611625",
+        "title": "Gold Rush Prodigal",
+        "subtitle": "Saga of the Sierras",
+        "authors": [
+            {
+                "name": "Brock Thoene"
+            },
+            {
+                "name": "Bodie Thoene"
+            }
+        ],
+        "publish_date": "1991",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556610378",
+        "title": "Out Of The Crucible",
+        "subtitle": "Treasure Quest Books",
+        "authors": [
+            {
+                "name": "Marian Wells"
+            }
+        ],
+        "publish_date": "1988",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0764200410",
+        "title": "Perilous Proposal",
+        "subtitle": "Carolina Cousins, book 1",
+        "authors": [
+            {
+                "name": "Michael R. Phillips"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982115449",
+        "title": "Apt Pupil",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062255662",
+        "title": "Ocean At The End Of The Lane",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            },
+            {
+                "name": "Elise Hurst"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982107017",
+        "title": "Light Over London",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julia Kelly"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780736919678",
+        "title": "When The Cat's Away",
+        "subtitle": "Jacques And Cleo, Cat Detectives #3",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "eugene, or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780425283226",
+        "title": "What You Break",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Reed Farrel Coleman"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464214059",
+        "title": "Mortmain Hall",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Martin Edwards"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "naperville, il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781476775470",
+        "title": "Mortal Fall",
+        "subtitle": "A Novel Of Suspense",
+        "authors": [
+            {
+                "name": "Christine Carbo"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Atria Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780771050589",
+        "title": "Let Darkness Bury The Dead",
+        "subtitle": "A Murdoch Mystery",
+        "authors": [
+            {
+                "name": "Maureen Jennings"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "mcclelland & stewart"
+            }
+        ]
+    },
+    {
+        "isbn": "9781951142247",
+        "title": "House On Vesper Sands",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paraic O'donnell"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Tin House Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "portland, or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719671",
+        "title": "Gambling Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0385480547",
+        "title": "Undertaker's Widow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Phillip Margolin"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780806539249",
+        "title": "Dannemora",
+        "subtitle": "Two Escaped Killers, Three Weeks Of Terror, And The Largest Manhunt Ever In New York State",
+        "authors": [
+            {
+                "name": "Charles A. Gardner"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Citadel / Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765388407",
+        "title": "Bailey's Story",
+        "subtitle": "A Dog's Purpose",
+        "authors": [
+            {
+                "name": "W. Bruce Cameron"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401302436",
+        "title": "Three Times Carlin",
+        "subtitle": "An Orgy Of George",
+        "authors": [
+            {
+                "name": "George Carlin"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101993880",
+        "title": "Roll Of Thunder, Hear My Cry",
+        "subtitle": "40th Anniversary Special Edition",
+        "authors": [
+            {
+                "name": "Mildred D. Taylor"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
     }
 ]
