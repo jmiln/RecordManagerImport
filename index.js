@@ -171,9 +171,9 @@ async function init() {
                 inLocs = jsonOut.publish_places.map(loc => loc.name);
             }
 
-            const {pub, loc} = await getPub(pubName, inLocs);
+            const {pub, locs} = await getPub(pubName, inLocs);
             chosenPub = pub ? pub : null;
-            pubLoc = loc ? loc : null;
+            pubLoc = locs ? locs : null;
             if (chosenPub) {
                 bookInfoArr.push(`PUB=${chosenPub}`);
                 if (pubLoc) {
@@ -514,24 +514,27 @@ async function getPub(pubName, inLocs) {
 
     // If there were matches, work through those and spit out the choices
     if (pubChoices?.length > 1) {
-        const OTHER_NUM = pubChoices.length;
-        const chooseOtherStr = `\n[${OTHER_NUM}] Choose other`;
-
-        const CANCEL_NUM = pubChoices.length+1;
-        const cancelStr = `\n[${CANCEL_NUM}] Cancel`;
+        const chooseOtherStr = "\n[O] Choose other";
+        const cancelStr = "\n[C] Cancel";
 
         const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pubChoices.map((p, ix) => `[${ix}] ${p.name}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
         if (pubChoices[pubRes]) {
             out.pub = pubChoices[pubRes].name;
             inLocs.push(...pubChoices[pubRes].locations);
-        } else if (parseInt(pubRes, 10) === OTHER_NUM) {
+        } else if (pubRes.toLowerCase() === "o") {
             const newPub = await askQuestion("What publisher should I search for?\n");
             out = await getPub(newPub);
+            if (!out.locs && !out.pub) {
+                return out;
+            }
             if (out.locs) {
                 inLocs.push(...out.locs);
             }
-        } else if (parseInt(pubRes, 10) === CANCEL_NUM) {
+        } else if (pubRes.toLowerCase() === "c") {
+            // Just stop looking for anything
             out.pub = null;
+            out.locs = null;
+            return out;
         }
     } else if (pubChoices.length == 1) {
         const pub = pubChoices[0];
@@ -544,11 +547,15 @@ async function getPub(pubName, inLocs) {
             // If it's not, or you want to stop looking, this will break out and it'll just ignore the publishers
             out.pub = null;
             out.locs = null;
+            return out;
         } else {
             // If that's not what it should be, ask what should be there, then run the search again...
             // This means sticking the publisher search stuff above into a function
             const newPub = await askQuestion("What publisher should I search for?\n");
             out = await getPub(newPub);
+            if (!out.locs && !out.pub) {
+                return out;
+            }
             if (out.locs) {
                 inLocs.push(...out.locs);
             }
@@ -561,6 +568,9 @@ async function getPub(pubName, inLocs) {
         if (["y", "yes"].includes(noRes.toLowerCase())) {
             const newPub = await askQuestion("What publisher should I search for?\n");
             out = await getPub(newPub);
+            if (!out.locs && !out.pub) {
+                return out;
+            }
             if (out.locs?.length) {
                 inLocs.push(...out.locs);
             }
@@ -574,8 +584,12 @@ async function getPub(pubName, inLocs) {
     }
 
     // If there were any locations found for whatever publisher, format em and see which is correct
-    out.loc = await getLoc(inLocs);
-    out.locs = [out.loc];
+    const newLoc = await getLoc(inLocs);
+    if (!newLoc) {
+        out.locs = null;
+    } else {
+        out.locs = [newLoc];
+    }
 
     return out;
 }
@@ -630,23 +644,25 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
 
         // If there is more than one location, let em choose
         if (inLocs?.length > 1) {
-            const OTHER_NUM = inLocs.length;
-            const chooseOtherStr = `\n[${OTHER_NUM}] Choose other`;
-
-            const CANCEL_NUM = inLocs.length+1;
-            const cancelStr = `\n[${CANCEL_NUM}] Cancel`;
+            const chooseOtherStr = "\n[O] Choose other";
+            const cancelStr = "\n[C] Cancel";
 
             const locRes = await askQuestion(`I found these location(s), which one should I use?\n\n${inLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
             if (Number.isInteger(parseInt(locRes)) && inLocs[locRes]) {
-                outLoc = inLocs[locRes];
-            } else if (parseInt(locRes, 10) == OTHER_NUM) {
+                return inLocs[locRes];
+            } else if (locRes.toUpperCase() === "O") {
                 // Ask for something to search by, and run it through this again with the results from that
                 const targetLoc = await askQuestion("Which location are you looking for?\n\n");
                 const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
                 if (possibleLocs.length) {
                     outLoc = getLoc(possibleLocs);
+                    if (!outLoc) {
+                        return null;
+                    } else {
+                        return outLoc;
+                    }
                 }
-            } else if (parseInt(locRes, 10) == CANCEL_NUM) {
+            } else if (locRes.toUpperCase() == "C") {
                 // Cancel it/ send back nothing so it'll be left blank
                 return null;
             }
@@ -660,6 +676,11 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
                 const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
                 if (possibleLocs.length) {
                     outLoc = getLoc(possibleLocs);
+                    if (!outLoc) {
+                        return null;
+                    } else {
+                        return outLoc;
+                    }
                 }
             } else {
                 return null;
@@ -676,6 +697,9 @@ async function getEmptyPub() {
     if (["y", "yes"].includes(noRes.toLowerCase())) {
         const newPub = await askQuestion("What publisher should I search for?\n");
         out = await getPub(newPub);
+        if (!out.locs && !out.pub) {
+            return out;
+        }
     } else {
         out.pub = null;
         out.locs = null;
