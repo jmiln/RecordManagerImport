@@ -168,7 +168,16 @@ async function init() {
             const pubName = jsonOut.publishers.map(p => p.name).join(" ");
             let inLocs = null;
             if (jsonOut.publish_places?.length) {
-                inLocs = jsonOut.publish_places.map(loc => loc.name);
+                debugLog("jsonout.pubLocs", jsonOut.publish_places);
+                inLocs = jsonOut.publish_places.map(loc => {
+                    if (Array.isArray(loc)) {
+                        loc = loc[0];
+                    }
+                    if (Array.isArray(loc.name)) {
+                        loc.name = loc.name[0];
+                    }
+                    return loc.name;
+                });
             }
 
             const {pub, locs} = await getPub(pubName, inLocs);
@@ -182,9 +191,9 @@ async function init() {
             }
         } else {
             // There's no pub given/ found, so ask
-            const {pub, loc} = await getEmptyPub();
+            const {pub, locs} = await getEmptyPub();
             chosenPub = pub ? pub : null;
-            pubLoc = loc ? loc : null;
+            pubLoc = locs ? locs : null;
             if (chosenPub) {
                 bookInfoArr.push(`PUB=${chosenPub}`);
                 if (pubLoc) {
@@ -234,6 +243,7 @@ async function init() {
                 jsonToSave.publishers = [{name: chosenPub}];
             }
             if (pubLoc) {
+                if (Array.isArray(pubLoc)) pubLoc = pubLoc[0];
                 jsonToSave.publish_places = [{name: pubLoc}];
             }
 
@@ -697,6 +707,7 @@ async function getEmptyPub() {
     if (["y", "yes"].includes(noRes.toLowerCase())) {
         const newPub = await askQuestion("What publisher should I search for?\n");
         out = await getPub(newPub);
+        debugLog("Empty pub out: ", out);
         if (!out.locs && !out.pub) {
             return out;
         }
