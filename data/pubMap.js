@@ -293,7 +293,10 @@ module.exports = [
         locations: ["New York"]
     },
     {
-        name: "Harcourt, Inc.",
+        name: [
+            "Harcourt, Inc.",
+            "Harvest / Harcourt, Inc."
+        ],
         aliases: ["Harcourt"],
         locations: ["Orlando, FL."]
     },
@@ -395,6 +398,11 @@ module.exports = [
         name: "Mira Books",
         aliases: ["Mira"],
         locations: ["Toronto, Ontario"]
+    },
+    {
+        name: "Miramax / Hyperion",
+        aliases: ["Miramax"],
+        locations: ["New York"]
     },
     {
         name: [

@@ -4513,9 +4513,6 @@
         "authors": [
             {
                 "name": "Neil Gaiman"
-            },
-            {
-                "name": "Elise Hurst"
             }
         ],
         "publish_date": "2014",
@@ -5357,6 +5354,526 @@
         "publish_places": [
             {
                 "name": "london"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316498937",
+        "title": "Troubled Blood",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063041929",
+        "title": "Anatomy Of Desire",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "L. R. Dorn"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538761694",
+        "title": "Daylight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735217201",
+        "title": "Shoot First",
+        "subtitle": "(Think Later) : A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765395016",
+        "title": "Max's Story",
+        "subtitle": "A Dog's Purpose Puppy Tale",
+        "authors": [
+            {
+                "name": "W. Bruce Cameron"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0684853507",
+        "title": "Bag Of Bones",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0670839531",
+        "title": "Needful Things",
+        "subtitle": "The last castle rock story",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "1991",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374203061",
+        "title": "Fresh Complaint",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Jeffrey Eugenides"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Farrar, Straus and Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062468710",
+        "title": "Hidden Palace",
+        "subtitle": "A Novel Of The Golem And The Jinni",
+        "authors": [
+            {
+                "name": "Helene Wecker"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316055437",
+        "title": "Goldfinch",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Donna Tartt"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525520023",
+        "title": "First Person",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Richard Flanagan"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312367350",
+        "title": "Secret Life Of Josephine",
+        "subtitle": "Napoleon's Bird Of Paradise",
+        "authors": [
+            {
+                "name": "Carolly Erickson"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345495358",
+        "title": "Lady Elizabeth",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alison Weir"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062966292",
+        "title": "Dutch House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345527394",
+        "title": "Chain Of Thunder",
+        "subtitle": "A Novel Of The Siege Of Vicksburg",
+        "authors": [
+            {
+                "name": "Jeff Shaara"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743272544",
+        "title": "Respectable Trade",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philippa Gregory"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553418798",
+        "title": "Little Paris Bookshop",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nina George"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812982626",
+        "title": "Orphan Master's Son",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adam Johnson"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0452264464",
+        "title": "Beloved",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "publish_date": "1988",
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425223512",
+        "title": "Question Of Guilt",
+        "subtitle": "A Novel Of Mary, Queen Of Scots, And The Death Of Henry Darnley",
+        "authors": [
+            {
+                "name": "Julianne Lee"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0786816155",
+        "title": "Summerland",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Chabon"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Miramax / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780156028790",
+        "title": "Cave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "José Saramago"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "orlando, fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780156034029",
+        "title": "Reluctant Fundamentalist",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mohsin Hamid"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "orlando, fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780300198058",
+        "title": "Suspended Sentences",
+        "subtitle": "Three Novellas",
+        "authors": [
+            {
+                "name": "Patrick Modiano"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "yale university press"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061120084",
+        "title": "To Kill A Mockingbird",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harper Lee"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
             }
         ]
     }
