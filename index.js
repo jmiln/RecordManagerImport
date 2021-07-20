@@ -627,35 +627,6 @@ async function getPub(pubName, inLocs) {
     return out;
 }
 
-async function getNewLoc() {
-    let newLoc = null;
-    const newLocRes = await askQuestion("What location would you like to look for?\n\n");
-    const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(newLocRes) > -1);
-
-    if (!possibleLocs?.length) {
-        const noLocRes = await askQuestion(`I did not find any matches for ${newLocRes}, would you like to use it anyways? (Y)es / (N)o\n`);
-        if (["y", "yes"].includes(noLocRes.toLowerCase())) {
-            newLoc = newLocRes;
-        }
-    } else if (possibleLocs.length > 1) {
-        // If matched with more than one location
-        const locChoiceRes = await askQuestion(`I found the following locations, which should I use?\n\n${possibleLocs.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n${cancelStr}\n\n`);
-        if (possibleLocs[locChoiceRes]) {
-            debugLog("Setting newLoc to ", possibleLocs[locChoiceRes]);
-            newLoc = possibleLocs[locChoiceRes];
-        } else {
-            newLoc = null;
-        }
-    } else {
-        // There's only one match, so check if it's viable
-        const oneLocRes = await askQuestion(`I found one match (${possibleLocs[0]}), would you like to use it? (Y)es / (N)o\n`);
-        if (["y", "yes"].includes(oneLocRes.toLowerCase())) {
-            newLoc = possibleLocs[0];
-        }
-    }
-    return newLoc;
-}
-
 // Given however many locations,
 //  * If more than one, ask which one
 //  * If none, ask to find one, and match against the location file
@@ -731,22 +702,45 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
             // There were no matching locations, so see if they want to find one
             const locRes = await askQuestion("I did not find any matching locations, would you like to find one?\n");
             if (["y", "yes"].includes(locRes.toLowerCase())) {
-                const targetLoc = await askQuestion("Which location are you looking for?\n\n");
-                const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
-                if (possibleLocs.length) {
-                    outLoc = getLoc(possibleLocs);
-                    if (!outLoc) {
-                        return null;
-                    } else {
-                        return outLoc;
-                    }
-                }
+                const targetLoc = await getNewLoc();
+                return targetLoc;
             } else {
                 return null;
             }
         }
     }
     return outLoc;
+}
+
+// If we don't have a location to go off of, ask for a new location and do what we can to find it
+async function getNewLoc() {
+    let newLoc = null;
+    const newLocRes = await askQuestion("What location would you like to look for?\n\n");
+    const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(newLocRes) > -1);
+
+    if (!possibleLocs?.length) {
+        // If there are no matches, ask to use what was entered
+        const noLocRes = await askQuestion(`I did not find any matches for ${newLocRes}, would you like to try again? (Y)es / (N)o / (U)se\n`);
+        if (["y", "yes"].includes(noLocRes.toLowerCase())) {
+            newLoc = getNewLoc();
+        } else if (["u", "use"].includes(noLocRes.toLowerCase())) {
+            newLoc = newLocRes;
+        }
+    } else if (possibleLocs.length > 1) {
+        // If matched with more than one location
+        const locChoiceRes = await askQuestion(`I found the following locations, which should I use?\n\n${possibleLocs.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n${cancelStr}\n\n`);
+        if (possibleLocs[locChoiceRes]) {
+            debugLog("Setting newLoc to ", possibleLocs[locChoiceRes]);
+            newLoc = possibleLocs[locChoiceRes];
+        }
+    } else {
+        // There's only one match, so check if it's viable
+        const oneLocRes = await askQuestion(`I found one match (${possibleLocs[0]}), would you like to use it? (Y)es / (N)o\n`);
+        if (["y", "yes"].includes(oneLocRes.toLowerCase())) {
+            newLoc = possibleLocs[0];
+        }
+    }
+    return newLoc;
 }
 
 // If there's no pub given, ask if it's wanted
