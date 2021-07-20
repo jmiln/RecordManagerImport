@@ -4797,5 +4797,567 @@
                 "name": "new york"
             }
         ]
+    },
+    {
+        "isbn": "9781635570304",
+        "title": "Priory Of The Orange Tree",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Samantha Shannon"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316538510",
+        "title": "Jasmine Throne",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tasha Suri"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765320520",
+        "title": "Killing Of Worlds",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Scott Westerfeld"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780807083697",
+        "title": "Kindred",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Octavia E. Butler"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Beacon Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781633885547",
+        "title": "Last Road",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "K. Johansen"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "pyr"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250229533",
+        "title": "Great Alone",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0890816611",
+        "title": "Sweetbriar Spring",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brenda Wilbee"
+            }
+        ],
+        "publish_date": "1989",
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "eugene, or."
+            }
+        ]
+    },
+    {
+        "isbn": "1556614306",
+        "title": "Rail Kings",
+        "subtitle": "The Wells Fargo Trail, book 3",
+        "authors": [
+            {
+                "name": "Walker, James"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556617038",
+        "title": "Ice Princess",
+        "subtitle": "The Wells Fargo Trail, book 8",
+        "authors": [
+            {
+                "name": "Walker, James"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0800755766",
+        "title": "Time To Weep",
+        "subtitle": "American Century #4",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "grand rapids, mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538720042",
+        "title": "Split Second",
+        "subtitle": "A King & Maxwell Thriller",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538711903",
+        "title": "Simple Truth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455586431",
+        "title": "Guilty",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455586509",
+        "title": "No Man's Land",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593098936",
+        "title": "One Minute Out",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Berkley Books/Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312649432",
+        "title": "Why My Third Husband Will Be A Dog",
+        "subtitle": "The Amazing adventures of an ordinary woman",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008303761",
+        "title": "Never Game",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jeffery Deaver"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250199331",
+        "title": "Back Of Beyond",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593130025",
+        "title": "Scarlet Fever",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rita Mae Brown"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250269812",
+        "title": "Art Of Deception",
+        "subtitle": "A Daughter Of Sherlock Holmes Mystery",
+        "authors": [
+            {
+                "name": "Leonard Goldberg"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250312211",
+        "title": "Last Passenger",
+        "subtitle": "A Charles Lenox Mystery",
+        "authors": [
+            {
+                "name": "Charles Finch"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780738712505",
+        "title": "Paper Scissors Death",
+        "subtitle": "A Scrapbooking Mystery",
+        "authors": [
+            {
+                "name": "Joanna Campbell-Slan"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "midnight ink"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "woodbury, mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781439153963",
+        "title": "Northwest Angle",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Atria Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416556770",
+        "title": "Heaven's Keep",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Atria Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492691563",
+        "title": "How Leaders Decide",
+        "subtitle": "A Timeless Guide To Making Tough Choices",
+        "authors": [
+            {
+                "name": "Greg Bustin"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Sourcebooks"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "naperville, il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781408818619",
+        "title": "Coraline",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "london"
+            }
+        ]
+    },
+    {
+        "isbn": "9781785656866",
+        "title": "Last Stand",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mickey Spillane"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "london"
+            }
+        ]
     }
 ]

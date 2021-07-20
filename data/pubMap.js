@@ -639,6 +639,11 @@ module.exports = [
         locations: ["Nashville, TN."]
     },
     {
+        name: "Titan Books",
+        aliases: ["titan books"],
+        locations: ["London"]
+    },
+    {
         name: "Tin House Books",
         aliases: ["Tin House"],
         locations: ["Portland, OR."]
