@@ -9,8 +9,12 @@ const readline = require("readline");
 const helpArr   = require(__dirname + "/data/helpOut.js");
 const kwMap     = require(__dirname + "/data/keywordMap.js");
 const locMap    = require(__dirname + "/data/locations.js");
-const pubMap    = require(__dirname + "/data/pubMap.js");
+const pubMap    = require(__dirname + "/data/pubMap.json");
 const bookLog   = require(__dirname + "/data/bookLog.json");
+
+const chooseOtherStr = "\n[O] Choose other";
+const cancelStr = "\n[C] Cancel";
+
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
@@ -524,9 +528,6 @@ async function getPub(pubName, inLocs) {
 
     // If there were matches, work through those and spit out the choices
     if (pubChoices?.length > 1) {
-        const chooseOtherStr = "\n[O] Choose other";
-        const cancelStr = "\n[C] Cancel";
-
         const pubRes = await askQuestion(`I found the following publishers, which should I use?\n\n${pubChoices.map((p, ix) => `[${ix}] ${p.name}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
         if (pubChoices[pubRes]) {
             out.pub = pubChoices[pubRes].name;
@@ -587,6 +588,28 @@ async function getPub(pubName, inLocs) {
         } else if (["u", "use"].includes(noRes.toLowerCase())) {
             // Just go ahead and stick in what it finds, without needing to verify with the pubMap
             out.pub = pubName;
+
+            // Check if there's a location to go with it
+            const locRes = await askQuestion("Would you like to put a location with that? (Y)es / (N)o\n");
+            if (["y", "yes"].includes(locRes.toLowerCase())) {
+                const newLoc = await getNewLoc();
+                if (newLoc) {
+                    out.locs = newLoc;
+
+                    if (!argv.debug && out.locs && out.pub) {
+                        const newPubObj = {
+                            name: [out.pub],
+                            aliases: [],
+                            locations: out.locs
+                        };
+                        pubMap.push(newPubObj);
+                        const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
+                        await savePubs(JSON.stringify(pubMapOut, null, 4));
+                    }
+
+                    return out;
+                }
+            }
         } else {
             out.pub = null;
             out.locs = null;
@@ -602,6 +625,35 @@ async function getPub(pubName, inLocs) {
     }
 
     return out;
+}
+
+async function getNewLoc() {
+    let newLoc = null;
+    const newLocRes = await askQuestion("What location would you like to look for?\n\n");
+    const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(newLocRes) > -1);
+
+    if (!possibleLocs?.length) {
+        const noLocRes = await askQuestion(`I did not find any matches for ${newLocRes}, would you like to use it anyways? (Y)es / (N)o\n`);
+        if (["y", "yes"].includes(noLocRes.toLowerCase())) {
+            newLoc = newLocRes;
+        }
+    } else if (possibleLocs.length > 1) {
+        // If matched with more than one location
+        const locChoiceRes = await askQuestion(`I found the following locations, which should I use?\n\n${possibleLocs.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n${cancelStr}\n\n`);
+        if (possibleLocs[locChoiceRes]) {
+            debugLog("Setting newLoc to ", possibleLocs[locChoiceRes]);
+            newLoc = possibleLocs[locChoiceRes];
+        } else {
+            newLoc = null;
+        }
+    } else {
+        // There's only one match, so check if it's viable
+        const oneLocRes = await askQuestion(`I found one match (${possibleLocs[0]}), would you like to use it? (Y)es / (N)o\n`);
+        if (["y", "yes"].includes(oneLocRes.toLowerCase())) {
+            newLoc = possibleLocs[0];
+        }
+    }
+    return newLoc;
 }
 
 // Given however many locations,
@@ -654,9 +706,6 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
 
         // If there is more than one location, let em choose
         if (inLocs?.length > 1) {
-            const chooseOtherStr = "\n[O] Choose other";
-            const cancelStr = "\n[C] Cancel";
-
             const locRes = await askQuestion(`I found these location(s), which one should I use?\n\n${inLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`);
             if (Number.isInteger(parseInt(locRes)) && inLocs[locRes]) {
                 return inLocs[locRes];
@@ -732,11 +781,19 @@ async function askQuestion(query) {
     }));
 }
 
-// Run through all the data to make it all lowercase so it can be put in with caps lock on, then
-// save it to the file and run the ahk script to actually put it into Record Manager
+// Save the pubmap
+async function savePubs(pubJson) {
+    console.log("Saving pubs");
+    await fs.writeFileSync(__dirname + "/data/pubMap.json", pubJson);
+}
+
+// Save the bookLog
 async function saveBooks(bookJson) {
     await fs.writeFileSync(__dirname + "/data/bookLog.json", bookJson);
 }
+
+// Run through all the data to make it all lowercase so it can be put in with caps lock on, then
+// save it to the file and run the ahk script to actually put it into Record Manager
 async function saveAndRun(infoArr) {
     const bookInfoOut = infoArr
         .map(e => e.toLowerCase())
