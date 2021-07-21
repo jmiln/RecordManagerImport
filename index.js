@@ -15,6 +15,15 @@ const bookLog   = require(__dirname + "/data/bookLog.json");
 const chooseOtherStr = "\n[O] Choose other";
 const cancelStr = "\n[C] Cancel";
 
+const yesVals    = ["y", "yes"];
+const noVals     = ["n", "no"];
+const cancelVals = ["c", "cancel"];
+
+// The readline to allow user input from the commandline
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
 
 const argv = require("minimist")(process.argv.slice(2), {
     alias: {
@@ -172,7 +181,7 @@ async function init() {
             const pubName = jsonOut.publishers.map(p => p.name).join(" ");
             let inLocs = null;
             if (jsonOut.publish_places?.length) {
-                debugLog("jsonout.pubLocs", jsonOut.publish_places);
+                debugLog("jsonOut.pubLocs", jsonOut.publish_places);
                 inLocs = jsonOut.publish_places.map(loc => {
                     if (Array.isArray(loc)) {
                         loc = loc[0];
@@ -261,6 +270,7 @@ async function init() {
 
         // if I have it set to debug, just return and print out what would go through
         if (argv.debug) {
+            rl.close();
             return console.log(bookInfoArr);
         }
 
@@ -291,6 +301,7 @@ async function init() {
         }
 
         if (argv.debug) {
+            rl.close();
             return console.log(bookInfoArr);
         }
 
@@ -598,9 +609,9 @@ async function getPub(pubName, inLocs) {
 
                     if (!argv.debug && out.locs && out.pub) {
                         const newPubObj = {
-                            name: [out.pub],
+                            name: [out.pub.toProperCase()],
                             aliases: [],
-                            locations: out.locs
+                            locations: [out.locs].map(l => l.toProperCase())
                         };
                         pubMap.push(newPubObj);
                         const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
@@ -764,15 +775,25 @@ async function getEmptyPub() {
 
 // Ask a question/ prompt and wait for the reply
 async function askQuestion(query) {
-    const rl = readline.createInterface({
-        input: process.stdin,
-        output: process.stdout,
-    });
-
     return new Promise(resolve => rl.question(query, ans => {
-        rl.close();
+        // rl.close();
         resolve(ans);
     }));
+}
+
+// Ask a question, with set answers that are expected
+async function askQuestionV2(question, answers) {
+    answers = answers.map(a => a.toLowerCase());
+    return new Promise((resolve) => {
+        rl.question(question, (line) => {
+            if (answers.indexOf(line.toLowerCase()) > -1) {
+                resolve(line.toLowerCase());
+            } else {
+                console.log(line + " is not a valid answer.\nChoose from the following: " + answers.join(", "));
+                resolve(askQuestionV2(question, answers));
+            }
+        });
+    });
 }
 
 // Save the pubmap
@@ -795,6 +816,7 @@ async function saveAndRun(infoArr) {
         .replace(/’/g, "'");
     // Write to a file, then pass that to the ahk
     await fs.writeFileSync(__dirname + "/bookInfo.txt", bookInfoOut);
+    rl.close();
     await exec(__dirname + "/bookOut.ahk", (error) => {
         if (error) {
             console.log(error);
