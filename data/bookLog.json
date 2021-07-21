@@ -5887,5 +5887,355 @@
             }
         ],
         "publish_date": "2026"
+    },
+    {
+        "isbn": "9781250753489",
+        "title": "Dachshund Through The Snow",
+        "subtitle": "An Andy Carpenter Mystery",
+        "authors": [
+            {
+                "name": "David Rosenfelt"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496711038",
+        "title": "Murder Wears Mittens",
+        "subtitle": "A seaside knitters society mystery",
+        "authors": [
+            {
+                "name": "Sally Goldenbaum"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635114348",
+        "title": "Not A Creature Was Stirring",
+        "subtitle": "A merry & bright handcrafted mystery #1",
+        "authors": [
+            {
+                "name": "Christina Freeburn"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "henery press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781516108039",
+        "title": "Pinot Red Or Dead?",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J.c. Eaton"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "lyrical underground"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "NEW YORK"
+            }
+        ]
+    },
+    {
+        "isbn": "9781946682109",
+        "title": "Death Comes In Threes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kimberley O'malley"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "carolina blue publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451225535",
+        "title": "Death By Cashmere",
+        "subtitle": "A seaside knitters mystery",
+        "authors": [
+            {
+                "name": "Sally Goldenbaum"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Obsidian"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143108252",
+        "title": "Storm Of Steel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernst Jünger"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780805088618",
+        "title": "Day Of Battle",
+        "subtitle": "The War In Sicily And Italy 1943-1944 - Volume two of the liberation trilogy",
+        "authors": [
+            {
+                "name": "Rick Atkinson"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780811735872",
+        "title": "Battle Of The Bulge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hans Wijers"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "stackpole books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mechanicsburg, pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781400066773",
+        "title": "Armor And Blood",
+        "subtitle": "The Battle Of Kursk, The Turning Point Of World War Ii",
+        "authors": [
+            {
+                "name": "Dennis E. Showalter"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0684869306",
+        "title": "Finest Hour",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tim Clayton"
+            },
+            {
+                "name": "Phil Craig"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804176729",
+        "title": "Spearhead",
+        "subtitle": "An American Tank Gunner, His Enemy, And A Collision Of Lives In World War Ii",
+        "authors": [
+            {
+                "name": "Adam Makos"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451617788",
+        "title": "All Fall Down",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Weiner"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Atria Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984831927",
+        "title": "House Of Salt And Sorrows",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Erin A. Craig"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Delacorte Press/Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525513926",
+        "title": "Four Dead Queens",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Astrid Scholte"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250195661",
+        "title": "Wicked Saints",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Emily A. Duncan"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "wednesday books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "NEW YORK"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481497619",
+        "title": "Sorcery Of Thorns",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Rogerson"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Margaret K. McElderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
     }
 ]

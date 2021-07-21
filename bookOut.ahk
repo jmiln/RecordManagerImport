@@ -65,12 +65,14 @@ WinActivate, ahk_class SDL_app
 sleep, 100
 send, {up}
 sleep, 150
-DosBoxMouseMove(190, 25)
-MouseClick, Left
-sleep, 350
-DosBoxMouseMove(190, 25)
-; MouseMove, 400, 75, 80
-sleep, 50
+
+loop 3 {
+    DosBoxMouseMove(190, 25)
+    sleep, 50
+    MouseClick, Left
+    sleep, 150
+}
+
 MouseClick, Left
 sleep, 15
 MouseClick, Left

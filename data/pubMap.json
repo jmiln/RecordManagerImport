@@ -784,6 +784,15 @@
     },
     {
         "name": [
+            "lyrical underground"
+        ],
+        "aliases": [],
+        "locations": [
+            "NEW YORK"
+        ]
+    },
+    {
+        "name": [
             "MacMillan Company"
         ],
         "aliases": [
@@ -1296,6 +1305,15 @@
     },
     {
         "name": [
+            "stackpole books"
+        ],
+        "aliases": [],
+        "locations": [
+            "Mechanicsburg, pa."
+        ]
+    },
+    {
+        "name": [
             "Thomas & Mercer"
         ],
         "aliases": [
@@ -1455,6 +1473,15 @@
         ],
         "locations": [
             "Colorado Springs, CO."
+        ]
+    },
+    {
+        "name": [
+            "Wednesday Books"
+        ],
+        "aliases": [],
+        "locations": [
+            "New York"
         ]
     },
     {
