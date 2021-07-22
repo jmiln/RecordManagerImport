@@ -668,6 +668,15 @@
     },
     {
         "name": [
+            "History Press"
+        ],
+        "aliases": [],
+        "locations": [
+            "Charleston, Sc."
+        ]
+    },
+    {
+        "name": [
             "Houghton Mifflin Company"
         ],
         "aliases": [
@@ -751,6 +760,15 @@
     },
     {
         "name": [
+            "Kregel Publications"
+        ],
+        "aliases": [],
+        "locations": [
+            "Grand Rapids, Mi."
+        ]
+    },
+    {
+        "name": [
             "Lake Union Publishing"
         ],
         "aliases": [
@@ -823,6 +841,15 @@
         "locations": [
             "New York",
             "Boston"
+        ]
+    },
+    {
+        "name": [
+            "Mcclelland & Stewart"
+        ],
+        "aliases": [],
+        "locations": [
+            "Toronto, Ontario"
         ]
     },
     {
@@ -1234,6 +1261,15 @@
     },
     {
         "name": [
+            "Sky Pony Press"
+        ],
+        "aliases": [],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
             "Skyhorse Publishing, inc."
         ],
         "aliases": [
@@ -1393,6 +1429,15 @@
     },
     {
         "name": [
+            "Transworld Publishers Limited"
+        ],
+        "aliases": [],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
             "Tyndale House Publishers"
         ],
         "aliases": [
@@ -1401,6 +1446,15 @@
         "locations": [
             "Carol Stream, IL.",
             "Wheaton, IL."
+        ]
+    },
+    {
+        "name": [
+            "University Of Nebraska Press"
+        ],
+        "aliases": [],
+        "locations": [
+            "Lincoln, Ne."
         ]
     },
     {

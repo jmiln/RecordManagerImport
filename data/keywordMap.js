@@ -65,6 +65,7 @@ module.exports = {
     thr: "Thrillers",
     usp: "U. S. Presidents",
     us:  "United States",
+    ush: "U. S. History",
     vie: "Vietnam War",
     vic: "Vietnam Conflict",
     wes: "Westerns",

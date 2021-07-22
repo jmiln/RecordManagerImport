@@ -6237,5 +6237,757 @@
                 "name": "new york"
             }
         ]
+    },
+    {
+        "isbn": "9780062821751",
+        "title": "Listening Woman",
+        "subtitle": "A Leaphorn & Chee Novel",
+        "authors": [
+            {
+                "name": "Tony Hillerman"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Harper / Harper-collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524744335",
+        "title": "Six Years",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868930",
+        "title": "Guest List",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lucy Foley"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250178602",
+        "title": "Four Winds",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451499332",
+        "title": "Home For Erring And Outcast Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Kibler"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451497666",
+        "title": "Women In Sunlight",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Frances Mayes"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735219090",
+        "title": "Where The Crawdads Sing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Delia Owens"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780805096606",
+        "title": "Mirror & The Light",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hilary Mantel"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984898876",
+        "title": "Hamnet",
+        "subtitle": "A novel of the plague",
+        "authors": [
+            {
+                "name": "Maggie O'farrell"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062316899",
+        "title": "Memory Of Violets",
+        "subtitle": "A Novel Of London's Flower Sellers",
+        "authors": [
+            {
+                "name": "Hazel Gaynor"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492622109",
+        "title": "Demelza",
+        "subtitle": "A novel of cornwall, 1788-1790",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "naperville, il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781492622130",
+        "title": "Jeremy Poldark",
+        "subtitle": "A novel of cornwall, 1790-1791",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "naperville, il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781496730015",
+        "title": "Coal River",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ellen Marie Wiseman"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524746094",
+        "title": "Girl With The Louding Voice",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Abi Daré"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780857525666",
+        "title": "Once Upon A River",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diane Setterfield"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "transworld publishers limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "LONDON"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062740373",
+        "title": "Huntress",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Quinn"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375866227",
+        "title": "Seraphina",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rachel Hartman"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619636064",
+        "title": "Queen Of Shadows",
+        "subtitle": "A throne of glass novel",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619630673",
+        "title": "Heir Of Fire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545908597",
+        "title": "Red Queen",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Victoria Aveyard"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250042613",
+        "title": "Fangirl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rainbow Rowell"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545424981",
+        "title": "Raven King",
+        "subtitle": "Book IV of the Raven Cycle",
+        "authors": [
+            {
+                "name": "Maggie Stiefvater"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0803251661",
+        "title": "Osborne Russell's Journal Of A Trapper",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Osborne Russell"
+            }
+        ],
+        "publish_date": "1965",
+        "publishers": [
+            {
+                "name": "university of nebraska press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "LINCOLN, NE."
+            }
+        ]
+    },
+    {
+        "isbn": "9781596294011",
+        "title": "Battle Of South Mountain",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John David Hoptak"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "history press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "charleston, sc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780771046780",
+        "title": "Vices Of My Blood",
+        "subtitle": "the Murdoch Mysteries",
+        "authors": [
+            {
+                "name": "Maureen Jennings"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "mcclelland & stewart"
+            }
+        ]
+    },
+    {
+        "isbn": "9780771095979",
+        "title": "Under the dragon's tail",
+        "subtitle": "the Murdoch Mysteries",
+        "authors": [
+            {
+                "name": "Maureen Jennings"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "mcclelland & stewart"
+            }
+        ]
+    },
+    {
+        "isbn": "9780771046797",
+        "title": "Journeyman To Grief",
+        "subtitle": "the Murdoch Mysteries",
+        "authors": [
+            {
+                "name": "Maureen Jennings"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Mcclelland & Stewart"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "toronto, ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "0825432979",
+        "title": "Flames Of Rome, The",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Paul L. Maier"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "kregel publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "GRAND RAPIDS, MI."
+            }
+        ]
+    },
+    {
+        "isbn": "0871239027",
+        "title": "Treasure Of Stonewycke",
+        "subtitle": "The Stonewycke legacy, book 3",
+        "authors": [
+            {
+                "name": "Judith Pella"
+            },
+            {
+                "name": "Michael R. Phillips"
+            }
+        ],
+        "publish_date": "1988",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "155661862X",
+        "title": "Distant Dreams",
+        "subtitle": "Ribbons of Steel, book 1",
+        "authors": [
+            {
+                "name": "Judith Pella"
+            },
+            {
+                "name": "Tracie Peterson"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0736900691",
+        "title": "Wednesday's Child",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Linda Lee Chaikin"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "eugene, or."
+            }
+        ]
+    },
+    {
+        "isbn": "0890813361",
+        "title": "Sweetbriar",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brenda Wilbee"
+            }
+        ],
+        "publish_date": "1983",
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "eugene, or."
+            }
+        ]
+    },
+    {
+        "isbn": "1556614292",
+        "title": "Nightriders",
+        "subtitle": "The Wells Fargo Trail, book 2",
+        "authors": [
+            {
+                "name": "Jim Walker"
+            }
+        ],
+        "publish_date": "1994",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "minneapolis, mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780307743299",
+        "title": "All Our Worldly Goods",
+        "subtitle": "A novel of love between the wars",
+        "authors": [
+            {
+                "name": "Irène Némirovsky"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "0066214440",
+        "title": "Enemy Women",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paulette Jiles"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9781634506984",
+        "title": "Ultimate Unofficial Encyclopedia For Minecrafters",
+        "subtitle": "An A - Z Book Of Tips And Tricks The Official Guides Don't Teach You",
+        "authors": [
+            {
+                "name": "Megan Miller"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "sky pony press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
     }
 ]
