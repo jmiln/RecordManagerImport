@@ -73,8 +73,10 @@ let isbn = process.argv[2];
 let globalKWLen = null;
 
 if (!isbn) {
+    rl.close();
     return console.log("Missing ISBN.");
 } else if (isbn.length !== 10 && isbn.length !== 13) {
+    rl.close();
     return console.log(`"${isbn}" is not a valid ISBN. (Invalid isbn length)`);
 } else {
     isbn = isbn.toString().toUpperCase();
@@ -594,7 +596,11 @@ async function getPub(pubName, inLocs) {
                 return out;
             }
             if (out.locs?.length) {
-                inLocs.push(...out.locs);
+                if (Array.isArray(out.locs)) {
+                    inLocs.push(...out.locs);
+                } else {
+                    inLocs.push(out.locs);
+                }
             }
         } else if (["u", "use"].includes(noRes.toLowerCase())) {
             // Just go ahead and stick in what it finds, without needing to verify with the pubMap
@@ -776,7 +782,6 @@ async function getEmptyPub() {
 // Ask a question/ prompt and wait for the reply
 async function askQuestion(query) {
     return new Promise(resolve => rl.question(query, ans => {
-        // rl.close();
         resolve(ans);
     }));
 }
