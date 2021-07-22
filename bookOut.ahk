@@ -66,17 +66,17 @@ sleep, 100
 send, {up}
 sleep, 150
 
-loop 3 {
+loop 4 {
     DosBoxMouseMove(190, 25)
     sleep, 50
     MouseClick, Left
-    sleep, 150
+    sleep, 100
 }
 
 MouseClick, Left
-sleep, 15
+sleep, 25
 MouseClick, Left
-sleep, 15
+sleep, 25
 MouseClick, Left
 sleep, 70
 
