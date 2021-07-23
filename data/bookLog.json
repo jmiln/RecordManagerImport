@@ -7002,12 +7002,12 @@
         "publish_date": "2018",
         "publishers": [
             {
-                "name": "feiwel & friends"
+                "name": "Feiwel & Friends"
             }
         ],
         "publish_places": [
             {
-                "name": "NEW YORK"
+                "name": "New York"
             }
         ]
     },
@@ -7124,7 +7124,7 @@
     {
         "isbn": "9780061337635",
         "title": "Enemy Women",
-        "subtitle": "A Novel (P.s.)",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Paulette Jiles"
@@ -7145,7 +7145,7 @@
     {
         "isbn": "9780735219106",
         "title": "Where The Crawdads Sing",
-        "subtitle": "",
+        "subtitle": "a novel",
         "authors": [
             {
                 "name": "Delia Owens"
@@ -7166,7 +7166,7 @@
     {
         "isbn": "9780593102145",
         "title": "Invisible Woman",
-        "subtitle": "",
+        "subtitle": "a novel",
         "authors": [
             {
                 "name": "Erika Robuck"
@@ -7211,13 +7211,12 @@
         "subtitle": "",
         "authors": [
             {
-                "name": "Jon Tsuei"
+                "name": "Jon Tsuei",
+                "contribution": "written by"
             },
             {
-                "name": "Adrian F. Wassel"
-            },
-            {
-                "name": "Audrey Mok"
+                "name": "Audrey Mok",
+                "contribution": "illustrated by"
             }
         ],
         "publish_date": "2020"
@@ -7254,6 +7253,48 @@
         "publishers": [
             {
                 "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062287519",
+        "title": "Dot",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Randi Zuckerberg"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679805274",
+        "title": "Oh, The Places You'll Go!",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dr. Seuss"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Random House"
             }
         ],
         "publish_places": [
