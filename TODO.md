@@ -12,15 +12,10 @@
 
 ## Stuff that probably needs doing/ should be done
 
-- (DONE) Update askQuestion to take in the viable options, then keep looping until it gets one of them instead of just continuing when it doesn't
-    * Then update stuff to use that as needed
-
 - Work in a way for it to show whatever the original publisher was in case we want that instead of whatever matches it finds
 
 - If an entry for the book log has no pub/loc or a missing field, make sure to ask about it
     * Also possible here, if it's missing any other fields from the bookLog, maybe try grabbing from the api to see if it's got better info,  or ask?
-
-- Work in a way to stick pictorial boards in for condition
 
 - Add in sub-whatever for authors, that will always go in as lowercase (illustrated by, edited by, etc.)
     * Contribution? not sure what to call it, but that kinda makes sense.
@@ -34,7 +29,6 @@
     * ex: `--kw sfi,fan,"space travel",hfi`, then pick out what's in the file vs what's new?
 
 - If it cannot find a matching publisher/ place, maybe look through the booklog file to see if another book has had the same one
-
 
 
 ## Long term/ maybes

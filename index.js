@@ -89,6 +89,27 @@ const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString(
 let jsonOut = null;
 async function init() {
     const bookInfoArr = processArgv();
+    if (bookInfoArr.find(b => b.startsWith("COND=VG IN X."))) {
+        // Check if the X should be swapped out
+        const index = bookInfoArr.findIndex(b => b.startsWith("COND=VG IN X."));
+        const boardTypes = [
+            "cloth boards",
+            "leatherette binding",
+            "padded brown leatherette with gilt lettering.",     // Pretty much for the louis l'amour leatherettes
+            "pictorial boards",
+            "spiral binding",
+        ];
+        const resOptions = (arrRange(boardTypes.length)).concat(otherVals, cancelVals);
+        const boardRes = await askQuestionV2(`The book is HC without a DJ. Which, if any of the following should I use?\n\n${boardTypes.map((b, ix) => `[${ix}] ${b}`).join("\n")}\n${chooseOtherStr}${cancelStr}\n\n`, resOptions);
+        if (boardTypes[boardRes]) {
+            bookInfoArr[index] = bookInfoArr[index].replace("X", boardTypes[boardRes]);
+        } else if (otherVals.includes(boardRes)) {
+            const newBoardRes = await askQuestion("What would you like to replace the X in `VG IN X` with?");
+            if (newBoardRes?.length) {
+                bookInfoArr[index] = bookInfoArr[index].replace("X", newBoardRes);
+            }
+        }
+    }
 
     const oldJsonOut = bookLog.find(ob => ob.isbn == isbn);
     if (oldJsonOut) {
@@ -401,7 +422,7 @@ function processArgv() {
         } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
             //  - This will be vg in pictorial boards, cloth, etc
-            startStr = "VG IN X BOARDS.";
+            startStr = "VG IN X.";
         }
         if (startStr?.length) {
             conds.push(startStr);
