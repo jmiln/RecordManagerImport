@@ -516,6 +516,15 @@
     },
     {
         "name": [
+            "Feiwel & Friends"
+        ],
+        "aliases": [],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
             "Flatiron Books"
         ],
         "aliases": [
@@ -973,6 +982,15 @@
         ],
         "locations": [
             "Oxford"
+        ]
+    },
+    {
+        "name": [
+            "Page Street Publishing"
+        ],
+        "aliases": [],
+        "locations": [
+            "Salem, Ma."
         ]
     },
     {

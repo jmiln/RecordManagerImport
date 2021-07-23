@@ -6989,5 +6989,277 @@
                 "name": "new york"
             }
         ]
+    },
+    {
+        "isbn": "9781250206190",
+        "title": "Magical Unicorn Society Official Handbook",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Selwyn E. Phipps"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "feiwel & friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "NEW YORK"
+            }
+        ]
+    },
+    {
+        "isbn": "9781624146787",
+        "title": "Genius Lego Inventions With Bricks You Already Have",
+        "subtitle": "40+ New Robots, Vehicles, Contraptions, Gadgets, Games And Other Fun Stem Creations",
+        "authors": [
+            {
+                "name": "Sarah Dees"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "page street publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Salem, MA."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593116166",
+        "title": "Kate The Chemist",
+        "subtitle": "The Big Book Of Experiments",
+        "authors": [
+            {
+                "name": "Kate Biberdorf"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Philomel Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "new york"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062982063",
+        "title": "Solitude Of Wolverines",
+        "subtitle": "A Novel Of Suspense",
+        "authors": [
+            {
+                "name": "Alice Henderson"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781328636102",
+        "title": "Best American Mystery Stories 2020",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "C. J. Box",
+                "contribution": "editor"
+            },
+            {
+                "name": "Otto Penzler",
+                "contribution": "series editor"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250248251",
+        "title": "Like Lions",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brian Panowich"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061337635",
+        "title": "Enemy Women",
+        "subtitle": "A Novel (P.s.)",
+        "authors": [
+            {
+                "name": "Paulette Jiles"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735219106",
+        "title": "Where The Crawdads Sing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Delia Owens"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593102145",
+        "title": "Invisible Woman",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Erika Robuck"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063043008",
+        "title": "Historians",
+        "subtitle": "A Thrilling Novel Of Conspiracy And Intrigue During World War Ii",
+        "authors": [
+            {
+                "name": "Cecilia Ekbäck"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781939424570",
+        "title": "Sera And The Royal Stars Vol. 1",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jon Tsuei"
+            },
+            {
+                "name": "Adrian F. Wassel"
+            },
+            {
+                "name": "Audrey Mok"
+            }
+        ],
+        "publish_date": "2020"
+    },
+    {
+        "isbn": "9781684154845",
+        "title": "Giant Days. Volume Twelve",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Allison"
+            },
+            {
+                "name": "Max Sarin"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Boom! Box"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524714727",
+        "title": "Two Can Keep A Secret",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen M. Mcmanus"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
