@@ -153,6 +153,13 @@ async function init() {
         }
         let titleOut, subtitle, rawTitle = null;
         if (jsonOut.title) {
+            if (jsonOut.subtitle && argv.subtitle &&
+            jsonOut.subtitle.toLowerCase() !== argv.subtitle.toLowerCase()) {
+                const subRes = await askQuestionV2(`Two subtitle options were found, which of these do you want to use?\n[0] ${jsonOut.subtitle}\n[1] ${argv.subtitle}\n\n[C] Cancel / Neither`, [0,1].concat(cancelVals));
+                if (parseInt(subRes, 10) === 1) {
+                    jsonOut.subtitle = argv.subtitle;
+                }
+            }
             [titleOut, subtitle, rawTitle] = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
             if (subtitle?.length) {
                 bookInfoArr.push(`SUB=${subtitle}`);
@@ -818,7 +825,7 @@ async function getEmptyPub() {
             return out;
         }
     } else {
-        out.pub = null;
+        out.pub  = null;
         out.locs = null;
     }
     return out;
@@ -917,12 +924,12 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         .replace(/\s\s+/g, " ")         // Replace multiple spaces with singles
         .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
 
-    const bcString = " - book club edition";
-    const lpString = " - large print edition";
+    const bcString   = " - book club edition";
+    const lpString   = " - large print edition";
     const bclpString = " - large print book club edition";
-    let extraString = "";
+    let extraString  = "";
 
-    let subtitle = subtitleIn ? ": " + subtitleIn : "";
+    let subtitle = subtitleIn?.length ? `: ${subtitleIn}` : "";
 
     if (isBookClub && isLargePrint) {
         extraString = bclpString;
@@ -932,7 +939,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         extraString = lpString;
     }
     if (manualSub && !subtitle?.length) {
-        subtitle = manualSub;
+        subtitle = `: ${manualSub}`;
     }
 
     if (title.toLowerCase().indexOf("a novel") > -1) {
@@ -977,6 +984,7 @@ function debugLog(text, other) {
     }
 }
 
+// Return an array filled with consecutive numbers starting at 0
 function arrRange(length) {
     return [...Array(length).keys()];
 }
