@@ -137,103 +137,34 @@ async function init() {
             .catch((err) => console.log(err));
     }
 
+    // If it couldn't find a match for the isbn, ask for the main fields to be filled in
+    // Normally, when an isbn isn't found, it will just need title/ subtitle, author(s), date, and publisher/ location
     if (!jsonOut || !Object.keys(jsonOut).length) {
-        // If it couldn't find a match for the isbn, ask for the main fields to be filled in
-        // Normally, when an isbn isn't found, it will just need title/ subtitle, author(s), date, and publisher/ location
-        const newJsonOut = {
-            isbn: isbn
-        };
-
-        // Work out a publisher if possible
-        let pubRes = null;
-        if (argv.publisher) {
-            pubRes = await getPub(argv.publisher);
-        } else {
-            pubRes = await getEmptyPub();
-        }
-        if (pubRes?.pub && pubRes?.locs) {
-            if (pubRes.pub) {
-                newJsonOut.publishers = [
-                    {
-                        name: pubRes.pub
-                    }
-                ];
-            }
-            if (pubRes.locs.length > 1) {
-                const loc = await getLoc(pubRes.locs);
-                if (loc) {
-                    newJsonOut.publish_places = [
-                        {
-                            name: loc
-                        }
-                    ];
-                }
-            } else if (pubRes.locs.length === 1) {
-                newJsonOut.publish_places = [
-                    {
-                        name: pubRes.locs[0]
-                    }
-                ];
-            }
-        }
-
-        // Grab the year it was published
-        const dateRes = await askQuestion("What year was this published? Must be in YYYY format.");
-        if (!dateRes.match(/^\d{4}$/) &&
-            parseInt(dateRes, 10) > 1700 &&
-            parseInt(dateRes, 10) < new Date().getFullYear()
-        ) {
-            newJsonOut.publish_date = dateRes;
-        }
-
-        // Grab the title, and subtitle, if viable
-        const titleRes = await askQuestion("What is the title of this book? (If there's a subtitle, it will grab everything after a \":\")");
-        if (titleRes?.length) {
-            const [thisTitle, ...thisSub] = titleRes.split(":");
-            newJsonOut.title = thisTitle.trim();
-            if (Array.isArray(thisSub) && thisSub.length) {
-                newJsonOut.subtitle = thisSub.join(":").trim();
-            }
-        }
-
-        // Grab what ever author(s)
-        const authRes = await askQuestion("What authors go with this book? (Authors will be split by commas)");
-        if (authRes?.length) {
-            const thisAuths = authRes.split(",").map(a => {
-                return {
-                    name: a.trim().toProperCase()
-                };
-            });
-            newJsonOut.authors = thisAuths;
-        }
+        const newJson = await findInfo();
 
         // Stick it as an object with the isbn as it's key so it matches the api response
         jsonOut = {};
-        jsonOut["ISBN:" + isbn] = newJsonOut;
+        jsonOut["ISBN:" + isbn] = newJson;
         if (argv.debug) {
             rl.close();
             return debugLog("Finding data for new book: ", jsonOut);
         }
     }
 
+    // Once it's done what it can to get all the info, run it through all the checkers and such
     if (jsonOut && Object.keys(jsonOut).length) {
-        // Format all the info as it will be needed, ex:
-        // ISBN=123123123131
-        // TITLE=wheel of time
-        // AUTHOR=jordan, robert
-
-        // Take off "the", "a", etc from the start of titles, put the authors' last name first,
-        // lowercase everything, since caps will be on, and we want it all caps (Unless it's an edited by or illustrated or something)
-
-        let isbn = null;
         if (Object.keys(jsonOut).length === 1) {
-            isbn = Object.keys(jsonOut)[0].split(":")[1];
             jsonOut = jsonOut[Object.keys(jsonOut)[0]];
+        } else {
+            return console.log("The api somehow returned more than one result for the given isbn.");
         }
+
+        // Work out the title & subtitle
         let titleOut, subtitle, rawTitle = null;
         if (jsonOut.title) {
-            if (jsonOut.subtitle && argv.subtitle &&
-            jsonOut.subtitle.toLowerCase() !== argv.subtitle.toLowerCase()) {
+            // If there are subtitles from both us entering one in with the --subtitle flag, and from the api/ booklog
+            // Ask which one we want to use
+            if (jsonOut.subtitle && argv.subtitle && jsonOut.subtitle.toLowerCase() !== argv.subtitle.toLowerCase()) {
                 const subRes = await askQuestionV2(`Two subtitle options were found, which of these do you want to use?\n[0] ${jsonOut.subtitle}\n[1] ${argv.subtitle}\n\n[C] Cancel / Neither`, [0,1].concat(cancelVals));
                 if (parseInt(subRes, 10) === 1) {
                     jsonOut.subtitle = argv.subtitle;
@@ -247,6 +178,8 @@ async function init() {
             bookInfoArr.push(`TITLE=${titleOut}`);
         }
 
+        // Work out the authors as needed
+        // TODO Figure out the contributions (edited by, illustrated by, etc)
         if (jsonOut.authors && jsonOut.authors.length) {
             let authStr = "";
 
@@ -256,13 +189,7 @@ async function init() {
 
             for (const auth of authArr) {
                 const name = auth.split(" ");
-                if (authStr.length) {
-                    // There's already an author there, tack any more onto the end, split by a semicolon
-                    authStr += `; ${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
-                } else {
-                    // This is the first name
-                    authStr = `${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
-                }
+                authStr += `${authStr.length ? "; " : ""}${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
             }
 
             // This solution via https://stackoverflow.com/a/37511463 since the multiple replaces below didn't work for whatever reason
@@ -270,6 +197,7 @@ async function init() {
             bookInfoArr.push(`AUTHOR=${authStr}`);
 
 
+            // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
             if (5 - globalKWLen > 0) {
                 const kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
                 debugLog("KW titles to fill with: ", kwTitles);
@@ -286,54 +214,34 @@ async function init() {
             }
         }
 
-        let chosenPub = null, pubLoc = null;
+        let pubOut = null;
         if (argv.publisher?.length) {
             // If there's a manually given publisher, look for that
-            const {pub, loc} = await getPub(argv.publisher);
-            chosenPub = pub ? pub : null;
-            pubLoc = loc ? loc : null;
-            if (chosenPub) {
-                bookInfoArr.push(`PUB=${chosenPub}`);
-                if (pubLoc) {
-                    bookInfoArr.push(`LOC=${pubLoc}`);
-                }
-            }
-        } else if (jsonOut.publishers?.length && !argv.publisher) {
+            pubOut = await getPub(argv.publisher);
+        } else if (jsonOut.publishers?.length) {
             // If there's a publisher supplied from the api response, look for a match for that
             const pubName = jsonOut.publishers.map(p => p.name).join(" ");
             let inLocs = null;
             if (jsonOut.publish_places?.length) {
                 debugLog("jsonOut.pubLocs", jsonOut.publish_places);
                 inLocs = jsonOut.publish_places.map(loc => {
-                    if (Array.isArray(loc)) {
-                        loc = loc[0];
-                    }
-                    if (Array.isArray(loc.name)) {
-                        loc.name = loc.name[0];
-                    }
+                    if (Array.isArray(loc))      loc      = loc[0];
+                    if (Array.isArray(loc.name)) loc.name = loc.name[0];
                     return loc.name;
                 });
             }
 
-            const {pub, locs} = await getPub(pubName, inLocs);
-            chosenPub = pub ? pub : null;
-            pubLoc = locs ? locs : null;
-            if (chosenPub) {
-                bookInfoArr.push(`PUB=${chosenPub}`);
-                if (pubLoc) {
-                    bookInfoArr.push(`LOC=${pubLoc}`);
-                }
-            }
+            pubOut = await getPub(pubName, inLocs);
         } else {
             // There's no pub given/ found, so ask
-            const {pub, locs} = await getEmptyPub();
-            chosenPub = pub ? pub : null;
-            pubLoc = locs ? locs : null;
-            if (chosenPub) {
-                bookInfoArr.push(`PUB=${chosenPub}`);
-                if (pubLoc) {
-                    bookInfoArr.push(`LOC=${pubLoc}`);
-                }
+            pubOut = await getEmptyPub();
+        }
+        const chosenPub = pubOut.pub ? pubOut.pub : null;
+        let pubLoc = pubOut.locs ? pubOut.locs : null;
+        if (chosenPub) {
+            bookInfoArr.push(`PUB=${chosenPub}`);
+            if (pubLoc) {
+                bookInfoArr.push(`LOC=${pubLoc}`);
             }
         }
 
@@ -1071,6 +979,75 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     }
 
     return [`${title}${subtitle}${extraString}`, `${subtitle}${extraString}`, title];
+}
+
+async function findInfo() {
+    // Work out a publisher if possible
+    let pubRes = null;
+    const newJsonOut = {
+        isbn: isbn
+    };
+    if (argv.publisher) {
+        pubRes = await getPub(argv.publisher);
+    } else {
+        pubRes = await getEmptyPub();
+    }
+    if (pubRes?.pub && pubRes?.locs) {
+        if (pubRes.pub) {
+            newJsonOut.publishers = [
+                {
+                    name: pubRes.pub
+                }
+            ];
+        }
+        if (pubRes.locs.length > 1) {
+            const loc = await getLoc(pubRes.locs);
+            if (loc) {
+                newJsonOut.publish_places = [
+                    {
+                        name: loc
+                    }
+                ];
+            }
+        } else if (pubRes.locs.length === 1) {
+            newJsonOut.publish_places = [
+                {
+                    name: pubRes.locs[0]
+                }
+            ];
+        }
+    }
+
+    // Grab the year it was published
+    const dateRes = await askQuestion("What year was this published? Must be in YYYY format.");
+    if (!dateRes.match(/^\d{4}$/) &&
+        parseInt(dateRes, 10) > 1700 &&
+        parseInt(dateRes, 10) < new Date().getFullYear()
+    ) {
+        newJsonOut.publish_date = dateRes;
+    }
+
+    // Grab the title, and subtitle, if viable
+    const titleRes = await askQuestion("What is the title of this book? (If there's a subtitle, it will grab everything after a \":\")");
+    if (titleRes?.length) {
+        const [thisTitle, ...thisSub] = titleRes.split(":");
+        newJsonOut.title = thisTitle.trim();
+        if (Array.isArray(thisSub) && thisSub.length) {
+            newJsonOut.subtitle = thisSub.join(":").trim();
+        }
+    }
+
+    // Grab what ever author(s)
+    const authRes = await askQuestion("What authors go with this book? (Authors will be split by commas)");
+    if (authRes?.length) {
+        const thisAuths = authRes.split(",").map(a => {
+            return {
+                name: a.trim().toProperCase()
+            };
+        });
+        newJsonOut.authors = thisAuths;
+    }
+    return newJsonOut;
 }
 
 function debugLog(text, other) {
