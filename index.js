@@ -589,6 +589,10 @@ function processArgv() {
                 if (Object.keys(kwMap).indexOf(kw) > -1) {
                     outArr.push(`KW${ix}=${kwMap[kw]}`);
                     ix += 1;
+                } else if (kw.length > 3) {
+                    // If it's not in the keyword map, and it's larger than the 3 characters that the actual keywords are, assume it's a keyword itself?
+                    outArr.push(`KW${ix}=${kw}`);
+                    ix += 1;
                 }
             }
         }
