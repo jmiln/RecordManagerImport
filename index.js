@@ -137,6 +137,85 @@ async function init() {
             .catch((err) => console.log(err));
     }
 
+    if (!jsonOut || !Object.keys(jsonOut).length) {
+        // If it couldn't find a match for the isbn, ask for the main fields to be filled in
+        // Normally, when an isbn isn't found, it will just need title/ subtitle, author(s), date, and publisher/ location
+        const newJsonOut = {
+            isbn: isbn
+        };
+
+        // Work out a publisher if possible
+        let pubRes = null;
+        if (argv.publisher) {
+            pubRes = await getPub(argv.publisher);
+        } else {
+            pubRes = await getEmptyPub();
+        }
+        if (pubRes?.pub && pubRes?.locs) {
+            if (pubRes.pub) {
+                newJsonOut.publishers = [
+                    {
+                        name: pubRes.pub
+                    }
+                ];
+            }
+            if (pubRes.locs.length > 1) {
+                const loc = await getLoc(pubRes.locs);
+                if (loc) {
+                    newJsonOut.publish_places = [
+                        {
+                            name: loc
+                        }
+                    ];
+                }
+            } else if (pubRes.locs.length === 1) {
+                newJsonOut.publish_places = [
+                    {
+                        name: pubRes.locs[0]
+                    }
+                ];
+            }
+        }
+
+        // Grab the year it was published
+        const dateRes = await askQuestion("What year was this published? Must be in YYYY format.");
+        if (!dateRes.match(/^\d{4}$/) &&
+            parseInt(dateRes, 10) > 1700 &&
+            parseInt(dateRes, 10) < new Date().getFullYear()
+        ) {
+            newJsonOut.publish_date = dateRes;
+        }
+
+        // Grab the title, and subtitle, if viable
+        const titleRes = await askQuestion("What is the title of this book? (If there's a subtitle, it will grab everything after a \":\")");
+        if (titleRes?.length) {
+            const [thisTitle, ...thisSub] = titleRes.split(":");
+            newJsonOut.title = thisTitle.trim();
+            if (Array.isArray(thisSub) && thisSub.length) {
+                newJsonOut.subtitle = thisSub.join(":").trim();
+            }
+        }
+
+        // Grab what ever author(s)
+        const authRes = await askQuestion("What authors go with this book? (Authors will be split by commas)");
+        if (authRes?.length) {
+            const thisAuths = authRes.split(",").map(a => {
+                return {
+                    name: a.trim().toProperCase()
+                };
+            });
+            newJsonOut.authors = thisAuths;
+        }
+
+        // Stick it as an object with the isbn as it's key so it matches the api response
+        jsonOut = {};
+        jsonOut["ISBN:" + isbn] = newJsonOut;
+        if (argv.debug) {
+            rl.close();
+            return debugLog("Finding data for new book: ", jsonOut);
+        }
+    }
+
     if (jsonOut && Object.keys(jsonOut).length) {
         // Format all the info as it will be needed, ex:
         // ISBN=123123123131
@@ -976,7 +1055,7 @@ function debugLog(text, other) {
         if (other) {
             // If there's an object or something you want logged, this way it whould behave better
             console.log("\n[DEBUG] " + text);
-            console.log(inspect(other));
+            console.log(inspect(other, {depth: 5}));
             console.log("\n");
         } else {
             console.log("\n[DEBUG] " + text);
