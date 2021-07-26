@@ -665,6 +665,15 @@
     },
     {
         "name": [
+            "Head Of Zeus"
+        ],
+        "aliases": [],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
             "Henry Holt & Company"
         ],
         "aliases": [
@@ -1001,6 +1010,7 @@
             "Pan Books"
         ],
         "locations": [
+            "London",
             "New York"
         ]
     },
@@ -1268,10 +1278,10 @@
     },
     {
         "name": [
-            "Simon Pulse / S&S"
+            "Simon Pulse/Simon & Schuster"
         ],
         "aliases": [
-            "Pulse"
+            "Simon Pulse"
         ],
         "locations": [
             "New York"

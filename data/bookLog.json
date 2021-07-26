@@ -7302,5 +7302,467 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780062390622",
+        "title": "Alchemist",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paulo Coelho"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101971062",
+        "title": "Homegoing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Yaa Gyasi"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062499844",
+        "title": "Cottingley Secret",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hazel Gaynor"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451649413",
+        "title": "Clockmaker's Daughter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Morton"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463348",
+        "title": "Four Swans",
+        "subtitle": "A Novel Of Cornwall, 1795-1797 - the sixth poldark novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463300",
+        "title": "Angry Tide",
+        "subtitle": "A Novel Of Cornwall, 1798-1799 - The Seventh Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463386",
+        "title": "Stranger From The Sea",
+        "subtitle": "A Novel Of Cornwall 1810-1811 - The Eighth Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463317",
+        "title": "Bella Poldark",
+        "subtitle": "A Novel Of Cornwall, 1818-1820 - The Twelfth Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463379",
+        "title": "Miller's Dance",
+        "subtitle": "A Novel Of Cornwall, 1812-1813 - The Ninth Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463362",
+        "title": "Loving Cup",
+        "subtitle": "A Novel Of Cornwall, 1813-1815 - The Tenth Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463324",
+        "title": "Black Moon",
+        "subtitle": "A Novel Of Cornwall, 1794-1795 - The Fifth Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463393",
+        "title": "Twisted Sword",
+        "subtitle": "A Novel Of Cornwall, 1815 - The Eleventh Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463355",
+        "title": "Jeremy Poldark",
+        "subtitle": "A Novel Of Cornwall, 1790-1791 - The Third Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330463409",
+        "title": "Warleggan",
+        "subtitle": "A Novel Of Cornwall, 1792-1793 - The Fourth Poldark Novel",
+        "authors": [
+            {
+                "name": "Winston Graham"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778319818",
+        "title": "Orphan's Tale",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062425607",
+        "title": "Oysterville Sewing Circle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Susan Wiggs"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061147968",
+        "title": "Horns",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joe Hill"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250161642",
+        "title": "Beautiful Blue Death",
+        "subtitle": "The 1st Charles Lenox Mystery",
+        "authors": [
+            {
+                "name": "Charles Finch"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780156033862",
+        "title": "Fidelity",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Thomas Perry"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781786695697",
+        "title": "Less Than A Treason",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dana Stabenow"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Head Of Zeus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312343224",
+        "title": "Deeper Sleep",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dana Stabenow"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481489225",
+        "title": "Want",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cindy Pon"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Simon Pulse"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
