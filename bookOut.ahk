@@ -1,10 +1,12 @@
 CoordMode, Pixel, Client
 CoordMode, Mouse, Client
 
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
 ; global vars
 appOriginalWidth  := 1333  ; original width of the dos app/game (common 320)
 appOriginalHeight := 1000  ; original height of the dos app/game (common 240)
-appScreenScale    := 1     ; scale factor (see "Actions > #appScreenScale" in description below for the correct value)
+appScreenScale    := 1
 
 DosBoxMouseMove(x, y) {
 	global appOriginalWidth, appOriginalHeight, appScreenScale
@@ -54,7 +56,12 @@ goUp(upNum) {
 }
 
 ; Activate the RecordManager window
-WinActivate, ahk_class SDL_app
+IfWinExist, ahk_class SDL_app
+    WinActivate, ahk_class SDL_app
+else {
+    MsgBox, Error`, RM is not open!
+    ExitApp
+}
 
 ; Decide what boxes it can fill
 
@@ -67,7 +74,7 @@ send, {up}
 sleep, 150
 
 loop 4 {
-    DosBoxMouseMove(190, 25)
+    DosBoxMouseMove(195, 24)
     sleep, 50
     MouseClick, Left
     sleep, 100
