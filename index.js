@@ -644,9 +644,28 @@ async function getPub(pubName, inLocs) {
         });
     }
 
+    // Then, if it still cannot find a match, check through the bookLog file, to see if any previous book has had one that matches
+    if (!possiblePubs.length) {
+        const pubMatch = bookLog.filter(book => {
+            if (Array.isArray(book.publishers) && book.publishers?.length) {
+                return book.publishers.filter(b => b.name.toLowerCase().includes(pubName)).length ? true : false;
+            }
+            return false;
+        });
+        if (pubMatch.length) {
+            possiblePubs = pubMatch.map(book => {
+                return {
+                    name: book.publishers.map(b => b.name),
+                    locations: book?.publish_places?.map(b => b.name)
+                };
+            });
+        }
+    }
+
     let pubChoices = [];  // Fill it with objects with name/loc each
 
     // Go through the matched publishers, and stick them into pubChoices with their possible locations
+    debugLog("Possible found pubs: ", possiblePubs);
     for (const pub of possiblePubs) {
         if (Array.isArray(pub.name)) {
             for (const name of pub.name) {
