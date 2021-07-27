@@ -7764,5 +7764,196 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780345519467",
+        "title": "Between Sisters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538714652",
+        "title": "Silent Wife",
+        "subtitle": "A Gripping, Emotional Page-Turner With A Twist That Will Take Your Breath Away",
+        "authors": [
+            {
+                "name": "Kerry Fisher"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525823565",
+        "title": "Things We Cannot Say",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kelly Rimmer"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525895999",
+        "title": "Warsaw Orphan",
+        "subtitle": "A Wwii Novel",
+        "authors": [
+            {
+                "name": "Kelly Rimmer"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781786816306",
+        "title": "Secrets We Keep",
+        "subtitle": "A Gripping Emotional Page Turner",
+        "authors": [
+            {
+                "name": "Kate Hewitt"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Bookouture"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781473641105",
+        "title": "Slow Horses",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mick Herron"
+            }
+        ],
+        "publishers": [
+            {
+                "name": "John Murray / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524745493",
+        "title": "Caught",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            },
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061720086",
+        "title": "Fatally Flaky",
+        "subtitle": "- Large Print Edition",
+        "authors": [
+            {
+                "name": "Diane Mott Davidson"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Harper-Luxe / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061562716",
+        "title": "Vi Agra Falls Lp",
+        "subtitle": "A Bed-And-Breakfast Mystery",
+        "authors": [
+            {
+                "name": "Mary Daheim"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Harper-Luxe / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

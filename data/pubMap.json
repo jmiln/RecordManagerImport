@@ -254,6 +254,15 @@
     },
     {
         "name": [
+            "Bookouture"
+        ],
+        "aliases": [],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
             "Broadman & Holman Publishers"
         ],
         "aliases": [
@@ -593,6 +602,15 @@
     },
     {
         "name": [
+            "Graydon House"
+        ],
+        "aliases": [],
+        "locations": [
+            "Toronto, Ontario"
+        ]
+    },
+    {
+        "name": [
             "Grove Press"
         ],
         "aliases": [
@@ -740,6 +758,15 @@
         ],
         "locations": [
             "Berkeley, CA."
+        ]
+    },
+    {
+        "name": [
+            "John Murray / Hachette"
+        ],
+        "aliases": [],
+        "locations": [
+            "London"
         ]
     },
     {
