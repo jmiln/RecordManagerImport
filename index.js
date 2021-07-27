@@ -91,6 +91,14 @@ const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString(
 
 let boardStr = "VG IN X.";
 
+argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
+if (argv.conditions.includes("bc")) {
+    argv.bc = true;
+}
+if (argv.conditions.includes("lp")) {
+    argv.lp = true;
+}
+
 let jsonOut = null;
 async function init() {
     // If it's a hardcover book with no DJ, this will ask about special boards and such as needed.
@@ -457,13 +465,11 @@ function processArgv() {
             conds.push(startStr);
         }
 
-        if (typeof argv.condition === "string") {
-            const conditions = argv.condition.split(",").map(c => c.toLowerCase());
-
+        if (argv.conditions?.length) {
             // Go through the condition map and check for matches, so it can keep the
             // conditions in the order specified there
             for (const condition of Object.keys(condMap)) {
-                if (conditions.indexOf(condition) > -1) {
+                if (argv.conditions.includes(condition)) {
                     conds.push(condMap[condition]);
                 }
             }
