@@ -99,7 +99,7 @@ async function init() {
         const boardTypes = [
             "cloth boards",
             "leatherette binding",
-            "padded brown leatherette with gilt lettering.",     // Pretty much for the louis l'amour leatherettes
+            "padded brown leatherette with gilt lettering",     // Pretty much for the louis l'amour leatherettes
             "pictorial boards",
             "spiral binding",
         ];
@@ -269,34 +269,59 @@ async function init() {
                 isbn = argv.isbn.toString();
             }
         }
+
+        // Stick the ISBN into the output arr, based on which one ie is
         if (isbn && (isbn.length === 10 || isbn.length === 13)) {
             bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
         }
 
         // Format the jsonOut data to only keep the bits that matter
         // TODO check if there are any differences, and if so, overwrite?
-        if (!bookLog.find(ob => ob.isbn == isbn) || argv.debug) {
-            const jsonToSave = {
-                isbn: isbn,
-                title: rawTitle.toProperCase(),
-                subtitle: subtitle?.replace(/^[-:]/, "").replace(/[:-] book club edition/i, "").trim().toProperCase(),
-                authors: jsonOut.authors.map(a => { return {name: a.name.toProperCase()};}),
-                publish_date: date?.toString()
-            };
-            if (chosenPub) {
-                jsonToSave.publishers = [{name: chosenPub.toProperCase()}];
-            }
-            if (pubLoc) {
-                if (Array.isArray(pubLoc)) pubLoc = pubLoc[0];
-                jsonToSave.publish_places = [{name: pubLoc.toProperCase()}];
-            }
+        // if (!bookLog.find(ob => ob.isbn == isbn) || argv.debug) {
+        const oldBook = bookLog.find(ob => ob.isbn == isbn);
+        const jsonToSave = {
+            isbn: isbn,
+            title: rawTitle.toProperCase(),
+            subtitle: subtitle?.replace(/^[-:]/, "").replace(/[:-] book club edition/i, "").trim().toProperCase(),
+            authors: jsonOut.authors.map(a => { return {name: a.name.toProperCase()};}),
+            publish_date: date?.toString()
+        };
+        if (chosenPub) {
+            jsonToSave.publishers = [{name: chosenPub.toProperCase()}];
+        }
+        if (pubLoc) {
+            if (Array.isArray(pubLoc)) pubLoc = pubLoc[0];
+            jsonToSave.publish_places = [{name: pubLoc.toProperCase()}];
+        }
 
+        if (oldBook) {
+            // There's an older version of the book in there
+            // Check if they're the same, then ask if it should replace the old one?
+            const jsonToSaveString = JSON.stringify(jsonToSave, null, 4);
+            const oldBookString = JSON.stringify(oldBook, null, 4);
+            if (jsonToSaveString !== oldBookString) {
+                console.log("Books are different");
+                const repRes = await askQuestionV2(`Which of the following should be saved?\n\n[0]\n${jsonToSaveString}\n\n[1]\n${oldBookString}`, [0, 1]);
+                if (parseInt(repRes, 10) === 0) {
+                    // The new one was chosen, so get rid of the old one
+                    bookLog.splice(bookLog.findIndex(b => b.isbn == isbn), 1);
+                    // Stick the new one it
+                    bookLog.push(jsonToSave);
+
+                    // Then go ahead and save it as needed
+                    const booksToSave = JSON.stringify(bookLog, null, 4);
+                    debugLog("JSON to save: ", jsonToSave);
+                    await saveBooks(booksToSave);
+                } else {
+                    // Just move along and ignore it
+                }
+            }
+        } else {
+            // There's no older version to check against, so just save it
             bookLog.push(jsonToSave);
             const booksToSave = JSON.stringify(bookLog, null, 4);
             debugLog("JSON to save: ", jsonToSave);
-            if (!argv.debug) {
-                await saveBooks(booksToSave);
-            }
+            await saveBooks(booksToSave);
         }
 
         // if I have it set to debug, just return and print out what would go through
@@ -879,6 +904,7 @@ async function savePubs(pubJson) {
 
 // Save the bookLog
 async function saveBooks(bookJson) {
+    if (argv.debug) return false;
     await fs.writeFileSync(__dirname + "/data/bookLog.json", bookJson);
 }
 
