@@ -298,9 +298,9 @@ async function init() {
             // There's an older version of the book in there
             // Check if they're the same, then ask if it should replace the old one?
             const jsonToSaveString = JSON.stringify(jsonToSave, null, 4);
-            const oldBookString = JSON.stringify(oldBook, null, 4);
+            const oldBookString    = JSON.stringify(oldBook, null, 4);
             if (jsonToSaveString !== oldBookString) {
-                console.log("Books are different");
+                console.log("\nThis is different than a previously saved bookLog entry\n");
                 const repRes = await askQuestionV2(`Which of the following should be saved?\n\n[0]\n${jsonToSaveString}\n\n[1]\n${oldBookString}`, [0, 1]);
                 if (parseInt(repRes, 10) === 0) {
                     // The new one was chosen, so get rid of the old one
@@ -615,6 +615,16 @@ async function getPub(pubName, inLocs) {
         }
     }
 
+    // Add in the original pub that it was searching for just in case that's what we actually wanted
+    const newPubName = Array.isArray(pubName) ? pubName[0] : pubName;
+    if (!pubChoices.find(p => p.name.toLowerCase() === newPubName.toLowerCase())) {
+        pubChoices.push({
+            name: newPubName,
+            locations: inLocs
+        });
+    }
+    debugLog("Pubchoices: ", pubChoices);
+
     pubChoices = pubChoices.sort((a, b) => a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1);
 
     // If there were matches, work through those and spit out the choices
@@ -808,6 +818,16 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
             } else {
                 return null;
             }
+        }
+    } else {
+        // There were no locations provided, so see if they want to find one
+        const locResOptions = yesVals.concat(noVals);
+        const locRes = await askQuestionV2("There are no provided locations, would you like to find one? (Y)es / (N)o", locResOptions);
+        if (["y", "yes"].includes(locRes.toLowerCase())) {
+            const targetLoc = await getNewLoc();
+            return targetLoc;
+        } else {
+            return null;
         }
     }
     return outLoc;
@@ -1008,6 +1028,8 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
 }
 
 async function findInfo() {
+    console.log("\nNo info was found for this book.\n");
+
     // Work out a publisher if possible
     let pubRes = null;
     const newJsonOut = {
