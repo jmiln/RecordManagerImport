@@ -19,7 +19,7 @@ module.exports = {
     fw:  "Faint Wear.",
     lw:  "Light Wear.",
 
-    lp:  "Large Print Edition.",
+    lp:  "Large Print.",
 
     // Previous owner stuff
     poad:  "Prev. Owner's address label inside.",

@@ -7955,5 +7955,134 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781524850968",
+        "title": "Nocturnal",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lindsay O'connell"
+            },
+            {
+                "name": "Wilder Poetry Staff"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Andrews Mcmeel Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Kansas City, Mo."
+            }
+        ]
+    },
+    {
+        "isbn": "078626408X",
+        "title": "Without Pity",
+        "subtitle": "Ann Rule's Most Dangerous Killers - Large Print Edition",
+        "authors": [
+            {
+                "name": "Ann Rule"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Thorndike Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Waterville, Me."
+            }
+        ]
+    },
+    {
+        "isbn": "0060195339",
+        "title": "Sandy Koufax",
+        "subtitle": "A Lefty's Legacy",
+        "authors": [
+            {
+                "name": "Jane Leavy"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250183026",
+        "title": "Tom Clancy's Op-Center",
+        "subtitle": "Sting Of The Wasp",
+        "authors": [
+            {
+                "name": "Jeff Rovin"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593085738",
+        "title": "Neon Prey",
+        "subtitle": "a lucas davenport novel",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538701140",
+        "title": "Whole Truth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
