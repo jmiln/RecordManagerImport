@@ -8084,5 +8084,47 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781101967690",
+        "title": "Rooster Bar",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425217122",
+        "title": "Girl With Braided Hair",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Coel"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

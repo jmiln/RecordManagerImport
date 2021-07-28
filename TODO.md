@@ -17,6 +17,9 @@
 
 - Work out how to make conditions more variable
     * Somehow parse out each option, so it can be "creasing to rear wrap" vs front wrap, etc
+        - Possibly something along the lines of condition_type:location (ex: few:rw  (Faint edgewear to rear wrap))?
+        - If going this route, it would likely be worth trying to bunch em by location too, like if there are multiple for rear wrap (Creasing & small tear, etc)
+            * Possibly seperate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
     * Should stick in vg/vg-/g etc as extra options
 
 
