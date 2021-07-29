@@ -8126,5 +8126,302 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "0916792080",
+        "title": "An Elusive Victory",
+        "subtitle": "The Battle Of The Big Hole",
+        "authors": [
+            {
+                "name": "Aubrey L. Haines"
+            }
+        ],
+        "publish_date": "1991",
+        "publishers": [
+            {
+                "name": "Glacier Natural History Ass."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "West Glacier, Mt."
+            }
+        ]
+    },
+    {
+        "isbn": "0806115785",
+        "title": "Sacajawea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harold P. Howard"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Univ. Of Oklahoma Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Norman, Ok."
+            }
+        ]
+    },
+    {
+        "isbn": "0743252071",
+        "title": "Stephen King's The Dark Tower",
+        "subtitle": "A Concordance",
+        "authors": [
+            {
+                "name": "Robin Furth"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9783442372256",
+        "title": "Gretchen",
+        "subtitle": "Thriller",
+        "authors": [
+            {
+                "name": "Chelsea Cain"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Blanvalet"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Munich, Germany"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451490759",
+        "title": "Murderous Relation",
+        "subtitle": "A Veronica Speedwell Mystery",
+        "authors": [
+            {
+                "name": "Deanna Raybourn"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062320056",
+        "title": "Heist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316126113",
+        "title": "Diviners",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Libba Bray"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307291172",
+        "title": "Stephen Hawking Time And Universe",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Hawking"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Bantam Dell/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316107581",
+        "title": "Wish For Wings That Work",
+        "subtitle": "An Opus Christmas Story",
+        "authors": [
+            {
+                "name": "Berkeley Breathed"
+            }
+        ],
+        "publish_date": "1991",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781632361219",
+        "title": "Inuyashiki, Vol. 1",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hiroya Oku"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Kodansha"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250784025",
+        "title": "Home",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marilynne Robinson"
+            },
+            {
+                "name": "Maggi-Meg Reed"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Picador / F, S & G"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0760795983",
+        "title": "Cranford",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Cleghorn Gaskell"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Barnes & Noble"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0394500792",
+        "title": "Chesapeake",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James A. Michener"
+            }
+        ],
+        "publish_date": "1978",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780793837601",
+        "title": "Setup And Care Of Freshwater Aquariums (Animal Planet Pet Care Library)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David E. Boruchowitz"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Tfh Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Neptune City, Nj."
+            }
+        ]
     }
 ]
