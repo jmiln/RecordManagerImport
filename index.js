@@ -246,6 +246,20 @@ async function init() {
             // There's no pub given/ found, so ask
             pubOut = await getEmptyPub();
         }
+        if (pubOut.locs && pubOut.pub && pubOut.new) {
+            if (!Array.isArray(pubOut.locs)) pubOut.locs = [pubOut.locs];
+            const newPubObj = {
+                name: [pubOut.pub.toProperCase()],
+                aliases: [],
+                locations: pubOut.locs.map(l => l.toProperCase())
+            };
+            debugLog("This new publisher will be saved:", newPubObj);
+            if (!argv.debug) {
+                pubMap.push(newPubObj);
+                const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
+                await savePubs(JSON.stringify(pubMapOut, null, 4));
+            }
+        }
         const chosenPub = pubOut.pub ? pubOut.pub : null;
         let pubLoc = pubOut.locs ? pubOut.locs : null;
         if (chosenPub) {
@@ -342,41 +356,6 @@ async function init() {
 
         // If it's not set to debug, go ahead and save the bookInfoArr to the file, and start up the ahk script
         await saveAndRun(bookInfoArr);
-    } else {
-        // This will offer to input the data you've provided if it cannot find more.
-        // This being ISBN, maybe edition, maybe hc/pb/dj, as well as 1 for the quantity, and whatever else is added in the future
-        console.log("No valid book found.");
-        if (isbn && (isbn.length === 10 || isbn.length === 13)) {
-            bookInfoArr.push(`ISBN${isbn.length}=${isbn}`);
-        }
-
-        // Work out the publisher if one is given
-        if (argv.publisher) {
-            const {pub: chosenName, locs: pubLocs} = await getPub(argv.publisher);
-            if (chosenName) {
-                bookInfoArr.push(`PUB=${chosenName}`);
-            }
-            if (pubLocs.length > 1) {
-                const loc = await getLoc(pubLocs);
-                if (loc) {
-                    bookInfoArr.push(`LOC=${loc}`);
-                }
-            } else if (pubLocs.length === 1) {
-                bookInfoArr.push(`LOC=${pubLocs[0]}`);
-            }
-        }
-
-        if (argv.debug) {
-            rl.close();
-            return console.log(bookInfoArr);
-        }
-
-        // Check if the info is correct, and if it should be run through to stick in RM
-        const resOptions = yesVals.concat(noVals);
-        const procRes = await askQuestionV2(`\n\n${bookInfoArr.join("\n")}\n\nGiven the previous info, should I put in what I know? (Y)es / (N)o`, resOptions);
-        if (["y", "yes"].includes(procRes.toLowerCase())) {
-            await saveAndRun(bookInfoArr);
-        }
     }
 }
 init();
@@ -623,26 +602,34 @@ async function getPub(pubName, inLocs) {
         }
     }
 
+    pubChoices = pubChoices.sort((a, b) => a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1);
+
     // Add in the original pub that it was searching for just in case that's what we actually wanted
+    let newNum = null;
     const newPubName = Array.isArray(pubName) ? pubName[0] : pubName;
     if (!pubChoices.find(p => p.name.toLowerCase() === newPubName.toLowerCase())) {
+        newNum = pubChoices.length;
         pubChoices.push({
             name: newPubName,
-            locations: inLocs
+            locations: inLocs,
+            new: true
         });
     }
     debugLog("Pubchoices: ", pubChoices);
 
-    pubChoices = pubChoices.sort((a, b) => a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1);
-
     // If there were matches, work through those and spit out the choices
     if (pubChoices?.length > 1) {
+        // We found more than one result, lets choose one
         const resOptions = (arrRange(pubChoices.length)).concat(otherVals, cancelVals);
         const pubRes = await askQuestionV2(`I found the following publishers, which should I use?\n\n${pubChoices.map((p, ix) => `[${ix}] ${p.name}`).join("\n")}\n${chooseOtherStr}${cancelStr}`, resOptions);
         if (pubChoices[pubRes]) {
             out.pub = pubChoices[pubRes].name;
             inLocs.push(...pubChoices[pubRes].locations);
+            if (pubChoices && parseInt(pubRes, 10) === newNum) {
+                out.new = true;
+            }
         } else if (pubRes.toLowerCase() === "o") {
+            // Query for a new name to look for
             const newPub = await askQuestion("What publisher should I search for?");
             out = await getPub(newPub);
             if (!out.locs && !out.pub) {
@@ -658,6 +645,7 @@ async function getPub(pubName, inLocs) {
             return out;
         }
     } else if (pubChoices.length == 1) {
+        // Only one result was found. Use it?
         const pub = pubChoices[0];
         const resOptions = yesVals.concat(noVals, cancelVals);
         const res = await askQuestionV2(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel`, resOptions);
@@ -665,6 +653,9 @@ async function getPub(pubName, inLocs) {
             // If it has the correct publisher, go ahead and use it
             out.pub = pub.name;
             inLocs.push(...pub.locations);
+            if (newNum === 0) {
+                out.new = true;
+            }
         } else if (["c", "cancel"].includes(res.toLowerCase())) {
             // If it's not, or you want to stop looking, this will break out and it'll just ignore the publishers
             out.pub = null;
@@ -672,64 +663,19 @@ async function getPub(pubName, inLocs) {
             return out;
         } else {
             // If that's not what it should be, ask what should be there, then run the search again...
-            // This means sticking the publisher search stuff above into a function
-            const newPub = await askQuestion("What publisher should I search for?");
-            out = await getPub(newPub);
-            if (!out.locs && !out.pub) {
-                return out;
-            }
-            if (out.locs) {
-                inLocs.push(...out.locs);
-            }
-        }
-    }
-
-    // If it does not successfully find a publisher, ask if it should look for another, and get a new name to try
-    if (!out.pub?.length) {
-        const resOptions = yesVals.concat(noVals, useVals);
-        const noRes = await askQuestionV2(`I did not find any matches for ${pubName}, would you like to try again? (Y)es / (N)o / (U)se`, resOptions);
-        if (["y", "yes"].includes(noRes.toLowerCase())) {
             const newPub = await askQuestion("What publisher should I search for?");
             out = await getPub(newPub);
             if (!out.locs && !out.pub) {
                 return out;
             }
             if (out.locs?.length) {
-                if (Array.isArray(out.locs)) {
-                    inLocs.push(...out.locs);
-                } else {
-                    inLocs.push(out.locs);
-                }
-            }
-        } else if (["u", "use"].includes(noRes.toLowerCase())) {
-            // Just go ahead and stick in what it finds, without needing to verify with the pubMap
-            out.pub = pubName;
-
-            // Check if there's a location to go with it
-            const locResOptions = yesVals.concat(noVals);
-            const locRes = await askQuestionV2("Would you like to put a location with that? (Y)es / (N)o", locResOptions);
-            if (["y", "yes"].includes(locRes.toLowerCase())) {
-                const newLoc = await getNewLoc();
-                if (newLoc) {
-                    out.locs = newLoc;
-
-                    if (!argv.debug && out.locs && out.pub) {
-                        const newPubObj = {
-                            name: [out.pub.toProperCase()],
-                            aliases: [],
-                            locations: [out.locs].map(l => l.toProperCase())
-                        };
-                        pubMap.push(newPubObj);
-                        const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
-                        await savePubs(JSON.stringify(pubMapOut, null, 4));
-                    }
-
+                if (out.locs.length === 1) {
+                    debugLog("Returning just out", out);
                     return out;
+                } else {
+                    inLocs.push(...out.locs);
                 }
             }
-        } else {
-            out.pub = null;
-            out.locs = null;
         }
     }
 
@@ -854,7 +800,7 @@ async function getNewLoc() {
         if (["y", "yes"].includes(noLocRes.toLowerCase())) {
             newLoc = getNewLoc();
         } else if (["u", "use"].includes(noLocRes.toLowerCase())) {
-            newLoc = newLocRes;
+            return newLocRes;
         }
     } else if (possibleLocs.length > 1) {
         // If matched with more than one location
@@ -926,6 +872,7 @@ async function askQuestionV2(question, answers) {
 
 // Save the pubmap
 async function savePubs(pubJson) {
+    if (argv.debug) return false;
     console.log("Saving pubs");
     await fs.writeFileSync(__dirname + "/data/pubMap.json", pubJson);
 }
@@ -1047,6 +994,20 @@ async function findInfo() {
         pubRes = await getPub(argv.publisher);
     } else {
         pubRes = await getEmptyPub();
+    }
+    if (pubRes.locs && pubRes.pub && pubRes.new) {
+        if (!Array.isArray(pubRes.locs)) pubRes.locs = [pubRes.locs];
+        const newPubObj = {
+            name: [pubRes.pub.toProperCase()],
+            aliases: [],
+            locations: pubRes.locs.map(l => l.toProperCase())
+        };
+        debugLog("This new publisher will be saved:", newPubObj);
+        if (!argv.debug) {
+            pubMap.push(newPubObj);
+            const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
+            await savePubs(JSON.stringify(pubMapOut, null, 4));
+        }
     }
     if (pubRes?.pub && pubRes?.locs) {
         if (pubRes.pub) {
