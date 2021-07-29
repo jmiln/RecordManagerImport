@@ -8423,5 +8423,209 @@
                 "name": "Neptune City, Nj."
             }
         ]
+    },
+    {
+        "isbn": "0425154734",
+        "title": "Holmes For The Holidays",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Martin H. Greenberg",
+                "contribution": "edited by"
+            },
+            {
+                "name": "Jon L. Lellenberg",
+                "contribution": "edited by"
+            },
+            {
+                "name": "Carol-lynn Waugh",
+                "contribution": "edited by"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0743477588",
+        "title": "American Nightingale",
+        "subtitle": "The Story Of Frances Slanger, Forgotten Heroine Of Normandy",
+        "authors": [
+            {
+                "name": "Welch, Bob"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Atria Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062748058",
+        "title": "Springfield Confidential",
+        "subtitle": "Jokes, Secrets, And Outright Lies From A Lifetime Writing For The Simpsons",
+        "authors": [
+            {
+                "name": "Mike Reiss"
+            },
+            {
+                "name": "Mathew Klickstein"
+            },
+            {
+                "name": "Judd Apatow"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Dey St / William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525564454",
+        "title": "Myth Of Sisyphus",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Albert Camus"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250758071",
+        "title": "Find Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andre Aciman"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780811213264",
+        "title": "Cantos Of Ezra Pound",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ezra Pound"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "New Directions Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312265859",
+        "title": "Hard Eight",
+        "subtitle": "A Stephanie Plum Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345542885",
+        "title": "Takedown Twenty",
+        "subtitle": "A Stephanie Plum Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455521173",
+        "title": "Hit",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
