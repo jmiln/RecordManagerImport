@@ -188,6 +188,8 @@ async function init() {
 
         // Work out the authors as needed
         // TODO Figure out the contributions (edited by, illustrated by, etc)
+        // TODO Not sure how this would be entered automatically, but would help out
+        // TODO when putting a book in after the 1st time/ when it pulls from the bookLog
         if (jsonOut.authors && jsonOut.authors.length) {
             let authStr = "";
 
@@ -1074,10 +1076,7 @@ async function findInfo() {
 
     // Grab the year it was published
     const dateRes = await askQuestion("What year was this published? Must be in YYYY format.");
-    if (!dateRes.match(/^\d{4}$/) &&
-        parseInt(dateRes, 10) > 1700 &&
-        parseInt(dateRes, 10) < new Date().getFullYear()
-    ) {
+    if (dateRes.match(/^\d{4}$/) && parseInt(dateRes, 10) > 0 && parseInt(dateRes, 10) < new Date().getFullYear()) {
         newJsonOut.publish_date = dateRes;
     }
 
