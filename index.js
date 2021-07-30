@@ -253,7 +253,7 @@ async function init() {
                 aliases: [],
                 locations: pubOut.locs.map(l => l.toProperCase())
             };
-            debugLog("This new publisher will be saved:", newPubObj);
+            debugLog("This new publisher would be saved if we weren't in debug mode: ", newPubObj);
             if (!argv.debug) {
                 pubMap.push(newPubObj);
                 const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
@@ -985,55 +985,9 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
 async function findInfo() {
     console.log("\nNo info was found for this book.\n");
 
-    // Work out a publisher if possible
-    let pubRes = null;
     const newJsonOut = {
         isbn: isbn
     };
-    if (argv.publisher) {
-        pubRes = await getPub(argv.publisher);
-    } else {
-        pubRes = await getEmptyPub();
-    }
-    if (pubRes.locs && pubRes.pub && pubRes.new) {
-        if (!Array.isArray(pubRes.locs)) pubRes.locs = [pubRes.locs];
-        const newPubObj = {
-            name: [pubRes.pub.toProperCase()],
-            aliases: [],
-            locations: pubRes.locs.map(l => l.toProperCase())
-        };
-        debugLog("This new publisher will be saved:", newPubObj);
-        if (!argv.debug) {
-            pubMap.push(newPubObj);
-            const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
-            await savePubs(JSON.stringify(pubMapOut, null, 4));
-        }
-    }
-    if (pubRes?.pub && pubRes?.locs) {
-        if (pubRes.pub) {
-            newJsonOut.publishers = [
-                {
-                    name: pubRes.pub
-                }
-            ];
-        }
-        if (pubRes.locs.length > 1) {
-            const loc = await getLoc(pubRes.locs);
-            if (loc) {
-                newJsonOut.publish_places = [
-                    {
-                        name: loc
-                    }
-                ];
-            }
-        } else if (pubRes.locs.length === 1) {
-            newJsonOut.publish_places = [
-                {
-                    name: pubRes.locs[0]
-                }
-            ];
-        }
-    }
 
     // Grab the year it was published
     const dateRes = await askQuestion("What year was this published? Must be in YYYY format.");
