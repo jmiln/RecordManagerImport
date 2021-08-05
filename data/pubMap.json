@@ -12,6 +12,15 @@
     },
     {
         "name": [
+            "Ace / Berkley Books"
+        ],
+        "aliases": [],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
             "Aladdin / Simon & Schuster"
         ],
         "aliases": [
@@ -130,7 +139,8 @@
             "Avon"
         ],
         "locations": [
-            "New York"
+            "New York",
+            "London"
         ]
     },
     {
@@ -304,6 +314,15 @@
         ],
         "locations": [
             "Somerville, MA."
+        ]
+    },
+    {
+        "name": [
+            "Chicago Review Press"
+        ],
+        "aliases": [],
+        "locations": [
+            "Chicago"
         ]
     },
     {
@@ -512,6 +531,15 @@
     },
     {
         "name": [
+            "Fantagraphics"
+        ],
+        "aliases": [],
+        "locations": [
+            "Seattle, Wa."
+        ]
+    },
+    {
+        "name": [
             "Farrar, Straus and Giroux"
         ],
         "aliases": [
@@ -557,7 +585,8 @@
     },
     {
         "name": [
-            "Forge/Tom Doherty Associates"
+            "Forge/Tom Doherty Associates",
+            "Orb / Tom Doherty Associates"
         ],
         "aliases": [
             "Forge"
@@ -733,6 +762,15 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Hq / Harper-Collins"
+        ],
+        "aliases": [],
+        "locations": [
+            "London"
         ]
     },
     {
@@ -967,6 +1005,15 @@
     },
     {
         "name": [
+            "Old Salt Press"
+        ],
+        "aliases": [],
+        "locations": [
+            "Jersey City, Nj."
+        ]
+    },
+    {
+        "name": [
             "Open Road Media"
         ],
         "aliases": [
@@ -1107,6 +1154,15 @@
         "aliases": [
             "Philomel"
         ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Picador"
+        ],
+        "aliases": [],
         "locations": [
             "New York"
         ]
@@ -1350,6 +1406,7 @@
     {
         "name": [
             "Sourcebooks",
+            "Sourcebooks Fire",
             "Sourcebooks Landmark"
         ],
         "aliases": [
@@ -1537,6 +1594,15 @@
         "aliases": [
             "Vintage"
         ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Voice / Hyperion"
+        ],
+        "aliases": [],
         "locations": [
             "New York"
         ]

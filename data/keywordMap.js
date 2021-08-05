@@ -39,6 +39,7 @@ module.exports = {
     mus: "Music",
     mys: "Mystery & Suspense",
     myt: "Mythology",
+    nau: "Nautical Fiction",
     new: "Newbery Honor Book",
     nob: "Nobel Prize Author",
     nw:  "Northwest",
