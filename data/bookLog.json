@@ -10146,5 +10146,68 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780752865751",
+        "title": "Old House On The Corner",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maureen Lee"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Orion Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0818407093",
+        "title": "Beyond Bluffs",
+        "subtitle": "Master The Mysteries Of Poker",
+        "authors": [
+            {
+                "name": "James Mckenna"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Lyle Stuart / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781581802450",
+        "title": "Drawing Expressive Portraits",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paul Leveille"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "North Light Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Cincinnati, Oh."
+            }
+        ]
     }
 ]
