@@ -648,7 +648,7 @@ async function getPub(pubName, inLocs) {
         // Only one result was found. Use it?
         const pub = pubChoices[0];
         const resOptions = yesVals.concat(noVals, cancelVals);
-        const res = await askQuestionV2(`I found the publisher: ${pub.name} \nDo you want to use this? (Y)es/ (N)o/ (C)ancel`, resOptions);
+        const res = await askQuestionV2(`I ${pub.new ? "did not find" : "found"} the publisher: ${pub.name} \nDo you want to use ${pub.new ? "it anyways" : "this"}? (Y)es/ (N)o/ (C)ancel`, resOptions);
         if (["y", "yes"].includes(res.toLowerCase())) {
             // If it has the correct publisher, go ahead and use it
             out.pub = pub.name;
