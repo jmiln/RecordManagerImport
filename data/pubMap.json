@@ -77,6 +77,15 @@
     },
     {
         "name": [
+            "Arcade Publishing"
+        ],
+        "aliases": [],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
             "Arcadia Books"
         ],
         "aliases": [
@@ -492,6 +501,15 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Ecw Press"
+        ],
+        "aliases": [],
+        "locations": [
+            "Toronto, Ontario"
         ]
     },
     {
@@ -1023,6 +1041,15 @@
     },
     {
         "name": [
+            "Oceanview Publishing"
+        ],
+        "aliases": [],
+        "locations": [
+            "Sarasota, Fl."
+        ]
+    },
+    {
+        "name": [
             "Old Salt Press"
         ],
         "aliases": [],
@@ -1239,6 +1266,15 @@
         ],
         "locations": [
             "Naperville, IL."
+        ]
+    },
+    {
+        "name": [
+            "Prospect Park Books"
+        ],
+        "aliases": [],
+        "locations": [
+            "Altadena, Ca."
         ]
     },
     {

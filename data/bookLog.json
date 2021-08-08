@@ -10209,5 +10209,743 @@
                 "name": "Cincinnati, Oh."
             }
         ]
+    },
+    {
+        "isbn": "0765306298",
+        "title": "New Spring (A Wheel Of Time Prequel Novel)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Jordan"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442472464",
+        "title": "Thunderhead (2) (Arc Of A Scythe)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Neal Shusterman"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781906413873",
+        "title": "Darkling Spy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward Wilson"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Arcadia Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781945551154",
+        "title": "Colorado Boulevard",
+        "subtitle": "A Crush Novel",
+        "authors": [
+            {
+                "name": "Phoef Sutton"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Prospect Park Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Altadena, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736333",
+        "title": "Fair Warning",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781770412644",
+        "title": "Little More Free",
+        "subtitle": "An Eddie Dougherty Mystery",
+        "authors": [
+            {
+                "name": "John Mcfetridge"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Ecw Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781550229752",
+        "title": "Black Rock",
+        "subtitle": "An Eddie Dougherty Mystery",
+        "authors": [
+            {
+                "name": "John Mcfetridge"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Ecw Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061257261",
+        "title": "Fourth Watcher",
+        "subtitle": "A Bangkok Novel",
+        "authors": [
+            {
+                "name": "Timothy Hallinan"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982146535",
+        "title": "Deserter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nelson Demille"
+            },
+            {
+                "name": "Alex Demille"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501132957",
+        "title": "Woman In Cabin 10",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruth Ware"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982138899",
+        "title": "Conspiracy Of Bones",
+        "subtitle": "A Temperance Brennan Novel",
+        "authors": [
+            {
+                "name": "Kathy Reichs"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781609451875",
+        "title": "Day Of The Dead",
+        "subtitle": "The Autumn Of Commissario Ricciardi",
+        "authors": [
+            {
+                "name": "Maurizio De Giovanni"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400031511",
+        "title": "One Step Behind",
+        "subtitle": "a Kurt Wallander Mystery",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538748442",
+        "title": "Run Away",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250028921",
+        "title": "Don't Ever Get Old",
+        "subtitle": "Buck Shatz Series, book 1",
+        "authors": [
+            {
+                "name": "Daniel Friedman"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781608093533",
+        "title": "Death At Whitewater Church",
+        "subtitle": "An Inishowen Mystery",
+        "authors": [
+            {
+                "name": "Andrea Carter"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Oceanview Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sarasota, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780345536747",
+        "title": "Prime Minister's Secret Agent",
+        "subtitle": "A Maggie Hope Mystery",
+        "authors": [
+            {
+                "name": "Susan Elia Macneal"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982151683",
+        "title": "Private Cathedral",
+        "subtitle": "A Dave Robicheaux Novel",
+        "authors": [
+            {
+                "name": "James Lee Burke"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781950691401",
+        "title": "21 Immortals",
+        "subtitle": "Inspector Mislan And The Yee Sang Murders",
+        "authors": [
+            {
+                "name": "Rozlan Mohd Noor"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Arcade Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451488909",
+        "title": "Agent In Place",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425282854",
+        "title": "Gunmetal Gray",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594747588",
+        "title": "Library Of Souls",
+        "subtitle": "The Third Novel Of Miss Peregrine's Peculiar Children",
+        "authors": [
+            {
+                "name": "Ransom Riggs"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Quirk Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780525576495",
+        "title": "Spies Of Shilling Lane",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Ryan"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594489501",
+        "title": "Thousand Splendid Suns",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Khaled Hosseini"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594631764",
+        "title": "And The Mountains Echoed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Khaled Hosseini"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451466693",
+        "title": "Flight Of The Sparrow",
+        "subtitle": "A Novel Of Early America",
+        "authors": [
+            {
+                "name": "Amy Belding Brown"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616208684",
+        "title": "An American Marriage",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tayari Jones"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780735224315",
+        "title": "Little Fires Everywhere",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Celeste Ng"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307740823",
+        "title": "Love In A Cold Climate",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nancy Mitford"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451475565",
+        "title": "Radio Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Jane Stratford"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062686534",
+        "title": "Learning To See",
+        "subtitle": "A Novel Of Dorothea Lange, The Woman Who Revealed The Real America",
+        "authors": [
+            {
+                "name": "Elise Hooper"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250192035",
+        "title": "First Mistake",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandie Jones"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455536344",
+        "title": "Steel Kiss",
+        "subtitle": "A Lincoln Rhyme Novel",
+        "authors": [
+            {
+                "name": "Jeffery Deaver"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681778686",
+        "title": "Hushed In Death",
+        "subtitle": "An Inspector Lamb Novel - A World War II Mystery",
+        "authors": [
+            {
+                "name": "Kelly, Stephen"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780756409104",
+        "title": "Visitor",
+        "subtitle": "A Foreigner Novel",
+        "authors": [
+            {
+                "name": "C. J. Cherryh"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Daw Books, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
