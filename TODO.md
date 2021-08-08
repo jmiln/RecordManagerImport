@@ -7,6 +7,17 @@
 
 ## Stuff that probably needs doing/ should be done
 
+- Possibly have a spot in booklog to stick other titles for it to grab as keywords, where it will look last if no other titles were entered
+
+- When looking for matching locations, check against the booklog, similar to publishers
+
+- When saving new pubs, find some way to save em with other similar ones if available
+    * Also ask before doing so
+    * Ex: Picador can go in with picador usa and others
+
+- Maybe if it doesn't have a subtitle or other info, see if theres another book of the title and ask to use some of that?
+    * Could maybe do the same based on the author, to check for series', but maybe an extra flag for if that should be enabled or not
+
 - Add in sub-whatever for authors, that will always go in as lowercase (illustrated by, edited by, etc.)
     * Contribution? not sure what to call it, but that kinda makes sense.
     * Started doing this as needed in the bookLog, but will still need to figure out how to put it through, since it can't be .toLowerCase()'d like the rest of it if it's gonna be put in caps
