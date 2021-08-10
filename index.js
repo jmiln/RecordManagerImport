@@ -706,7 +706,21 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
     }
     if (argv.location?.length) {
         // If the user supplied a location, try and match it against one of the ones in the list
-        const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(argv.location.toLowerCase()) > -1);
+        let possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(argv.location.toLowerCase()) > -1);
+        if (!possibleLocs.length) {
+            // if it didn't find any, try checking against the bookLog
+            possibleLocs = bookLog.filter(book => {
+                if (Array.isArray(book.publish_places) && book.publish_places.length) {
+                    return book.publish_places.filter(b => b.name.toLowerCase().includes(argv.location.toLowerCase())).length ? true : false;
+                }
+                return false;
+            });
+            if (possibleLocs.length) {
+                possibleLocs = possibleLocs.map(book => {
+                    return book.publish_places.map(b => b.name);
+                }).flat();
+            }
+        }
         if (possibleLocs.length) {
             inLocs.push(...possibleLocs);
         } else {
@@ -753,7 +767,21 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
             } else if (locRes.toUpperCase() === "O") {
                 // Ask for something to search by, and run it through this again with the results from that
                 const targetLoc = await askQuestion("Which location are you looking for?");
-                const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
+                let possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
+                if (!possibleLocs.length) {
+                    // if it didn't find any, try checking against the bookLog
+                    possibleLocs = bookLog.filter(book => {
+                        if (Array.isArray(book.publish_places) && book.publish_places.length) {
+                            return book.publish_places.filter(b => b.name.toLowerCase().includes(targetLoc.toLowerCase())).length ? true : false;
+                        }
+                        return false;
+                    });
+                    if (possibleLocs.length) {
+                        possibleLocs = possibleLocs.map(book => {
+                            return book.publish_places.map(b => b.name);
+                        }).flat();
+                    }
+                }
                 if (possibleLocs.length) {
                     outLoc = getLoc(possibleLocs);
                     if (!outLoc) {
@@ -797,7 +825,23 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
 async function getNewLoc() {
     let newLoc = null;
     const newLocRes = await askQuestion("What location would you like to look for?");
-    const possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(newLocRes) > -1);
+    let possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(newLocRes) > -1);
+
+    if (!possibleLocs.length) {
+        // if it didn't find any, try checking against the bookLog
+        possibleLocs = bookLog.filter(book => {
+            if (Array.isArray(book.publish_places) && book.publish_places.length) {
+                return book.publish_places.filter(b => b.name.toLowerCase().includes(newLocRes.toLowerCase())).length ? true : false;
+            }
+            return false;
+        });
+        if (possibleLocs.length) {
+            possibleLocs = possibleLocs.map(book => {
+                return book.publish_places.map(b => b.name);
+            }).flat();
+        }
+        debugLog("Possible booklog locs: ", possibleLocs);
+    }
 
     if (!possibleLocs?.length) {
         // If there are no matches, ask to use what was entered
