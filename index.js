@@ -213,7 +213,7 @@ async function init() {
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
                     const resOptions = yesVals.concat(noVals);
-                    const res = await askQuestionV2(`I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.join(", ")}\nShould I use them? (Y)es / (N)o`,  resOptions);
+                    const res = await askQuestionV2(`I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.map(t => t.toProperCase()).join(", ")}\nShould I use them? (Y)es / (N)o`,  resOptions);
                     if (["y", "yes"].includes(res.toLowerCase())) {
                         for (const title of kwTitles) {
                             globalKWLen++;
@@ -233,7 +233,8 @@ async function init() {
             const pubName = jsonOut.publishers.map(p => p.name).join(" ");
             let inLocs = null;
             if (jsonOut.publish_places?.length) {
-                debugLog("jsonOut.pubLocs", jsonOut.publish_places);
+                debugLog("jsonOut", jsonOut);
+                // debugLog("jsonOut.pubLocs", jsonOut.publish_places);
                 inLocs = jsonOut.publish_places.map(loc => {
                     if (Array.isArray(loc))      loc      = loc[0];
                     if (Array.isArray(loc.name)) loc.name = loc.name[0];
@@ -531,6 +532,7 @@ function processArgv() {
 
 // Go through and see if there is a matching publisher available
 async function getPub(pubName, inLocs) {
+    debugLog("[getPub input]", {pubName, inLocs});
     let out = {};
     if (!inLocs) {
         inLocs = [];
@@ -543,24 +545,23 @@ async function getPub(pubName, inLocs) {
     }
     pubName = pubName.toLowerCase();
 
-    // Filter down the list to only include ones that have matching aliases (May need to change this in the future)
-    let possiblePubs = pubMap.filter(pub => pub.aliases.find(a => pubName.includes(a.toLowerCase())));
+    // Filter down the list to only include ones that have matching names
+    let possiblePubs = pubMap.filter(pub => {
+        let valid = false;
+        if (Array.isArray(pub.name)) {
+            valid = pub.name.find(n => n.toLowerCase().includes(pubName));
+        } else {
+            valid = pub.name.toLowerCase().includes(pubName);
+        }
+        return valid;
+    });
 
-    // If it cannot find an alias that matches just right, try searching the aliases to see if any of them include the given string
-    if (!possiblePubs.length) {
-        possiblePubs = pubMap.filter(pub => pub.aliases.find(a => a.toLowerCase().includes(pubName)));
-    }
-
-    // Then if somehow, it cannot find a match in the aliases, check the names
+    // Then if somehow, it cannot find a match in the names, check the aliases
     if (!possiblePubs.length) {
         possiblePubs = pubMap.filter(pub => {
-            let valid = false;
-            if (Array.isArray(pub.name)) {
-                valid = pub.name.find(n => n.toLowerCase().includes(pubName));
-            } else {
-                valid = pub.name.toLowerCase().includes(pubName);
-            }
-            return valid;
+            pub.aliases.find(a => {
+                return pubName.includes(a.toLowerCase()) || a.toLowerCase().includes(pubName);
+            });
         });
     }
 
@@ -966,7 +967,7 @@ async function getFromAuthMap(auth, titleIn) {
         .filter(titleFilter)
         .filter(lengthFilter)
         .sort(dateSort)
-        .map(book => book.title);
+        .map(book => book.title.toLowerCase());
 
     const noDupTitles = [...new Set(titles)];
 
