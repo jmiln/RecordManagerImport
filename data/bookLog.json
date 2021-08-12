@@ -2917,7 +2917,7 @@
     {
         "isbn": "9780525620983",
         "title": "Death in Focus",
-        "subtitle": "",
+        "subtitle": "An Elena Standish Novel",
         "authors": [
             {
                 "name": "Anne Perry"
@@ -10940,6 +10940,354 @@
         "publishers": [
             {
                 "name": "Daw Books, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451492807",
+        "title": "Dance With Fate",
+        "subtitle": "A Warrior Bards Novel",
+        "authors": [
+            {
+                "name": "Juliet Marillier"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Ace / Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616147853",
+        "title": "Crypt Thief",
+        "subtitle": "A Hugo Marston Novel",
+        "authors": [
+            {
+                "name": "Mark Pryor"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Seventh Street Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616147082",
+        "title": "Bookseller",
+        "subtitle": "The First Hugo Marston Novel",
+        "authors": [
+            {
+                "name": "Mark Pryor"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Seventh Street Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Amherst, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9780312372835",
+        "title": "Disciple",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Coonts"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553802496",
+        "title": "Odd Thomas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dean Koontz"
+            },
+            {
+                "name": "Dean R. Koontz"
+            },
+            {
+                "name": "David Aaron Baker"
+            },
+            {
+                "name": "Dean Koontz"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476746586",
+        "title": "All The Light We Cannot See",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476758749",
+        "title": "Three Sisters, Three Queens",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philippa Gregory"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0764223089",
+        "title": "His Watchful Eye",
+        "subtitle": "Songs of the night, book 2",
+        "authors": [
+            {
+                "name": "Jack Cavanaugh"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780345514172",
+        "title": "Traitors Gate",
+        "subtitle": "A Charlotte And Thomas Pitt Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679444815",
+        "title": "Timeline",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Crichton"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679446486",
+        "title": "Airframe",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Crichton"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0151008116",
+        "title": "Life Of Pi",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Yann Martel"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312424091",
+        "title": "Housekeeping",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marilynne Robinson"
+            }
+        ],
+        "publish_date": "1980",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393045897",
+        "title": "Book Of Love",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Diane Ackerman"
+            },
+            {
+                "name": "Jeanne Mackin"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "W.w. Norton"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501115745",
+        "title": "Rule Of Law",
+        "subtitle": "A Dismas Hardy Novel",
+        "authors": [
+            {
+                "name": "John Lescroart"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538748206",
+        "title": "Boy From The Woods",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [

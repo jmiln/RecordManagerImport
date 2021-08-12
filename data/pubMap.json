@@ -1391,6 +1391,15 @@
     },
     {
         "name": [
+            "Seventh Street Books"
+        ],
+        "aliases": [],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
             "Silhouette Publishers",
             "Harlequin Books"
         ],
@@ -1666,6 +1675,7 @@
             "W. W. Norton & Co"
         ],
         "aliases": [
+            "W.W. Norton",
             "Norton"
         ],
         "locations": [
