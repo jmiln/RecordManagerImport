@@ -248,18 +248,8 @@ async function init() {
             pubOut = await getEmptyPub();
         }
         if (pubOut.locs && pubOut.pub && pubOut.new) {
-            if (!Array.isArray(pubOut.locs)) pubOut.locs = [pubOut.locs];
-            const newPubObj = {
-                name: [pubOut.pub.toProperCase()],
-                aliases: [],
-                locations: pubOut.locs.map(l => l.toProperCase())
-            };
-            debugLog("This new publisher would be saved if we weren't in debug mode: ", newPubObj);
-            if (!argv.debug) {
-                pubMap.push(newPubObj);
-                const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
-                await savePubs(JSON.stringify(pubMapOut, null, 4));
-            }
+            // Stick the new publisher in with the old saved ones
+            await mergePubs(pubOut, pubMap);
         }
         const chosenPub = pubOut.pub ? pubOut.pub : null;
         let pubLoc = pubOut.locs ? pubOut.locs : null;
@@ -659,7 +649,9 @@ async function getPub(pubName, inLocs) {
         if (["y", "yes"].includes(res.toLowerCase())) {
             // If it has the correct publisher, go ahead and use it
             out.pub = pub.name;
-            inLocs.push(...pub.locations);
+            if (pub?.locations?.length) {
+                inLocs.push(...pub.locations);
+            }
             if (newNum === 0) {
                 out.new = true;
             }
@@ -919,6 +911,85 @@ async function askQuestionV2(question, answers) {
             }
         });
     });
+}
+
+async function mergePubs(newPub) {
+    // - Check if it's already in there
+    const foundPubMatch = pubMap.find(pub => {
+        const nameToFind = newPub.pub.toLowerCase();
+        if (Array.isArray(pub.name)) {
+            return pub.name.find(n => n.toLowerCase() === nameToFind);
+        } else {
+            return pub.name.toLowerCase() === nameToFind;
+        }
+    });
+    if (foundPubMatch) {
+        // Just return, because it's already there.
+        // This should not happen, since it should have just found the pub earlier, but just in case
+        return debugLog("foundPubMatch: ", foundPubMatch);
+    }
+
+    // - Check if it should be matched with another publisher
+    //    * Via similar names, or by asking and matching the requested one in
+    const foundPubs = pubMap.filter(pub => {
+        const nameToFind = newPub.pub.toLowerCase();
+        if (Array.isArray(pub.name)) {
+            return pub.name.filter(n => n.toLowerCase().includes(nameToFind)).length;
+        } else {
+            return pub.name.toLowerCase().includes(nameToFind);
+        }
+    });
+
+    debugLog("foundPubs:", foundPubs);
+    if (foundPubs?.length) {
+        // If it found a list of similar publishers, ask which of them it should go in with
+
+        // Get a list of the numbers for the answers, then tack on the options for other or cancel
+        const answers = arrRange(foundPubs.length).concat(cancelVals);
+        const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + name.toProperCase() : name.toProperCase()).join("\n")}`).join("\n");
+        const question = `I found these entries that could match. Would you like to put ${newPub.pub.toProperCase()} into one of these?\n\n${pubList}`;
+
+        const foundRes = await askQuestionV2(question, answers);
+        if (otherVals.includes(foundRes)) {
+            // Don't know what to do here currently, maybe ask for a new name to look for and offer matches?
+            // This would require this mess to go recursive too, and that just gets really messy...
+            // If I need this at some point, It will need the otherVals put back into the concat above
+        } else if (cancelVals.includes(foundRes)) {
+            // Just move along and treat it like any new publisher
+            return [];
+        } else {
+            // One of the known ones was picked
+            // Then, find the index of that listing, put the new pubname in it (And the new location if needed)
+            const pubIndex = pubMap.indexOf(foundPubs[foundRes]);
+            pubMap[pubIndex].name.push(newPub.pub);
+            if (!pubMap[pubIndex].locations.find(l => l.toLowerCase == newPub.locs[0].toLowerCase())) {
+                pubMap[pubIndex].locations.push(newPub.locs[0].toProperCase());
+            }
+            debugLog("New pub info: ", pubMap[pubIndex]);
+        }
+
+        // Then, add it into the pubMap, and save it
+        // return debugLog("Choice: ", foundPubs[foundRes]);
+        if (!argv.debug) {
+            // pubMap.push(newPubObj);
+            // const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
+            await savePubs(JSON.stringify(pubMap, null, 4));
+        }
+    }
+
+    // Just add it in like before, no merging, so stuff will still work in the meantime
+    // if (!Array.isArray(newPub.locs)) newPub.locs = [newPub.locs];
+    // const newPubObj = {
+    //     name: [newPub.pub.toProperCase()],
+    //     aliases: [],
+    //     locations: newPub.locs.map(l => l.toProperCase())
+    // };
+    // debugLog("This new publisher would be saved if we weren't in debug mode: ", newPubObj);
+    // if (!argv.debug) {
+    //     pubMap.push(newPubObj);
+    //     const pubMapOut = pubMap.sort((a, b) => a.name[0].toLowerCase() > b.name[0].toLowerCase() ? 1 : -1);
+    //     await savePubs(JSON.stringify(pubMapOut, null, 4));
+    // }
 }
 
 // Save the pubmap

@@ -11295,5 +11295,21 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781947892354",
+        "title": "Timeless Christmas",
+        "subtitle": "An Enchanting Time Travel Romance",
+        "authors": [
+            {
+                "name": "Alexis Stanton"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Hallmark Publishing"
+            }
+        ]
     }
 ]
