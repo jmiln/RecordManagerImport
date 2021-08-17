@@ -947,7 +947,7 @@ async function mergePubs(newPub) {
         // Get a list of the numbers for the answers, then tack on the options for other or cancel
         const answers = arrRange(foundPubs.length).concat(cancelVals);
         const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + name.toProperCase() : name.toProperCase()).join("\n")}`).join("\n");
-        const question = `I found these entries that could match. Would you like to put ${newPub.pub.toProperCase()} into one of these?\n\n${pubList}`;
+        const question = `I found these entries that could match. Would you like to put ${newPub.pub.toProperCase()} into one of these?\n\n${pubList}\n${cancelStr}`;
 
         const foundRes = await askQuestionV2(question, answers);
         if (otherVals.includes(foundRes)) {
