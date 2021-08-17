@@ -9,10 +9,6 @@
 
 - Possibly have a spot in booklog to stick other titles for it to grab as keywords, where it will look last if no other titles were entered
 
-- When saving new pubs, find some way to save em with other similar ones if available
-    * Also ask before doing so
-    * Ex: Picador can go in with picador usa and others
-
 - Whenever a known publisher comes through with a new location from the api, maybe ask if it should be saved/ added in
 
 - Maybe if it doesn't have a subtitle or other info, see if theres another book of the title and ask to use some of that?
