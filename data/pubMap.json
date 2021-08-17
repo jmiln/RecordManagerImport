@@ -626,6 +626,15 @@
     },
     {
         "name": [
+            "Galaxy Press"
+        ],
+        "aliases": [],
+        "locations": [
+            "hollywood, CA"
+        ]
+    },
+    {
+        "name": [
             "Gallery Books / S&S"
         ],
         "aliases": [
@@ -1312,12 +1321,10 @@
     },
     {
         "name": [
-            "Razor Bill / Penguin Random"
+            "Razor Bill / Penguin Random",
+            "Razorbill / Penguin Random"
         ],
-        "aliases": [
-            "Razor",
-            "Bill"
-        ],
+        "aliases": [],
         "locations": [
             "New York"
         ]
@@ -1636,6 +1643,7 @@
     {
         "name": [
             "Viking",
+            "Viking Children's Books",
             "Viking / Penguin",
             "Viking Press"
         ],

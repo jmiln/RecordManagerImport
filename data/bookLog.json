@@ -354,27 +354,6 @@
         ]
     },
     {
-        "isbn": "9780062654199",
-        "title": "Alice network",
-        "subtitle": "a novel",
-        "authors": [
-            {
-                "name": "Kate Quinn"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316187480",
         "title": "dark",
         "subtitle": "",
@@ -6262,7 +6241,7 @@
     {
         "isbn": "9780735219090",
         "title": "Where The Crawdads Sing",
-        "subtitle": "",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Delia Owens"
@@ -11309,6 +11288,550 @@
         "publishers": [
             {
                 "name": "Hallmark Publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "1414308124",
+        "title": "Witness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dee Henderson"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781524746841",
+        "title": "Woods",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780140231700",
+        "title": "Berlin Noir",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip Kerr"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250232724",
+        "title": "Trust Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hank Phillippi Ryan"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250193001",
+        "title": "Falcon Always Wings Twice",
+        "subtitle": "A Meg Langslow Mystery",
+        "authors": [
+            {
+                "name": "Donna Andrews"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250760128",
+        "title": "Gift Of The Magpie",
+        "subtitle": "A Meg Langslow Mystery",
+        "authors": [
+            {
+                "name": "Donna Andrews"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451471192",
+        "title": "Where The Dead Lie",
+        "subtitle": "A Sebastian St. Cyr Mystery",
+        "authors": [
+            {
+                "name": "C. S. Harris"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781595145840",
+        "title": "Falling Kingdoms",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Morgan Rhodes"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Razorbill / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250079213",
+        "title": "Wintersong",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "S. Jae-Jones"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780670011780",
+        "title": "Gateway",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sharon Shinn"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Viking Children's Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250086662",
+        "title": "Book Jumper",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mechthild Gläser"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Feiwel & Friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481456012",
+        "title": "Clockwork Prince",
+        "subtitle": "The infernal devices, book two",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481456029",
+        "title": "Clockwork Angel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316207645",
+        "title": "Confessions: The Private School Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375829086",
+        "title": "Lady Knight",
+        "subtitle": "(Protector Of The Small #4)",
+        "authors": [
+            {
+                "name": "Tamora Pierce"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250076977",
+        "title": "Crooked Kingdom: A Sequel To Six Of Crows",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Square Fish/henry Holt & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250076960",
+        "title": "Six Of Crows",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Square Fish/henry Holt & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316438964",
+        "title": "Last Wish: Introducing The Witcher",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Andrzej Sapkowski"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781592129577",
+        "title": "Battlefield Earth",
+        "subtitle": "Pulse-Pounding Sci-Fi Action",
+        "authors": [
+            {
+                "name": "L. Ron Hubbard"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Galaxy Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hollywoode, Ca"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593135204",
+        "title": "Project Hail Mary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andy Weir"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399167508",
+        "title": "Gone World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tom Sweterlitsch"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501160844",
+        "title": "Anxious People",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062654199",
+        "title": "Alice Network",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Quinn"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781940250458",
+        "title": "They All Died Screaming",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristopher Triana"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Blood Bound Books"
+            }
+        ]
+    },
+    {
+        "isbn": "9781916094116",
+        "title": "Reddening",
+        "subtitle": "A Folk-Horror Thriller",
+        "authors": [
+            {
+                "name": "Adam Nevill"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Ritual Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Devon, England"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982110567",
+        "title": "Institute",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
