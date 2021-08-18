@@ -542,6 +542,7 @@ async function getPub(pubName, inLocs) {
         if (Array.isArray(pub.name)) {
             valid = pub.name.find(n => n.toLowerCase().includes(pubName));
         } else {
+            if (!pub.name && pub.pub) pub.name = pub.pub;
             valid = pub.name.toLowerCase().includes(pubName);
         }
         return valid;
@@ -550,9 +551,14 @@ async function getPub(pubName, inLocs) {
     // Then if somehow, it cannot find a match in the names, check the aliases
     if (!possiblePubs.length) {
         possiblePubs = pubMap.filter(pub => {
-            pub.aliases.find(a => {
-                return pubName.includes(a.toLowerCase()) || a.toLowerCase().includes(pubName);
+            if (!pub?.aliases) {
+                debugLog("No aliases", pub);
+                return false;
+            }
+            const foundPub = pub.aliases.find(a => {
+                return pubName.toLowerCase().includes(a.toLowerCase()) || a.toLowerCase().includes(pubName.toLowerCase());
             });
+            if (foundPub) return true;
         });
     }
 
@@ -981,7 +987,13 @@ async function mergePubs(newPub) {
         delete newPub.new;
         debugLog("If not for debug mode, it would save this publisher here: ", newPub);
         if (!argv.debug) {
-            pubMap.push(newPub);
+            if (newPub.pub && !newPub.name) {
+                newPub.name = [newPub.pub.toProperCase()];
+            }
+            pubMap.push({
+                name: newPub.name,
+                locations: newPub.locs.map(l => l.toProperCase())
+            });
             await savePubs(JSON.stringify(pubMap, null, 4));
             console.log("Saved pub: " + newPub.pub);
         }
