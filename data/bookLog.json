@@ -11834,5 +11834,236 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780385537858",
+        "title": "Inferno",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dan Brown"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060175818",
+        "title": "First Eagle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tony Hillerman"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399574191",
+        "title": "Fast & Loose",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780990413363",
+        "title": "Booster Club",
+        "subtitle": "A Booster Club Caper",
+        "authors": [
+            {
+                "name": "Angela M. Sanders"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Widow's Kiss"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250105448",
+        "title": "Deadly Desires At Honeychurch Hall",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Hannah Dennison"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250070432",
+        "title": "Murder At Honeychurch Hall",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Hannah Dennison"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780310345978",
+        "title": "Aftermath",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terri Blackstock"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780310332435",
+        "title": "If I Run",
+        "subtitle": "The If I Run Series, Book One",
+        "authors": [
+            {
+                "name": "Terri Blackstock"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Zondervan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780310332541",
+        "title": "If I Live",
+        "subtitle": "The If I Run Series, Book One",
+        "authors": [
+            {
+                "name": "Terri Blackstock"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Zondervan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780310332480",
+        "title": "If I'm Found",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terri Blackstock"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Zondervan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780310332602",
+        "title": "Smoke Screen",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terri Blackstock"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
     }
 ]

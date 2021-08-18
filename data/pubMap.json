@@ -720,7 +720,8 @@
         ],
         "aliases": [
             "Harper",
-            "Harp"
+            "Harpercollins",
+            "Harpercollins publishers"
         ],
         "locations": [
             "New York"
@@ -1775,6 +1776,22 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Widow's Kiss"
+        ],
+        "locations": [
+            "Portland, OR."
+        ]
+    },
+    {
+        "name": [
+            "Zondervan Publishing House"
+        ],
+        "locations": [
+            "Grand Rapids, Mi."
         ]
     }
 ]
