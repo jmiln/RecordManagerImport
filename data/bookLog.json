@@ -6178,7 +6178,7 @@
     {
         "isbn": "9781250178602",
         "title": "Four Winds",
-        "subtitle": "",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Kristin Hannah"
@@ -12063,6 +12063,575 @@
         "publish_places": [
             {
                 "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780399593482",
+        "title": "Midnight Line",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455586516",
+        "title": "No Man's Land",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316485623",
+        "title": "Law Of Innocence",
+        "subtitle": "A Lincoln Lawyer Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446699525",
+        "title": "Lost Light",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538733721",
+        "title": "Night Fire",
+        "subtitle": "A Renee Ballard and Harry Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834959",
+        "title": "New Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399576386",
+        "title": "Promise",
+        "subtitle": "An Elvis Cole and Joe Pike Novel",
+        "authors": [
+            {
+                "name": "Robert Crais"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593335185",
+        "title": "Isle Of Palms",
+        "subtitle": "A Lowcountry Tale",
+        "authors": [
+            {
+                "name": "Dorothea Benton Frank"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399181221",
+        "title": "Merry And Bright",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0786869216",
+        "title": "Pleasure Of My Company",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Steve Martin"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385335296",
+        "title": "No Man's Mistress",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Balogh"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316154697",
+        "title": "Let's Explore Diabetes With Owls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805000585",
+        "title": "Beet Queen",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "publish_date": "1986",
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0143034359",
+        "title": "Well Of Lost Plots",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jasper Fforde"
+            }
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250192752",
+        "title": "Sourdough : Or, Lois And Her Adventures In The Underground Market",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Robin Sloan"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399178610",
+        "title": "Hyperion",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Simmons"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765387561",
+        "title": "Invisible Life Of Addie Larue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "V. E. Schwab"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062389541",
+        "title": "Everything Box",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Kadrey"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Harper Voyager"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250072443",
+        "title": "Secrets Of The Chocolate House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paula Brackston"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250221766",
+        "title": "Agent Jack",
+        "subtitle": "The True Story Of Mi5's Secret Nazi Hunter",
+        "authors": [
+            {
+                "name": "Robert Hutton"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1879522071",
+        "title": "Antique & Collectible Fishing Rods",
+        "subtitle": "Identification & Value Guide",
+        "authors": [
+            {
+                "name": "D. B. Homel"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Forrest Park Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Bellingham, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "0918684277",
+        "title": "Above Chicago",
+        "subtitle": "A New Collection Of Historical And Original Aerial Photographs Of Chicago",
+        "authors": [
+            {
+                "name": "Robert Cameron"
+            }
+        ],
+        "publish_date": "1992",
+        "publishers": [
+            {
+                "name": "Cameron And Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0918684012",
+        "title": "Above London",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Cameron"
+            }
+        ],
+        "publish_date": "1980",
+        "publishers": [
+            {
+                "name": "Cameron And Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0918684242",
+        "title": "Above San Diego",
+        "subtitle": "A New Collection Of Historical And Original Aerial Photographs Of San Diego",
+        "authors": [
+            {
+                "name": "Robert Cameron"
+            }
+        ],
+        "publish_date": "1990",
+        "publishers": [
+            {
+                "name": "Cameron And Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0918684285",
+        "title": "Above San Francisco",
+        "subtitle": "A New Collection Of Nostalgic And Contemporary Aerial Photographs Of The Bay Area",
+        "authors": [
+            {
+                "name": "Robert Cameron"
+            },
+            {
+                "name": "Herb Caen"
+            }
+        ],
+        "publish_date": "1986",
+        "publishers": [
+            {
+                "name": "Cameron And Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780199335145",
+        "title": "Snow And Steel",
+        "subtitle": "The Battle Of The Bulge, 1944-45",
+        "authors": [
+            {
+                "name": "Peter Caddick-Adams"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Oxford University Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Oxford"
+            }
+        ]
+    },
+    {
+        "isbn": "9780752438146",
+        "title": "Kings & Queens Of Scotland",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard D. Oram"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Tempus Publishing, Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Stroud, Gloucstershire"
             }
         ]
     }

@@ -615,6 +615,15 @@
     },
     {
         "name": [
+            "Forrest Park Publishers"
+        ],
+        "aliases": [],
+        "locations": [
+            "Bellingham, WA."
+        ]
+    },
+    {
+        "name": [
             "G. P. Putnam's Sons"
         ],
         "aliases": [
@@ -716,7 +725,8 @@
             "Harper / Harper-collins",
             "Harper-Collins Publishers",
             "Harper-Perennial",
-            "Harper-Teen"
+            "Harper-Teen",
+            "harper voyager"
         ],
         "aliases": [
             "Harper",
@@ -724,6 +734,7 @@
             "Harpercollins publishers"
         ],
         "locations": [
+            "New York",
             "New York"
         ]
     },
@@ -1792,6 +1803,26 @@
         ],
         "locations": [
             "Grand Rapids, Mi."
+        ]
+    },
+    {
+        "name": [
+            "Cameron And Company"
+        ],
+        "aliases": [
+            "Cameron and Co.",
+            "Cameron & Co."
+        ],
+        "locations": [
+            "San Francisco, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Tempus Publishing, Ltd."
+        ],
+        "locations": [
+            "Stroud, Gloucstershire"
         ]
     }
 ]
