@@ -247,6 +247,7 @@ async function init() {
             // There's no pub given/ found, so ask
             pubOut = await getEmptyPub();
         }
+        debugLog("[INIT] PubOut: ", pubOut);
         if (pubOut.locs && pubOut.pub && pubOut.new) {
             // Stick the new publisher in with the old saved ones
             debugLog("Got back from getPub, new pub is: ", pubOut);
@@ -941,11 +942,13 @@ async function mergePubs(newPub) {
     // - Check if it should be matched with another publisher
     //    * Via similar names, or by asking and matching the requested one in
     const foundPubs = pubMap.filter(pub => {
-        const nameToFind = newPub.pub.toLowerCase();
+        // Split up the name, to check each part on it's own
+        // ex: harper voyager would get checked as "harper" and "voyager", rather than as a whole
+        const namesToFind = newPub.pub.toLowerCase().split(" ");
         if (Array.isArray(pub.name)) {
-            return pub.name.filter(n => n.toLowerCase().includes(nameToFind)).length;
+            return pub.name.filter(n => namesToFind.some(ntf => n.toLowerCase().includes(ntf))).length;
         } else {
-            return pub.name.toLowerCase().includes(nameToFind);
+            return namesToFind.some(ntf => pub.name.toLowerCase().includes(ntf));
         }
     });
 
@@ -984,6 +987,7 @@ async function mergePubs(newPub) {
         }
     } else {
         // If it hasn't found a publisher to merge with, just save it as a new publisher
+        // TODO Ask for a name to save it with, if it doesn't find a match
         delete newPub.new;
         debugLog("If not for debug mode, it would save this publisher here: ", newPub);
         if (!argv.debug) {
