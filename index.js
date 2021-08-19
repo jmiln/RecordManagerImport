@@ -13,11 +13,13 @@ const pubMap    = require(__dirname + "/data/pubMap.json");
 const bookLog   = require(__dirname + "/data/bookLog.json");
 
 const chooseOtherStr = "\n[O] Choose other";
-const cancelStr = "\n[C] Cancel";
+const cancelStr      = "\n[C] Cancel";
+const saveStr        = "\n[S] Save as is";
 
 const cancelVals = ["c", "cancel"];
 const noVals     = ["n", "no"];
 const otherVals  = ["o", "other"];
+const saveVals   = ["s", "save"];
 const useVals    = ["u", "use"];
 const yesVals    = ["y", "yes"];
 
@@ -957,15 +959,29 @@ async function mergePubs(newPub) {
         // If it found a list of similar publishers, ask which of them it should go in with
 
         // Get a list of the numbers for the answers, then tack on the options for other or cancel
-        const answers = arrRange(foundPubs.length).concat(cancelVals);
+        const answers = arrRange(foundPubs.length).concat(cancelVals, saveVals);
         const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + name.toProperCase() : name.toProperCase()).join("\n")}`).join("\n");
-        const question = `I found these entries that could match. Would you like to put ${newPub.pub.toProperCase()} into one of these?\n\n${pubList}\n${cancelStr}`;
+        const question = `I found these entries that could match. Would you like to put ${newPub.pub.toProperCase()} into one of these?\n\n${pubList}\n${saveStr}${cancelStr}`;
 
         const foundRes = await askQuestionV2(question, answers);
-        if (otherVals.includes(foundRes)) {
-            // TODO Don't know what to do here currently, maybe ask for a new name to look for and offer matches?
-            // This would require this mess to go recursive too, and that just gets really messy...
-            // If I need this at some point, It will need the otherVals put back into the concat above
+        // if (otherVals.includes(foundRes)) {
+        // TODO Don't know what to do here currently, maybe ask for a new name to look for and offer matches?
+        // This would require this mess to go recursive too, and that just gets really messy...
+        // If I need this at some point, It will need the otherVals put back into the concat above
+        if (saveVals.includes(foundRes)) {
+            // If none of the matches are where it should go, just save it as a new publisher
+            debugLog("If not for debug mode, it would save this publisher here: ", newPub);
+            if (!argv.debug) {
+                if (newPub.pub && !newPub.name) {
+                    newPub.name = [newPub.pub.toProperCase()];
+                }
+                pubMap.push({
+                    name: newPub.name,
+                    locations: newPub.locs.map(l => l.toProperCase())
+                });
+                await savePubs(JSON.stringify(pubMap, null, 4));
+                return console.log("Saved pub: " + newPub.pub);
+            }
         } else if (cancelVals.includes(foundRes)) {
             // Just move along and treat it like any new publisher
             return;
@@ -982,7 +998,7 @@ async function mergePubs(newPub) {
             // Then, add it into the pubMap, and save it
             if (!argv.debug) {
                 await savePubs(JSON.stringify(pubMap, null, 4));
-                console.log(`Merged ${newPub.pub} into ${pubMap[pubIndex].name.join(", ")}`);
+                return console.log(`Merged ${newPub.pub} into ${pubMap[pubIndex].name.join(", ")}`);
             }
         }
     } else {
@@ -999,7 +1015,7 @@ async function mergePubs(newPub) {
                 locations: newPub.locs.map(l => l.toProperCase())
             });
             await savePubs(JSON.stringify(pubMap, null, 4));
-            console.log("Saved pub: " + newPub.pub);
+            return console.log("Saved pub: " + newPub.pub);
         }
     }
 }
