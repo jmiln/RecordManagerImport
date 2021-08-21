@@ -12634,5 +12634,344 @@
                 "name": "Stroud, Gloucstershire"
             }
         ]
+    },
+    {
+        "isbn": "9781534445420",
+        "title": "Slay",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brittney Morris"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Simon Pulse/simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312362157",
+        "title": "Acheron",
+        "subtitle": "A Dark-Hunter Novel",
+        "authors": [
+            {
+                "name": "Sherrilyn Kenyon"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758216410",
+        "title": "Succubus Blues",
+        "subtitle": "Georgina Kincaid, Book 1",
+        "authors": [
+            {
+                "name": "Richelle Mead"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758216427",
+        "title": "Succubus On Top",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richelle Mead"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399583308",
+        "title": "Falling",
+        "subtitle": "A Love Story",
+        "authors": [
+            {
+                "name": "Jane Green"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143036425",
+        "title": "Cold Dish",
+        "subtitle": "The First Novel in the Longmire Mystery Series",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062271617",
+        "title": "To Dwell In Darkness",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah Crombie"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061990625",
+        "title": "No Mark Upon Her",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah Crombie"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062271648",
+        "title": "Garden Of Lamentations",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah Crombie"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061990649",
+        "title": "Sound Of Broken Glass",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah Crombie"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593191200",
+        "title": "This Time Next Year",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sophie Cousens"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780452296299",
+        "title": "Magicians",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lev Grossman"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0452278902",
+        "title": "Green Mile",
+        "subtitle": "A Novel In Six Parts",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312245459",
+        "title": "Habitus",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Flint, James"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781936070633",
+        "title": "Philadelphia Noir",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carlin Romano"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Akashic Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423138655",
+        "title": "Bridge To Never Land",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dave Barry"
+            },
+            {
+                "name": "Ridley Pearson"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
