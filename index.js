@@ -216,7 +216,7 @@ async function init() {
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
                     const resOptions = yesVals.concat(noVals);
-                    const res = await askQuestionV2(`I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.map(t => t.toProperCase()).join(", ")}\nShould I use them? (Y)es / (N)o`,  resOptions);
+                    const res = await askQuestionV2(`I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.map(t => toProperCase(t)).join(", ")}\nShould I use them? (Y)es / (N)o`,  resOptions);
                     if (["y", "yes"].includes(res.toLowerCase())) {
                         for (const title of kwTitles) {
                             globalKWLen++;
@@ -301,24 +301,20 @@ async function init() {
         // TODO check if there are any differences, and if so, overwrite?
         // if (!bookLog.find(ob => ob.isbn == isbn) || argv.debug) {
         const oldBook = bookLog.find(ob => ob.isbn == isbn);
-        const authOut = [...new Set(jsonOut.authors.map(a => a.name.trim().toProperCase()))];
+        const authOut = [...new Set(jsonOut.authors.map(a => toProperCase(a.name.trim())))];
         const jsonToSave = {
             isbn: isbn,
-            title: rawTitle.toProperCase(),
-            subtitle: subtitle?.replace(/^[-:]/, "").replace(/[:-] book club edition/i, "").trim().toProperCase(),
+            title: toProperCase(rawTitle),
+            subtitle: subtitle ? toProperCase(subtitle.replace(/^[-:]/, "").replace(/[:-] book club edition/i, "").trim()) : "",
             authors: authOut.map(auth => { return {name: auth}; }),
             publish_date: date?.toString()
         };
-        const thisAuths = [...new Set(authRes.split(",").map(a => a.trim().toLowerCase()))];
-        newJsonOut.authors = thisAuths.map(auth => {
-            return {name: auth.toProperCase()}
-        });
         if (chosenPub) {
-            jsonToSave.publishers = [{name: chosenPub.toProperCase()}];
+            jsonToSave.publishers = [{name: toProperCase(chosenPub)}];
         }
         if (pubLoc) {
             if (Array.isArray(pubLoc)) pubLoc = pubLoc[0];
-            jsonToSave.publish_places = [{name: pubLoc.toProperCase()}];
+            jsonToSave.publish_places = [{name: toProperCase(pubLoc)}];
         }
 
         if (oldBook) {
@@ -968,8 +964,8 @@ async function mergePubs(newPub) {
 
         // Get a list of the numbers for the answers, then tack on the options for other or cancel
         const answers = arrRange(foundPubs.length).concat(cancelVals, saveVals);
-        const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + name.toProperCase() : name.toProperCase()).join("\n")}`).join("\n");
-        const question = `I found these entries that could match. Would you like to put ${newPub.pub.toProperCase()} into one of these?\n\n${pubList}\n${saveStr}${cancelStr}`;
+        const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + toProperCase(name) : name.toProperCase()).join("\n")}`).join("\n");
+        const question = `I found these entries that could match. Would you like to put ${toProperCase(newPub.pub)} into one of these?\n\n${pubList}\n${saveStr}${cancelStr}`;
 
         const foundRes = await askQuestionV2(question, answers);
         // if (otherVals.includes(foundRes)) {
@@ -981,11 +977,11 @@ async function mergePubs(newPub) {
             debugLog("If not for debug mode, it would save this publisher here: ", newPub);
             if (!argv.debug) {
                 if (newPub.pub && !newPub.name) {
-                    newPub.name = [newPub.pub.toProperCase()];
+                    newPub.name = [toProperCase(newPub.pub)];
                 }
                 pubMap.push({
                     name: newPub.name,
-                    locations: newPub.locs.map(l => l.toProperCase())
+                    locations: newPub.locs.map(l => toProperCase(l))
                 });
                 await savePubs(JSON.stringify(pubMap, null, 4));
                 return console.log("Saved pub: " + newPub.pub);
@@ -999,7 +995,7 @@ async function mergePubs(newPub) {
             const pubIndex = pubMap.indexOf(foundPubs[foundRes]);
             pubMap[pubIndex].name.push(newPub.pub);
             if (!pubMap[pubIndex].locations.find(l => l.toLowerCase == newPub.locs[0].toLowerCase())) {
-                pubMap[pubIndex].locations.push(newPub.locs[0].toProperCase());
+                pubMap[pubIndex].locations.push(toProperCase(newPub.locs[0]));
             }
             debugLog("New pub info: ", pubMap[pubIndex]);
 
@@ -1016,11 +1012,11 @@ async function mergePubs(newPub) {
         debugLog("If not for debug mode, it would save this publisher here: ", newPub);
         if (!argv.debug) {
             if (newPub.pub && !newPub.name) {
-                newPub.name = [newPub.pub.toProperCase()];
+                newPub.name = [toProperCase(newPub.pub)];
             }
             pubMap.push({
                 name: newPub.name,
-                locations: newPub.locs.map(l => l.toProperCase())
+                locations: newPub.locs.map(l => toProperCase(l))
             });
             await savePubs(JSON.stringify(pubMap, null, 4));
             return console.log("Saved pub: " + newPub.pub);
@@ -1166,7 +1162,7 @@ async function findInfo() {
     // Grab what ever author(s)
     const authRes = await askQuestion("What authors go with this book? (Authors will be split by commas)");
     if (authRes?.length) {
-        const thisAuths = [...new Set(authRes.split(",").map(a => a.trim().toProperCase()))];
+        const thisAuths = [...new Set(authRes.split(",").map(a => toProperCase(a.trim())))];
         newJsonOut.authors = thisAuths.map(auth => {
             return {name: auth}
         });
@@ -1194,11 +1190,11 @@ function arrRange(length) {
 }
 
 // Like camel-case but with spaces
-String.prototype.toProperCase = function() {
-    return this.replace(/([^\W_]+[^\s-]*) */g, function(txt) {
+function toProperCase(stringIn) {
+    return stringIn.replace(/([^\W_]+[^\s-]*) */g, function(txt) {
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
     });
-};
+}
 
 
 
