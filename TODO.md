@@ -9,8 +9,6 @@
 
 - Possibly have a spot in booklog to stick other titles for it to grab as keywords, where it will look last if no other titles were entered
 
-- Whenever a known publisher comes through with a new location from the api, maybe ask if it should be saved/ added in
-
 - Maybe if it doesn't have a subtitle or other info, see if theres another book of the title and ask to use some of that?
     * Could maybe do the same based on the author, to check for series', but maybe an extra flag for if that should be enabled or not
 
@@ -37,3 +35,4 @@
 
 - When saving a book, save the keywords used as well? So when it's pulled back up, it can use em. Not sure if I should, or how to prompt for that though
     * This would be especially useful in case I forget to change the keywords between genres, and try putting romance in sci-fi or something, but would then depend on it being an older book that's been used before
+    * This would also be especially annoying if I put it in wrong in the first place
