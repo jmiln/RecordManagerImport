@@ -204,8 +204,9 @@ async function init() {
                 authStr += `${authStr.length ? "; " : ""}${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
             }
 
-            // This solution via https://stackoverflow.com/a/37511463 since the multiple replaces below didn't work for whatever reason
-            authStr = authStr.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
+            // This solution via https://stackoverflow.com/a/37511463
+            // Replace accented letters with normal ones
+            authStr = authStr.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); 
             bookInfoArr.push(`AUTHOR=${authStr}`);
 
 
@@ -249,12 +250,14 @@ async function init() {
             // There's no pub given/ found, so ask
             pubOut = await getEmptyPub();
         }
+
         debugLog("[INIT] PubOut: ", pubOut);
         if (pubOut.locs && pubOut.pub && pubOut.new) {
             // Stick the new publisher in with the old saved ones
             debugLog("Got back from getPub, new pub is: ", pubOut);
             await mergePubs(pubOut, pubMap);
         }
+
         const chosenPub = pubOut.pub ? pubOut.pub : null;
         let pubLoc = pubOut.locs ? pubOut.locs : null;
         if (chosenPub) {
@@ -298,13 +301,18 @@ async function init() {
         // TODO check if there are any differences, and if so, overwrite?
         // if (!bookLog.find(ob => ob.isbn == isbn) || argv.debug) {
         const oldBook = bookLog.find(ob => ob.isbn == isbn);
+        const authOut = [...new Set(jsonOut.authors.map(a => a.name.trim().toProperCase()))];
         const jsonToSave = {
             isbn: isbn,
             title: rawTitle.toProperCase(),
             subtitle: subtitle?.replace(/^[-:]/, "").replace(/[:-] book club edition/i, "").trim().toProperCase(),
-            authors: jsonOut.authors.map(a => { return {name: a.name.toProperCase()};}),
+            authors: authOut.map(auth => { return {name: auth}; }),
             publish_date: date?.toString()
         };
+        const thisAuths = [...new Set(authRes.split(",").map(a => a.trim().toLowerCase()))];
+        newJsonOut.authors = thisAuths.map(auth => {
+            return {name: auth.toProperCase()}
+        });
         if (chosenPub) {
             jsonToSave.publishers = [{name: chosenPub.toProperCase()}];
         }
@@ -1158,12 +1166,10 @@ async function findInfo() {
     // Grab what ever author(s)
     const authRes = await askQuestion("What authors go with this book? (Authors will be split by commas)");
     if (authRes?.length) {
-        const thisAuths = authRes.split(",").map(a => {
-            return {
-                name: a.trim().toProperCase()
-            };
+        const thisAuths = [...new Set(authRes.split(",").map(a => a.trim().toProperCase()))];
+        newJsonOut.authors = thisAuths.map(auth => {
+            return {name: auth}
         });
-        newJsonOut.authors = thisAuths;
     }
     return newJsonOut;
 }
