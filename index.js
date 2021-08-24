@@ -895,7 +895,6 @@ async function getEmptyPub() {
     return out;
 }
 
-
 // Ask a question/ prompt and wait for the reply
 async function askQuestion(query) {
     debugLog("[askQuestion] Q: " + query);
@@ -925,6 +924,7 @@ async function askQuestionV2(question, answers) {
     });
 }
 
+// Merge a new publisher into an existing one
 async function mergePubs(newPub) {
     // - Check if it's already in there
     const foundPubMatch = pubMap.find(pub => {
@@ -1050,7 +1050,6 @@ async function saveAndRun(infoArr) {
     });
 }
 
-
 // Quick little function to get the most recent x titles to use in the keyword slots
 async function getFromAuthMap(auth, titleIn) {
     debugLog("[getFromAuthMap] AuthIn: ", auth);
@@ -1073,7 +1072,7 @@ async function getFromAuthMap(auth, titleIn) {
     return noDupTitles.slice(globalKWLen-5);
 }
 
-
+// Parse the title from what's given, as well as subtitle 
 function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     if (!titleIn?.length) {
         throw new Error("[parseTitle] Missing title");
@@ -1132,6 +1131,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     return [`${title}${subtitle}${extraString}`, `${subtitle}${extraString}`, title];
 }
 
+// If a book is not found from the api or stored info, ask for the info manually
 async function findInfo() {
     console.log("\nNo info was found for this book.\n");
 
@@ -1168,6 +1168,7 @@ async function findInfo() {
     return newJsonOut;
 }
 
+// Log text & whatever object/ variable nicely
 function debugLog(text, other) {
     if (argv.debug) {
         if (other) {
