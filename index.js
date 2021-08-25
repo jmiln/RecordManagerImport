@@ -3,7 +3,6 @@ const fs = require("fs");
 const { inspect } = require("util");
 const { exec } = require("child_process");
 
-
 const readline = require("readline");
 
 const helpArr   = require(__dirname + "/data/helpOut.js");
@@ -192,7 +191,7 @@ async function init() {
         // TODO Figure out the contributions (edited by, illustrated by, etc)
         // TODO Not sure how this would be entered automatically, but would help out
         // TODO when putting a book in after the 1st time/ when it pulls from the bookLog
-        if (jsonOut.authors && jsonOut.authors.length) {
+        if (jsonOut?.authors?.length) {
             let authStr = "";
 
             // Make sure that there are no duplicate authors
@@ -206,9 +205,8 @@ async function init() {
 
             // This solution via https://stackoverflow.com/a/37511463
             // Replace accented letters with normal ones
-            authStr = authStr.normalize("NFD").replace(/[\u0300-\u036f]/g, ""); 
+            authStr = authStr.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
             bookInfoArr.push(`AUTHOR=${authStr}`);
-
 
             // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
             if (5 - globalKWLen > 0) {
@@ -221,6 +219,12 @@ async function init() {
                         for (const title of kwTitles) {
                             globalKWLen++;
                             bookInfoArr.push(`kw${globalKWLen}=${title}`);
+                        }
+                    }
+                    if (argv.fill) {
+                        while (globalKWLen <= 5) {
+                            bookInfoArr.push(`KW${globalKWLen}=^f`);
+                            globalKWLen += 1;
                         }
                     }
                 }
@@ -516,12 +520,6 @@ function processArgv() {
             }
         }
 
-        if (argv.fill) {
-            while (ix <= 5) {
-                outArr.push(`KW${ix}=^f`);
-                ix += 1;
-            }
-        }
         globalKWLen = ix-1;
     }
 
@@ -1076,7 +1074,7 @@ async function getFromAuthMap(auth, titleIn) {
     return noDupTitles.slice(globalKWLen-5);
 }
 
-// Parse the title from what's given, as well as subtitle 
+// Parse the title from what's given, as well as subtitle
 function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     if (!titleIn?.length) {
         throw new Error("[parseTitle] Missing title");
@@ -1145,7 +1143,7 @@ async function findInfo() {
 
     // Grab the year it was published
     const dateRes = await askQuestion("What year was this published? Must be in YYYY format.");
-    if (dateRes.match(/^\d{4}$/) && parseInt(dateRes, 10) > 0 && parseInt(dateRes, 10) < new Date().getFullYear()) {
+    if (dateRes.match(/^\d{4}$/) && parseInt(dateRes, 10) > 0 && parseInt(dateRes, 10) <= new Date().getFullYear()) {
         newJsonOut.publish_date = dateRes;
     }
 
@@ -1164,7 +1162,7 @@ async function findInfo() {
     if (authRes?.length) {
         const thisAuths = [...new Set(authRes.split(",").map(a => toProperCase(a.trim())))];
         newJsonOut.authors = thisAuths.map(auth => {
-            return {name: auth}
+            return {name: auth};
         });
     }
     return newJsonOut;
