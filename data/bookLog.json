@@ -12973,5 +12973,747 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780142424179",
+        "title": "Fault In Our Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Green"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481477826",
+        "title": "Spy School Secret Service",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stuart Gibbs"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481477857",
+        "title": "Spy School Goes South",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stuart Gibbs"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481477796",
+        "title": "Waste Of Space",
+        "subtitle": "A Moon Base Alpha Novel",
+        "authors": [
+            {
+                "name": "Stuart Gibbs"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062024718",
+        "title": "Under Wildwood",
+        "subtitle": "Wildwood Chronicles, Book 2",
+        "authors": [
+            {
+                "name": "Colin Meloy"
+            },
+            {
+                "name": "Carson Ellis",
+                "contribution": "illustrated by"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Balzer + Bray/harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062643803",
+        "title": "Leah On The Offbeat",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Becky Albertalli"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Balzer + Bray/harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643858616",
+        "title": "Honey Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Morgan Rogers"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525537960",
+        "title": "Editor",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Steven Rowley"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803788",
+        "title": "Crazy Rich Asians",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kevin Kwan"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525535287",
+        "title": "Red At The Bone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Woodson"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780349012810",
+        "title": "Friend",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sigrid Nunez"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Virago"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143121077",
+        "title": "Caleb's Crossing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brooks, Geraldine"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735217690",
+        "title": "Home Fire",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kamila Shamsie"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375705856",
+        "title": "Plainsong",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kent Haruf"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307455925",
+        "title": "Americanah",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chimamanda Ngozi Adichie"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400095209",
+        "title": "Half Of A Yellow Sun",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chimamanda Ngozi Adichie"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616202415",
+        "title": "Purple Hibiscus",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chimamanda Ngozi Adichie"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780812986471",
+        "title": "Olive, Again",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Strout"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062943477",
+        "title": "Rose Code",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Quinn"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "078683787X",
+        "title": "Peter And The Shadow Thieves",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dave Barry"
+            },
+            {
+                "name": "Ridley Pearson"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062209702",
+        "title": "Seventh Son",
+        "subtitle": "Book 1 And 2 in the Last Apprentice Series",
+        "authors": [
+            {
+                "name": "Joseph Delaney"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Greenwillow Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345516060",
+        "title": "Truthseeker",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "C.e. Murphy"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Del Rey / Ballantine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0380809060",
+        "title": "Great Book Of Amber",
+        "subtitle": "The Complete Amber Chronicles, 1-10",
+        "authors": [
+            {
+                "name": "Roger Zelazny"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Avon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501144196",
+        "title": "Dark Half",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400078967",
+        "title": "Of Love And Evil",
+        "subtitle": "The Songs of Seraphim, Book Two",
+        "authors": [
+            {
+                "name": "Anne Rice"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399562495",
+        "title": "Giver Of Stars",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063141254",
+        "title": "To Sir Phillip, With Love",
+        "subtitle": "Bridgerton",
+        "authors": [
+            {
+                "name": "Julia Quinn"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812976533",
+        "title": "Midnights's Children",
+        "subtitle": "25th Anniversary Edition",
+        "authors": [
+            {
+                "name": "Salman Rushdie"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679743248",
+        "title": "Informers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bret Easton Ellis"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250000675",
+        "title": "Tourist",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Olen Steinhauer"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525566168",
+        "title": "Rock Blaster",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062436719",
+        "title": "Chaos",
+        "subtitle": "A Scarpetta Novel",
+        "authors": [
+            {
+                "name": "Patricia Cornwell"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781933354804",
+        "title": "Seattle Noir",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Curt Colbert"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Akashic Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0940249030",
+        "title": "Stuff The Lady's Hatbox",
+        "subtitle": "An I Love Mystery Novel",
+        "authors": [
+            {
+                "name": "Carlton E. Morse"
+            }
+        ],
+        "publish_date": "1988",
+        "publishers": [
+            {
+                "name": "Seven Stones Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Woodside, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250317995",
+        "title": "Whisper Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex North"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

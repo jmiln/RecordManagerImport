@@ -142,7 +142,8 @@
     },
     {
         "name": [
-            "Avon Books / Harper"
+            "Avon Books / Harper",
+            "Avon Books"
         ],
         "aliases": [
             "Avon"
@@ -726,7 +727,7 @@
             "Harper-Collins Publishers",
             "Harper-Perennial",
             "Harper-Teen",
-            "harper voyager"
+            "Harper Voyager"
         ],
         "aliases": [
             "Harper",
@@ -1828,6 +1829,38 @@
     {
         "name": [
             "Akashic Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Virago"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Greenwillow Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Seven Stones Press"
+        ],
+        "locations": [
+            "Woodside, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Celadon Books"
         ],
         "locations": [
             "New York"
