@@ -13715,5 +13715,26 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780345802521",
+        "title": "Treacherous Paradise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
