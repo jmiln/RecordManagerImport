@@ -962,7 +962,7 @@ async function mergePubs(newPub) {
 
         // Get a list of the numbers for the answers, then tack on the options for other or cancel
         const answers = arrRange(foundPubs.length).concat(cancelVals, saveVals);
-        const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + toProperCase(name) : name.toProperCase()).join("\n")}`).join("\n");
+        const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + toProperCase(name) : toProperCase(name)).join("\n")}`).join("\n");
         const question = `I found these entries that could match. Would you like to put ${toProperCase(newPub.pub)} into one of these?\n\n${pubList}\n${saveStr}${cancelStr}`;
 
         const foundRes = await askQuestionV2(question, answers);
@@ -991,9 +991,12 @@ async function mergePubs(newPub) {
             // One of the known ones was picked
             // Then, find the index of that listing, put the new pubname in it (And the new location if needed)
             const pubIndex = pubMap.indexOf(foundPubs[foundRes]);
-            pubMap[pubIndex].name.push(newPub.pub);
+            pubMap[pubIndex].name.push(toProperCase(newPub.pub));
             if (!pubMap[pubIndex].locations.find(l => l.toLowerCase == newPub.locs[0].toLowerCase())) {
+                // Stick any new locations in
                 pubMap[pubIndex].locations.push(toProperCase(newPub.locs[0]));
+                // Kill off any duplicate locations
+                pubMap[pubIndex].locations = [...new Set(pubMap[pubIndex].locations)];
             }
             debugLog("New pub info: ", pubMap[pubIndex]);
 
