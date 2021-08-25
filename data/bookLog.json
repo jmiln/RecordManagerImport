@@ -13736,5 +13736,236 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781250004109",
+        "title": "Wicked Autumn",
+        "subtitle": "A Max Tudor Novel",
+        "authors": [
+            {
+                "name": "G. M. Malliet"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496731968",
+        "title": "Carrot Cake Murder",
+        "subtitle": "A Hannah Swensen Mystery With Recipes!",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250029041",
+        "title": "Fatal Winter",
+        "subtitle": "A Max Tudor Novel",
+        "authors": [
+            {
+                "name": "G. M. Malliet"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250043269",
+        "title": "Pagan Spring",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "G. M. Malliet"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250050052",
+        "title": "Fin And Lady",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cathleen Schine"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335284808",
+        "title": "Last Bookshop In London",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Madeline Martin"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Hanover Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143034902",
+        "title": "Shadow Of The Wind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carlos Ruiz Zafón"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679745587",
+        "title": "In Cold Blood",
+        "subtitle": "A True Account of a Multiple Murder and it's Consequences",
+        "authors": [
+            {
+                "name": "Truman Capote"
+            }
+        ],
+        "publish_date": "1994",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338263893",
+        "title": "Fantastic Beasts: The Crimes Of Grindelwald",
+        "subtitle": "The Original Screenplay",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338125689",
+        "title": "Tales Of Beedle The Bard (Harry Potter)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338132311",
+        "title": "Fantastic Beasts And Where To Find Them",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
