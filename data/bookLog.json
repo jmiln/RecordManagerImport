@@ -13967,5 +13967,173 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780062409218",
+        "title": "News Of The World",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Paulette Jiles"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062995261",
+        "title": "When We Were Young And Brave",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hazel Gaynor"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316421973",
+        "title": "Ten Thousand Doors Of January",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alix E. Harrow"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Redhook / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316154895",
+        "title": "House Of Broken Angels",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Luis Alberto Urrea"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439190050",
+        "title": "Shell Collector",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316378246",
+        "title": "Little Red Chairs",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edna O'brien"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778369080",
+        "title": "Bookshop Of Yesterdays",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Meyerson"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250254368",
+        "title": "Fable",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Adrienne Young"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
