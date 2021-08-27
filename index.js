@@ -209,6 +209,7 @@ async function init() {
             bookInfoArr.push(`AUTHOR=${authStr}`);
 
             // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
+            debugLog("GlobalKWLen: ", globalKWLen);
             if (5 - globalKWLen > 0) {
                 const kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
                 debugLog("KW titles to fill with: ", kwTitles);
@@ -221,11 +222,11 @@ async function init() {
                             bookInfoArr.push(`kw${globalKWLen}=${title}`);
                         }
                     }
-                    if (argv.fill) {
-                        while (globalKWLen < 5) {
-                            globalKWLen += 1;
-                            bookInfoArr.push(`KW${globalKWLen}=^f`);
-                        }
+                }
+                if (argv.fill) {
+                    while (globalKWLen < 5) {
+                        globalKWLen += 1;
+                        bookInfoArr.push(`KW${globalKWLen}=^f`);
                     }
                 }
             }
