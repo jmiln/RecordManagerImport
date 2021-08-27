@@ -222,9 +222,9 @@ async function init() {
                         }
                     }
                     if (argv.fill) {
-                        while (globalKWLen <= 5) {
-                            bookInfoArr.push(`KW${globalKWLen}=^f`);
+                        while (globalKWLen < 5) {
                             globalKWLen += 1;
+                            bookInfoArr.push(`KW${globalKWLen}=^f`);
                         }
                     }
                 }
