@@ -1058,27 +1058,6 @@
         ]
     },
     {
-        "isbn": "9780062908339",
-        "title": "Stargazer",
-        "subtitle": "A Leaphorn, Chee & Manuelito Novel",
-        "authors": [
-            {
-                "name": "Anne Hillerman"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Harper-Collins Publishers"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780375707544",
         "title": "Juneteenth",
         "subtitle": "A Novel",
@@ -1558,22 +1537,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780008433963",
-        "title": "Forgotten Orphan",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Glynis Peters"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "one more chapter"
             }
         ]
     },
@@ -12151,27 +12114,6 @@
         ]
     },
     {
-        "isbn": "9781538733721",
-        "title": "Night Fire",
-        "subtitle": "A Renee Ballard and Harry Bosch Novel",
-        "authors": [
-            {
-                "name": "Michael Connelly"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062834959",
         "title": "New Girl",
         "subtitle": "A Novel",
@@ -14128,6 +14070,1193 @@
         "publishers": [
             {
                 "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525657606",
+        "title": "Hamnet",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maggie O'farrell"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593318171",
+        "title": "Klara And The Sun",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kazuo Ishiguro"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250249258",
+        "title": "Lost Village",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Camilla Sten"
+            },
+            {
+                "name": "Alexandra Fleming",
+                "contribution": "translated by"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250793737",
+        "title": "Girl Who Died",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ragnar Jonasson"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250269546",
+        "title": "Murder In Old Bombay",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Nev March"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501188817",
+        "title": "One By One",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruth Ware"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250245496",
+        "title": "Wife Upstairs",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rachel Hawkins"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062908339",
+        "title": "Stargazer",
+        "subtitle": "A Leaphorn, Chee & Manuelito Novel",
+        "authors": [
+            {
+                "name": "Anne Hillerman"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802158178",
+        "title": "Transient Desires",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358237051",
+        "title": "Night Hawk",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Harcourt"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358237044",
+        "title": "Lantern Men",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Harcourt"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868022",
+        "title": "Consequences Of Fear",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250022059",
+        "title": "Long Way Home",
+        "subtitle": "A Chief Inspector Gamache Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250022103",
+        "title": "Nature Of The Beast",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641291903",
+        "title": "Invitation To Die",
+        "subtitle": "A Detective Inspector Redfyre Investigation",
+        "authors": [
+            {
+                "name": "Barbara Cleverly"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641290227",
+        "title": "Fall Of Angels",
+        "subtitle": "A Detective Inspector Redfyre Investigation",
+        "authors": [
+            {
+                "name": "Barbara Cleverly"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984802668",
+        "title": "Revenge In Rubies",
+        "subtitle": "A Harriet Gordon Mystery",
+        "authors": [
+            {
+                "name": "A. M. Stuart"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728234526",
+        "title": "Death In Daylesford",
+        "subtitle": "The NEW Phryne Fisher Mystery",
+        "authors": [
+            {
+                "name": "Kerry Greenwood"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250002570",
+        "title": "Anthem For Doomed Youth",
+        "subtitle": "A Daisy Dalrymple Mystery",
+        "authors": [
+            {
+                "name": "Carola Dunn"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250021595",
+        "title": "Gone West",
+        "subtitle": "A Daisy Dalrymple Mystery",
+        "authors": [
+            {
+                "name": "Carola Dunn"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250068491",
+        "title": "Heirs Of The Body",
+        "subtitle": "A Daisy Dalrymple Mystery",
+        "authors": [
+            {
+                "name": "Carola Dunn"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143113492",
+        "title": "In The Woods",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805005013",
+        "title": "Poetry Of Robert Frost.",
+        "subtitle": "The Collected Poems, Complete and Unabridged",
+        "authors": [
+            {
+                "name": "Robert Frost"
+            },
+            {
+                "name": "Edward Connery Lathem",
+                "contribution": "edited by"
+            }
+        ],
+        "publish_date": "1979",
+        "publishers": [
+            {
+                "name": "Owl / Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451635621",
+        "title": "Gone With The Wind",
+        "subtitle": "75th Anniversary Edition",
+        "authors": [
+            {
+                "name": "Margaret Mitchell"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525619260",
+        "title": "Evvie Drake Starts Over",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Linda Holmes"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781609455750",
+        "title": "Reproduction",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ian Williams"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534439863",
+        "title": "Deep",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rivers Solomon"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Saga Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778312253",
+        "title": "Virgin River",
+        "subtitle": "Book 1 Of The Virgin River Series",
+        "authors": [
+            {
+                "name": "Robyn Carr"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781953238238",
+        "title": "Constellations Of Scars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melissa Eskue Ousley"
+            }
+        ],
+        "publish_date": "2021"
+    },
+    {
+        "isbn": "9780008277789",
+        "title": "Robots Of Dawn",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Isaac Asimov"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Harper Voyager"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316478632",
+        "title": "Fray",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rowenna Miller"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781328567468",
+        "title": "Spaceship Next Door",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gene Doucette"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385346740",
+        "title": "Dalek Generation",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicholas Briggs"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616554408",
+        "title": "Two Past Midnight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Duane Swiercynski"
+            },
+            {
+                "name": "Eduardo Francisco"
+            },
+            {
+                "name": "Stefani Rennee"
+            },
+            {
+                "name": "Paolo Rivera"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Dark Horse Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukie, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780008433963",
+        "title": "Forgotten Orphan",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Glynis Peters"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "One More Chapter/ Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008348021",
+        "title": "Secret Orphan",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Glynis Peters"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0801864410",
+        "title": "Sacred Night / Tahar Ben Jelloun ; Translated By Alan Sheridan.",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tahar Ben Jelloun"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Johns Hopkins University"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Baltimore, MD."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062414915",
+        "title": "Their Finest",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lissa Evans"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060935467",
+        "title": "To Kill A Mockingbird",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harper Lee"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Perennial / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062797155",
+        "title": "Tattooist Of Auschwitz",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Heather Morris"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781402220050",
+        "title": "Loving Spirit",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daphne Du Maurier"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311010",
+        "title": "Lost Apothecary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Penner"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781950054305",
+        "title": "An Old Money Murder In Mayfair",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sara Rosett"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Mcguffin Ink"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312318406",
+        "title": "Triumph Of The Sun",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wilbur Smith"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464210877",
+        "title": "Belting Inheritance",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julian Symons"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062073471",
+        "title": "And Then There Were None",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781783291229",
+        "title": "Venom Business",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Crichton"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Hard Case Crime / Titan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0679742239",
+        "title": "Laughing Policeman",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maj Sjöwall"
+            },
+            {
+                "name": "Per Wahlöö"
+            }
+        ],
+        "publish_date": "1992",
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538733721",
+        "title": "Night Fire",
+        "subtitle": "A Renee Ballard And Harry Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538731598",
+        "title": "18th Abduction",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316123518",
+        "title": "Beautiful Chaos",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Stohl"
+            },
+            {
+                "name": "Kami Garcia"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101996980",
+        "title": "Infinite Sea",
+        "subtitle": "The Second Book Of The 5th Wave",
+        "authors": [
+            {
+                "name": "Rick Yancey"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553535242",
+        "title": "Last Monster",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ginger Garrett"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399171611",
+        "title": "Wrath & The Dawn",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Renee Ahdieh"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416971757",
+        "title": "Behemoth",
+        "subtitle": "The Second Book of the Leviatan Trilogy",
+        "authors": [
+            {
+                "name": "Scott Westerfeld"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Simon Pulse/simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312286856",
+        "title": "Sea Of Grey",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
             }
         ],
         "publish_places": [

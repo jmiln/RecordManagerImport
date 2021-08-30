@@ -783,14 +783,16 @@
     },
     {
         "name": [
-            "Houghton Mifflin Company"
+            "Houghton Mifflin Company",
+            "Houghton Mifflin Harcourt"
         ],
         "aliases": [
             "Houghton",
             "Mifflin"
         ],
         "locations": [
-            "New York"
+            "New York",
+            "Boston"
         ]
     },
     {
@@ -1872,6 +1874,46 @@
         ],
         "locations": [
             "Toronto, Ontario"
+        ]
+    },
+    {
+        "name": [
+            "Saga Press / S&s"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Dark Horse Comics"
+        ],
+        "locations": [
+            "Milwaukie, OR."
+        ]
+    },
+    {
+        "name": [
+            "One More Chapter/ Harper"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Johns Hopkins University Press"
+        ],
+        "locations": [
+            "Baltimore, MD."
+        ]
+    },
+    {
+        "name": [
+            "Hard Case Crime / Titan"
+        ],
+        "locations": [
+            "London"
         ]
     }
 ]
