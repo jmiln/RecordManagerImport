@@ -725,6 +725,7 @@
         "name": [
             "Harper / Harper-collins",
             "Harper-Collins Publishers",
+            "Harper-One",
             "Harper-Perennial",
             "Harper-Teen",
             "Harper Voyager"
@@ -819,7 +820,8 @@
         "name": [
             "Hyperion",
             "Disney / Hyperion",
-            "Hyperion / Disney"
+            "Hyperion / Disney",
+            "Disney Press"
         ],
         "aliases": [
             "Miramax",
@@ -827,7 +829,8 @@
             "Hyperion"
         ],
         "locations": [
-            "New York"
+            "New York",
+            "Glendale, Ca."
         ]
     },
     {
@@ -1914,6 +1917,54 @@
         ],
         "locations": [
             "London"
+        ]
+    },
+    {
+        "name": [
+            "Marvel Comics"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Pushkin Press"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Signet Eclipse / Penguin"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Gollancz / Orion"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Spectra/ballantine Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Coffee House Press"
+        ],
+        "locations": [
+            "Minneapolis, Mn."
         ]
     }
 ]

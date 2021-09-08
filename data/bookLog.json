@@ -1232,22 +1232,6 @@
         ]
     },
     {
-        "isbn": "9781566894883",
-        "title": "In the distance",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Hernán Díaz"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "coffee house press"
-            }
-        ]
-    },
-    {
         "isbn": "9780593318317",
         "title": "Whereabouts",
         "subtitle": "A novel",
@@ -1595,27 +1579,6 @@
         "publishers": [
             {
                 "name": "Alfred A. Knopf"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0684801221",
-        "title": "old man and the sea",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ernest Hemingway"
-            }
-        ],
-        "publish_date": "1995",
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
             }
         ],
         "publish_places": [
@@ -2464,27 +2427,6 @@
         "publishers": [
             {
                 "name": "Farrar, Straus and Giroux"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780307947727",
-        "title": "sense of an ending",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Julian Barnes"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Vintage International"
             }
         ],
         "publish_places": [
@@ -15257,6 +15199,1791 @@
         "publishers": [
             {
                 "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439157107",
+        "title": "Dog Who Knew Too Much",
+        "subtitle": "A Chet and Bernie Mystery",
+        "authors": [
+            {
+                "name": "Spencer Quinn"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451665178",
+        "title": "Fistful Of Collars",
+        "subtitle": "A Chet And Bernie Mystery",
+        "authors": [
+            {
+                "name": "Spencer Quinn"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593156926",
+        "title": "Hollywood Spy",
+        "subtitle": "A Maggie Hope Mystery",
+        "authors": [
+            {
+                "name": "Susan Elia Macneal"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345500670",
+        "title": "Fire",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Katherine Neville"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451461407",
+        "title": "White Night",
+        "subtitle": "A Novel Of The Dresden Files",
+        "authors": [
+            {
+                "name": "Jim Butcher"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Roc/ New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312853259",
+        "title": "Speaker For The Dead",
+        "subtitle": "Book 2 Of The Ender Quartet",
+        "authors": [
+            {
+                "name": "Orson Scott Card"
+            }
+        ],
+        "publish_date": "1992",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679724370",
+        "title": "Passion",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jeanette Winterson"
+            }
+        ],
+        "publish_date": "1989",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451661545",
+        "title": "Silver Star",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jeannette Walls"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385340366",
+        "title": "Dark Volume",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gordon Dahlquist"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525536291",
+        "title": "Vanishing Half",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brit Bennett"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785124238",
+        "title": "Death Of Captain America",
+        "subtitle": "Vol 1 - The Death of the Dream",
+        "authors": [
+            {
+                "name": "Ed Brubaker"
+            },
+            {
+                "name": "Steve Epting",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Mike Perkins",
+                "contribution": "Art by"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785124245",
+        "title": "Death Of Captain America",
+        "subtitle": "Vol 2 - Burden Of Dreams",
+        "authors": [
+            {
+                "name": "Ed Brubaker"
+            },
+            {
+                "name": "Steve Epting",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Butch Guice",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Mike Perkins",
+                "contribution": "Art by"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785129714",
+        "title": "Death Of Captain America",
+        "subtitle": "Vol 3 - Man Who Bought America",
+        "authors": [
+            {
+                "name": "Ed Brubaker"
+            },
+            {
+                "name": "Steve Epting",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Roberto De La Torre",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Luke Ross",
+                "contribution": "Art by"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785156178",
+        "title": "Captain America",
+        "subtitle": "Red Menace Ultimate Collection",
+        "authors": [
+            {
+                "name": "Ed Brubaker"
+            },
+            {
+                "name": "Mike Perkins",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Steve Epting",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Javier Pulido",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Marcos Martin",
+                "contribution": "Art by"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0785127984",
+        "title": "Civil War",
+        "subtitle": "Captain America",
+        "authors": [
+            {
+                "name": "Ed Brubaker"
+            },
+            {
+                "name": "Mike Perkins",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Lee Weeks",
+                "contribution": "Art by"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785187943",
+        "title": "Captain America",
+        "subtitle": "Winter Soldier",
+        "authors": [
+            {
+                "name": "Ed Brubaker"
+            },
+            {
+                "name": "Steve Epting",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Michael Lark",
+                "contribution": "Art by"
+            },
+            {
+                "name": "Mike Perkins",
+                "contribution": "Art by"
+            },
+            {
+                "name": "John Paul Leon",
+                "contribution": "Art by"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785130352",
+        "title": "Ultimate Origins",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Butch Guice"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785183846",
+        "title": "Wolverine: Origin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paul Jenkins"
+            },
+            {
+                "name": "Bill Jemas"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781782274254",
+        "title": "Will",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jeroen Olyslaegers"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Pushkin Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484752531",
+        "title": "Convergence",
+        "subtitle": "The Zodiac Legacy, Book One",
+        "authors": [
+            {
+                "name": "Stan Lee"
+            },
+            {
+                "name": "Stuart Moore"
+            },
+            {
+                "name": "Andie Tong"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Disney Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Glendale, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780399181771",
+        "title": "Minecraft",
+        "subtitle": "The Island",
+        "authors": [
+            {
+                "name": "Max Brooks"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "067976402X",
+        "title": "Snow Falling On Cedars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Guterson"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780800735388",
+        "title": "Yours Truly, Thomas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rachel Fordham"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316034418",
+        "title": "Life",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Keith Richards"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060505868",
+        "title": "Seldom Disappointed",
+        "subtitle": "A Memoir",
+        "authors": [
+            {
+                "name": "Tony Hillerman"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Perennial / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316053716",
+        "title": "Cypress House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Koryta"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538713884",
+        "title": "Nypd Red 6",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Marshall Karp"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501144189",
+        "title": "Christine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501144509",
+        "title": "Dead Zone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501192241",
+        "title": "Cujo",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385340861",
+        "title": "Cookbook Collector",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Allegra Goodman"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812981223",
+        "title": "Major Pettigrew's Last Stand",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Helen Simonson"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684801221",
+        "title": "Old Man And The Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743297332",
+        "title": "Sun Also Rises",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594483851",
+        "title": "Thousand Splendid Suns",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Khaled Hosseini"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399150749",
+        "title": "Opposite Of Fate",
+        "subtitle": "A Book Of Musings",
+        "authors": [
+            {
+                "name": "Amy Tan"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060745905",
+        "title": "Wicked",
+        "subtitle": "The Life And Times Of The Wicked Witch Of The West",
+        "authors": [
+            {
+                "name": "Gregory Maguire"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780439023498",
+        "title": "Catching Fire",
+        "subtitle": "The Second Book of the Hunger Games",
+        "authors": [
+            {
+                "name": "Suzanne Collins"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780439023511",
+        "title": "Mockingjay",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Suzanne Collins"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593099766",
+        "title": "Lethal Game",
+        "subtitle": "A Ghostwalker Novel",
+        "authors": [
+            {
+                "name": "Christine Feehan"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984803597",
+        "title": "Wolf Rain",
+        "subtitle": "A Psy-Changeling Trinity Novel",
+        "authors": [
+            {
+                "name": "Nalini Singh"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984803627",
+        "title": "Alpha Night",
+        "subtitle": "A Psy-Changeling Trinity Novel",
+        "authors": [
+            {
+                "name": "Nalini Singh"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501195099",
+        "title": "Sinner",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. R. Ward"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525559474",
+        "title": "Midnight Library",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Matt Haig"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780393356687",
+        "title": "Overstory",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Richard Powers"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385491112",
+        "title": "Wilderness Tips",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385741279",
+        "title": "We Were Liars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E. Lockhart"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464209734",
+        "title": "Murder Of My Aunt",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Hull"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780330544597",
+        "title": "Road",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cormac Mccarthy"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501162411",
+        "title": "Desperate Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Laura Griffin"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781838882303",
+        "title": "Find Her Alive",
+        "subtitle": "A Gripping Crime Thriller Packed With Mystery And Suspense",
+        "authors": [
+            {
+                "name": "Lisa Regan"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Bookouture"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061944895",
+        "title": "Heart-Shaped Box",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joe Hill"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451469755",
+        "title": "Longing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Balogh"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Signet Eclipse / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778368700",
+        "title": "Country Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778309130",
+        "title": "Ambassador's Daughter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385319959",
+        "title": "Outlander",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diana Gabaldon"
+            }
+        ],
+        "publish_date": "1991",
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316129084",
+        "title": "Leviathan Wakes",
+        "subtitle": "The Expanse, book one",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            }
+        ],
+        "publish_date": "NaN",
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316129060",
+        "title": "Caliban's War",
+        "subtitle": "The Expanse, Book Two",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316129077",
+        "title": "Abaddon's Gate",
+        "subtitle": "The Expanse, Book Three",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316334686",
+        "title": "Cibola Burn",
+        "subtitle": "The Expanse, Book Four",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780575098077",
+        "title": "Iron Jackal",
+        "subtitle": "A Tale Of The Ketty Jay",
+        "authors": [
+            {
+                "name": "Chris Wooding"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Gollancz / Orion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780575098114",
+        "title": "Ace Of Skulls",
+        "subtitle": "A Tale Of The Ketty Jay",
+        "authors": [
+            {
+                "name": "Chris Wooding"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Gollancz / Orion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345522504",
+        "title": "Black Lung Captain",
+        "subtitle": "A Tale Of The Ketty Jay",
+        "authors": [
+            {
+                "name": "Chris Wooding"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Spectra/ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307887436",
+        "title": "Ready Player One",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ernest Cline"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616201425",
+        "title": "Silver Sparrow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tayari Jones"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781617734472",
+        "title": "Coal River",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ellen Marie Wiseman"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758278432",
+        "title": "Plum Tree",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ellen Marie Wiseman"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063045453",
+        "title": "All The Children Are Home",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patry Francis"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307947727",
+        "title": "Sense Of An Ending",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julian Barnes"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062315007",
+        "title": "Alchemist",
+        "subtitle": "25th Anniversary Edition",
+        "authors": [
+            {
+                "name": "Paulo Coelho"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Harper-One"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781566894883",
+        "title": "In The Distance",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hernán Díaz"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Coffee House Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780142000663",
+        "title": "Grapes Of Wrath",
+        "subtitle": "Steinbeck Centennial Edition",
+        "authors": [
+            {
+                "name": "John Steinbeck"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312422776",
+        "title": "World Away",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stewart O'nan"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0156007754",
+        "title": "Blindness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "José Saramago"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Orlando, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780553394399",
+        "title": "Spool Of Blue Thread",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Tyler"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735220454",
+        "title": "Whiskey When We're Dry",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Larison"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375725237",
+        "title": "Book Of Evidence",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Banville"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307276704",
+        "title": "Lake Shore Limited",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sue Miller"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143116028",
+        "title": "Songs For The Missing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stewart O'nan"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679720200",
+        "title": "Stranger",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Albert Camus"
+            }
+        ],
+        "publish_date": "1989",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062434043",
+        "title": "Shakespeare For Squirrels",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christopher Moore"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "William Morrow"
             }
         ],
         "publish_places": [
