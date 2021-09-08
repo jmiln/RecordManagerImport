@@ -195,7 +195,7 @@ async function init() {
             let authStr = "";
 
             // Make sure that there are no duplicate authors
-            const authSet = new Set(jsonOut.authors.map(a => a.name));
+            const authSet = new Set(jsonOut.authors.map(a => a.name.toLowerCase()));
             const authArr = [...authSet];
 
             for (const auth of authArr) {
@@ -329,7 +329,7 @@ async function init() {
             const oldBookString    = JSON.stringify(oldBook, null, 4);
             if (jsonToSaveString !== oldBookString) {
                 console.log("\nThis is different than a previously saved bookLog entry\n");
-                const repRes = await askQuestionV2(`Which of the following should be saved?\n\n[0]\n${jsonToSaveString}\n\n[1]\n${oldBookString}`, [0, 1]);
+                const repRes = await askQuestionV2(`Which of the following should be saved?\n\n[0] NEW\n${jsonToSaveString}\n\n[1] OLD\n${oldBookString}`, [0, 1]);
                 if (parseInt(repRes, 10) === 0) {
                     // The new one was chosen, so get rid of the old one
                     bookLog.splice(bookLog.findIndex(b => b.isbn == isbn), 1);
