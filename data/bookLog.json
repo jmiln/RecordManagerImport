@@ -16991,5 +16991,281 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781501190544",
+        "title": "Room On Rue Amelie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780763671969",
+        "title": "Vango",
+        "subtitle": "Between Sky And Earth",
+        "authors": [
+            {
+                "name": "Timothee De Fombelle"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678751",
+        "title": "Black Ascot",
+        "subtitle": "An Inspector Ian Rutledge Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681443621",
+        "title": "Critic",
+        "subtitle": "An Enzo Macleod Investigation",
+        "authors": [
+            {
+                "name": "Peter May"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345543165",
+        "title": "Scam",
+        "subtitle": "A Fox And O'hare Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            },
+            {
+                "name": "Lee Goldberg"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525538196",
+        "title": "Wolf Pack",
+        "subtitle": "A Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553418361",
+        "title": "Gone Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gillian Flynn"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735224643",
+        "title": "Witch Elm",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525435006",
+        "title": "Handmaid's Tale",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345456328",
+        "title": "Belgariad, Vol. 1 (Books 1-3)",
+        "subtitle": "Pawn Of Prophecy, Queen Of Sorcery, Magician's Gambit",
+        "authors": [
+            {
+                "name": "David Eddings"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Del Rey / Ballantine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345456319",
+        "title": "Belgariad, Vol. 2 (Books 4 & 5)",
+        "subtitle": "Castle Of Wizardry, Enchanters' End Game",
+        "authors": [
+            {
+                "name": "David Eddings"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Del Rey / Ballantine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312861044",
+        "title": "Witchlight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marion Zimmer Bradley"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063038837",
+        "title": "Meet Cute Diary",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emery Lee"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Quill Tree / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
