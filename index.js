@@ -94,10 +94,13 @@ let boardStr = "VG IN X.";
 
 argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
 if (argv.conditions.includes("bc")) {
-    argv.bc = true;
+    argv.bc = true;     // Book Club
 }
 if (argv.conditions.includes("lp")) {
-    argv.lp = true;
+    argv.lp = true;     // Large Print
+}
+if (argv.conditions.includes("fr")) {
+    argv.fr = true;     // French Wraps
 }
 
 let jsonOut = null;
