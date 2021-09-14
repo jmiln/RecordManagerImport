@@ -32,7 +32,8 @@
     },
     {
         "name": [
-            "Alfred A. Knopf"
+            "Alfred A. Knopf",
+            "Borzi / Alfred A. Knopf"
         ],
         "aliases": [
             "Alfred A. Knopf"
@@ -1973,6 +1974,38 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Prairie Wind Publishing"
+        ],
+        "locations": [
+            "Omaha, Ne."
+        ]
+    },
+    {
+        "name": [
+            "Blue Merle Publishing"
+        ],
+        "locations": [
+            "Mountain City, Ga."
+        ]
+    },
+    {
+        "name": [
+            "Sphere / Little, Brown & Co."
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Hogarth"
+        ],
+        "locations": [
+            "London"
         ]
     }
 ]

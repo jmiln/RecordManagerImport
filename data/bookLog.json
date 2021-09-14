@@ -417,27 +417,6 @@
         ]
     },
     {
-        "isbn": "9780062868084",
-        "title": "Cold Millions",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jess Walter"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Harper / Harper-collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062297747",
         "title": "bully of order",
         "subtitle": "a novel",
@@ -835,30 +814,6 @@
         ]
     },
     {
-        "isbn": "9781984818461",
-        "title": "Sentinel",
-        "subtitle": "A Jack Reacher Novel",
-        "authors": [
-            {
-                "name": "Lee Child"
-            },
-            {
-                "name": "Andrew Child"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Delacorte Press / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780735227422",
         "title": "line in the dark",
         "subtitle": "",
@@ -1213,7 +1168,7 @@
     {
         "isbn": "9781455563920",
         "title": "Pachinko",
-        "subtitle": "",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Min Jin Lee"
@@ -3074,7 +3029,7 @@
     {
         "isbn": "9780525538233",
         "title": "Long Range",
-        "subtitle": "",
+        "subtitle": "A Joe Pickett Novel",
         "authors": [
             {
                 "name": "C. J. Box"
@@ -17260,6 +17215,1111 @@
         "publishers": [
             {
                 "name": "Quill Tree / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735220690",
+        "title": "Eleanor Oliphant Is Completely Fine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gail Honeyman"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250102416",
+        "title": "Almost Midnight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paul Doiron"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062109842",
+        "title": "Blood Money",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Grippando"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525954989",
+        "title": "Evening And The Morning",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818461",
+        "title": "Sentinel",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            },
+            {
+                "name": "Andrew Child"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735224650",
+        "title": "Searcher",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982104061",
+        "title": "Near Dark",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538748138",
+        "title": "Last Trial",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Scott Turow"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681443058",
+        "title": "Runaway",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter May"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496726742",
+        "title": "'Tis The Season Murder",
+        "subtitle": "Two Lucy Stone Holiday Mysteries In One Volume",
+        "authors": [
+            {
+                "name": "Leslie Meier"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538752548",
+        "title": "Law Of Innocence",
+        "subtitle": "A Lincoln Layer Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643856780",
+        "title": "Body On The Train",
+        "subtitle": "A Kate Shackleton Mystery",
+        "authors": [
+            {
+                "name": "Frances Brody"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538752838",
+        "title": "Summer House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Brendan Dubois"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593129999",
+        "title": "Blue Moon",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316498951",
+        "title": "Troubled Blood",
+        "subtitle": "A Cormoran Strike Novel",
+        "authors": [
+            {
+                "name": "Robert Galbraith"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781732006423",
+        "title": "Desperate Creed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Kava"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Prairie Wind Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Omaha, Ne."
+            }
+        ]
+    },
+    {
+        "isbn": "9780997389791",
+        "title": "Lost Creed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Kava"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Prairie Wind Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Omaha, Ne."
+            }
+        ]
+    },
+    {
+        "isbn": "9780996561075",
+        "title": "Devil's Deal",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 13",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780985774844",
+        "title": "Double Dog Dare",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 8",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780996561037",
+        "title": "Land Of The Free",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 11",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780996561068",
+        "title": "Deadfall",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 12",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780985774875",
+        "title": "Home Of The Brave",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 9",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780985774813",
+        "title": "High In Trial",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 7",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780977329649",
+        "title": "Dead Season",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 6",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780996561006",
+        "title": "Dog Days",
+        "subtitle": "A Raine Stockton Dog Mystery, Book 10 (10th Anniversary Edition)",
+        "authors": [
+            {
+                "name": "Donna Ball"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Blue Merle Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mountain City, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "9780751552713",
+        "title": "Long Way Home",
+        "subtitle": "A Chief Inspector Gamache Mystery",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Sphere / Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416955078",
+        "title": "City Of Bones",
+        "subtitle": "The Mortal Instruments, Book 1",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416972259",
+        "title": "City Of Glass",
+        "subtitle": "The Mortal Instruments, Book 3",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416972242",
+        "title": "City Of Ashes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442497399",
+        "title": "City Of Bones",
+        "subtitle": "The Mortal Instruments, Book 1",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781601420138",
+        "title": "Fatal Deduction",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gayle G. Roper"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Multnomah Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sisters, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803504",
+        "title": "Fifty Shades Freed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E. L. James"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803498",
+        "title": "Fifty Shades Darker",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E. L. James"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061233005",
+        "title": "Bridgertons",
+        "subtitle": "Happily Ever After - Collection Of Bridgerton Epilogues",
+        "authors": [
+            {
+                "name": "Julia Quinn"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063138629",
+        "title": "Viscount Who Loved Me",
+        "subtitle": "Bridgerton",
+        "authors": [
+            {
+                "name": "Julia Quinn"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063138643",
+        "title": "Offer From A Gentleman, An",
+        "subtitle": "Bridgerton",
+        "authors": [
+            {
+                "name": "Julia Quinn"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062567772",
+        "title": "It Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Harper"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062420633",
+        "title": "Royal Nanny",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Harper"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525542452",
+        "title": "Love Story Of Missy Carmichael",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Beth Morrey"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062913272",
+        "title": "Valentine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Wetmore"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525534204",
+        "title": "Flights",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Olga Tokarczuk"
+            },
+            {
+                "name": "Jennifer Croft",
+                "contribution": "translated by"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984822185",
+        "title": "Normal People",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sally Rooney"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Hogarth"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501175183",
+        "title": "By The Book",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Julia Sonneborn"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142181324",
+        "title": "Mrs. Lincoln's Rival",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jennifer Chiaverini"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250019851",
+        "title": "First Frost",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Addison Allen"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812977172",
+        "title": "All-Girl Filling Station's Last Reunion",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fannie Flagg"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781471100482",
+        "title": "Perks Of Being A Wallflower",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Chbosky"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400069590",
+        "title": "Transatlantic",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colum Mccann"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062876003",
+        "title": "Good Company",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cynthia D'aprix Sweeney"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868084",
+        "title": "Cold Millions",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jess Walter"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525655619",
+        "title": "Hippie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paulo Coelho"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765314246",
+        "title": "Invasive Procedures",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Orson Scott Card"
+            },
+            {
+                "name": "Aaron Johnston"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
             }
         ],
         "publish_places": [
