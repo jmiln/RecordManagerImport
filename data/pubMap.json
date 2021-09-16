@@ -764,7 +764,9 @@
     },
     {
         "name": [
-            "Henry Holt & Company"
+            "Henry Holt & Company",
+            "Henry Holt & Co",
+            "Times Books/ Henry Holt & Co"
         ],
         "aliases": [
             "Henry",
@@ -1098,7 +1100,8 @@
     },
     {
         "name": [
-            "Orbit / Hachette"
+            "Orbit / Hachette",
+            "Redhook Books / Orbit"
         ],
         "aliases": [
             "Orbit"
@@ -2006,6 +2009,22 @@
         ],
         "locations": [
             "London"
+        ]
+    },
+    {
+        "name": [
+            "Wattpad Books"
+        ],
+        "locations": [
+            "Toronto, Ontario"
+        ]
+    },
+    {
+        "name": [
+            "Loyola Press"
+        ],
+        "locations": [
+            "Chicago"
         ]
     }
 ]

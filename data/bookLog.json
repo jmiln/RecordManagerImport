@@ -5136,7 +5136,7 @@
     {
         "isbn": "9781538761694",
         "title": "Daylight",
-        "subtitle": "",
+        "subtitle": "An Atlee Pine Thriller",
         "authors": [
             {
                 "name": "David Baldacci"
@@ -18320,6 +18320,1142 @@
         "publishers": [
             {
                 "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425191788",
+        "title": "Sunshine",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robin Mckinley"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781989365595",
+        "title": "Down World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rebecca Phelps"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Wattpad Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534484542",
+        "title": "Ironside",
+        "subtitle": "A Modern Faerie Tale",
+        "authors": [
+            {
+                "name": "Holly Black"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534484528",
+        "title": "Valiant",
+        "subtitle": "A Modern Faerie Tale",
+        "authors": [
+            {
+                "name": "Holly Black"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345539809",
+        "title": "Red Rising",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Pierce Brown"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425285961",
+        "title": "Dark Age",
+        "subtitle": "A Red Rising Novel",
+        "authors": [
+            {
+                "name": "Pierce Brown"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678140",
+        "title": "Kingdom Of Copper",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "S. A. Chakraborty"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Harper Voyager"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678119",
+        "title": "City Of Brass",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "S. A. Chakraborty"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Harper Voyager"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307476531",
+        "title": "Damned",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Chuck Palahniuk"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307455475",
+        "title": "Year Of The Flood",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250125170",
+        "title": "Week At The Shore",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Barbara Delinsky"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538761656",
+        "title": "Daylight",
+        "subtitle": "An Atlee Pine Thriller",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781578337439",
+        "title": "Clean Slate",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mckie Campbell"
+            }
+        ],
+        "publish_date": "2020"
+    },
+    {
+        "isbn": "9781501155987",
+        "title": "She Regrets Nothing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andrea Dunlop"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455568147",
+        "title": "Missing",
+        "subtitle": "A Private Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Daniel Lepaine"
+            },
+            {
+                "name": "Kathryn Fox"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982159665",
+        "title": "American Assassin",
+        "subtitle": "A Mitch Rapp Novel",
+        "authors": [
+            {
+                "name": "Vince Flynn"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593331859",
+        "title": "Marauder",
+        "subtitle": "A Novel of the Oregon Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Boyd Morrison"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250301703",
+        "title": "Silent Patient",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Michaelides"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547577401",
+        "title": "Janus Stone",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547386065",
+        "title": "Crossing Places",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "0312426216",
+        "title": "Pardonable Lies",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399593574",
+        "title": "No Middle Name",
+        "subtitle": "The Complete Collected Jack Reacher Short Stories",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345539830",
+        "title": "Golden Son",
+        "subtitle": "Book 2 of the Red Rising Trilogy",
+        "authors": [
+            {
+                "name": "Pierce Brown"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451461513",
+        "title": "Heir To The Shadows",
+        "subtitle": "Book 2 of The Black Jewels Trilogy",
+        "authors": [
+            {
+                "name": "Anne Bishop"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Roc/ New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524796303",
+        "title": "Fire & Blood",
+        "subtitle": "300 Years Before A Game Of Thrones",
+        "authors": [
+            {
+                "name": "George R.r. Martin"
+            },
+            {
+                "name": "Doug Wheatley"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316493598",
+        "title": "Witch In Time",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Constance Sayers"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312865511",
+        "title": "Merlin Of St. Gilles' Well",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ann Chamberlin"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250272614",
+        "title": "Awakening",
+        "subtitle": "The Dragon Heart Legacy, Book 1",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593200629",
+        "title": "Lady's Formula For Love",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Everett"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736135",
+        "title": "Lady's Guide To Mischief And Mayhem",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Manda Collins"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0786863137",
+        "title": "Brain Droppings",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "George Carlin"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525425571",
+        "title": "Theodore Boone",
+        "subtitle": "The Abduction",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312874626",
+        "title": "Victory",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Coonts"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0671671561",
+        "title": "Pegasus Bridge",
+        "subtitle": "June 6, 1944",
+        "authors": [
+            {
+                "name": "Stephen E. Ambrose"
+            }
+        ],
+        "publish_date": "1988",
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524763169",
+        "title": "Promised Land",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Barack Obama"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780805069389",
+        "title": "Harry S. Truman",
+        "subtitle": "The American Presidents",
+        "authors": [
+            {
+                "name": "Robert Dallek"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Times Books/ Henry Holt & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538750568",
+        "title": "One Good Deed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765382030",
+        "title": "Three-Body Problem",
+        "subtitle": "Remembrance of Earth's Past, book 1",
+        "authors": [
+            {
+                "name": "Liu Cixin"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101988640",
+        "title": "Invisible Library",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Genevieve Cogman"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Ace / Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143133605",
+        "title": "New Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Halle Butler"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0156001314",
+        "title": "Name Of The Rose",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Umberto Eco"
+            }
+        ],
+        "publish_date": "1994",
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Diego, CA."
+            }
+        ]
+    },
+    {
+        "isbn": "9780143121169",
+        "title": "Rules Of Civility",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amor Towles"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780829421286",
+        "title": "In This House Of Brede",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rumer Godden"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Loyola Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chicago"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250055361",
+        "title": "Someone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alice Mcdermott"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780330544580",
+        "title": "Blood Meridian",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cormac Mccarthy"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250084385",
+        "title": "Branson Beauty",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Claire Booth"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538761854",
+        "title": "Anomaly",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Rutger"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060748180",
+        "title": "Simpsons Comics",
+        "subtitle": "Barn Burner",
+        "authors": [
+            {
+                "name": "Groening, Matt"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Perennial / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060952129",
+        "title": "Simpsons Comics",
+        "subtitle": "Strike Back!",
+        "authors": [
+            {
+                "name": "Matt Groening"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060007973",
+        "title": "Simpsons Comics",
+        "subtitle": "Unchained",
+        "authors": [
+            {
+                "name": "Matt Groening"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061436970",
+        "title": "Simpsons Comics",
+        "subtitle": "Dollars To Donuts",
+        "authors": [
+            {
+                "name": "Matt Groening"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060933784",
+        "title": "Simpsons Comics",
+        "subtitle": "Royale",
+        "authors": [
+            {
+                "name": "Matt Groening"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780440000907",
+        "title": "Request",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Bell"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780440000877",
+        "title": "Painted For The Kill (Dell Mapback, #87)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lucy Michaella Cores"
+            }
+        ],
+        "publish_date": "1943",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
             }
         ],
         "publish_places": [
