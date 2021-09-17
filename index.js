@@ -309,7 +309,7 @@ async function init() {
         // TODO check if there are any differences, and if so, overwrite?
         // if (!bookLog.find(ob => ob.isbn == isbn) || argv.debug) {
         const oldBook = bookLog.find(ob => ob.isbn == isbn);
-        const authOut = [...new Set(jsonOut.authors.map(a => toProperCase(a.name.trim())))];
+        const authOut = jsonOut?.authors?.length ? [...new Set(jsonOut.authors.map(a => toProperCase(a.name.trim())))] : [];
         const jsonToSave = {
             isbn: isbn,
             title: toProperCase(rawTitle),
