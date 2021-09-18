@@ -3493,27 +3493,6 @@
         ]
     },
     {
-        "isbn": "9780525954972",
-        "title": "Column of Fire",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ken Follett"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Viking / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0765307154",
         "title": "last jihad",
         "subtitle": "a novel",
@@ -19456,6 +19435,561 @@
         "publishers": [
             {
                 "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455575596",
+        "title": "Baron's Honourable Daughter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lynn Morris"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Faith Words / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316176668",
+        "title": "Transcription",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Atkinson"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524797676",
+        "title": "Something In The Water",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Catherine Steadman"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781472207074",
+        "title": "5th Horseman",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Headline Publishing Group"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446696630",
+        "title": "2nd Chance",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451232571",
+        "title": "Fall Of Giants",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            },
+            {
+                "name": "John Lee"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525953098",
+        "title": "Edge Of Eternity",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525952923",
+        "title": "Winter Of The World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525954972",
+        "title": "Column Of Fire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062390011",
+        "title": "Lady In The Lake",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laura Lippman"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316417471",
+        "title": "Sophia, Princess Among Beasts",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Emily Raymond"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101947746",
+        "title": "Chances Are. . .",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Russo"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399590597",
+        "title": "Water Dancer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ta-Nehisi Coates"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "One World / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375414954",
+        "title": "Bridge Of Sighs",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Russo"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400077090",
+        "title": "Sunday Philosophy Club",
+        "subtitle": "The First Isabel Dalhousie Novel",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743422444",
+        "title": "Mercy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525558736",
+        "title": "Lights All Night Long",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lydia Fitzpatrick"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385543781",
+        "title": "Testaments",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Nan A. Talese / Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446698337",
+        "title": "Choice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicholas Sparks"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780718083809",
+        "title": "Because You're Mine",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Coble"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780785228448",
+        "title": "One Little Lie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Coble"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780800727215",
+        "title": "Oath Of Honor",
+        "subtitle": "Blue Justice, book 1",
+        "authors": [
+            {
+                "name": "Lynette Eason"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780800727031",
+        "title": "Called To Protect",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lynette Eason"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780800727048",
+        "title": "Code Of Valor",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Eason"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066213",
+        "title": "Better Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735220171",
+        "title": "Black Leopard, Red Wolf",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marlon James"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
             }
         ],
         "publish_places": [

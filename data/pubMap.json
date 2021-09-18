@@ -2026,5 +2026,29 @@
         "locations": [
             "Chicago"
         ]
+    },
+    {
+        "name": [
+            "Faith Words / Hachette"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Headline Publishing Group"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "One World / Random House"
+        ],
+        "locations": [
+            "New York"
+        ]
     }
 ]
