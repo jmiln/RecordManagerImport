@@ -46,6 +46,10 @@ module.exports = {
     fewbd: "Faint Edgewear to Boards & DJ.",
     lewbd: "Light Edgewear to Boards & DJ.",
 
+    // PB Wraps creased
+    fwcr: "Front Wrap Creased.",
+    rwcr: "Rear Wrap Creased.",
+
     // DJ stuff
     fewd: "Faint Edgewear to DJ.",
     lewd: "Light Edgewear to DJ.",
