@@ -8,6 +8,7 @@ appOriginalWidth  := 1333  ; original width of the dos app/game (common 320)
 appOriginalHeight := 1000  ; original height of the dos app/game (common 240)
 appScreenScale    := 1
 
+; Move within dosbox, using whatever adjusted distance values
 DosBoxMouseMove(x, y) {
 	global appOriginalWidth, appOriginalHeight, appScreenScale
 
@@ -70,55 +71,53 @@ else {
 
 ; From the starting point, CATEGORY
 sleep, 100
+; Go up to stop it from looping all over like it does when tabbed in/ focused
 send, {up}
 sleep, 150
 
+; Move to the correct spot for the catalog#, then click there a few times to try and make sure the cursor is there
 loop 4 {
     DosBoxMouseMove(195, 24)
     sleep, 50
     MouseClick, Left
-    sleep, 100
+    sleep, 70
 }
 
-MouseClick, Left
-sleep, 25
-MouseClick, Left
-sleep, 25
-MouseClick, Left
-sleep, 70
-
-; 3 to author, but really 2 since from the cat field, it'll automatically go one
-; more in when tabbed over
+; 3 to author
 SetKeyDelay, 10
 goDown(3)
 if (strLen(AUTHOR)) {
     sendRaw, %AUTHOR%
 }
 
-if (strLen(AUTHOR) > 64) {  ; This means it'll take more than one line
+; If the authors need 2 lines, go down 1 to the title, otherwise go down 2
+if (strLen(AUTHOR) > 64) {
     goDown(1)
 } else {
     goDown(2)
 }
 
+; If there's a title included (There should always be), put that in
 if (strLen(TITLE)) {
     sendRaw, %TITLE%
 }
 
-; 1-2 to the condition
+; 1-2 to the condition, depending on if the title needs 1 row or 2
 if (strLen(TITLE) > 64) {
     goDown(1)
 } else {
     goDown(2)
 }
 
+; Put in the condition if needed
 if (strLen(COND)) {
     sendRaw, %COND%
 }
 
+; Go down to the illustration box
 goDown(1)
 
-; If there's an illustration set
+; If there's an illustration set, put that in
 if (strLen(ILLUS)) {
     sendRaw, %ILLUS%
 }
@@ -126,59 +125,60 @@ if (strLen(ILLUS)) {
 ; Then 2 down to the publisher
 goDown(2)
 
-
 ; If there's a publisher
 if (strLen(PUB)) {
     sendRaw, %PUB%
 }
+goDown(1)
 
 ; Publishing location
-goDown(1)
 if (strLen(LOC)) {
     sendRaw, %LOC%
 }
+goDown(1)
 
 ; Publish date
-goDown(1)
 if (strLen(PUBDATE)) {
     sendRaw, %PUBDATE%
 }
-
 goDown(1)
+
+; Edition (1st printing, book club, etc)
 if (strLen(EDITION)) {
     sendRaw, %EDITION%
 }
-
 goDown(1)
+
+; Binding (HC, PB, SP)
 if (strLen(BD)) {
     sendRaw, %BD%
 }
-
 goDown(2)
+
+; If there's a DJ, put that in
 if (strLen(DJ)) {
     sendRaw, %DJ%
 }
+goDown(1)
 
+; If there's a page count,
 if (strlen(PAGES)) {
-    goDown(1)
     sendRaw, %PAGES%
-    goUp(1)
 }
+goDown(1)
 
+; If there's overflow condition, put that in
 if (strlen(COND2)) {
-    goDown(2)
     sendRaw, %COND2%
-    if (strLen(COND2) > 64) {
-        goUp(3)
-    } else {
-        goUp(2)
-    }
 }
 
 
 ; Go back up to the comments field since that's the next edit I need
-goUp(9)
-
+if (strLen(COND2) > 64) {
+    goUp(12)
+} else {
+    goUp(11)
+}
 
 ; ########################################
 ;   End of the 1st page, go on to second
