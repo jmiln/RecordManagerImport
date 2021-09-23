@@ -207,7 +207,8 @@
     {
         "name": [
             "Bantam Books",
-            "Bantam Dell / Random House"
+            "Bantam Dell / Random House",
+            "Bantam Spectra"
         ],
         "aliases": [
             "Bantam"
@@ -1430,7 +1431,8 @@
     {
         "name": [
             "Silhouette Publishers",
-            "Harlequin Books"
+            "Harlequin Books",
+            "Harlequin Teen"
         ],
         "aliases": [
             "Silhouette",
@@ -1438,7 +1440,8 @@
         ],
         "locations": [
             "New York",
-            "Toronto, Ontario"
+            "Toronto, Ontario",
+            "Don Mills, Ontario, Canada"
         ]
     },
     {
@@ -2046,6 +2049,64 @@
     {
         "name": [
             "One World / Random House"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Chicken House/ Scholastic"
+        ],
+        "locations": [
+            "Somerset, Uk"
+        ]
+    },
+    {
+        "name": [
+            "Inkyard Press",
+            "Ink Yard Press"
+        ],
+        "locations": [
+            "Toronto, Ontario",
+            "Ontario, Canada"
+        ]
+    },
+    {
+        "name": [
+            "Starscape/ Tom Doherty"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Tarcher Perigee"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Wendy Lamb Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Poppy"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Jimmy Patterson Books"
         ],
         "locations": [
             "New York"
