@@ -285,10 +285,15 @@ async function init() {
         // If the illustrations flag is given, ask which one it should put, based on the options in data/illustrations.js
         if (argv.illustrated) {
             const illusOptions = require("./data/illustrations.js");
-            const resOptions = (arrRange(illusOptions.length)).concat(cancelVals);
-            const illRes = await askQuestionV2(`What sort of illustrations are they?\n\n${illusOptions.map((ill, ix) => `[${ix}] ${ill}`).join("\n")}`, resOptions);
-            if (Number.isInteger(parseInt(illRes)) && illusOptions[illRes]) {
-                bookInfoArr.push(`ILLUS=${illusOptions[illRes]}`);
+
+            if (typeof argv.illustrated === "boolean") {
+                const resOptions = (arrRange(illusOptions.length)).concat(cancelVals);
+                const illRes = await askQuestionV2(`What sort of illustrations are they?\n\n${illusOptions.map((ill, ix) => `[${ix}] ${ill}`).join("\n")}`, resOptions);
+                if (Number.isInteger(parseInt(illRes)) && illusOptions[illRes]) {
+                    bookInfoArr.push(`ILLUS=${illusOptions[illRes]}`);
+                }
+            } else if (Number.isInteger(parseInt(argv.illustrated)) && illusOptions[argv.illustrated]) {
+                bookInfoArr.push(`ILLUS=${illusOptions[argv.illustrated]}`);
             }
         }
 
