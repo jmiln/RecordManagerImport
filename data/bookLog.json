@@ -13976,27 +13976,6 @@
         ]
     },
     {
-        "isbn": "9780593318171",
-        "title": "Klara And The Sun",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kazuo Ishiguro"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Alfred A. Knopf"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250249258",
         "title": "Lost Village",
         "subtitle": "A Novel",
@@ -21751,6 +21730,300 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593318171",
+        "title": "Klara And The Sun",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kazuo Ishiguro"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307455796",
+        "title": "Buried Giant",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kazuo Ishiguro"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062386212",
+        "title": "Racing The Devil",
+        "subtitle": "An Inspector Ian Rutledge Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538751534",
+        "title": "Charade",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandra Brown"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250207104",
+        "title": "Hideaway",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401204587",
+        "title": "Identity Crisis (Dc Comics)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brad Meltzer"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401201913",
+        "title": "Superman",
+        "subtitle": "Red Son (Elseworlds)",
+        "authors": [
+            {
+                "name": "Mark Millar"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635572582",
+        "title": "Women Talking",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Miriam Toews"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062674975",
+        "title": "Our Darkest Night",
+        "subtitle": "A Novel Of Italy And The Second World War",
+        "authors": [
+            {
+                "name": "Jennifer Robson"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547572420",
+        "title": "Divine Invasion",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip K. Dick"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547572604",
+        "title": "Transmigration Of Timothy Archer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip K. Dick"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547572413",
+        "title": "Valis",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip K. Dick"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547572482",
+        "title": "Man In The High Castle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip K. Dick"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781407230931",
+        "title": "Minority Report",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip K. Dick"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Orion Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
             }
         ]
     }
