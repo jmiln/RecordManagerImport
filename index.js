@@ -83,7 +83,7 @@ if (!isbn) {
     return console.log("Missing ISBN.");
 } else if (isbn.length !== 10 && isbn.length !== 13) {
     rl.close();
-    return console.log(`"${isbn}" is not a valid ISBN. (Invalid isbn length)`);
+    return console.log(`"${isbn}" is not a valid ISBN. (${isbn.length} is an invalid isbn length)`);
 } else {
     isbn = isbn.toString().toUpperCase();
 }
@@ -1097,6 +1097,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     let title = titleIn
         .replace(/^the /i, "")          // Replace "the " at the beginning of titles
         .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
+        .replace(/^an /i, "")            // Replace "an " at the beginning of the titles
         .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
         .replace(/\s\s+/g, " ")         // Replace multiple spaces with singles
         .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
