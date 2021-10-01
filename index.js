@@ -549,20 +549,19 @@ async function getPub(pubName, inLocs) {
         return new Error("Missing pubName to search for.");
     }
     pubName = pubName.toLowerCase();
+    debugLog("[getPub pubName] Searching for: ", pubName);
 
     // Filter down the list to only include ones that have matching names
     let possiblePubs = pubMap.filter(pub => {
         let valid = false;
+        if (!pub.name && pub.pub) pub.name = pub.pub;
+
         if (Array.isArray(pub.name)) {
-            valid = pub.name.find(n => n.toLowerCase().includes(pubName));
+            valid = pub.name.find(n => n.toLowerCase() === pubName || n.toLowerCase().includes(pubName));
         } else {
-            if (!pub.name && pub.pub) pub.name = pub.pub;
             valid = pub.name.toLowerCase().includes(pubName);
         }
-        if (!valid) {
-            // if it can't find something with the full name, try with just the first word of the publisher name, since this is often unique enough to work
-            valid = pub.name.find(n => n.toLowerCase().includes(pubName.split(" ")[0]));
-        }
+
         return valid;
     });
 
@@ -578,6 +577,9 @@ async function getPub(pubName, inLocs) {
             });
             if (foundPub) return true;
         });
+        debugLog("[possiblePubs 2] ", {possiblePubs});
+    } else {
+        debugLog("[possiblePubs 1] ", {possiblePubs});
     }
 
     // Then, if it still cannot find a match, check through the bookLog file, to see if any previous book has had one that matches
@@ -597,6 +599,24 @@ async function getPub(pubName, inLocs) {
                 };
             });
         }
+        debugLog("[possiblePubs 3] ", {possiblePubs});
+    }
+
+    if (!possiblePubs.length) {
+        // if it can't find something with the full name, try with just the first word of the publisher name, since this is often unique enough to work
+        possiblePubs = pubMap.filter(pub => {
+            let valid = false;
+            if (!pub.name && pub.pub) pub.name = pub.pub;
+
+            if (Array.isArray(pub.name)) {
+                valid = pub.name.find(n => n.toLowerCase().includes(pubName.split(" ")[0]));
+            } else {
+                valid = pub.name.toLowerCase().includes(pubName.split(" ")[0]);
+            }
+
+            return valid;
+        });
+        debugLog("[possiblePubs 4] ", {possiblePubs});
     }
 
     let pubChoices = [];  // Fill it with objects with name/loc each
