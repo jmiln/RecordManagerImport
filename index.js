@@ -197,8 +197,11 @@ async function init() {
         if (jsonOut?.authors?.length) {
             let authStr = "";
 
-            // Make sure that there are no duplicate authors
-            const authSet = new Set(jsonOut.authors.map(a => a.name.toLowerCase()));
+            // Clean the names then make sure that there are no duplicates
+            const authSet = new Set(jsonOut.authors.map(auth => {
+                auth.name = auth.name.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+                return auth.name.toLowerCase();
+            }));
             const authArr = [...authSet];
 
             for (const auth of authArr) {
@@ -208,7 +211,6 @@ async function init() {
 
             // This solution via https://stackoverflow.com/a/37511463
             // Replace accented letters with normal ones
-            authStr = authStr.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
             bookInfoArr.push(`AUTHOR=${authStr}`);
 
             // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
