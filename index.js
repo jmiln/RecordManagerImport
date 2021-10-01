@@ -955,7 +955,7 @@ async function mergePubs(newPub) {
     // - Check if it should be matched with another publisher
     //    * Via similar names, or by asking and matching the requested one in
     const namesToFind = newPub.pub.toLowerCase().split(" ")
-        .filter(p => !["book", "books", "press"].includes(p))
+        .filter(p => !["book", "books", "press", "publishing", "publishers"].includes(p))
         .filter(p => p.replace(/[^a-zA-Z]/g, "").length);
     debugLog("[MergePub] namesToFind: ", namesToFind);
     const foundPubs = pubMap.filter(pub => {
