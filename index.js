@@ -559,6 +559,10 @@ async function getPub(pubName, inLocs) {
             if (!pub.name && pub.pub) pub.name = pub.pub;
             valid = pub.name.toLowerCase().includes(pubName);
         }
+        if (!valid) {
+            // if it can't find something with the full name, try with just the first word of the publisher name, since this is often unique enough to work
+            valid = pub.name.find(n => n.toLowerCase().includes(pubName.split(" ")[0]));
+        }
         return valid;
     });
 
