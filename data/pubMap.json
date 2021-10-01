@@ -207,6 +207,7 @@
     {
         "name": [
             "Bantam Books",
+            "Bantam Books / Random House",
             "Bantam Dell / Random House",
             "Bantam Spectra"
         ],
@@ -243,7 +244,8 @@
         "name": [
             "Berkley Books",
             "Berkley Books/Penguin Random",
-            "Berkley Prime Crime"
+            "Berkley Prime Crime",
+            "Berkley Sensation"
         ],
         "aliases": [
             "Berkley"
@@ -265,7 +267,8 @@
     },
     {
         "name": [
-            "Bloomsbury"
+            "Bloomsbury",
+            "Bloomsbury Children's Books"
         ],
         "aliases": [
             "Bloomsbury"
@@ -975,7 +978,8 @@
     },
     {
         "name": [
-            "Mariner/Houghton Mifflin Co."
+            "Mariner/Houghton Mifflin Co.",
+            "Versify / Houghton Mifflin"
         ],
         "aliases": [
             "Mariner"
@@ -1717,7 +1721,8 @@
     },
     {
         "name": [
-            "Warner Books"
+            "Warner Books",
+            "Warner Faith / Hachette"
         ],
         "aliases": [
             "Warner"
@@ -2107,6 +2112,129 @@
     {
         "name": [
             "Jimmy Patterson Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Northsouth Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Roaring Brook Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Spectre/ Hodder & Stoughton"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Brava / Kensington"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Bluewood Publishing"
+        ],
+        "locations": [
+            "Christchurch, N. Z."
+        ]
+    },
+    {
+        "name": [
+            "Three Rivers Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Mcbooks Press"
+        ],
+        "locations": [
+            "Ithaca, Ny."
+        ]
+    },
+    {
+        "name": [
+            "House Of Stratus"
+        ],
+        "locations": [
+            "New Yorkshire, Uk."
+        ]
+    },
+    {
+        "name": [
+            "Robinson"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Shiloh Run Press"
+        ],
+        "locations": [
+            "Uhrichsville, Oh."
+        ]
+    },
+    {
+        "name": [
+            "Barbour Publishing, Inc"
+        ],
+        "locations": [
+            "Uhrichsville, Oh."
+        ]
+    },
+    {
+        "name": [
+            "Summerside Press"
+        ],
+        "locations": [
+            "Bloomington, Mn."
+        ]
+    },
+    {
+        "name": [
+            "Thorndike Press"
+        ],
+        "locations": [
+            "Waterville, Me."
+        ]
+    },
+    {
+        "name": [
+            "Zaffre Publishing"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Imprint/Macmillan Publishing"
+        ],
+        "aliases": [
+            "Imprint / Macmillan Publishing"
         ],
         "locations": [
             "New York"

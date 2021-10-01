@@ -19,6 +19,10 @@ module.exports = {
     fw:  "Faint Wear.",
     lw:  "Light Wear.",
 
+    // General Wear Boards
+    fwb:  "Faint Wear to Boards.",
+    lwb:  "Light Wearto Boards.",
+
     lp:  "Large Print.",
 
     // Previous owner stuff
@@ -35,8 +39,12 @@ module.exports = {
     ton:  "Toning to page edges.",
 
     // Soiling to page edges
-    fsoi: "Faint soiling to page edges.",
-    lsoi: "Light soiling to page edges.",
+    fsoi: "faint soiling to page edges.",
+    lsoi: "light soiling to page edges.",
+
+    // Soiling to boards
+    fsoib: "faint soiling to boards.",
+    lsoib: "light soiling to boards.",
 
     // Board damage
     fewb: "Faint Edgewear to Boards.",

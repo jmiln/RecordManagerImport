@@ -522,27 +522,6 @@
         ]
     },
     {
-        "isbn": "9780735216730",
-        "title": "Deacon King Kong",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "James McBride"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0143034901",
         "title": "Shadow of the Wind",
         "subtitle": "",
@@ -1848,27 +1827,6 @@
         "publishers": [
             {
                 "name": "Bantam Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781476738024",
-        "title": "Man Called Ove",
-        "subtitle": "a novel",
-        "authors": [
-            {
-                "name": "Fredrik Backman"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Washington Square Press"
             }
         ],
         "publish_places": [
@@ -13955,27 +13913,6 @@
         ]
     },
     {
-        "isbn": "9780525657606",
-        "title": "Hamnet",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Maggie O'farrell"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Alfred A. Knopf"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250249258",
         "title": "Lost Village",
         "subtitle": "A Novel",
@@ -14291,27 +14228,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781728234526",
-        "title": "Death In Daylesford",
-        "subtitle": "The NEW Phryne Fisher Mystery",
-        "authors": [
-            {
-                "name": "Kerry Greenwood"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Poisoned Pen Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
             }
         ]
     },
@@ -22024,6 +21940,3368 @@
         "publish_places": [
             {
                 "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399564512",
+        "title": "Time's Convert",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah E. Harkness"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643857381",
+        "title": "Cajun Kiss Of Death",
+        "subtitle": "A Cajun Country Mystery",
+        "authors": [
+            {
+                "name": "Ellen Byron"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063078901",
+        "title": "Duke And I [Tv Tie-In]",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julia Quinn"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312681951",
+        "title": "Paradise City",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Archer Mayor"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399553325",
+        "title": "Mia Moves Out",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Miranda Paul"
+            },
+            {
+                "name": "Paige Keiser"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683690696",
+        "title": "Buffy The Vampire Slayer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joss Whedon",
+                "contribution": "Based on the series by"
+            },
+            {
+                "name": "Kim Smith",
+                "contribution": "illustrated by"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Quirk Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062404534",
+        "title": "Shakespeare Retold",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edith Nesbit"
+            },
+            {
+                "name": "Antonio Javier Caparo"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781536201734",
+        "title": "Day War Came",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicola Davies"
+            },
+            {
+                "name": "Rebecca Cobb",
+                "contribution": "illustrated by"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780735842625",
+        "title": "Armstrong",
+        "subtitle": "He Adventurous Journey Of A Mouse To The Moon",
+        "authors": [
+            {
+                "name": "Torben Kuhlmann"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Northsouth Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735843226",
+        "title": "Edison",
+        "subtitle": "The Mystery Of The Missing Mouse Treasure",
+        "authors": [
+            {
+                "name": "Torben Kuhlmann"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Northsouth Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008183318",
+        "title": "Mog Time",
+        "subtitle": "Six Stories About Mog The Forgetful Cat",
+        "authors": [
+            {
+                "name": "Judith Kerr"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781536209167",
+        "title": "Anxious Charlie To The Rescue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terry Milne"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9781681191218",
+        "title": "Crafty Llama",
+        "subtitle": "A story about crafting, friendship, and the very best gifts",
+        "authors": [
+            {
+                "name": "Mike Kerr"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Bloomsbury Children's Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781626726826",
+        "title": "After The Fall",
+        "subtitle": "How Humpty Dumpty Got Back Up Again",
+        "authors": [
+            {
+                "name": "Dan Santat"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Roaring Brook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781324005629",
+        "title": "Actress",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Enright"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062667632",
+        "title": "Leave The World Behind",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rumaan Alam"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525657606",
+        "title": "Hamnet",
+        "subtitle": "A Novel Of The Plague",
+        "authors": [
+            {
+                "name": "Maggie O'farrell"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781473617230",
+        "title": "Britt-Marie Was Here",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Spectre/ Hodder & Stoughton"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982155841",
+        "title": "I'm Thinking Of Ending Things",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Iain Reid"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062645111",
+        "title": "Erotic Stories For Punjabi Widows",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Balli Kaur Jaswal"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635575811",
+        "title": "10 Minutes 38 Seconds In This Strange World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elif Shafak"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250122742",
+        "title": "Crow Trap",
+        "subtitle": "The First Vera Stanhope Mystery",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101984819",
+        "title": "Operator Down",
+        "subtitle": "A Pike Logan Thriller",
+        "authors": [
+            {
+                "name": "Brad Taylor"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525953111",
+        "title": "Widow's Strike",
+        "subtitle": "A Pike Logan Thriller",
+        "authors": [
+            {
+                "name": "Brad Taylor"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982104122",
+        "title": "Black Ice",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374307066",
+        "title": "Boneless Mercies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "April Genevieve Tucholke"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Farrar, Straus And Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399593789",
+        "title": "Book Of Magic",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gardner R. Dozois"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061231032",
+        "title": "Heat Of The Night",
+        "subtitle": "Dream Guardians, Book 2",
+        "authors": [
+            {
+                "name": "Sylvia Day"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758214454",
+        "title": "Smart And Sexy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jill Shalvis"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Brava / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425217191",
+        "title": "Trouble With Paradise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jill Shalvis"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Berkley Sensation"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451227003",
+        "title": "Passionate Pleasures",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451233394",
+        "title": "Guilty Pleasures",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345293568",
+        "title": "Beloved",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "1983",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1575667371",
+        "title": "Just Beyond Tomorrow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Brava / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345385993",
+        "title": "Hellion",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425267066",
+        "title": "Fever",
+        "subtitle": "Book Two Of The Breathless Trilogy",
+        "authors": [
+            {
+                "name": "Maya Banks"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425267042",
+        "title": "Rush",
+        "subtitle": "Book One Of The Breathless Trilogy",
+        "authors": [
+            {
+                "name": "Maya Banks"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "045121692X",
+        "title": "Last Heiress",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0451212991",
+        "title": "Philippa",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1575665255",
+        "title": "Besieged",
+        "subtitle": "Skye's Legacy",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345385985",
+        "title": "Love Slave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1575664321",
+        "title": "Bedazzled",
+        "subtitle": "Skye's Legacy",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1575666405",
+        "title": "Intrigued",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bertrice Small"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758211873",
+        "title": "Extreme Danger",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Shannon Mckenna"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Brava / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758211897",
+        "title": "Ultimate Weapon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Shannon Mckenna"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Brava / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780373622436",
+        "title": "Afterburn",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sylvia Day"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Harlequin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538764633",
+        "title": "Pachinko",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Min Jin Lee"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781783294244",
+        "title": "Ghosts Of War",
+        "subtitle": "Virtues Of War, Book Two",
+        "authors": [
+            {
+                "name": "Bennett R. Coles"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781909149038",
+        "title": "Legions Of Orion",
+        "subtitle": "Star Crusades Nexus",
+        "authors": [
+            {
+                "name": "Michael G. Thomas"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Swordworkds Books"
+            }
+        ]
+    },
+    {
+        "isbn": "9781927134948",
+        "title": "Black Wolf's Return",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Strawn"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Bluewood Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Christchurch, N. Z."
+            }
+        ]
+    },
+    {
+        "isbn": "9781501155680",
+        "title": "Wolves Of Winter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tyrell Johnson"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538713785",
+        "title": "Ambush",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "James O. Born"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501154652",
+        "title": "Then She Was Gone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Jewell"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593087916",
+        "title": "Marauder",
+        "subtitle": "A Novel Of The Oregon Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Boyd Morrison"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593327869",
+        "title": "Fast Ice",
+        "subtitle": "A Novel From The Numa Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Graham Brown"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439165195",
+        "title": "Whisperers A Charlie Parker Thriller",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Connolly"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400049622",
+        "title": "Zombie Survival Guide",
+        "subtitle": "Complete Protection From The Living Dead",
+        "authors": [
+            {
+                "name": "Max Brooks"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Three Rivers Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250103628",
+        "title": "Fine Retribution",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250030092",
+        "title": "Hard, Cruel Shore",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312315473",
+        "title": "Captain's Vengeance",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312286880",
+        "title": "Havoc's Sword",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312551858",
+        "title": "Invasion Year",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312348069",
+        "title": "Baltic Gambit",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312348052",
+        "title": "Troubled Waters",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250103642",
+        "title": "An Onshore Storm",
+        "subtitle": "Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250103666",
+        "title": "Much Ado About Lewrie",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1590130340",
+        "title": "Jester's Fortune",
+        "subtitle": "An Alan Lewrie Naval Adventure Series, No. 8",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1590130219",
+        "title": "French Admiral",
+        "subtitle": "An Alan Lewrie Naval Adventure Series, No. 2",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250081063",
+        "title": "Kings And Emperors",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250042521",
+        "title": "Hostile Shores",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0935526765",
+        "title": "Ramage",
+        "subtitle": "The Lord Ramage Novels, No. 1",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0935526781",
+        "title": "Ramage & The Freebooters",
+        "subtitle": "The Lord Ramage Novels, No. 3",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0935526803",
+        "title": "Ramage's Prize",
+        "subtitle": "The Lord Ramage Novels, No. 5",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0935526811",
+        "title": "Ramage & The Guillotine",
+        "subtitle": "The Lord Ramage Novels, No. 6",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0935526897",
+        "title": "Ramage's Diamond",
+        "subtitle": "The Lord Ramage Novels, No. 7",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0935526900",
+        "title": "Ramage's Mutiny",
+        "subtitle": "The Lord Ramage Novels, No. 8",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0935526919",
+        "title": "Ramage & The Rebels",
+        "subtitle": "The Lord Ramage Novels, No. 9",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1590130073",
+        "title": "Ramage Touch",
+        "subtitle": "The Lord Ramage Novels, No. 10",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "159013009X",
+        "title": "Ramage & The Renegades",
+        "subtitle": "The Lord Ramage Novels, No. 12",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1590130103",
+        "title": "Ramage's Devil",
+        "subtitle": "The Lord Ramage Novels, No. 13",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1590130111",
+        "title": "Ramage's Trial",
+        "subtitle": "The Lord Ramage Novels, No. 14",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "159013012X",
+        "title": "Ramage's Challenge",
+        "subtitle": "The Lord Ramage Novels, No. 15",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1590130227",
+        "title": "Ramage At Trafalgar",
+        "subtitle": "The Lord Ramage Novels, No. 16",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1590130235",
+        "title": "Ramage & The Saracens",
+        "subtitle": "The Lord Ramage Novels, No. 17",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1590130243",
+        "title": "Ramage & The Dido",
+        "subtitle": "The Lord Ramage Novels, No. 18",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0755104390",
+        "title": "Galleon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "House Of Stratus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New Yorkshire, Uk."
+            }
+        ]
+    },
+    {
+        "isbn": "0755104374",
+        "title": "Buccaneer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "House Of Stratus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0755104404",
+        "title": "Corsair",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "House Of Stratus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0755104412",
+        "title": "Convoy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "House Of Stratus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0755104420",
+        "title": "Decoy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "House Of Stratus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0755104382",
+        "title": "Admiral",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dudley Pope"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "House Of Stratus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1841190608",
+        "title": "Mammoth Book Of Men O'war",
+        "subtitle": "Stories from the glory days of sail",
+        "authors": [
+            {
+                "name": "Michael Ashley"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Robinson"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735216730",
+        "title": "Deacon King Kong",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Mcbride"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464206719",
+        "title": "Mystery In The Channel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Freeman Wills Crofts"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781616953676",
+        "title": "Dead Lions",
+        "subtitle": "A Slough House Novel",
+        "authors": [
+            {
+                "name": "Mick Herron"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358274247",
+        "title": "Mrs. Mohr Goes Missing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maryla Szymiczkowa"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781328974648",
+        "title": "Stone Circle",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Harcourt"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "0312268858",
+        "title": "King's Captain",
+        "subtitle": "An Alan Lewrie Naval Adventure",
+        "authors": [
+            {
+                "name": "Dewey Lambdin"
+            }
+        ],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476738024",
+        "title": "Man Called Ove",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338262186",
+        "title": "Tales Of Beedle The Bard",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            },
+            {
+                "name": "Lisbeth Zwerger",
+                "contribution": "Illustrated By"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781328780966",
+        "title": "Undefeated",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kwame Alexander"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Versify / Houghton Mifflin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735230378",
+        "title": "Adrian Simcox Does Not Have A Horse",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marcy Campbell"
+            },
+            {
+                "name": "Corinna Luyken",
+                "contribution": "Illustrated By"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525514084",
+        "title": "Turning Pages",
+        "subtitle": "My Life Story",
+        "authors": [
+            {
+                "name": "Sonia Sotomayor"
+            },
+            {
+                "name": "Lulu Delacre",
+                "contribution": "Illustrated By"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Philomel Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525514329",
+        "title": "Don't Let Them Disappear",
+        "subtitle": "12 endangered species across the globe",
+        "authors": [
+            {
+                "name": "Chelsea Clinton"
+            },
+            {
+                "name": "Gianna Marino",
+                "contribution": "Illustrated By"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Philomel Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781510737389",
+        "title": "Short News",
+        "subtitle": "Making News Fun One Brick At A Time",
+        "authors": [
+            {
+                "name": "Sean Romero"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Sky Pony Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250765499",
+        "title": "Bitterroots",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764212468",
+        "title": "Love Letters",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764206016",
+        "title": "Mercy",
+        "subtitle": "The Rose Trilogy, Book 3",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764205712",
+        "title": "Secret",
+        "subtitle": "Seasons Of Grace, Book 1",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764206009",
+        "title": "Judgment",
+        "subtitle": "The Rose Trilogy, Book 2",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764212482",
+        "title": "Atonement",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764207846",
+        "title": "Courting Miss Amsel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kim Vogel Sawyer"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764205088",
+        "title": "Fields Of Grace",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kim Vogel Sawyer"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781630588847",
+        "title": "Half-Stitched Amish Quilting Club Trilogy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Shiloh Run Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781634099235",
+        "title": "Farmers' Market Mishap",
+        "subtitle": "A Sequel To The Lopsided Christmas Cake",
+        "authors": [
+            {
+                "name": "Wanda E Brunstetter"
+            },
+            {
+                "name": "Jean Brunstetter"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Shiloh Run Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781602600607",
+        "title": "Cousin's Promise",
+        "subtitle": "Indiana Cousins, Book 1",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Barbour Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781616260880",
+        "title": "Decision",
+        "subtitle": "Prairie State Friends Series, Book 1",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Shiloh Run Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781597892728",
+        "title": "Sister's Test",
+        "subtitle": "Holmes County Series, Book 2",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Barbour Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781597892995",
+        "title": "Looking For A Miracle",
+        "subtitle": "Brides Of Lancaster County, Book 2 - A Novel",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Barbour Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781602600638",
+        "title": "Lydia's Charm",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Barbour Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781602600614",
+        "title": "Cousin's Prayer",
+        "subtitle": "Indiana Cousins, Book 2",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Barbour Publishing, Inc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781624167119",
+        "title": "Restoration",
+        "subtitle": "Prairie State Friends, Book 3",
+        "authors": [
+            {
+                "name": "Wanda E Brunstetter"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Shiloh Run Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781602606838",
+        "title": "Healing",
+        "subtitle": "Kentucky Brothers",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Barbour Publishing, Inc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9780800727000",
+        "title": "All She Left Behind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764212314",
+        "title": "Where Courage Calls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Janette Oke"
+            },
+            {
+                "name": "Laurel Oke Logan"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780718085940",
+        "title": "You'll Think Of Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robin Lee Hatcher"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "0842356223",
+        "title": "Redemption",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gary Smalley"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Wheaton, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "0764225103",
+        "title": "Sanctuary",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780718091156",
+        "title": "Amish Sweethearts: Four Amish Novellas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Clipston"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Zondervan Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781935416197",
+        "title": "Love Finds You In North Pole Alaska",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Loree Lough"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Summerside Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Bloomington, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0060006323",
+        "title": "Just Shy Of Harmony",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip Gulley"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446579629",
+        "title": "Red Gloves Collection",
+        "subtitle": "Four Novels",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Warner Faith / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060006293",
+        "title": "Home To Harmony",
+        "subtitle": "The Harmony Series, Book 1",
+        "authors": [
+            {
+                "name": "Philip Gulley"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593329825",
+        "title": "Paper Palace",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Miranda Cowley Heller"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781410416452",
+        "title": "Purity In Death",
+        "subtitle": "- Large Print Edition",
+        "authors": [
+            {
+                "name": "J. D. Robb"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Thorndike Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Detroit, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781728234526",
+        "title": "Death In Daylesford",
+        "subtitle": "The New Phryne Fisher Mystery",
+        "authors": [
+            {
+                "name": "Kerry Greenwood"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780358446279",
+        "title": "Auntie Poldi And The Lost Madonna",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mario Giordano"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250252692",
+        "title": "Blacktop Wasteland",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "S. A. Cosby"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063070721",
+        "title": "Neverwhere",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501176876",
+        "title": "New Iberia Blues",
+        "subtitle": "A Dave Robicheaux Novel",
+        "authors": [
+            {
+                "name": "James Lee Burke"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735218895",
+        "title": "Metropolis",
+        "subtitle": "A Bernie Gunther Novel",
+        "authors": [
+            {
+                "name": "Philip Kerr"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616959630",
+        "title": "When Hell Struck Twelve",
+        "subtitle": "A Billy Boyle World War Ii Mystery",
+        "authors": [
+            {
+                "name": "James R. Benn"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982104030",
+        "title": "Backlash",
+        "subtitle": "A Thiller",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525522508",
+        "title": "Land Of Wolves",
+        "subtitle": "A Walt Longmire Mystery",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525535683",
+        "title": "Dangerous Man",
+        "subtitle": "An Elvis Cole And Joe Pike Novel",
+        "authors": [
+            {
+                "name": "Robert Crais"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525536611",
+        "title": "Bloody Genius",
+        "subtitle": "A Virgil Flowers Novel",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593098912",
+        "title": "One Minute Out",
+        "subtitle": "A Gray Man Novel",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399160752",
+        "title": "Breaking Point",
+        "subtitle": "A Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781499861297",
+        "title": "Courtney's War",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wilbur A. Smith"
+            },
+            {
+                "name": "David Churchill"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Zaffre Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250142283",
+        "title": "King Of Scars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Imprint / Macmillan Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250142306",
+        "title": "Rule Of Wolves",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Imprint/macmillan Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781368023801",
+        "title": "Incendiary",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Zoraida Cordova"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Hyperion / Disney"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780759556034",
+        "title": "Illusionary",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Zoraida Cordova"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250307811",
+        "title": "All The Tides Of Fate",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adalyn Grace"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Imprint/macmillan Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250307781",
+        "title": "All The Stars And Teeth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adalyn Grace"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Imprint/macmillan Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593300916",
+        "title": "Six Crimson Cranes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Lim"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534446007",
+        "title": "Yolk",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary H. K. Choi"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250830630",
+        "title": "Ones We're Meant To Find",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joan He"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Roaring Brook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
