@@ -1480,27 +1480,6 @@
         ]
     },
     {
-        "isbn": "0375702709",
-        "title": "lesson before dying",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ernest J. Gaines"
-            }
-        ],
-        "publish_date": "1993",
-        "publishers": [
-            {
-                "name": "Vintage Contemporaries"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0965058823",
         "title": "patchwork planet",
         "subtitle": "- book club edition",
@@ -2819,7 +2798,7 @@
     {
         "isbn": "9780316422772",
         "title": "Lethal White",
-        "subtitle": "",
+        "subtitle": "A Cormoran Strike Novel",
         "authors": [
             {
                 "name": "Robert Galbraith"
@@ -2839,8 +2818,8 @@
     },
     {
         "isbn": "9780316206891",
-        "title": "Silkworm (A Cormoran Strike Novel)",
-        "subtitle": "",
+        "title": "Silkworm",
+        "subtitle": "A Cormoran Strike Novel",
         "authors": [
             {
                 "name": "Robert Galbraith"
@@ -5031,10 +5010,10 @@
     {
         "isbn": "9780316498937",
         "title": "Troubled Blood",
-        "subtitle": "",
+        "subtitle": "A Cormoran Strike Novel",
         "authors": [
             {
-                "name": "J. K. Rowling"
+                "name": "Robert Galbraith"
             }
         ],
         "publish_date": "2020",
@@ -18535,30 +18514,6 @@
         ]
     },
     {
-        "isbn": "9780593331859",
-        "title": "Marauder",
-        "subtitle": "A Novel of the Oregon Files",
-        "authors": [
-            {
-                "name": "Clive Cussler"
-            },
-            {
-                "name": "Boyd Morrison"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250301703",
         "title": "Silent Patient",
         "subtitle": "",
@@ -24186,7 +24141,7 @@
     {
         "isbn": "9781250765499",
         "title": "Bitterroots",
-        "subtitle": "A Novel",
+        "subtitle": "A Cassie Dewell Novel",
         "authors": [
             {
                 "name": "C. J. Box"
@@ -24378,7 +24333,7 @@
         "subtitle": "A Sequel To The Lopsided Christmas Cake",
         "authors": [
             {
-                "name": "Wanda E Brunstetter"
+                "name": "Wanda E. Brunstetter"
             },
             {
                 "name": "Jean Brunstetter"
@@ -25297,6 +25252,310 @@
         "publishers": [
             {
                 "name": "Roaring Brook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780842356329",
+        "title": "Lineage Of Grace",
+        "subtitle": "Five Stories Of Unlikely Women Who Changed Eternity",
+        "authors": [
+            {
+                "name": "Francine Rivers"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781789096491",
+        "title": "Later",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Hard Case Crime / Titan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060558123",
+        "title": "American Gods",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593331859",
+        "title": "Marauder",
+        "subtitle": "A Novel Of The Oregon Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Boyd Morrison"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679753117",
+        "title": "Dead Lagoon",
+        "subtitle": "An Aurelio Zen Mystery",
+        "authors": [
+            {
+                "name": "Michael Dibdin"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455516001",
+        "title": "Unlucky 13",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399593543",
+        "title": "Blue Moon",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250051059",
+        "title": "Bitterroots",
+        "subtitle": "A Cassie Dewell Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312369736",
+        "title": "Prepared For Rage",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dana Stabenow"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451494344",
+        "title": "Girl Who Lived Twice",
+        "subtitle": "A Lisbeth Salander Novel",
+        "authors": [
+            {
+                "name": "David Lagercrantz"
+            },
+            {
+                "name": "George Goulding",
+                "contribution": "translated by"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451475237",
+        "title": "Guests On South Battery",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen White"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375702709",
+        "title": "Lesson Before Dying",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest J. Gaines"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375724381",
+        "title": "Tie That Binds",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kent Haruf"
+            }
+        ],
+        "publish_date": "1984",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743296441",
+        "title": "House Rules",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
             }
         ],
         "publish_places": [
