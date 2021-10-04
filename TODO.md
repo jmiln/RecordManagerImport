@@ -7,6 +7,11 @@
 
 ## Stuff that probably needs doing/ should be done
 
+- Maybe shouldn't put large print/ book club into the subtitle field
+
+- Stick ` - signed first printing` at the end of the title for books that are signed
+  firsts, general inscriptions ok, just no personalization
+
 - Double check the location finder for new pubs... Got this once:
 
     [0] toronto, ontario
