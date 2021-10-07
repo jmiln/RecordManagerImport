@@ -6793,27 +6793,6 @@
         ]
     },
     {
-        "isbn": "9780735219106",
-        "title": "Where The Crawdads Sing",
-        "subtitle": "a novel",
-        "authors": [
-            {
-                "name": "Delia Owens"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780593102145",
         "title": "Invisible Woman",
         "subtitle": "a novel",
@@ -25556,6 +25535,678 @@
         "publishers": [
             {
                 "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1591451132",
+        "title": "Yellow Rose",
+        "subtitle": "Lone Star Legacy, Book 2",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Integrity Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "1591451140",
+        "title": "Eyes Of Texas",
+        "subtitle": "Lone Star Legacy, Book 3",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Integrity Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "1591451124",
+        "title": "Deep In The Heart",
+        "subtitle": "Lone Star Legacy, Book 1",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Integrity Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781455581511",
+        "title": "Forgotten Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sara Blaedel"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307388780",
+        "title": "Not In The Flesh",
+        "subtitle": "A Wexford Novel",
+        "authors": [
+            {
+                "name": "Ruth Rendell"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312307764",
+        "title": "As Cool As I Am",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pete Fromm"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307451859",
+        "title": "Last Secret",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Mcgarry Morris"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Three Rivers Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062473554",
+        "title": "Keeper Of Lost Things",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ruth Hogan"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143121701",
+        "title": "Invention Of Wings",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sue Monk Kidd"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735219106",
+        "title": "Where The Crawdads Sing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Delia Owens"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501193491",
+        "title": "Deal Of A Lifetime",
+        "subtitle": "A Novella",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501160486",
+        "title": "And Every Morning The Way Home Gets Longer And Longer",
+        "subtitle": "A Novella",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616954079",
+        "title": "Maisie Dobbs",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496730268",
+        "title": "Pieces We Keep",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristina Mcmorris"
+            }
+        ],
+        "publish_date": "1920",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594632389",
+        "title": "And The Mountains Echoed",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Khaled Hosseini"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643859293",
+        "title": "People We Meet On Vacation",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Emily Henry"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524798659",
+        "title": "Malibu Rising",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Taylor Jenkins Reid"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982171292",
+        "title": "People We Keep",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Allison Larkin"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781639100316",
+        "title": "Portrait Of A Scotsman",
+        "subtitle": "A League Of Extraordinary Women Novel, Book Three",
+        "authors": [
+            {
+                "name": "Evie Dunmore"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524760786",
+        "title": "Heart's Invisible Furies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Boyne"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Hogarth"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250766564",
+        "title": "Firekeeper's Daughter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Angeline Boulley"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982694654",
+        "title": "56 Days",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Catherine Ryan Howard"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Blackstone Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ashland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781984880550",
+        "title": "Not A Happy Family",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Shari Lapena"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593101131",
+        "title": "Hunting Wives",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "May Cobb"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250266101",
+        "title": "Rock Paper Scissors",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alice Feeney"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250304452",
+        "title": "Maidens",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Michaelides"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780670026456",
+        "title": "Serpent's Tooth",
+        "subtitle": "A Walt Longmire Mystery",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593083222",
+        "title": "Hit List",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316225946",
+        "title": "Wrong Side Of Goodbye",
+        "subtitle": "A Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525563242",
+        "title": "Washington Black",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Esi Edugyan"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062041289",
+        "title": "Sisters Brothers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick Dewitt"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765386694",
+        "title": "Dark Forest",
+        "subtitle": "The Three-Body Trilogy, Book 2",
+        "authors": [
+            {
+                "name": "Cixin Liu"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
             }
         ],
         "publish_places": [

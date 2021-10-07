@@ -2239,5 +2239,21 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Integrity Publishers"
+        ],
+        "locations": [
+            "Nashville, Tn."
+        ]
+    },
+    {
+        "name": [
+            "Blackstone Publishing"
+        ],
+        "locations": [
+            "Ashland, Or."
+        ]
     }
 ]
