@@ -1528,7 +1528,8 @@
     },
     {
         "name": [
-            "Square Fish/Henry Holt & Co."
+            "Square Fish/Henry Holt & Co.",
+            "Square Fish / Macmillan"
         ],
         "aliases": [
             "Square Fish"
@@ -2254,6 +2255,30 @@
         ],
         "locations": [
             "Ashland, Or."
+        ]
+    },
+    {
+        "name": [
+            "Swoon Reads"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Walker Books Ltd."
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Poppy/ Little, Brown And Co."
+        ],
+        "locations": [
+            "New York"
         ]
     }
 ]

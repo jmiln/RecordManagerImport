@@ -1,6 +1,8 @@
 module.exports = {
     // Something special
     sig: "Signed by author.",
+    sigtip: "Signed by author on tipped-in page.",
+    sigbp: "Signed Bookplate inside.",
     ins: "Inscribed to prev. owner.",
     sigins: "Inscribed & Signed by author.",
     siginsp: "Inscribed to Prev. Owner & Signed by author.",
@@ -32,11 +34,16 @@ module.exports = {
     pona:  "Prev. Owner's name inside.",
     pono:  "Prev. Owner note inside.",
     pobp:  "Prev. Owner bookplate inside.",
+    post:  "Prev. Owner stamp inside.",
 
     // Toning
     fton: "Faint toning to page edges.",
     lton: "Light toning to page edges.",
     ton:  "Toning to page edges.",
+
+    // Foxing to page edges
+    ffox: "faint foxing to page edges.",
+    lfox: "light foxing to page edges.",
 
     // Soiling to page edges
     fsoi: "faint soiling to page edges.",

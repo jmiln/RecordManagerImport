@@ -4903,27 +4903,6 @@
         ]
     },
     {
-        "isbn": "9781439153963",
-        "title": "Northwest Angle",
-        "subtitle": "a novel",
-        "authors": [
-            {
-                "name": "William Kent Krueger"
-            }
-        ],
-        "publish_date": "2011",
-        "publishers": [
-            {
-                "name": "Atria Books / S&S"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781416556770",
         "title": "Heaven's Keep",
         "subtitle": "a novel",
@@ -26207,6 +26186,1236 @@
         "publishers": [
             {
                 "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0525947299",
+        "title": "No Second Chance",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062237194",
+        "title": "Unwilling Accomplice",
+        "subtitle": "A Bess Crawford Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393312410",
+        "title": "Canary Trainer",
+        "subtitle": "From The Memoirs Of John H. Watson",
+        "authors": [
+            {
+                "name": "Nicholas Meyer"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439153963",
+        "title": "Northwest Angle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250174871",
+        "title": "Carols And Chaos",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cindy Anstey"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Swoon Reads"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781419727221",
+        "title": "Graces",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Laure Eve"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Amulet / Abrams"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250294555",
+        "title": "Ink, Iron, And Glass",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gwendolyn Clare"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316394079",
+        "title": "Defy The Worlds",
+        "subtitle": "Defy The Stars, Book 2",
+        "authors": [
+            {
+                "name": "Claudia Gray"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781406360585",
+        "title": "Bane Chronicles",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            },
+            {
+                "name": "Sarah Rees Brennan"
+            },
+            {
+                "name": "Maureen Johnson"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Walker Books Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481455923",
+        "title": "City Of Bones",
+        "subtitle": "The Mortal Instruments, Book One - A Shadowhunters Novel",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781406385380",
+        "title": "Ghosts Of The Shadow Market",
+        "subtitle": "Shadowhunters Short Stories",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            },
+            {
+                "name": "Sarah Rees Brennan"
+            },
+            {
+                "name": "Maureen Johnson"
+            },
+            {
+                "name": "Kelly Link"
+            },
+            {
+                "name": "Robin Wasserman"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Walker Books Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781406373585",
+        "title": "Tales From The Shadowhunter Academy",
+        "subtitle": "Short Stories",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            },
+            {
+                "name": "Sarah Rees Brennan"
+            },
+            {
+                "name": "Maureen Johnson"
+            },
+            {
+                "name": "Robin Wasserman"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Walker Books Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781634222129",
+        "title": "Blue Tide",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenna-Lynne Duncan"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Clean Teen Publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250233387",
+        "title": "Mist, Metal, And Ash",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gwendolyn Clare"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062869913",
+        "title": "Miss Meteor",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tehlor Kay Mejia"
+            },
+            {
+                "name": "Anna-Marie Mclemore"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316260060",
+        "title": "Tragic Kind Of Wonderful",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Eric Lindstrom"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Poppy/ Little, Brown And Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781547608157",
+        "title": "Vow So Bold And Deadly",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brigid Kemmerer"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316428460",
+        "title": "Kingdom Of The Wicked",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kerri Maniscalco"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Jimmy Patterson Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534457690",
+        "title": "These Violent Delights",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Chloe Gong"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250144577",
+        "title": "Silvered Serpents",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Roshani Chokshi"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250144546",
+        "title": "Gilded Wolves",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Roshani Chokshi"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781419739828",
+        "title": "Raybearer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jordan Ifueko"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Amulet / Abrams"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358098232",
+        "title": "Ravens",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kass Morgan"
+            },
+            {
+                "name": "Danielle Paige"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Harcourt"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524720926",
+        "title": "Aurora Burning",
+        "subtitle": "The Aurora Cycle, Book 2",
+        "authors": [
+            {
+                "name": "Amie Kaufman"
+            },
+            {
+                "name": "Jay Kristoff"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524720964",
+        "title": "Aurora Rising",
+        "subtitle": "Aurora Cycle, Book 1",
+        "authors": [
+            {
+                "name": "Amie Kaufman"
+            },
+            {
+                "name": "Jay Kristoff"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250224736",
+        "title": "Eventide",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Goodman"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063091078",
+        "title": "Master Of One",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jaida Jones"
+            },
+            {
+                "name": "Dani Bennett"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525580461",
+        "title": "Immoral Code",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lillian Clark"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524739621",
+        "title": "Alex & Eliza",
+        "subtitle": "The Alex & Eliza Trilogy, Book One",
+        "authors": [
+            {
+                "name": "Melissa De La Cruz"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524739652",
+        "title": "Love & War",
+        "subtitle": "An Alex & Eliza Story",
+        "authors": [
+            {
+                "name": "Melissa De La Cruz"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525515883",
+        "title": "All For One",
+        "subtitle": "The Alex & Eliza Trilogy, Book Three",
+        "authors": [
+            {
+                "name": "Melissa De La Cruz"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670032379",
+        "title": "Secret Life Of Bees",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sue Monk Kidd"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307475008",
+        "title": "Nemesis",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip Roth"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0156189216",
+        "title": "Collected Stories Of Eudora Welty",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Eudora Welty"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Orlando, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982123949",
+        "title": "In A Holidaze",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christina Lauren"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492664222",
+        "title": "This Could Change Everything",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jill Mansell"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781496735515",
+        "title": "Vineyard Summer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jean Stone"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758209412",
+        "title": "Perfect Kisses",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susan Johnson"
+            },
+            {
+                "name": "Sylvia Day"
+            },
+            {
+                "name": "Noelle Mack"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Brava / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451627299",
+        "title": "11/22/63",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316556323",
+        "title": "Circe",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Madeline Miller"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250257871",
+        "title": "Independent Bones",
+        "subtitle": "A Sarah Booth Delaney Mystery",
+        "authors": [
+            {
+                "name": "Carolyn Haines"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250257925",
+        "title": "Garland Of Bones",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carolyn Haines"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250257864",
+        "title": "Devil's Bones",
+        "subtitle": "A Sarah Booth Delaney Mystery",
+        "authors": [
+            {
+                "name": "Carolyn Haines"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780983735960",
+        "title": "No Substitute For Money",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carolyn J. Rose"
+            }
+        ],
+        "publish_date": "2013"
+    },
+    {
+        "isbn": "9781250060952",
+        "title": "Dead Water",
+        "subtitle": "A Shetland Mystery",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062085504",
+        "title": "Shatter Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tahereh Mafi"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616203726",
+        "title": "Walls Around Us",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nova Ren Suma"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780803741737",
+        "title": "Slasher Girls And Monster Boys",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "April Genevieve Tucholke"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525426165",
+        "title": "Inquisitor's Tale: Or, The Three Magical Children And Their Holy Dog",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adam Gidwitz"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416953487",
+        "title": "Copper Sun",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sharon M. Draper"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Atheneum Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780310250678",
+        "title": "Vicious Cycle",
+        "subtitle": "An Intervention Novel",
+        "authors": [
+            {
+                "name": "Terri Blackstock"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Zondervan Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780743298087",
+        "title": "Once Upon A River",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diane Setterfield"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812983203",
+        "title": "Summer Before The War",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Helen Simonson"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501140211",
+        "title": "House Of Names",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colm Toibin"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670032425",
+        "title": "Adventures Of Augie March",
+        "subtitle": "A Novel - 50th Anniversary Edition",
+        "authors": [
+            {
+                "name": "Saul Bellow"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553802135",
+        "title": "May There Be A Road",
+        "subtitle": "A Collection Of Classic Adventure Tales",
+        "authors": [
+            {
+                "name": "Louis L'amour"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553106481",
+        "title": "End Of The Drive",
+        "subtitle": "A Collection of Frontier Stories",
+        "authors": [
+            {
+                "name": "Louis L'amour"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Bantam Books"
             }
         ],
         "publish_places": [
