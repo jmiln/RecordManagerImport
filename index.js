@@ -1123,7 +1123,8 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     let title = titleIn
         .replace(/^the /i, "")          // Replace "the " at the beginning of titles
         .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
-        .replace(/^an /i, "")            // Replace "an " at the beginning of the titles
+        .replace(/^an /i, "")           // Replace "an " at the beginning of the titles
+        .replace("½", "1/2")            // Replace the ½ symbol with 1/2
         .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
         .replace(/\s\s+/g, " ")         // Replace multiple spaces with singles
         .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
