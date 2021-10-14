@@ -27423,5 +27423,512 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "0807083054",
+        "title": "Kindred",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Octavia E. Butler"
+            }
+        ],
+        "publish_date": "1988",
+        "publishers": [
+            {
+                "name": "Beacon Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062196576",
+        "title": "Busman's Honeymoon",
+        "subtitle": "A Lord Peter Wimsey Mystery",
+        "authors": [
+            {
+                "name": "Dorothy L. Sayers"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062196200",
+        "title": "Strong Poison",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dorothy L. Sayers"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062341655",
+        "title": "Murder Must Advertise",
+        "subtitle": "A Lord Peter Wimsey Mystery",
+        "authors": [
+            {
+                "name": "Dorothy L. Sayers"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780156658997",
+        "title": "Nine Tailors",
+        "subtitle": "A Lord Peter Wimsey Mystery",
+        "authors": [
+            {
+                "name": "Dorothy L. Sayers"
+            }
+        ],
+        "publish_date": "1962",
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Orlando, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062196538",
+        "title": "Gaudy Night: A Lord Peter Wimsey Mystery With Harriet Vane",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dorothy L. Sayers"
+            },
+            {
+                "name": "Ian Carmichael"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Bourbon Street Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385354288",
+        "title": "Girl In The Spider's Web",
+        "subtitle": "A Lisbeth Salander Novel",
+        "authors": [
+            {
+                "name": "David Lagercrantz"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670855030",
+        "title": "Insomnia",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "1994",
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250767769",
+        "title": "Library Of The Dead",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. L. Huchu"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451417527",
+        "title": "Forgotten Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Bell"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538751923",
+        "title": "Thick As Thieves",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandra Brown"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335080820",
+        "title": "Wrong Alibi",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christina Dodd"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harlequin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063018440",
+        "title": "Santa Monica",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cassidy Lucas"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062982650",
+        "title": "When No One Is Watching",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Alyssa Cole"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476789644",
+        "title": "Luckiest Girl Alive",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jessica Knoll"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492670124",
+        "title": "7 1/2 Deaths Of Evelyn Hardcastle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stuart Turton"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781442405967",
+        "title": "Remember Me - The Return - The Last Story",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christopher Pike"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250007216",
+        "title": "Scarlet",
+        "subtitle": "The Lunar Chronicles, Book Two",
+        "authors": [
+            {
+                "name": "Marissa Meyer"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312642983",
+        "title": "Winter",
+        "subtitle": "The Lunar Chronicles, Book Four",
+        "authors": [
+            {
+                "name": "Marissa Meyer"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Feiwel & Friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312641894",
+        "title": "Cinder",
+        "subtitle": "The Lunar Chronicles, Book One",
+        "authors": [
+            {
+                "name": "Marissa Meyer"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Feiwel & Friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312642976",
+        "title": "Cress",
+        "subtitle": "The Lunar Chronicles, Book Three",
+        "authors": [
+            {
+                "name": "Marissa Meyer"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Feiwel & Friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525423669",
+        "title": "Reached",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ally Condie"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525423652",
+        "title": "Crossed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ally Condie"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525423645",
+        "title": "Matched",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ally Condie"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

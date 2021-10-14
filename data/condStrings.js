@@ -64,6 +64,8 @@ module.exports = {
     // PB Wraps creased
     fwcr: "Front Wrap Creased.",
     rwcr: "Rear Wrap Creased.",
+    fpcr: "Front Page Creased.",
+    rpcr: "Rear Page Creased.",
 
     // DJ stuff
     fewd: "Faint Edgewear to DJ.",
