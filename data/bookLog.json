@@ -28077,5 +28077,910 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "0312424078",
+        "title": "Night Country",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stewart O'nan"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143128243",
+        "title": "West Of Sunset",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stewart O'nan"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062319296",
+        "title": "Where The Past Begins",
+        "subtitle": "A Writer's Memoir",
+        "authors": [
+            {
+                "name": "Amy Tan"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451693607",
+        "title": "Marriage Of Opposites",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alice Hoffman"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307387165",
+        "title": "Reservation Road",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Burnham Schwartz"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679735429",
+        "title": "Shiloh",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Shelby Foote"
+            }
+        ],
+        "publish_date": "1991",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0252063635",
+        "title": "Spoon River Anthology",
+        "subtitle": "An Annotated Edition",
+        "authors": [
+            {
+                "name": "Edgar Lee Masters"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "University Of Illinois Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Urbana, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593357750",
+        "title": "Cottage By The Sea",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1568582706",
+        "title": "Manchurian Candidate",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Condon"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Thunder's Mouth Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250252708",
+        "title": "Razorblade Tears",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "S. A. Cosby"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250095879",
+        "title": "Last Don Standing",
+        "subtitle": "The Secret Life Of Mob Boss Ralph Natale",
+        "authors": [
+            {
+                "name": "Larry Mcshane"
+            },
+            {
+                "name": "Dan Pearson"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345540119",
+        "title": "Iceman",
+        "subtitle": "The True Story Of A Cold-Blooded Killer",
+        "authors": [
+            {
+                "name": "Anthony Bruno"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312569921",
+        "title": "Handsome Johnny",
+        "subtitle": "The Life And Death Of Johnny Rosselli - Gentleman Gangster, Hollywood Producer, Cia Assassin",
+        "authors": [
+            {
+                "name": "Lee Server"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496705471",
+        "title": "President Street Boys",
+        "subtitle": "Growing Up Mafia",
+        "authors": [
+            {
+                "name": "Frank Dimatteo"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345540027",
+        "title": "Golden Tresses Of The Dead",
+        "subtitle": "A Flavia De Luce Novel",
+        "authors": [
+            {
+                "name": "Alan Bradley"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780147519085",
+        "title": "5th Wave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Yancey"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250784018",
+        "title": "Gilead",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marilynne Robinson"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345497956",
+        "title": "Final Storm",
+        "subtitle": "A Novel Of The War In The Pacific",
+        "authors": [
+            {
+                "name": "Jeff Shaara"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062277039",
+        "title": "Larose",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062065247",
+        "title": "Round House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060187271",
+        "title": "Last Report On The Miracles At Little No Horse",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101871379",
+        "title": "House Of Unexpected Sisters",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 18",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Pantheon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307911568",
+        "title": "Woman Who Walked In Sunshine",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Pantheon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375424496",
+        "title": "Tea Time For The Traditionally Built",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "Pantheon Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375422188",
+        "title": " Full Cupboard Of Life",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Pantheon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375424502",
+        "title": "Double Comfort Safari Club",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Pantheon Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375422722",
+        "title": "Blue Shoes And Happiness",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Pantheon Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501137570",
+        "title": "World That We Knew",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alice Hoffman"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0517591812",
+        "title": "London",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward Rutherfurd"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307277466",
+        "title": "Miracle At Speedy Motors",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 9",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400075720",
+        "title": "Good Husband Of Zebra Drive",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 8",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780349123134",
+        "title": "Saturday Big Tent Wedding Party",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Abacus / Little, Brown"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "034911675X",
+        "title": "No.1 Ladies' Detective Agency",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2003",
+        "publishers": [
+            {
+                "name": "Abacus / Little, Brown"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525564270",
+        "title": "To The Land Of Long Lost Friends",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 20",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101972816",
+        "title": "Precious And Grace",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 17",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525564263",
+        "title": "Colors Of All The Cattle",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 19",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "140007570X",
+        "title": "In The Company Of Cheerful Ladies",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 6",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2006",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307472991",
+        "title": "Limpopo Academy Of Private Detection",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 13",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781408704349",
+        "title": "Handsome Man's De Luxe Cafe",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Little, Brown"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593199305",
+        "title": "Battle Ground",
+        "subtitle": "A Novel Of The Dresden Files",
+        "authors": [
+            {
+                "name": "Jim Butcher"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Ace / Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781909223073",
+        "title": "Wounded Prey",
+        "subtitle": "A Farrel & Kearns Thriller",
+        "authors": [
+            {
+                "name": "Sean Lynch"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Exhibit A"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Long Island City, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062250872",
+        "title": "Fools And Mortals",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0807068195",
+        "title": "New And Selected Poems",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Oliver"
+            }
+        ],
+        "publish_date": "1993",
+        "publishers": [
+            {
+                "name": "Beacon Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
     }
 ]

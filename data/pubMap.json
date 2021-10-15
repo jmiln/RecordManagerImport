@@ -2288,5 +2288,37 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "University Of Illinois Press"
+        ],
+        "locations": [
+            "Urbana, Il."
+        ]
+    },
+    {
+        "name": [
+            "Thunder's Mouth Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Little, Brown"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Exhibit A"
+        ],
+        "locations": [
+            "Long Island City, Ny."
+        ]
     }
 ]
