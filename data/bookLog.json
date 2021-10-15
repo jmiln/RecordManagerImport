@@ -27930,5 +27930,152 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780804172707",
+        "title": "Little Life",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hanya Yanagihara"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062666710",
+        "title": "Atomic City Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janet Beard"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780515156386",
+        "title": "Obsession",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780156035156",
+        "title": "Princess Bride",
+        "subtitle": "S. Morgenstern's Classic Tale Of True Love And High Adventure--30th Anniversary Edition",
+        "authors": [
+            {
+                "name": "William Goldman"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Orlando, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062073563",
+        "title": "Murder Of Roger Ackroyd",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455501472",
+        "title": "Lethal",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandra Brown"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062348630",
+        "title": "Carve The Mark",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
