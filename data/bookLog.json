@@ -28982,5 +28982,194 @@
                 "name": "Boston"
             }
         ]
+    },
+    {
+        "isbn": "9780008462918",
+        "title": "Girl Behind The Wall",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mandy Robotham"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982131906",
+        "title": "Book Of Lost Names",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778389385",
+        "title": "Woman With The Blue Star",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538707746",
+        "title": "Child Of Auschwitz",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lily Graham"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525565499",
+        "title": "Code Name Helene",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ariel Lawhon"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780006511267",
+        "title": "Royal Flash",
+        "subtitle": "From The Flashman Papers, 1842-43 And 1847-48",
+        "authors": [
+            {
+                "name": "George Macdonald Fraser"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492662709",
+        "title": "Carnegie's Maid",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marie Benedict"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780778331476",
+        "title": "Henna Artist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alka Joshi"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616208424",
+        "title": "Elmet",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fiona Mozley"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
     }
 ]

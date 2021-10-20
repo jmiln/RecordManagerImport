@@ -7,30 +7,18 @@
 
 ## Stuff that probably needs doing/ should be done
 
+- When comparing old vs new book entries, ignore certain fields like contribution (Still need to do something with this)
+  and anyhting else that's added
+
 - Maybe shouldn't put large print/ book club into the subtitle field
+    * Possibly another field in each applicable book for version or something?
+    * Can put those in there if it even matters, though it should just be
+      entered manually each time I think
 
 - Stick ` - signed first printing` at the end of the title for books that are signed
   firsts, general inscriptions ok, just no personalization
 
-- Double check the location finder for new pubs... Got this once:
-
-    [0] toronto, ontario
-    [1] toronto, ontario
-    [2] Toronto, Ontario
-    [3] Toronto, Ontario
-    [4] Toronto, Ontario
-    [5] Toronto, Ontario
-    [6] Toronto, Ontario
-    [7] Toronto, Ontario
-    [8] Toronto, Ontario
-    [9] Toronto, Ontario
-    [10] Toronto, Ontario
-    [11] Toronto, Ontario
-    [12] Toronto, Ontario
-    [13] Toronto, Ontario
-
-
-- Sometimes if I try changing an entry (moving the cursor, backspacing) when entering a publisher or something
+- Sometimes if I try changing an entry (moving the cursor) when entering a publisher or something
   manually, it will stick a bunch of keycode characters or something (example below) into the entry, which really screws stuff up.
   This needs to be wiped out if it sees that sort of thing, since it should never be in an entry
     * Ex: ```
@@ -40,7 +28,6 @@
             b[d\u001b[d\u001b[d\u001b[d\u001b[d\u001b[d\u001b[\u001b["
         }
         ```
-
 
 - When checking for publishers, and it finds a result in one with multiple names, it should only return the one(s) that actually match
 
@@ -61,6 +48,7 @@
 - Add in sub-whatever for authors, that will always go in as lowercase (illustrated by, edited by, etc.)
     * Contribution? not sure what to call it, but that kinda makes sense.
     * Started doing this as needed in the bookLog, but will still need to figure out how to put it through, since it can't be .toLowerCase()'d like the rest of it if it's gonna be put in caps
+    * For this, it'd need to be able to group them so editor would come first, then illustrator, then "with selections by", then a list of names
 
 - Possibly update the locations file if we come across a new one.
     * This would need to be verified each time though in case it grabs something funky
