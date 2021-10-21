@@ -13724,27 +13724,6 @@
         ]
     },
     {
-        "isbn": "9780316421973",
-        "title": "Ten Thousand Doors Of January",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Alix E. Harrow"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Redhook / Hachette"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316154895",
         "title": "House Of Broken Angels",
         "subtitle": "",
@@ -29169,6 +29148,174 @@
         "publish_places": [
             {
                 "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780312621308",
+        "title": "Whites",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Richard Price"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316421973",
+        "title": "Ten Thousand Doors Of January",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alix E. Harrow"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250031129",
+        "title": "Beautiful Mystery",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062250896",
+        "title": "Fools And Mortals",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728240763",
+        "title": "Last Mona Lisa",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jonathan Santlofer"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781503958746",
+        "title": "Last Green Valley",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mark Sullivan"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250244536",
+        "title": "Finders",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Jeffrey B. Burton"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781649371058",
+        "title": "Covet",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tracy Wolff"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Entangled / Barnes & Noble"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Parker, Co."
             }
         ]
     }

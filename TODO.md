@@ -7,6 +7,12 @@
 
 ## Stuff that probably needs doing/ should be done
 
+- Add more fields to the bookLog so it will fill more of it in if/ when I get around to making a gui
+    * Page Count
+    * Price? (Original or Ours?)
+    * Keywords maybe?
+    * Binding, pb vs hc, etc
+
 - When comparing old vs new book entries, ignore certain fields like contribution (Still need to do something with this)
   and anyhting else that's added
 
