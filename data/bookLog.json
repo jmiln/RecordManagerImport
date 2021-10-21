@@ -29318,5 +29318,241 @@
                 "name": "Parker, Co."
             }
         ]
+    },
+    {
+        "isbn": "9781476740195",
+        "title": "Library Book",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susan Orlean"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062963680",
+        "title": "Dutch House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385528788",
+        "title": "Maddaddam",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "publish_date": "2013",
+        "publishers": [
+            {
+                "name": "Nan A. Talese / Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780364002069",
+        "title": "How To Play From A Fake Book - Keyboard Edition",
+        "subtitle": "Faking Your Own Arrangements From Melodies And Chords",
+        "authors": [
+            {
+                "name": "Blake Neely"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Hal Leonard Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukee, Wi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780634001420",
+        "title": "Fretboard Roadmaps - Mandolin",
+        "subtitle": "The Essential Patterns That All The Pros Know And Use",
+        "authors": [
+            {
+                "name": "Fred Sokolow"
+            },
+            {
+                "name": "Bob Applebaum"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Hal Leonard Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukee, Wi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780786625475",
+        "title": "Mel Bay Medieval And Renaissance Music For Recorder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Bancalari"
+            }
+        ],
+        "publish_date": "1999",
+        "publishers": [
+            {
+                "name": "Mel Bay Publications, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Pacific, Mo."
+            }
+        ]
+    },
+    {
+        "isbn": "0933676883",
+        "title": "World's Most Popular Passover Songs",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward Kalendar"
+            }
+        ],
+        "publish_date": "1998",
+        "publishers": [
+            {
+                "name": "Tara Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Owings Mills, Md."
+            }
+        ]
+    },
+    {
+        "isbn": "0807408212",
+        "title": "Complete Jewish Songbook",
+        "subtitle": "The Definitive Collection Of Jewish Songs",
+        "authors": [
+            {
+                "name": "Hal Leonard Corp."
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Transcontinental Music Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780634047015",
+        "title": "Hal Leonard Guitar Method, - Complete Edition",
+        "subtitle": "Books 1, 2 And 3 Bound Together In One Easy-To-Use Volume!",
+        "authors": [
+            {
+                "name": "Will Schmid"
+            },
+            {
+                "name": "Greg Koch"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Hal Leonard Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukee, Wi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780786628018",
+        "title": "Mastering The Guitar",
+        "subtitle": "A Comprehensive Method For Today's Guitarist! Vol. 1b",
+        "authors": [
+            {
+                "name": "William Bay"
+            },
+            {
+                "name": "Mike Christiansen"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Mel Bay Publications, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Pacific, Mo."
+            }
+        ]
+    },
+    {
+        "isbn": "0711944261",
+        "title": "Classical Music Fake Book (Fakebooks)",
+        "subtitle": "",
+        "authors": [],
+        "publish_date": "2000",
+        "publishers": [
+            {
+                "name": "Wise Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
     }
 ]

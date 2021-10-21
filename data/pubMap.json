@@ -2324,11 +2324,51 @@
     {
         "name": [
             "Entangled / Barnes & Noble",
-            "Entangled Publishing"
+            "Entangled Publishing",
             "Entangled: Teen"
         ],
         "locations": [
             "Parker, Co."
+        ]
+    },
+    {
+        "name": [
+            "Hal Leonard Co."
+        ],
+        "locations": [
+            "Milwaukee, Wi."
+        ]
+    },
+    {
+        "name": [
+            "Mel Bay Publications, Inc."
+        ],
+        "locations": [
+            "Pacific, Mo."
+        ]
+    },
+    {
+        "name": [
+            "Tara Publications"
+        ],
+        "locations": [
+            "Owings Mills, Md."
+        ]
+    },
+    {
+        "name": [
+            "Transcontinental Music Publications"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Wise Publications"
+        ],
+        "locations": [
+            "London"
         ]
     }
 ]

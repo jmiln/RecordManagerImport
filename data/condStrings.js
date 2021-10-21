@@ -7,10 +7,13 @@ module.exports = {
     sigins: "Inscribed & Signed by author.",
     siginsp: "Inscribed to Prev. Owner & Signed by author.",
 
+    // CDs
+    acd: "Audio CD.",
+
     // Remainders
-    red: "Remainder Dot.",
+    red:  "Remainder Dot.",
     remd: "Remainder Dot.",
-    rem: "Remainder Mark.",
+    rem:  "Remainder Mark.",
     remm: "Remainder Mark.",
 
     // Edgewear
