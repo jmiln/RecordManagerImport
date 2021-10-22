@@ -446,80 +446,79 @@ function processArgv() {
     }
 
     const frenchStr = argv.french ? "FRENCH " : "";
-    if (argv.pb)
-        if (argv.condition) {
-            let startStr = "";
-            const endStr = "Pages Clean & Tight.";
-            const condMap = require("./data/condStrings.js");
-            const conds = [];
+    if (argv.condition) {
+        let startStr = "";
+        const endStr = "Pages Clean & Tight.";
+        const condMap = require("./data/condStrings.js");
+        const conds = [];
 
-            if (argv.pb) {
+        if (argv.pb) {
             // Default condition to start with for pb books
-                startStr = `VG IN ${frenchStr}WRAPS${spiralStr}.`;
-            } else if (argv.hc && argv.dj) {
+            startStr = `VG IN ${frenchStr}WRAPS${spiralStr}.`;
+        } else if (argv.hc && argv.dj) {
             // Default condition to start with for hc books with a dj
-                startStr = "VG/VG";
-            } else if (argv.hc) {
+            startStr = "VG/VG";
+        } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
             //  - This will be vg in pictorial boards, cloth, etc
             //  - This is set back at the begining when it asks about board types
-                startStr = boardStr;
-            }
-            if (startStr?.length) {
-                conds.push(startStr);
-            }
+            startStr = boardStr;
+        }
+        if (startStr?.length) {
+            conds.push(startStr);
+        }
 
-            if (argv.conditions?.length) {
+        if (argv.conditions?.length) {
             // Go through the condition map and check for matches, so it can keep the
             // conditions in the order specified there
-                for (const condition of Object.keys(condMap)) {
-                    if (argv.conditions.includes(condition)) {
-                        conds.push(condMap[condition]);
-                    }
+            for (const condition of Object.keys(condMap)) {
+                if (argv.conditions.includes(condition)) {
+                    conds.push(condMap[condition]);
                 }
-            }
-            conds.push(endStr);
-
-            // See how many of the condition strings can fit into the fields
-            const condOut = {1: "", 2: ""};
-            let maxFirst = false; // If it needs to go into the 2nd, don't keep putting stuff into the first
-            for (const cond of conds) {
-                if ((condOut[1].length + cond.length + 2) < MAX_LEN && !maxFirst) {
-                // Stick the condition into the main condition area
-                    condOut[1] += condOut[1].length ? "  " + cond : cond;
-                } else if (condOut[2].length + cond.length < MAX_LEN*2) {
-                // Stick the condition into the 2nd condition area
-                    condOut[2] += condOut[2].length ? "  " + cond : cond;
-                    maxFirst = true;
-                } else {
-                // It's gotten too big so back out
-                    console.log("The condition lines were too long to fit everything.");
-                    break;
-                }
-            }
-            if (condOut[1].length) {
-                outArr.push(`COND=${condOut[1]}`);
-            }
-            if (condOut[2].length) {
-                outArr.push(`COND2=${condOut[2]}`);
-            }
-
-        } else {
-            const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
-
-            // Work out some default conditions
-            if (argv.pb) {
-            // Default condition to start with for pb books
-                outArr.push(`COND=VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
-            } else if (argv.hc && argv.dj) {
-            // Default condition to start with for hc books with a dj
-                outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
-            } else if (argv.hc) {
-            // Default condition to start with for hc books without a dj
-            //  - This will be vg in pictorial boards, cloth, etc
-                outArr.push(`COND=VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`);
             }
         }
+        conds.push(endStr);
+
+        // See how many of the condition strings can fit into the fields
+        const condOut = {1: "", 2: ""};
+        let maxFirst = false; // If it needs to go into the 2nd, don't keep putting stuff into the first
+        for (const cond of conds) {
+            if ((condOut[1].length + cond.length + 2) < MAX_LEN && !maxFirst) {
+                // Stick the condition into the main condition area
+                condOut[1] += condOut[1].length ? "  " + cond : cond;
+            } else if (condOut[2].length + cond.length < MAX_LEN*2) {
+                // Stick the condition into the 2nd condition area
+                condOut[2] += condOut[2].length ? "  " + cond : cond;
+                maxFirst = true;
+            } else {
+                // It's gotten too big so back out
+                console.log("The condition lines were too long to fit everything.");
+                break;
+            }
+        }
+        if (condOut[1].length) {
+            outArr.push(`COND=${condOut[1]}`);
+        }
+        if (condOut[2].length) {
+            outArr.push(`COND2=${condOut[2]}`);
+        }
+
+    } else {
+        const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
+
+        // Work out some default conditions
+        if (argv.pb) {
+            // Default condition to start with for pb books
+            outArr.push(`COND=VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
+        } else if (argv.hc && argv.dj) {
+            // Default condition to start with for hc books with a dj
+            outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
+        } else if (argv.hc) {
+            // Default condition to start with for hc books without a dj
+            //  - This will be vg in pictorial boards, cloth, etc
+            outArr.push(`COND=VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`);
+        }
+    }
 
     if (argv.keywords) {
         let ix = 1;
@@ -992,6 +991,7 @@ async function mergePubs(newPub) {
     const pubIgnoreList = [
         "book",
         "books",
+        "ltd",
         "press",
         "publishers",
         "publishing",
