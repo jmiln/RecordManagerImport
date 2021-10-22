@@ -446,7 +446,7 @@ function processArgv() {
     }
 
     const frenchStr = argv.french ? "FRENCH " : "";
-    if (argv.sp)
+    if (argv.pb)
         if (argv.condition) {
             let startStr = "";
             const endStr = "Pages Clean & Tight.";
