@@ -93,6 +93,7 @@ const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString(
 let boardStr = "VG IN X.";
 
 argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
+debugLog("Conditions: ", argv.conditions);
 if (argv.conditions.includes("bc")) {
     argv.bc = true;     // Book Club
 }
@@ -445,7 +446,7 @@ function processArgv() {
         spiralStr = " with spiral wire binding";
     }
 
-    const frenchStr = argv.french ? "FRENCH " : "";
+    const frenchStr = argv.fr ? "FRENCH " : "";
     if (argv.condition) {
         let startStr = "";
         const endStr = "Pages Clean & Tight.";
