@@ -2172,48 +2172,6 @@
         ]
     },
     {
-        "isbn": "9781619630642",
-        "title": "Crown of Midnight",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Sarah J. Maas"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Bloomsbury"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781619630345",
-        "title": "Throne of Glass",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Sarah J. Maas"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Bloomsbury"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780142412145",
         "title": "Let it snow",
         "subtitle": "three holiday romances",
@@ -29540,9 +29498,18 @@
     },
     {
         "isbn": "0711944261",
-        "title": "Classical Music Fake Book (Fakebooks)",
+        "title": "Classical Music Fake Book",
         "subtitle": "",
-        "authors": [],
+        "authors": [
+            {
+                "name": "Peter Evans",
+                "contribution": "compiled by"
+            },
+            {
+                "name": "Peter Lavender",
+                "contribution": "compiled by"
+            }
+        ],
         "publish_date": "2000",
         "publishers": [
             {
@@ -29552,6 +29519,1101 @@
         "publish_places": [
             {
                 "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780800722319",
+        "title": "Light In The Wilderness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781609455392",
+        "title": "After The War",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Herve Le Corre"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250022110",
+        "title": "Great Reckoning",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780811201322",
+        "title": "Collected Poems Of Wilfred Owen",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "C. Day Lewis"
+            }
+        ],
+        "publish_date": "1965",
+        "publishers": [
+            {
+                "name": "New Directions Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643751351",
+        "title": "Mountains Sing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Phan Que Mai Nguyen"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780571349371",
+        "title": "Discomfort Of Evening",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marieke Lucas Rijneveld"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Faber & Faber Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679764038",
+        "title": "Collected Stories Of William Faulkner.",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William Faulkner"
+            }
+        ],
+        "publish_date": "1995",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1594480001",
+        "title": "Kite Runner",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Khaled Hosseini"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681373096",
+        "title": "King Alone",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jean Giono"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "New York Review Of Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375726521",
+        "title": "Ruined Map",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kobo Abe"
+            }
+        ],
+        "publish_date": "2001",
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501169885",
+        "title": "Eight Mountains",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Paolo Cognetti"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681375298",
+        "title": "Good Behaviour",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Molly Keane"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "New York Review Of Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062938787",
+        "title": "Arrest",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jonathan Lethem"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812996548",
+        "title": "Olive, Again",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Strout"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0618509283",
+        "title": "Plot Against America",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Philip Roth"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781563899294",
+        "title": "Batman",
+        "subtitle": "The Dark Knight Strikes Again",
+        "authors": [
+            {
+                "name": "Frank Miller"
+            },
+            {
+                "name": "Todd Klein"
+            },
+            {
+                "name": "Lynn Varley"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781563893421",
+        "title": "Batman: The Dark Knight Returns",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Frank Miller"
+            },
+            {
+                "name": "Klaus Janson"
+            },
+            {
+                "name": "Lynn Varley"
+            }
+        ],
+        "publish_date": "1996",
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401207526",
+        "title": "Batman",
+        "subtitle": "Year One",
+        "authors": [
+            {
+                "name": "Frank Miller"
+            },
+            {
+                "name": "David Mazzucchelli"
+            },
+            {
+                "name": "Richmond Lewis"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780930289218",
+        "title": "Frank Miller's Ronin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Frank Miller"
+            }
+        ],
+        "publish_date": "1987",
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401216672",
+        "title": "Batman",
+        "subtitle": "The Killing Joke",
+        "authors": [
+            {
+                "name": "Alan Moore"
+            },
+            {
+                "name": "Brian Bolland"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455559527",
+        "title": "Escape Artist",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brad Meltzer"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0739422987",
+        "title": "Up Country",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nelson Demille"
+            }
+        ],
+        "publish_date": "2002",
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593437049",
+        "title": "Final Support Group",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Grady Hendrix"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781940696997",
+        "title": "Dunce",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Ruefle"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Wave Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780393356182",
+        "title": "Norse Mythology",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250132130",
+        "title": "Nevernight",
+        "subtitle": "Book One of the Nevernight Chronicles",
+        "authors": [
+            {
+                "name": "Jay Kristoff"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484724989",
+        "title": "Lost Stars",
+        "subtitle": "Journey To Star Wars: The Force Awakens",
+        "authors": [
+            {
+                "name": "Claudia Gray"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Disney / Lucasfilm Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Glendale, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781534414587",
+        "title": "Persephone Station",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stina Leicht"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Saga Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423140597",
+        "title": "Son Of Neptune",
+        "subtitle": "The Heroes Of Olympus, Book Two",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "publish_date": "2011",
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423140603",
+        "title": "Mark Of Athena",
+        "subtitle": "The Heroes Of Olympus, Book Three",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423146735",
+        "title": "Blood Of Olympus",
+        "subtitle": "The Heroes Of Olympus, Book Five",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481418782",
+        "title": "We All Looked Up",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tommy Wallach"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781419719608",
+        "title": "Me And Earl And The Dying Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jesse Andrews"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Amulet / Abrams"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781619630345",
+        "title": "Throne Of Glass",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619630642",
+        "title": "Crown Of Midnight",
+        "subtitle": "A Throne Of Glass Novel",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062439598",
+        "title": "Hating Game",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sally Thorne"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982180876",
+        "title": "To Love And To Loathe",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martha Waters"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501128035",
+        "title": "Unhoneymooners",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christina Lauren"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525510444",
+        "title": "One To Watch",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Stayman-London"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316392426",
+        "title": "Calypso",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316143464",
+        "title": "Dress Your Family In Corduroy And Denim",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316628242",
+        "title": "Best Of Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982160135",
+        "title": "Other Black Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Zakiya Dalila Harris"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781947793224",
+        "title": "Orphan Of Salt Winds",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Brooks"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Tin House Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781608196265",
+        "title": "Salvage The Bones",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jesmyn Ward"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594480003",
+        "title": "Kite Runner",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Khaled Hosseini"
+            }
+        ],
+        "publish_date": "2007",
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345804327",
+        "title": "Underground Railroad",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colson Whitehead"
+            }
+        ],
+        "publish_date": "2016",
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780981453637",
+        "title": "Pandora Prescription",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Sheridan"
+            }
+        ],
+        "publish_date": "2008",
+        "publishers": [
+            {
+                "name": "Cambridge House Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399585296",
+        "title": "Untouchable",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jayne Ann Krentz"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250301697",
+        "title": "Silent Patient",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Michaelides"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316420389",
+        "title": "Russian",
+        "subtitle": "A Detective Michael Bennett Thriller",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "James O. Born"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

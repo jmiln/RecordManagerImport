@@ -828,7 +828,8 @@
             "Hyperion",
             "Disney / Hyperion",
             "Hyperion / Disney",
-            "Disney Press"
+            "Disney Press",
+            "Disney / Lucasfilm Press"
         ],
         "aliases": [
             "Miramax",
@@ -2369,6 +2370,46 @@
         ],
         "locations": [
             "London"
+        ]
+    },
+    {
+        "name": [
+            "New Directions Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Faber & Faber Ltd."
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "New York Review Of Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Wave Books"
+        ],
+        "locations": [
+            "Seattle, Wa."
+        ]
+    },
+    {
+        "name": [
+            "Cambridge House Press"
+        ],
+        "locations": [
+            "New York"
         ]
     }
 ]
