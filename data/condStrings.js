@@ -26,7 +26,7 @@ module.exports = {
 
     // General Wear Boards
     fwb:  "Faint Wear to Boards.",
-    lwb:  "Light Wearto Boards.",
+    lwb:  "Light Wear to Boards.",
 
     lp:  "Large Print.",
 

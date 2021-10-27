@@ -30616,5 +30616,704 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781451645859",
+        "title": "Ordinary Grace",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063072909",
+        "title": "Mystic River",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dennis Lehane"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538747285",
+        "title": "Scorpion's Tail",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451477996",
+        "title": "Column Of Fire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525539131",
+        "title": "Final Twist",
+        "subtitle": "A Colter Shaw Novel",
+        "authors": [
+            {
+                "name": "Jeffery Deaver"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593087022",
+        "title": "Ocean Prey",
+        "subtitle": "A Lucas Davenport And Virgil Flowers Novel",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778331452",
+        "title": "Danger In Numbers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Heather Graham"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834867",
+        "title": "Cellist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525618553",
+        "title": "Serpentine",
+        "subtitle": "An Alex Delaware Novel",
+        "authors": [
+            {
+                "name": "Jonathan Kellerman"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250142924",
+        "title": "Fallen",
+        "subtitle": "A Novel Of Suspense",
+        "authors": [
+            {
+                "name": "Linda Castillo"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736708",
+        "title": "Bloodless",
+        "subtitle": "A Pendergast Novel",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982173616",
+        "title": "Billy Summers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982147792",
+        "title": "Lisey's Story",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780452298019",
+        "title": "Magician King",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lev Grossman"
+            }
+        ],
+        "publish_date": "2012",
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250207111",
+        "title": "Hideaway",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778332046",
+        "title": "Radar Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sara Ackerman"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008444631",
+        "title": "Clockmaker's Wife",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daisy Wood"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525436034",
+        "title": "Other Americans",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laila Lalami"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547055329",
+        "title": "Best American Short Stories 2010",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Russo"
+            }
+        ],
+        "publish_date": "2010",
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593355657",
+        "title": "Bookshop Of Second Chances",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jackie Fraser"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062975980",
+        "title": "Mrs. Lincoln's Sisters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Chiaverini"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735218406",
+        "title": "Immortalists",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Chloe Benjamin"
+            }
+        ],
+        "publish_date": "2018",
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781634505093",
+        "title": "Sunset Pass",
+        "subtitle": "A Western Story",
+        "authors": [
+            {
+                "name": "Zane Grey"
+            }
+        ],
+        "publish_date": "2015",
+        "publishers": [
+            {
+                "name": "Skyhorse Publishing, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534425156",
+        "title": "Serious Moonlight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenn Bennett"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062662835",
+        "title": "With The Fire On High",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Acevedo"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062473448",
+        "title": "This Time Will Be Different",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Misa Sugiura"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250100757",
+        "title": "Sun Warrior",
+        "subtitle": "Tales of a New World",
+        "authors": [
+            {
+                "name": "P. C. Cast"
+            }
+        ],
+        "publish_date": "2017",
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316707046",
+        "title": "Midnight Sun",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "publish_date": "2020",
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "052594754X",
+        "title": "Nights Of Rain And Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maeve Binchy"
+            }
+        ],
+        "publish_date": "2004",
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0786715480",
+        "title": "Italian Secretary",
+        "subtitle": "A Further Adventure Of Sherlock Holmes",
+        "authors": [
+            {
+                "name": "Caleb Carr"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Carroll & Graf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061233593",
+        "title": "Matter Of Justice",
+        "subtitle": "An Inspector Ian Rutledge Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2009",
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524799588",
+        "title": "That Churchill Woman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephanie Barron"
+            }
+        ],
+        "publish_date": "1920",
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679433740",
+        "title": "Paradise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "publish_date": "1997",
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
