@@ -594,7 +594,7 @@ async function getPub(pubName, inLocs) {
     if (!possiblePubs.length) {
         possiblePubs = pubMap.filter(pub => {
             if (!pub?.aliases) {
-                debugLog("No aliases", pub);
+                // debugLog("No aliases", pub);
                 return false;
             }
             const foundPub = pub.aliases.find(a => {
@@ -695,6 +695,10 @@ async function getPub(pubName, inLocs) {
         } else if (pubRes.toLowerCase() === "o") {
             // Query for a new name to look for
             const newPub = await askQuestion("What publisher should I search for?");
+            if (!newPub?.length) {
+                console.log("No publisher entered.");
+                return out;
+            }
             out = await getPub(newPub);
             if (!out.locs && !out.pub) {
                 return out;
@@ -959,8 +963,9 @@ async function getEmptyPub() {
 async function askQuestion(query) {
     debugLog("[askQuestion] Q: " + query);
     const prompt = "\n\n> ";
-    return new Promise(resolve => rl.question("\n" + query + prompt, ans => {
-        resolve(ans);
+    return new Promise(resolve => rl.question("\n" + query + prompt, line => {
+        line = cleanControlChars(line);
+        resolve(line);
     }));
 }
 
@@ -974,6 +979,7 @@ async function askQuestionV2(question, answers) {
 
     return new Promise((resolve) => {
         rl.question("\n" + question + prompt, (line) => {
+            line = cleanControlChars(line);
             if (answers.indexOf(line.toLowerCase()) > -1) {
                 resolve(line.toLowerCase());
             } else {
@@ -982,6 +988,11 @@ async function askQuestionV2(question, answers) {
             }
         });
     });
+}
+
+// Clean the control characters out of strings from readline when the arrow keys are pressed
+function cleanControlChars(stringIn) {
+    return stringIn.replace(/(\x9B|\x1B\[|\x1B)[0-?]*[ -/]*[@-~]/g, ""); // eslint-disable-line no-control-regex
 }
 
 // Merge a new publisher into an existing one
