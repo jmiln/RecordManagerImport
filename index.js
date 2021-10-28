@@ -101,7 +101,7 @@ if (argv.conditions.includes("lp")) {
     argv.lp = true;     // Large Print
 }
 if (argv.conditions.includes("fr")) {
-    argv.fr = true;     // French Wraps
+    argv.french = true; // French Wraps
 }
 
 let jsonOut = null;
@@ -141,6 +141,10 @@ async function init() {
 
         // Stick it as an object with the isbn as it's key so it matches the api response
         jsonOut["ISBN:" + oldJsonOut.isbn] = oldJsonOut;
+
+        // TODO Verify the data against what was entered (Check for changes in binding, page count, etc) then alert the user
+        // This should help reduce mistakes when forgetting to change something or missing a field
+
         debugLog("Old data:", jsonOut);
     } else {
         debugLog(`No old data found for ${isbn}, trying to fetch new.`);
@@ -169,11 +173,11 @@ async function init() {
         if (Object.keys(jsonOut).length === 1) {
             jsonOut = jsonOut[Object.keys(jsonOut)[0]];
         } else {
-            return console.log("The api somehow returned more than one result for the given isbn.");
+            return console.log("[ERROR] The api somehow returned more than one result for the given isbn.");
         }
 
         // Work out the title & subtitle
-        let titleOut, subtitle, rawTitle = null;
+        let fullTitle, subtitle, extra, rawTitle = null;
         if (jsonOut.title) {
             // If there are subtitles from both us entering one in with the --subtitle flag, and from the api/ booklog
             // Ask which one we want to use
@@ -183,12 +187,11 @@ async function init() {
                     jsonOut.subtitle = argv.subtitle;
                 }
             }
-            [titleOut, subtitle, rawTitle] = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle);
+            ({fullTitle, subtitle, extra, rawTitle} = parseTitle(jsonOut.title, jsonOut.subtitle, argv.bc, argv.lp, argv.subtitle));
             if (subtitle?.length) {
-                bookInfoArr.push(`SUB=${subtitle}`);
+                bookInfoArr.push(`SUB=${subtitle}${extra}`);
             }
-            bookInfoArr.push(`RAWTITLE=${rawTitle}`);
-            bookInfoArr.push(`TITLE=${titleOut}`);
+            bookInfoArr.push(`TITLE=${fullTitle}`);
         }
 
         // Work out the authors as needed
@@ -247,8 +250,7 @@ async function init() {
             const pubName = jsonOut.publishers.map(p => p.name).join(" ");
             let inLocs = null;
             if (jsonOut.publish_places?.length) {
-                debugLog("jsonOut", jsonOut);
-                // debugLog("jsonOut.pubLocs", jsonOut.publish_places);
+                debugLog("jsonOut.pubLocs", jsonOut.publish_places);
                 inLocs = jsonOut.publish_places.map(loc => {
                     if (Array.isArray(loc))      loc      = loc[0];
                     if (Array.isArray(loc.name)) loc.name = loc.name[0];
@@ -314,17 +316,22 @@ async function init() {
         }
 
         // Format the jsonOut data to only keep the bits that matter
-        // TODO check if there are any differences, and if so, overwrite?
-        // if (!bookLog.find(ob => ob.isbn == isbn) || argv.debug) {
         const oldBook = bookLog.find(ob => ob.isbn == isbn);
         const authOut = jsonOut?.authors?.length ? [...new Set(jsonOut.authors.map(a => toProperCase(a.name.trim())))] : [];
         const jsonToSave = {
             isbn: isbn,
             title: toProperCase(rawTitle),
-            subtitle: subtitle ? toProperCase(subtitle.replace(/^[-:]/, "").replace(/[:-] book club edition/i, "").trim()) : "",
+            subtitle: subtitle ? toProperCase(subtitle.replace(/^[-:]/, "").trim()) : "",
             authors: authOut.map(auth => { return {name: auth}; }),
-            publish_date: date?.toString()
+            publish_date: date?.toString(),
+            pages: Number.isInteger(argv.pages) ? parseInt(argv.pages, 10) : "unpaginated",
+            price: argv.price,
+            binding: argv.binding
         };
+        if (argv.french) jsonToSave.french = true;
+        if (argv.lp)     jsonToSave.lp     = true;
+        if (argv.bc)     jsonToSave.bc     = true;
+
         if (chosenPub) {
             jsonToSave.publishers = [{name: toProperCase(chosenPub)}];
         }
@@ -419,23 +426,30 @@ function processArgv() {
     }
 
     // Set for hardcover, paperback, or spiral
+    argv.binding = [];
     if (argv.hc) {
         outArr.push("BD=HC.");
+        argv.binding.push("hc");
     } else if (argv.pb) {
         outArr.push("BD=PB.");
+        argv.binding.push("pb");
     } else if (argv.sp) {
         outArr.push("BD=SPIRAL.");
+        argv.binding.push("sp");
     }
 
     // If it's got a DJ
     if (argv.dj) {
         outArr.push("DJ=DJ.");
+        argv.binding.push("dj");
     }
 
     // If the price is given
     const priceReg = /^\d{1,3}\.*\d{0,2}$/;
     if (argv.price?.toString().match(priceReg)) {
         outArr.push("PRICE=" + argv.price);
+    } else {
+        argv.price = null;
     }
 
     let spiralStr = "";
@@ -446,7 +460,7 @@ function processArgv() {
         spiralStr = " with spiral wire binding";
     }
 
-    const frenchStr = argv.fr ? "FRENCH " : "";
+    const frenchStr = argv.french ? "FRENCH " : "";
     if (argv.condition) {
         let startStr = "";
         const endStr = "Pages Clean & Tight.";
@@ -510,7 +524,7 @@ function processArgv() {
         // Work out some default conditions
         if (argv.pb) {
             // Default condition to start with for pb books
-            outArr.push(`COND=VG IN ${frenchStr}WRAPS.  ${remStr}PAGES CLEAN & TIGHT.`);
+            outArr.push(`COND=VG IN ${frenchStr}WRAPS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`);
         } else if (argv.hc && argv.dj) {
             // Default condition to start with for hc books with a dj
             outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
@@ -1022,10 +1036,6 @@ async function mergePubs(newPub) {
         const question = `I found these entries that could match. Would you like to put ${toProperCase(newPub.pub)} into one of these?\n\n${pubList}\n${saveStr}${cancelStr}`;
 
         const foundRes = await askQuestionV2(question, answers);
-        // if (otherVals.includes(foundRes)) {
-        // TODO Don't know what to do here currently, maybe ask for a new name to look for and offer matches?
-        // This would require this mess to go recursive too, and that just gets really messy...
-        // If I need this at some point, It will need the otherVals put back into the concat above
         if (saveVals.includes(foundRes)) {
             // If none of the matches are where it should go, just save it as a new publisher
             debugLog("If not for debug mode, it would save this publisher here: ", newPub);
@@ -1064,7 +1074,6 @@ async function mergePubs(newPub) {
         }
     } else {
         // If it hasn't found a publisher to merge with, just save it as a new publisher
-        // TODO Ask for a name to save it with, if it doesn't find a match
         delete newPub.new;
         debugLog("If not for debug mode, it would save this publisher here: ", newPub);
         if (!argv.debug) {
@@ -1191,7 +1200,12 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         }
     }
 
-    return [`${title}${subtitle}${extraString}`, `${subtitle}${extraString}`, title];
+    return {
+        fullTitle: `${title}${subtitle}${extraString}`,
+        subtitle: subtitle,
+        extra: extraString,
+        rawTitle: title
+    };
 }
 
 // If a book is not found from the api or stored info, ask for the info manually
