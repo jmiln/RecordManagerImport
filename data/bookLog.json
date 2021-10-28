@@ -31347,6 +31347,15 @@
             }
         ],
         "publish_date": "2005",
+        "pages": 266,
+        "price": 13,
+        "binding": [
+            "h",
+            "dj"
+        ],
+        "french": true,
+        "lp": true,
+        "bc": true,
         "publishers": [
             {
                 "name": "Carroll & Graf"

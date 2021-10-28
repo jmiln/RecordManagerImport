@@ -11,22 +11,20 @@
 ## New Fields
 
 - Add more fields to the bookLog so it will fill more of it in if/ when I get around to making a gui
-    * Page Count
-    * Price? (Original or Ours?)
     * Keywords maybe?
-    * Binding (pb/ hc/ spiral)
+    * Main category
     * French wraps, spiral variation (wire or comb)
-    * Book club/ large print?
-
-- Maybe stick a timestamp on booklog entries, so when comparing old vs new, you can see when it was put in differently? (Not important)
 
 - Add a spot for other titles for it to grab as keywords, where it will look last if no other titles were entered
     * Possibly just have it as keywords, where titles can be in there?
+    * Any titles in there would be manually entered, possibly also start/ go back to saving titles under authors, so
+      each author would have a list of titles associated with em, dates not needed, but still something to fall back on
 
 - Add in sub-whatever for authors, that will always go in as lowercase (illustrated by, edited by, etc.)
     * Contribution? not sure what to call it, but that kinda makes sense.
-    * Started doing this as needed in the bookLog, but will still need to figure out how to put it through, since it can't be .toLowerCase()'d like the rest of it if it's gonna be put in caps
-    * For this, it'd need to be able to group them so editor would come first, then illustrator, then "with selections by", then a list of names
+    * Started doing this as needed in the bookLog, but will still need to figure out how to put it through, since it can't be
+      .toLowerCase()'d like the rest of it if it's gonna be put in caps. Maybe .toUpperCase() it so it goes in as lowercase?
+    * For this, it'd need to be able to group them so editor(s)/ edited by would come first, then illustrator, then "with selections by", then a list of names
 
 - Work out how to make conditions more variable
     * Somehow parse out each option, so it can be "creasing to rear wrap" vs front wrap, etc
@@ -41,13 +39,6 @@
 
 ## Special descriptors for titles (BC, LP, signed 1st, etc)
 
-- These should be in their own field per-book, and tacked on as needed
-
-- Maybe shouldn't put large print/ book club into the subtitle field
-    * Possibly another field in each applicable book for version or something?
-    * Can put those in there if it even matters, though it should just be
-      entered manually each time I think
-
 - Stick ` - signed first printing` at the end of the title for books that are signed
   firsts, general inscriptions ok, just no personalization. This should NOT be saved
   with the book, just added on as needed
@@ -55,21 +46,12 @@
 
 ## Bugs
 
-- Sometimes if I try changing an entry (moving the cursor) when entering a publisher or something
-  manually, it will stick a bunch of keycode characters or something (example below) into the entry, which really screws stuff up.
-  This needs to be wiped out if it sees that sort of thing, since it should never be in an entry
-    * Ex:
-        ```
-            {
-                "name": "Sphere / Little, Brown & Co.\u001b[1;5d\u001b[1;5d\u001b[1;5d\u001
-                b[1;5d\u001b[1;5d\u001b[d\u001b[d\u001b[1;5d\u001b[1;5d\u001b[1;5d\u001b[d\u001b[d\u001
-                b[d\u001b[d\u001b[d\u001b[d\u001b[d\u001b[d\u001b[\u001b["
-            }
-        ```
 
 ## Other stuff
 
 - When checking for publishers, and it finds a result in one with multiple names, it should only return the one(s) that actually match
+
+- When inputting publishers and such manually when it doesn't find one, make sure to check the length against the max, and grumble as needed
 
 - Put another function in, to number the options so it doesn't have to be done each time
     * This would basically just call the askQv2, but so we don't have to format everything each time
@@ -81,6 +63,7 @@
 
 - If entering a subtitle manually, check if it's part of the title too, then check about removing it from there
 
+- When choosing between new & old versions, let the user decide which changes to keep in case there are multiple differences
 
 ## Long term/ maybes
 
