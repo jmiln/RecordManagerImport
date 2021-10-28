@@ -5994,27 +5994,6 @@
         ]
     },
     {
-        "isbn": "9781984898876",
-        "title": "Hamnet",
-        "subtitle": "A novel of the plague",
-        "authors": [
-            {
-                "name": "Maggie O'farrell"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062316899",
         "title": "Memory Of Violets",
         "subtitle": "A Novel Of London's Flower Sellers",
@@ -31233,27 +31212,6 @@
         ]
     },
     {
-        "isbn": "0786715480",
-        "title": "Italian Secretary",
-        "subtitle": "A Further Adventure Of Sherlock Holmes",
-        "authors": [
-            {
-                "name": "Caleb Carr"
-            }
-        ],
-        "publish_date": "2005",
-        "publishers": [
-            {
-                "name": "Carroll & Graf"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780061233593",
         "title": "Matter Of Justice",
         "subtitle": "An Inspector Ian Rutledge Mystery",
@@ -31308,6 +31266,90 @@
         "publishers": [
             {
                 "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250236708",
+        "title": "Watcher In The Woods",
+        "subtitle": "A Rockton Novel",
+        "authors": [
+            {
+                "name": "Kelley Armstrong"
+            }
+        ],
+        "publish_date": "2019",
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425276389",
+        "title": "Gray Man",
+        "subtitle": "The First Gray Man Novel",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "publish_date": "2014",
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984898876",
+        "title": "Hamnet",
+        "subtitle": "A Novel Of The Plague",
+        "authors": [
+            {
+                "name": "Maggie O'farrell"
+            }
+        ],
+        "publish_date": "2021",
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0786715480",
+        "title": "Italian Secretary",
+        "subtitle": "A Further Adventure Of Sherlock Holmes",
+        "authors": [
+            {
+                "name": "Caleb Carr"
+            }
+        ],
+        "publish_date": "2005",
+        "publishers": [
+            {
+                "name": "Carroll & Graf"
             }
         ],
         "publish_places": [
