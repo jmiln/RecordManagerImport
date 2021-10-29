@@ -5,6 +5,8 @@ const { exec } = require("child_process");
 
 const readline = require("readline");
 
+const {condMap, condLocs} = require(__dirname + "/data/condLocs.js");  // eslint-disable-line no-unused-vars
+
 const helpArr   = require(__dirname + "/data/helpOut.js");
 const kwMap     = require(__dirname + "/data/keywordMap.js");
 const locMap    = require(__dirname + "/data/locations.js");
@@ -452,16 +454,13 @@ function processArgv() {
         argv.price = null;
     }
 
-    if (argv.condition?.length) {
-        const condOut = parseCond();
-        if (condOut[1].length) {
-            outArr.push(`COND=${condOut[1]}`);
-        }
-        if (condOut[2].length) {
-            outArr.push(`COND2=${condOut[2]}`);
-        }
+    const condOut = parseCond();
+    if (condOut[1].length) {
+        outArr.push(`COND=${condOut[1]}`);
     }
-
+    if (condOut[2].length) {
+        outArr.push(`COND2=${condOut[2]}`);
+    }
 
     if (argv.keywords) {
         let ix = 1;
@@ -489,29 +488,34 @@ function processArgv() {
 }
 
 // Work out all the conditions
+// - Work out how to make conditions more variable
+//     * Somehow parse out each option, so it can be "creasing to rear wrap" vs front wrap, etc
+//         - Possibly something along the lines of condition_type:location (ex: few:rw  (Faint edgewear to rear wrap))?
+//         - If going this route, it would likely be worth trying to bunch em by location too, like if there are multiple for rear wrap (Creasing & small tear, etc)
+//             * Possibly seperate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
+//     * Should stick in vg/vg-/g etc as extra options
 function parseCond() {
     const condOut = {1: "", 2: ""};
-    let spiralStr = "";
-    if (argv.conditions.includes("spc")) {
-        spiralStr = " with spiral comb binding";
-    }
-    if (argv.conditions.includes("spw")) {
-        spiralStr = " with spiral wire binding";
-    }
+    const mainCond = "VG";
+    const mainDjCond = "VG/VG";
+    const endStr = "Pages Clean & Tight.";
 
-    const frenchStr = argv.french ? "FRENCH " : "";
+    let spiralStr = "";
+    let frenchStr = "";
+    if (argv.conditions.includes("spc")) spiralStr = " with spiral comb binding";
+    if (argv.conditions.includes("spw")) spiralStr = " with spiral wire binding";
+    if (argv.french)                     frenchStr = "FRENCH ";
+
     if (argv.condition?.length) {
         let startStr = "";
-        const endStr = "Pages Clean & Tight.";
-        const condMap = require("./data/condStrings.js");
         const conds = [];
 
         if (argv.pb) {
             // Default condition to start with for pb books
-            startStr = `VG IN ${frenchStr}WRAPS${spiralStr}.`;
+            startStr = `${mainCond} IN ${frenchStr}WRAPS${spiralStr}.`;
         } else if (argv.hc && argv.dj) {
             // Default condition to start with for hc books with a dj
-            startStr = "VG/VG";
+            startStr = mainDjCond;
         } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
             //  - This will be vg in pictorial boards, cloth, etc
@@ -555,14 +559,14 @@ function parseCond() {
         // Work out some default conditions
         if (argv.pb) {
             // Default condition to start with for pb books
-            condOut[1] = `COND=VG IN ${frenchStr}WRAPS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`;
+            condOut[1] = `COND=${mainCond} IN ${frenchStr}WRAPS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`;
         } else if (argv.hc && argv.dj) {
             // Default condition to start with for hc books with a dj
-            condOut[1] = `COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`;
+            condOut[1] = `COND=${mainDjCond}  ${remStr}PAGES CLEAN & TIGHT.`;
         } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
-            //  - This will be vg in pictorial boards, cloth, etc
-            condOut[1] = `COND=VG IN X BOARDS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`;
+            //  - This will be for vg in pictorial boards, cloth, etc
+            condOut[1] = `COND=${mainCond} IN X BOARDS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`;
         }
     }
     return condOut;
