@@ -517,7 +517,6 @@ function processArgv() {
         if (condOut[2].length) {
             outArr.push(`COND2=${condOut[2]}`);
         }
-
     } else {
         const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
 
@@ -531,7 +530,7 @@ function processArgv() {
         } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
             //  - This will be vg in pictorial boards, cloth, etc
-            outArr.push(`COND=VG IN X BOARDS.  ${remStr}PAGES CLEAN & TIGHT.`);
+            outArr.push(`COND=VG IN X BOARDS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`);
         }
     }
 
