@@ -1,27 +1,35 @@
-// Need:
-// small/ tiny tear
-exports.cond = {
+module.exports.condMap = {
     // Something special
-    sig: "Signed by author.",
-    ins: "Inscribed to prev. owner.",
-    sigins: "Inscribed & Signed by author.",
+    sig:     "Signed by author.",
+    sigtip:  "Signed by author on tipped-in page.",
+    sigbp:   "Signed Bookplate inside.",
+    ins:     "Inscribed to prev. owner.",
+    sigins:  "Inscribed & Signed by author.",
     siginsp: "Inscribed to Prev. Owner & Signed by author.",
 
+    lp:  "Large Print.",
+
+    // CDs
+    acd: "Audio CD.",
+
     // Remainders
-    red: "Remainder Dot.",
+    red:  "Remainder Dot.",
     remd: "Remainder Dot.",
-    rem: "Remainder Mark.",
+    rem:  "Remainder Mark.",
     remm: "Remainder Mark.",
 
     // Edgewear
     few:  "Faint Edgewear.",
     lew:  "Light Edgewear.",
+    lewo: "Lightly Edgeworn.",
 
     // General Wear
     fw:  "Faint Wear.",
     lw:  "Light Wear.",
 
-    lp:  "Large Print.",
+    // General Wear to Boards
+    fwb:  "Faint Wear to Boards.",
+    lwb:  "Light Wear to Boards.",
 
     // Previous owner stuff
     poad:  "Prev. Owner's address label inside.",
@@ -30,15 +38,24 @@ exports.cond = {
     pona:  "Prev. Owner's name inside.",
     pono:  "Prev. Owner note inside.",
     pobp:  "Prev. Owner bookplate inside.",
+    post:  "Prev. Owner stamp inside.",
 
     // Toning
     fton: "Faint toning to page edges.",
     lton: "Light toning to page edges.",
     ton:  "Toning to page edges.",
 
+    // Foxing to page edges
+    ffox: "faint foxing to page edges.",
+    lfox: "light foxing to page edges.",
+
     // Soiling to page edges
-    fsoi: "Faint soiling to page edges.",
-    lsoi: "Light soiling to page edges.",
+    fsoi: "faint soiling to page edges.",
+    lsoi: "light soiling to page edges.",
+
+    // Soiling to boards
+    fsoib: "faint soiling to boards.",
+    lsoib: "light soiling to boards.",
 
     // Board damage
     fewb: "Faint Edgewear to Boards.",
@@ -48,21 +65,49 @@ exports.cond = {
     fewbd: "Faint Edgewear to Boards & DJ.",
     lewbd: "Light Edgewear to Boards & DJ.",
 
+    // PB Wraps creased
+    fwcr: "Front Wrap Creased.",
+    rwcr: "Rear Wrap Creased.",
+    fpcr: "Front Page Creased.",
+    rpcr: "Rear Page Creased.",
+
     // DJ stuff
     fewd: "Faint Edgewear to DJ.",
     lewd: "Light Edgewear to DJ.",
-    fwd: "Faint Wear to DJ.",
-    lwd: "Light Wear to DJ.",
-    djm: "DJ in Mylar Wrap.",
-    myl: "DJ in Mylar Wrap.",
+    fwd:  "Faint Wear to DJ.",
+    lwd:  "Light Wear to DJ.",
+    djm:  "DJ in Mylar Wrap.",
+    myl:  "DJ in Mylar Wrap.",
 };
 
-exports.locs = {
-    fwr: "front wrap",
-    rwr: "rear wrap",
-    dj:  "dj",
+// The different parts of the book to name off
+module.exports.condLocs = {
+    b:    "boards",
+    ep:   "early pages",
+    rp:   "rear pages",
+    pe:   "page edges",
+    fw:   "front wrap",
+    rw:   "rear wrap",
     ffep: "ffep",
+    rfep: "rfep",
+    d:    "dj",
+    dj:   "dj",
+    djv:  "dj verso",
     djrf: "dj rear flap",
     djff: "dj front flap",
+};
 
-}
+// The order to check through the locations
+// Start with miscellaneous, then the book itself, then dj conditions
+module.exports.condOrder = [
+    "misc",
+    "fw",
+    "rw",
+    "ffep",
+    "dj",
+    "djrf",
+    "djff"
+];
+
+
+
