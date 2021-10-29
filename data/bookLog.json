@@ -5954,27 +5954,6 @@
         ]
     },
     {
-        "isbn": "9780805096606",
-        "title": "Mirror & The Light",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Hilary Mantel"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Henry Holt & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062316899",
         "title": "Memory Of Violets",
         "subtitle": "A Novel Of London's Flower Sellers",
@@ -31277,27 +31256,6 @@
         ]
     },
     {
-        "isbn": "9781984898876",
-        "title": "Hamnet",
-        "subtitle": "A Novel Of The Plague",
-        "authors": [
-            {
-                "name": "Maggie O'farrell"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0786715480",
         "title": "Italian Secretary",
         "subtitle": "A Further Adventure Of Sherlock Holmes",
@@ -31644,6 +31602,607 @@
         "publish_places": [
             {
                 "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451490544",
+        "title": "Let Me Lie",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Calre Mackintosh"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 408,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250179838",
+        "title": "Breakdown",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "B. A. Paris"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 344,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250151346",
+        "title": "Bring Me Back",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "B. A. Paris"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 294,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008287047",
+        "title": "Dilemma",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "B. A. Paris"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 336,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hq / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464203732",
+        "title": "Murder In Piccadilly",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Charles Kingston"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 303,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781524742508",
+        "title": "Last Looks",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Howard Michael Gould"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 329,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802149053",
+        "title": "Hard Stuff",
+        "subtitle": "A Joe The Bouncer Thriller",
+        "authors": [
+            {
+                "name": "David Gordon"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 309,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mysterious Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616952792",
+        "title": "Little Elvises",
+        "subtitle": "A Junior Bender Mystery",
+        "authors": [
+            {
+                "name": "Timothy Hallinan"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 347,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439157824",
+        "title": "Thunder Bay",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 280,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060559151",
+        "title": "Gentlemen And Players",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joanne Harris"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 422,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375724370",
+        "title": "Anil's Ghost",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Ondaatje"
+            }
+        ],
+        "publish_date": "2000",
+        "pages": 307,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1400032652",
+        "title": "East Of The Mountains",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Guterson"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 279,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982123918",
+        "title": "Honey-Don't List",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christina Lauren"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 308,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764208881",
+        "title": "To Honor And Trust",
+        "subtitle": "Bridal Veil Island",
+        "authors": [
+            {
+                "name": "Tracie Peterson"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 362,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0764227696",
+        "title": "Land Of My Heart",
+        "subtitle": "Heirs Of Montana, Book 1",
+        "authors": [
+            {
+                "name": "Tracie Peterson"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 392,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781643960203",
+        "title": "Dead Boyfriends",
+        "subtitle": "Amckenzie Novel",
+        "authors": [
+            {
+                "name": "David Housewright"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 269,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Down & Out Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Lutz, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250823304",
+        "title": "Shallows",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Matt Goldman"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 317,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781943402434",
+        "title": "Grind Joint",
+        "subtitle": "A Penns River Crime Novel",
+        "authors": [
+            {
+                "name": "Dana King"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 295,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Down & Out Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Lutz, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982173678",
+        "title": "State Of Terror",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hillary Rodham Clinton"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 494,
+        "price": 18,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "S & S / St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250145260",
+        "title": "Madness Of Crowds",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 439,
+        "price": 17.4,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780805096606",
+        "title": "Mirror & The Light",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hilary Mantel"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 757,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781609456764",
+        "title": "Fresh Water For Flowers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Valerie Perrin"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 483,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984898876",
+        "title": "Hamnet",
+        "subtitle": "A Novel Of The Plague",
+        "authors": [
+            {
+                "name": "Maggie O'farrell"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 305,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

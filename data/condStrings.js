@@ -19,6 +19,7 @@ module.exports = {
     // Edgewear
     few:  "Faint Edgewear.",
     lew:  "Light Edgewear.",
+    lewo: "Lightly Edgeworn.",
 
     // General Wear
     fw:  "Faint Wear.",
