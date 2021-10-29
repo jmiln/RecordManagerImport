@@ -33,18 +33,10 @@
 
 ## Conditions update
 
-- Work out how to make conditions more variable
-    * This seems to be a lot more complicated than I'd thought, the simple single matches would be fine, but it gets hard fast
-        - Simple ones like the condition_type:location example (ex: few:rw  (Faint edgewear to rear wrap)) should be easy enough
-        - If going this route for the simple way, maybe make another section in the conditions file for this, where instead of
-          `faint edgewear to rear wrap`, it's `faint edgewear to ^`, then replace the `^` with the given location, be it rear wrap or dj, etc
+- Should stick in vg/vg-/g etc as extra options
 
-        - Bunching em and getting proper grammar out of it though, is a whole other matter
-    * Somehow parse out each option, so it can be "creasing to rear wrap" vs front wrap, etc
-        - Possibly something along the lines of condition_type:location (ex: few:rw  (Faint edgewear to rear wrap))?
-        - If going this route, it would likely be worth trying to bunch em by location too, like if there are multiple for rear wrap (Creasing & small tear, etc)
-            * Possibly seperate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
-    * Should stick in vg/vg-/g etc as extra options
+- Work out how to make conditions more variable
+    * Possibly seperate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
 
 
 ## Special descriptors for titles (BC, LP, signed 1st, etc)

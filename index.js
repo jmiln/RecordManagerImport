@@ -5,7 +5,7 @@ const { exec } = require("child_process");
 
 const readline = require("readline");
 
-const {condMap, condLocs} = require(__dirname + "/data/condLocs.js");  // eslint-disable-line no-unused-vars
+const {condMap, condLocs, modularCond} = require(__dirname + "/data/condLocs.js");  // eslint-disable-line no-unused-vars
 
 const helpArr   = require(__dirname + "/data/helpOut.js");
 const kwMap     = require(__dirname + "/data/keywordMap.js");
@@ -529,9 +529,25 @@ function parseCond() {
         if (argv.conditions?.length) {
             // Go through the condition map and check for matches, so it can keep the
             // conditions in the order specified there
+            argv.conditions = argv.conditions.map(condLoc => {
+                const [cond, loc] = condLoc.split(":");
+                return {
+                    str: cond,
+                    loc: loc
+                };
+            });
             for (const condition of Object.keys(condMap)) {
-                if (argv.conditions.includes(condition)) {
-                    conds.push(condMap[condition]);
+                const foundCond = argv.conditions.find(cond => cond.str === condition);
+                if (foundCond) {
+                    if (foundCond.loc && modularCond[foundCond.str]) {
+                        let thisLoc = condLocs[foundCond.loc];
+                        if (!thisLoc) {
+                            thisLoc = foundCond.loc;
+                        }
+                        conds.push(modularCond[foundCond.str].replace("^", thisLoc));
+                    } else {
+                        conds.push(condMap[condition]);
+                    }
                 }
             }
         }

@@ -66,10 +66,15 @@ module.exports.condMap = {
     lewbd: "Light Edgewear to Boards & DJ.",
 
     // PB Wraps creased
+    cr:   "creased",
     fwcr: "Front Wrap Creased.",
     rwcr: "Rear Wrap Creased.",
     fpcr: "Front Page Creased.",
     rpcr: "Rear Page Creased.",
+
+    // Tears
+    ste: "Small Tear",
+    tte: "Tiny Tear",
 
     // DJ stuff
     fewd: "Faint Edgewear to DJ.",
@@ -80,34 +85,56 @@ module.exports.condMap = {
     myl:  "DJ in Mylar Wrap.",
 };
 
+// Conditions that can have locations inserted instead of being statically assigned one
+module.exports.modularCond = {
+    // Edgewear
+    few:  "Faint Edgewear to ^.",
+    lew:  "Light Edgewear tp ^.",
+    lewo: "^ Lightly Edgeworn.",
+
+    // General Wear
+    fw:  "Faint Wear to ^.",
+    lw:  "Light Wear to ^.",
+
+    // Toning
+    fton: "Faint toning to ^.",
+    lton: "Light toning to ^.",
+    ton:  "Toning to ^.",
+
+    // Foxing
+    ffox: "faint foxing to ^.",
+    lfox: "light foxing to ^.",
+
+    // Soiling
+    fsoi: "faint soiling to ^.",
+    lsoi: "light soiling to ^.",
+
+    // X creased
+    cr: "^ Creased.",
+
+    // Tears
+    ste: "small tear to ^.",
+    tte: "tiny tear to ^.",
+};
+
 // The different parts of the book to name off
 module.exports.condLocs = {
     b:    "boards",
-    ep:   "early pages",
-    rp:   "rear pages",
-    pe:   "page edges",
-    fw:   "front wrap",
-    rw:   "rear wrap",
-    ffep: "ffep",
-    rfep: "rfep",
+    bdj:  "boards & dj",
     d:    "dj",
     dj:   "dj",
-    djv:  "dj verso",
-    djrf: "dj rear flap",
     djff: "dj front flap",
+    djrf: "dj rear flap",
+    djv:  "dj verso",
+    ep:   "early pages",
+    ffep: "ffep",
+    fw:   "front wrap",
+    p:    "pages",
+    pe:   "page edges",
+    rfep: "rfep",
+    rp:   "rear pages",
+    rw:   "rear wrap",
 };
-
-// The order to check through the locations
-// Start with miscellaneous, then the book itself, then dj conditions
-module.exports.condOrder = [
-    "misc",
-    "fw",
-    "rw",
-    "ffep",
-    "dj",
-    "djrf",
-    "djff"
-];
 
 
 
