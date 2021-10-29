@@ -731,25 +731,6 @@
         ]
     },
     {
-        "isbn": "9781538731857",
-        "title": "City of Endless Night",
-        "subtitle": "A Penergast Novel",
-        "authors": [
-            {
-                "name": "Douglas Preston"
-            },
-            {
-                "name": "Lincoln Child"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ]
-    },
-    {
         "isbn": "9781538701379",
         "title": "Old Bones",
         "subtitle": "",
@@ -30939,27 +30920,6 @@
         ]
     },
     {
-        "isbn": "9780008444631",
-        "title": "Clockmaker's Wife",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Daisy Wood"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Avon Books / Harper"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "London"
-            }
-        ]
-    },
-    {
         "isbn": "9780525436034",
         "title": "Other Americans",
         "subtitle": "A Novel",
@@ -31364,6 +31324,326 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008444631",
+        "title": "Clockmaker's Wife",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daisy Wood"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 384,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0140293248",
+        "title": "Girls' Guide To Hunting And Fishing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melissa Bank"
+            }
+        ],
+        "publish_date": "2000",
+        "pages": 274,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524749361",
+        "title": "How To Raise An Elephant",
+        "subtitle": "No. 1 Ladies' Detective Agency",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 242,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pantheon Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464202483",
+        "title": "Murder And Mendelssohn",
+        "subtitle": "A Phryne Fisher Mystery",
+        "authors": [
+            {
+                "name": "Kerry Greenwood"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 338,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062945037",
+        "title": "Good Morning, Midnight",
+        "subtitle": "A Dalziel & Pascoe Mystery",
+        "authors": [
+            {
+                "name": "Reginald Hill"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 465,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538731857",
+        "title": "City Of Endless Night",
+        "subtitle": "A Penergast Novel",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 378,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250842350",
+        "title": "Blithe Images & Song Of The West",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 370,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416516361",
+        "title": "Separation Of Power",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Vince Flynn"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": "unpaginated",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pocket Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538750582",
+        "title": "One Good Deed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 448,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451212054",
+        "title": "Pacific Alamo",
+        "subtitle": "The Battle For Wake Island",
+        "authors": [
+            {
+                "name": "John Wukovits"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 308,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Caliber / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780806540634",
+        "title": "Churchill's Shadow Raiders",
+        "subtitle": "The Race To Develop Radar, World War Ii's Invisible Secret Weapon",
+        "authors": [
+            {
+                "name": "Damien Lewis"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 389,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Citadel / Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781473230118",
+        "title": "Andromeda Anthology",
+        "subtitle": "Containing A For Andromeda And The Andromeda Breakthrough",
+        "authors": [
+            {
+                "name": "Fred Hoyle"
+            },
+            {
+                "name": "John Elliott"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 394,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gollancz / Orion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
             }
         ]
     }
