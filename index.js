@@ -452,6 +452,45 @@ function processArgv() {
         argv.price = null;
     }
 
+    if (argv.condition?.length) {
+        const condOut = parseCond();
+        if (condOut[1].length) {
+            outArr.push(`COND=${condOut[1]}`);
+        }
+        if (condOut[2].length) {
+            outArr.push(`COND2=${condOut[2]}`);
+        }
+    }
+
+
+    if (argv.keywords) {
+        let ix = 1;
+        if (typeof argv.keywords === "string") {
+            const keywords = argv.keywords.split(",");
+            if (keywords.lengh > 5) return console.log("You can only have 5 keywords MAX.");
+
+            for (const kw of keywords.map(k => k.toLowerCase())) {
+                // Check against a list of em from data/keywordMap.js
+                if (Object.keys(kwMap).indexOf(kw) > -1) {
+                    outArr.push(`KW${ix}=${kwMap[kw]}`);
+                    ix += 1;
+                } else if (kw.length > 3) {
+                    // If it's not in the keyword map, and it's larger than the 3 characters that the actual keywords are, assume it's a keyword itself?
+                    outArr.push(`KW${ix}=${kw}`);
+                    ix += 1;
+                }
+            }
+        }
+
+        globalKWLen = ix-1;
+    }
+
+    return outArr;
+}
+
+// Work out all the conditions
+function parseCond() {
+    const condOut = {1: "", 2: ""};
     let spiralStr = "";
     if (argv.conditions.includes("spc")) {
         spiralStr = " with spiral comb binding";
@@ -461,7 +500,7 @@ function processArgv() {
     }
 
     const frenchStr = argv.french ? "FRENCH " : "";
-    if (argv.condition) {
+    if (argv.condition?.length) {
         let startStr = "";
         const endStr = "Pages Clean & Tight.";
         const condMap = require("./data/condStrings.js");
@@ -495,7 +534,6 @@ function processArgv() {
         conds.push(endStr);
 
         // See how many of the condition strings can fit into the fields
-        const condOut = {1: "", 2: ""};
         let maxFirst = false; // If it needs to go into the 2nd, don't keep putting stuff into the first
         for (const cond of conds) {
             if ((condOut[1].length + cond.length + 2) < MAX_LEN && !maxFirst) {
@@ -511,52 +549,23 @@ function processArgv() {
                 break;
             }
         }
-        if (condOut[1].length) {
-            outArr.push(`COND=${condOut[1]}`);
-        }
-        if (condOut[2].length) {
-            outArr.push(`COND2=${condOut[2]}`);
-        }
     } else {
         const remStr = argv.remainder ? "REMAINDER MARK.  " : "";
 
         // Work out some default conditions
         if (argv.pb) {
             // Default condition to start with for pb books
-            outArr.push(`COND=VG IN ${frenchStr}WRAPS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`);
+            condOut[1] = `COND=VG IN ${frenchStr}WRAPS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`;
         } else if (argv.hc && argv.dj) {
             // Default condition to start with for hc books with a dj
-            outArr.push(`COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`);
+            condOut[1] = `COND=VG/VG  ${remStr}PAGES CLEAN & TIGHT.`;
         } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
             //  - This will be vg in pictorial boards, cloth, etc
-            outArr.push(`COND=VG IN X BOARDS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`);
+            condOut[1] = `COND=VG IN X BOARDS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`;
         }
     }
-
-    if (argv.keywords) {
-        let ix = 1;
-        if (typeof argv.keywords === "string") {
-            const keywords = argv.keywords.split(",");
-            if (keywords.lengh > 5) return console.log("You can only have 5 keywords MAX.");
-
-            for (const kw of keywords.map(k => k.toLowerCase())) {
-                // Check against a list of em from data/keywordMap.js
-                if (Object.keys(kwMap).indexOf(kw) > -1) {
-                    outArr.push(`KW${ix}=${kwMap[kw]}`);
-                    ix += 1;
-                } else if (kw.length > 3) {
-                    // If it's not in the keyword map, and it's larger than the 3 characters that the actual keywords are, assume it's a keyword itself?
-                    outArr.push(`KW${ix}=${kw}`);
-                    ix += 1;
-                }
-            }
-        }
-
-        globalKWLen = ix-1;
-    }
-
-    return outArr;
+    return condOut;
 }
 
 // Go through and see if there is a matching publisher available
