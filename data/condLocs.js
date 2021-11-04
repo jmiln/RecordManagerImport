@@ -77,6 +77,7 @@ module.exports.condMap = {
     tte: "Tiny Tear",
 
     // DJ stuff
+    dsun: "DJ Lightly Sunned at Spine.",
     fewd: "Faint Edgewear to DJ.",
     lewd: "Light Edgewear to DJ.",
     fwd:  "Faint Wear to DJ.",
@@ -100,6 +101,9 @@ module.exports.modularCond = {
     fton: "Faint toning to ^.",
     lton: "Light toning to ^.",
     ton:  "Toning to ^.",
+
+    // Sunning (DJ lightly sunned at spine)
+    dsun: "DJ Lightly Sunned at ^.",
 
     // Foxing
     ffox: "faint foxing to ^.",
@@ -134,6 +138,7 @@ module.exports.condLocs = {
     rfep: "rfep",
     rp:   "rear pages",
     rw:   "rear wrap",
+    sp:   "spine",
 };
 
 

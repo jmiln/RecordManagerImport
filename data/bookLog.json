@@ -33684,5 +33684,32 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "044651652X",
+        "title": "Bridges Of Madison County",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert James Waller"
+            }
+        ],
+        "publish_date": "1992",
+        "pages": 171,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
