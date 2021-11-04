@@ -1034,13 +1034,15 @@
     },
     {
         "name": [
-            "Multnomah Publishers"
+            "Multnomah Publishers",
+            "Multnomah Books"
         ],
         "aliases": [
             "Multnomah"
         ],
         "locations": [
-            "Sisters, OR."
+            "Sisters, OR.",
+            "Sisters, Or."
         ]
     },
     {
@@ -2431,6 +2433,46 @@
     {
         "name": [
             "S & S / St. Martin's Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "One More Chapter / Harper"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Hawthorne Books"
+        ],
+        "locations": [
+            "Portland, Or."
+        ]
+    },
+    {
+        "name": [
+            "Shadow Mountain"
+        ],
+        "locations": [
+            "Salt Lake City, Ut."
+        ]
+    },
+    {
+        "name": [
+            "Macadam/cage Pub."
+        ],
+        "locations": [
+            "San Francisco"
+        ]
+    },
+    {
+        "name": [
+            "Aspect/warner Books"
         ],
         "locations": [
             "New York"

@@ -7570,27 +7570,6 @@
         ]
     },
     {
-        "isbn": "9781538701140",
-        "title": "Whole Truth",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Baldacci"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781101967690",
         "title": "Rooster Bar",
         "subtitle": "",
@@ -8372,27 +8351,6 @@
         "publishers": [
             {
                 "name": "Voice / Hyperion"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0684833395",
-        "title": "Catch-22",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Joseph Heller"
-            }
-        ],
-        "publish_date": "1996",
-        "publishers": [
-            {
-                "name": "Simon & Schuster"
             }
         ],
         "publish_places": [
@@ -13369,27 +13327,6 @@
         ]
     },
     {
-        "isbn": "9781496731968",
-        "title": "Carrot Cake Murder",
-        "subtitle": "A Hannah Swensen Mystery With Recipes!",
-        "authors": [
-            {
-                "name": "Joanne Fluke"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Kensington Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250029041",
         "title": "Fatal Winter",
         "subtitle": "A Max Tudor Novel",
@@ -15828,27 +15765,6 @@
         "publishers": [
             {
                 "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780525559474",
-        "title": "Midnight Library",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Matt Haig"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Viking / Penguin"
             }
         ],
         "publish_places": [
@@ -23810,27 +23726,6 @@
         ]
     },
     {
-        "isbn": "9781476738024",
-        "title": "Man Called Ove",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Fredrik Backman"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Washington Square Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781338262186",
         "title": "Tales Of Beedle The Bard",
         "subtitle": "",
@@ -30707,27 +30602,6 @@
         ]
     },
     {
-        "isbn": "9780062834867",
-        "title": "Cellist",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Daniel Silva"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Harper / Harper-Collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525618553",
         "title": "Serpentine",
         "subtitle": "An Alex Delaware Novel",
@@ -32198,6 +32072,1611 @@
         "publishers": [
             {
                 "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142427309",
+        "title": "All The Truth That's In Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Berry"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 274,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781420128857",
+        "title": "Tempestuous Eden",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Heather Graham"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 276,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zebra / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316016391",
+        "title": "Then We Came To The End",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joshua Ferris"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": "unpaginated",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062982018",
+        "title": "Last Romantics",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tara Conklin"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 386,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679723110",
+        "title": "Grendel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Gardner"
+            }
+        ],
+        "publish_date": "1989",
+        "pages": 174,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143128755",
+        "title": "Eileen",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ottessa Moshfegh"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 260,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476738024",
+        "title": "Man Called Ove",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 337,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765380890",
+        "title": "Irish Above All",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Pat Kelly"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 511,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375758591",
+        "title": "Red Gold",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 258,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812968729",
+        "title": "Blood Of Victory",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 246,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812981827",
+        "title": "Mission To Paris",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 255,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375758270",
+        "title": "Polish Officer",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2001",
+        "pages": 294,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812967968",
+        "title": "Dark Voyage",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 264,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375759994",
+        "title": "Dark Star",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 446,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812977387",
+        "title": "Spies Of The Balkans",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 268,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812977370",
+        "title": "Spies Of Warsaw",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 266,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781539941408",
+        "title": "Gone Forever",
+        "subtitle": "A Jack Widow Novel",
+        "authors": [
+            {
+                "name": "Scott Blade"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 408,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Black Lion Media"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312541538",
+        "title": "Still Life",
+        "subtitle": "A Chief Inspector Gamache Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 312,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143127512",
+        "title": "Secret Place",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 452,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312614836",
+        "title": "Blue Heaven",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 344,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496731968",
+        "title": "Carrot Cake Murder",
+        "subtitle": "A Hannah Swensen Mystery With Recipes!",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 342,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684833395",
+        "title": "Catch-22",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joseph Heller"
+            }
+        ],
+        "publish_date": "1996",
+        "pages": 453,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984802897",
+        "title": "Hidden Salem",
+        "subtitle": "A Bishop / Special Crimes Unit Novel",
+        "authors": [
+            {
+                "name": "Kay Hooper"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 320,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525535478",
+        "title": "Breaker",
+        "subtitle": "A Peter Ash Novel",
+        "authors": [
+            {
+                "name": "Nick Petrie"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 416,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812996494",
+        "title": "Hero Of France",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 234,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316045186",
+        "title": "Hollywood Moon",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joseph Wambaugh"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 344,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060515188",
+        "title": "Anansi Boys",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 336,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538704585",
+        "title": "2 Sisters Detective Agency",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Candice Fox"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 379,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525559474",
+        "title": "Midnight Library",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Matt Haig"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 288,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781595547835",
+        "title": "Butterfly Palace",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Coble"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 324,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780785228523",
+        "title": "Three Missing Days",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Coble"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 339,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764213502",
+        "title": "Lost Heiress",
+        "subtitle": "A Ladies Of The Manor Novel",
+        "authors": [
+            {
+                "name": "Roseanna M. White"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 439,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781595546814",
+        "title": "Love By The Book",
+        "subtitle": "A Ladies Of Summerhill Novel",
+        "authors": [
+            {
+                "name": "Cara Lynn James"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 314,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781496441843",
+        "title": "Her Mother's Hope",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Francine Rivers"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 480,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "0880709383",
+        "title": "Love To Water My Soul",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "publish_date": "1996",
+        "pages": 368,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Multnomah Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sisters, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780008354282",
+        "title": "Last Letter From Juliet",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melanie Hudson"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 415,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "One More Chapter / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062839039",
+        "title": "Summer Country",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lauren Willig"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 459,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781509835836",
+        "title": "Between Sisters",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 430,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425236796",
+        "title": "Turning Of Anne Merrick",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christine Blevins"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 440,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312099436",
+        "title": "Women Of The Silk",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gail Tsukiyama"
+            }
+        ],
+        "publish_date": "1993",
+        "pages": 278,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062955326",
+        "title": "Poppy Wife",
+        "subtitle": "A Novel Of The Great War",
+        "authors": [
+            {
+                "name": "Caroline Scott"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 423,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385721813",
+        "title": "When The Emperor Was Divine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Julie Otsuka"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 144,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524796396",
+        "title": "Lost Roses",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martha Hall Kelly"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 450,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781402294150",
+        "title": "Paris Architect",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Charles Belfoure"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 374,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "0060932759",
+        "title": "Daughter Of Fortune",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Isabel Allende"
+            }
+        ],
+        "publish_date": "2000",
+        "pages": 399,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Perennial / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780986000782",
+        "title": "I Loved You More",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tom Spanbauer"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 466,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Hawthorne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781629728544",
+        "title": "In Times Of Rain And War",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Camron Wright"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 312,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Shadow Mountain"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Salt Lake City, Ut."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062434029",
+        "title": "Shakespeare For Squirrels",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christopher Moore"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 271,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834867",
+        "title": "Cellist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 471,
+        "price": 17.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525951582",
+        "title": "Caught",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 388,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399157042",
+        "title": "Jungle",
+        "subtitle": "A Novel Of The Oregon Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Jack Du Brul"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 406,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455586622",
+        "title": "End Game",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 431,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538701140",
+        "title": "Whole Truth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 473,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743276733",
+        "title": "Stalin's Ghost",
+        "subtitle": "An Arkady Renko Novel",
+        "authors": [
+            {
+                "name": "Martin Cruz Smith"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 333,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pocket Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312614164",
+        "title": "Rule Against Murder A Chief Inspector Gamache Novel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 322,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425211894",
+        "title": "Skeleton Coast",
+        "subtitle": "A Novel Of The Oregon Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Jack Du Brul"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 373,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781931561631",
+        "title": "Mary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janis Cooke Newman"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 705,
+        "price": 18,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Macadam/cage Pub."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco"
+            }
+        ]
+    },
+    {
+        "isbn": "0553350099",
+        "title": "Moving Finger",
+        "subtitle": "Part Of The Agatha Christie Mystery Collection",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "publish_date": "1984",
+        "pages": 181,
+        "price": 8,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492699286",
+        "title": "Gallows Court",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Martin Edwards"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 349,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780763662622",
+        "title": "Feed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "M.t. Anderson"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 299,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "0446526681",
+        "title": "Lion's Blood",
+        "subtitle": "A Novel Of Slavery And Freedom In An Alternate America",
+        "authors": [
+            {
+                "name": "Steven Barnes"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 461,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Aspect / Warner Books"
             }
         ],
         "publish_places": [
