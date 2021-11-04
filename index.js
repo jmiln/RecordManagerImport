@@ -506,6 +506,8 @@ function parseCond() {
     if (argv.conditions.includes("spw")) spiralStr = " with spiral wire binding";
     if (argv.french)                     frenchStr = "FRENCH ";
 
+    debugLog("[parseCond] argv.conditions: ", argv.conditions);
+
     if (argv.condition?.length) {
         let startStr = "";
         const conds = [];
@@ -531,6 +533,7 @@ function parseCond() {
             // conditions in the order specified there
             argv.conditions = argv.conditions.map(condLoc => {
                 const [cond, loc] = condLoc.split(":");
+                debugLog("[parseCond] cond, loc: ", [cond, loc]);
                 return {
                     str: cond,
                     loc: loc
@@ -585,6 +588,7 @@ function parseCond() {
             condOut[1] = `COND=${mainCond} IN X BOARDS${spiralStr}.  ${remStr}PAGES CLEAN & TIGHT.`;
         }
     }
+    debugLog("[parseCond] condOut: ", condOut);
     return condOut;
 }
 
