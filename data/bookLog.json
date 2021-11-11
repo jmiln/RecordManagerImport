@@ -33711,5 +33711,945 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780008312824",
+        "title": "Cottage Of Curiosities",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Celia Anderson"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 451,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316320351",
+        "title": "Sweetheart Deal",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Polly Dugan"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 309,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984880994",
+        "title": "Man Who Died Twice",
+        "subtitle": "A Thursday Murder Club Mystery",
+        "authors": [
+            {
+                "name": "Richard Osman"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 372,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pamela Dorman / Viking"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984878878",
+        "title": "Agent Running In The Field",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Le Carre"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 281,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316499347",
+        "title": "21st Birthday",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 408,
+        "price": 17.4,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781934609194",
+        "title": "Good Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Ironside"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 340,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Felony & Mayhem Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464214813",
+        "title": "Surprise For Christmas And Other Seasonal Mysteries",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Martin Edwards"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 305,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781938849619",
+        "title": "Spy On The Tennessee Walker",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Linda Lee Peterson"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 247,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Prospect Park Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Altadena, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781455532940",
+        "title": "Christmas Train",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 337,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416533252",
+        "title": "God Of Animals",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Aryn Kyle"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 305,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061863158",
+        "title": "Seeing Stars",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diane Coplin Hammond"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 459,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375714368",
+        "title": "Cutting For Stone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Abraham Verghese"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 667,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0142001805",
+        "title": "Eyre Affair",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jasper Fforde"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 374,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312427085",
+        "title": "Out Stealing Horses",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Per Petterson"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 238,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060931825",
+        "title": "Why She Left Us",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rahna Reiko Rizzuto"
+            }
+        ],
+        "publish_date": "2000",
+        "pages": 295,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062698162",
+        "title": "Butterfly Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rene Denfeld"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 264,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393047571",
+        "title": "Heaven Of Mercury",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brad Watson"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 333,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781841958231",
+        "title": "Dream Angus",
+        "subtitle": "The Celtic God Of Dreams (Myths, The)",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 173,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Canongate"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416540564",
+        "title": "Scandal Of The Season",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sophie Gee"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 351,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780871139443",
+        "title": "Ancestor Stones",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Aminatta Forna"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 317,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982133306",
+        "title": "Revival Season",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Monica West"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 292,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0871138018",
+        "title": "Toughest Indian In The World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sherman Alexie"
+            }
+        ],
+        "publish_date": "2000",
+        "pages": 238,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780805098532",
+        "title": "Blood Will Tell",
+        "subtitle": "A Point Last Seen Mystery",
+        "authors": [
+            {
+                "name": "April Henry"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 258,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781770498150",
+        "title": "Seven Dead Pirates",
+        "subtitle": "A Ghost Story",
+        "authors": [
+            {
+                "name": "Linda Bailey"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 296,
+        "price": 11.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tundra Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545665735",
+        "title": "Honest Truth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Gemeinhart"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 229,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616203542",
+        "title": "Beastly Bones",
+        "subtitle": "A Jackaby Novel",
+        "authors": [
+            {
+                "name": "William Ritter"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 295,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "006050918X",
+        "title": "City Of The Beasts",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Isabel Allende"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 406,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545668347",
+        "title": "Game Of Love And Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Martha Brockenbrough"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 329,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338312270",
+        "title": "Tarnished Are The Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rosiee Thor"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": "unpaginated",
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484704219",
+        "title": "Before Tomorrowland",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jeff Jenson"
+            },
+            {
+                "name": "Jonathan Case"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 310,
+        "price": 10.5,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Disney Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Los Angeles, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781932010794",
+        "title": "Series Of Small Maneuvers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Eliot Treichel"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 288,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ooligan Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780374280116",
+        "title": "Grammarians",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cathleen Schine"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 258,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Sarah Crichton Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425259870",
+        "title": "Blood Magick",
+        "subtitle": "Book Three Of The Cousins O'dwyer Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 322,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250130945",
+        "title": "Wife Between Us",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Greer Hendricks"
+            },
+            {
+                "name": "Sarah Pekkanen"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 418,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250200013",
+        "title": "Rain Watcher",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tatiana De Rosnay"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 227,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
