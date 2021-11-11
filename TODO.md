@@ -41,6 +41,7 @@
     * Doing this ends up with it needing to be sorted by the group, then within each group, as well as whatever isn't
       grouped, and grab strings from each abbreviation, as well as trying to turn them into descriptions vs just conditions
       mashed together
+    * In general, not worth the effort
 
 
 ## Special descriptors for titles (BC, LP, signed 1st, etc)
@@ -54,6 +55,10 @@
 
 
 ## Other stuff
+
+- When saving authors, if the last name is 2 words, put an underscore or something else that wouldn't
+  be there naturally, and make it so it just replaces that with a space after putting em in
+    * For this, maybe have another file to map the two between? That way it doesn't have to try and re-fiddle each time
 
 - When checking for publishers, and it finds a result in one with multiple names, it should only return the one(s) that actually match
 
