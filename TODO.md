@@ -56,10 +56,6 @@
 
 ## Other stuff
 
-- When saving authors, if the last name is 2 words, put an underscore or something else that wouldn't
-  be there naturally, and make it so it just replaces that with a space after putting em in
-    * For this, maybe have another file to map the two between? That way it doesn't have to try and re-fiddle each time
-
 - When checking for publishers, and it finds a result in one with multiple names, it should only return the one(s) that actually match
 
 - When inputting publishers and such manually when it doesn't find one, make sure to check the length against the max, and grumble as needed

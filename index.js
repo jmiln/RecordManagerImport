@@ -12,6 +12,7 @@ const kwMap     = require(__dirname + "/data/keywordMap.js");
 const locMap    = require(__dirname + "/data/locations.js");
 const pubMap    = require(__dirname + "/data/pubMap.json");
 const bookLog   = require(__dirname + "/data/bookLog.json");
+const authMap   = require(__dirname + "/data/authMap.js");
 
 const chooseOtherStr = "\n[O] Choose other";
 const cancelStr      = "\n[C] Cancel";
@@ -211,8 +212,16 @@ async function init() {
             const authArr = [...authSet];
 
             for (const auth of authArr) {
-                const name = auth.split(" ");
-                authStr += `${authStr.length ? "; " : ""}${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
+                const foundAuth = authMap[toProperCase(auth)];
+                if (authStr.length) {
+                    authStr += "; ";
+                }
+                if (foundAuth?.format) {
+                    authStr += foundAuth.format;
+                } else {
+                    const name = auth.split(" ");
+                    authStr += `${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
+                }
             }
 
             // This solution via https://stackoverflow.com/a/37511463
