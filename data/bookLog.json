@@ -34651,5 +34651,344 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "1576738167",
+        "title": "Redeeming Love",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Francine Rivers"
+            }
+        ],
+        "publish_date": "2001",
+        "pages": "unpaginated",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Multnomah Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sisters, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780739482339",
+        "title": "Good Guy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dean Koontz"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 523,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739485378",
+        "title": "Almost Dead",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Jackson"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 648,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Zebra / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739465639",
+        "title": "Hey, Good Looking",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fern Michaels"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 446,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Pocket Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739472699",
+        "title": "Fool Me Once",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fern Michaels"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 535,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0739462512",
+        "title": "Every Breath You Take",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Judith Mcnaught"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 637,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739467985",
+        "title": "Vanished",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Robards"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 673,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739484647",
+        "title": "High Noon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 869,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739492376",
+        "title": "Lady Killer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 546,
+        "price": 8.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739468111",
+        "title": "Englisher",
+        "subtitle": "Annie's People, Book 2",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 472,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0765301075",
+        "title": "Forge Of God",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Greg Bear"
+            }
+        ],
+        "publish_date": "2001",
+        "pages": 473,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101911952",
+        "title": "Last Night In Montreal",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emily St. John Mandel"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 230,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

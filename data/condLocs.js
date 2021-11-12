@@ -127,6 +127,8 @@ module.exports.condLocs = {
     bdj:  "boards & dj",
     d:    "dj",
     dj:   "dj",
+    fdj:  "front of dj",
+    rdj:  "rear dj",
     djff: "dj front flap",
     djrf: "dj rear flap",
     djv:  "dj verso",
