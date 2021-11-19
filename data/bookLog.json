@@ -750,30 +750,6 @@
         ]
     },
     {
-        "isbn": "9781538747278",
-        "title": "Scorpion's Tail",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Lincoln Child"
-            },
-            {
-                "name": "Douglas Preston"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780735227422",
         "title": "line in the dark",
         "subtitle": "",
@@ -9632,27 +9608,6 @@
         ]
     },
     {
-        "isbn": "9780345483447",
-        "title": "Summer Island",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "publish_date": "2004",
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250229533",
         "title": "Great Alone",
         "subtitle": "",
@@ -10055,27 +10010,6 @@
         ]
     },
     {
-        "isbn": "9781538748442",
-        "title": "Run Away",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Harlan Coben"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250028921",
         "title": "Don't Ever Get Old",
         "subtitle": "Buck Shatz Series, book 1",
@@ -10324,27 +10258,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781616208684",
-        "title": "An American Marriage",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Tayari Jones"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Algonquin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Chapel Hill, Nc."
             }
         ]
     },
@@ -30560,27 +30473,6 @@
         ]
     },
     {
-        "isbn": "9780593087022",
-        "title": "Ocean Prey",
-        "subtitle": "A Lucas Davenport And Virgil Flowers Novel",
-        "authors": [
-            {
-                "name": "John Sandford"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780778331452",
         "title": "Danger In Numbers",
         "subtitle": "",
@@ -32667,33 +32559,6 @@
         "publishers": [
             {
                 "name": "Berkley Books/penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780525535478",
-        "title": "Breaker",
-        "subtitle": "A Peter Ash Novel",
-        "authors": [
-            {
-                "name": "Nick Petrie"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 416,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
             }
         ],
         "publish_places": [
@@ -34983,6 +34848,1514 @@
         "publishers": [
             {
                 "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765315328",
+        "title": "Spellbinder",
+        "subtitle": "A Love Story With Magical Interruptions",
+        "authors": [
+            {
+                "name": "Melanie Rawn"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 396,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250776648",
+        "title": "Double Threat",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "F. Paul Wilson"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 369,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "061858532X",
+        "title": "Certain Slant Of Light",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Laura Whitcomb"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 282,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Graphia"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425260937",
+        "title": "Hypnotist's Love Story",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liane Moriarty"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 466,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1844133885",
+        "title": "Lord John And The Private Matter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Diana Gabaldon"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 305,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385337519",
+        "title": "Scottish Prisoner",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diana Gabaldon"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 534,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385315279",
+        "title": "Fiery Cross",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Diana Gabaldon"
+            }
+        ],
+        "publish_date": "2001",
+        "pages": 979,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385344432",
+        "title": "Written In My Own Heart's Blood",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diana Gabaldon"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 825,
+        "price": 18.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780999146897",
+        "title": "Shaming Eyes",
+        "subtitle": "A Nick Drake Novel",
+        "authors": [
+            {
+                "name": "Dwight Holing"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 258,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Jackdaw Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9780999146873",
+        "title": "Pity Heart",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dwight Holing"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 257,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Jackdaw Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781603817066",
+        "title": "Derailed",
+        "subtitle": "A Kelly Pruett Mystery",
+        "authors": [
+            {
+                "name": "Mary Keliikoa"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 223,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Camel Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Kenmore, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062499554",
+        "title": "Pretty Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karin Slaughter"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 418,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496733399",
+        "title": "Fresh Brewed Murder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emmeline Duncan"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 232,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066251",
+        "title": "Demon Summer",
+        "subtitle": "A Max Tudor Mystery",
+        "authors": [
+            {
+                "name": "G. M. Malliet"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 382,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538748442",
+        "title": "Run Away",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 406,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781613162385",
+        "title": "Mysterious Bookshop Presents The Best Mystery Stories Of The Year",
+        "subtitle": "2021",
+        "authors": [
+            {
+                "name": "Otto Penzler",
+                "contribution": "edited by"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 454,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mysterious Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401360115",
+        "title": "Shroud Of The Thwacker",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chris Elliott"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 358,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Miramax / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868916",
+        "title": "Hunting Party",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lucy Foley"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 327,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496717276",
+        "title": "Twice Kissed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Jackson"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 394,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416590972",
+        "title": "Mercy Kill",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lori Armstrong"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 296,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538749975",
+        "title": "River Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "James O. Born"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 430,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101986455",
+        "title": "Home",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 385,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715468",
+        "title": "20th Victim",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 415,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525538226",
+        "title": "Wolf Pack",
+        "subtitle": "A Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 386,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501101656",
+        "title": "Ink And Bone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Unger"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 342,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812983968",
+        "title": "Deadly Shade Of Gold",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John D. Macdonald"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 401,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812984026",
+        "title": "Long Lavender Look",
+        "subtitle": "A Travis Mcgee Novel",
+        "authors": [
+            {
+                "name": "John D. Macdonald"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 320,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0226848744",
+        "title": "Murder In Canton",
+        "subtitle": "A Judge Dee Mystery",
+        "authors": [
+            {
+                "name": "Robert Hans Van Gulik"
+            }
+        ],
+        "publish_date": "1993",
+        "pages": 207,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "University Of Chicago Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chicago"
+            }
+        ]
+    },
+    {
+        "isbn": "0385505833",
+        "title": "Skipping Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "publish_date": "2001",
+        "pages": 177,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345483447",
+        "title": "Summer Island",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 427,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781472205315",
+        "title": "Place Called Winter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick Gale"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 368,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tinder Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781542019446",
+        "title": "Unfinished Story",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joseph Elliott"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 326,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781565126800",
+        "title": "Girl Who Fell From The Sky",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Heidi W. Durrow"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 264,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "1565124405",
+        "title": "In The Land Of Second Chances",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "George Shaffner"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 296,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250204028",
+        "title": "Migrations",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Charlotte Mcconaghy"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 256,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446532280",
+        "title": "Younger Gods",
+        "subtitle": "The Dreamers, Book 4",
+        "authors": [
+            {
+                "name": "David Eddings"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 410,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Aspect/warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501153198",
+        "title": "Favorite Sister",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jessica Knoll"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 374,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385544184",
+        "title": "Guardians",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 370,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781596912328",
+        "title": "Terra Incognita",
+        "subtitle": "A Novel Of The Roman Empire",
+        "authors": [
+            {
+                "name": "Ruth Downie"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 384,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593087022",
+        "title": "Ocean Prey",
+        "subtitle": "A Lucas Davenport And Virgil Flowers Novel",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 423,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525535478",
+        "title": "Breaker",
+        "subtitle": "A Peter Ash Novel",
+        "authors": [
+            {
+                "name": "Nick Petrie"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 416,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399588853",
+        "title": "Dead Letters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Caite Dolan-Leach"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 332,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524733452",
+        "title": "Squeeze Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Carl Hiaasen"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 336,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525542087",
+        "title": "Robert B. Parker's Fool's Paradise",
+        "subtitle": "A Jesse Stone Novel",
+        "authors": [
+            {
+                "name": "Mike Lupica"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 337,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984880963",
+        "title": "Thursday Murder Club",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Richard Osman"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 351,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pamela Dorman / Viking"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538747278",
+        "title": "Scorpion's Tail",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lincoln Child"
+            },
+            {
+                "name": "Douglas Preston"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 401,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439172261",
+        "title": "Shadow Of Your Smile",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Higgins Clark"
+            }
+        ],
+        "pages": 319,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743264914",
+        "title": "I Heard That Song Before",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Higgins Clark"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 318,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439180969",
+        "title": "I'll Walk Alone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Higgins Clark"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 337,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061128851",
+        "title": "What The Dead Know",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laura Lippman"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 373,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062905536",
+        "title": "Divided Loyalty",
+        "subtitle": "An Inspector Ian Rutledge Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 327,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984802811",
+        "title": "Social Graces",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Renee Rosen"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 382,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062653086",
+        "title": "Family Fang",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kevin Wilson"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 309,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616208684",
+        "title": "American Marriage",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tayari Jones"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 317,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818355",
+        "title": "Book Of Two Ways",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 417,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425287187",
+        "title": "Whiskers In The Dark",
+        "subtitle": "A Mrs. Murphy Mystery",
+        "authors": [
+            {
+                "name": "Rita Mae Brown"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 261,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062986375",
+        "title": "Poirot Investigates",
+        "subtitle": "A Hercule Poirot Collection",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 254,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
             }
         ],
         "publish_places": [

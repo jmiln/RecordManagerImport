@@ -2525,5 +2525,37 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Graphia"
+        ],
+        "locations": [
+            "Boston"
+        ]
+    },
+    {
+        "name": [
+            "Camel Press"
+        ],
+        "locations": [
+            "Kenmore, Wa."
+        ]
+    },
+    {
+        "name": [
+            "University Of Chicago Press"
+        ],
+        "locations": [
+            "Chicago"
+        ]
+    },
+    {
+        "name": [
+            "Tinder Press"
+        ],
+        "locations": [
+            "London"
+        ]
     }
 ]
