@@ -10815,27 +10815,6 @@
         ]
     },
     {
-        "isbn": "9781524746841",
-        "title": "Woods",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Harlan Coben"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780140231700",
         "title": "Berlin Noir",
         "subtitle": "",
@@ -12273,27 +12252,6 @@
             }
         ],
         "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062271648",
-        "title": "Garden Of Lamentations",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Deborah Crombie"
-            }
-        ],
-        "publish_date": "2017",
         "publishers": [
             {
                 "name": "William Morrow"
@@ -14595,27 +14553,6 @@
         ]
     },
     {
-        "isbn": "9781101996980",
-        "title": "Infinite Sea",
-        "subtitle": "The Second Book Of The 5th Wave",
-        "authors": [
-            {
-                "name": "Rick Yancey"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Speak / Penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780553535242",
         "title": "Last Monster",
         "subtitle": "",
@@ -15720,27 +15657,6 @@
         "publishers": [
             {
                 "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780385741279",
-        "title": "We Were Liars",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "E. Lockhart"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Ember / Random House"
             }
         ],
         "publish_places": [
@@ -36356,6 +36272,771 @@
         "publishers": [
             {
                 "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316531238",
+        "title": "Chain",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adrian Mckinty"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 357,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446556125",
+        "title": "Star Island",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carl Hiaasen"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 354,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984806086",
+        "title": "Mrs. Jeffries And The Alms Of The Angel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emily Brightwell"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 281,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062271648",
+        "title": "Garden Of Lamentations",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah Crombie"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": "unpaginated",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524746841",
+        "title": "Woods",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 402,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250157751",
+        "title": "Hot To Trot",
+        "subtitle": "An Agatha Raisin Mystery",
+        "authors": [
+            {
+                "name": "M. C. Beaton"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 235,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062271662",
+        "title": "Bitter Feast",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Deborah Crombie"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 372,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679419462",
+        "title": "Lost World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Crichton"
+            }
+        ],
+        "publish_date": "1995",
+        "pages": 393,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250097101",
+        "title": "Purity",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jonathan Franzen"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 598,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador Usa"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316316132",
+        "title": "Less",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andrew Sean Greer"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 261,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312199432",
+        "title": "One Thousand White Women",
+        "subtitle": "The Journals Of May Dodd",
+        "authors": [
+            {
+                "name": "Jim Fergus"
+            }
+        ],
+        "publish_date": "1999",
+        "pages": 436,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0609610309",
+        "title": "Sultan's Harem",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colin Falconer"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 448,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1400043417",
+        "title": "Birds Without Wings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louis De Bernieres"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 554,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451647037",
+        "title": "Chance",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": "unpaginated",
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Howard Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780310266150",
+        "title": "Every Now And Then",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 311,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zondervan Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780310276333",
+        "title": "Learning",
+        "subtitle": "The Bailey Flanigan Series, Book 2",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 332,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zondervan Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780310266174",
+        "title": "Take Two",
+        "subtitle": "Above The Line Series, Book 2",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 316,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zondervan Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "0842382895",
+        "title": "Return",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            },
+            {
+                "name": "Gary Smalley"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 368,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Wheaton, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781414307640",
+        "title": "Forever (Firstborn Series #5)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 346,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781442403550",
+        "title": "City Of Fallen Angels",
+        "subtitle": "The Mortal Instruments, Book 4",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": "unpaginated",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101996980",
+        "title": "Infinite Sea",
+        "subtitle": "The Second Book Of The 5th Wave",
+        "authors": [
+            {
+                "name": "Rick Yancey"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": "unpaginated",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780823440054",
+        "title": "Kingdom Of Ash And Briars",
+        "subtitle": "A Nissera Novel",
+        "authors": [
+            {
+                "name": "Hannah West"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": "358+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Holiday House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250145451",
+        "title": "Grace Year",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kim Liggett"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 407,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385741279",
+        "title": "We Were Liars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E. Lockhart"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": "250+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534438378",
+        "title": "To All The Boys I've Loved Before",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenny Han"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": "355+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481430494",
+        "title": "Always And Forever, Lara Jean",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenny Han"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 325,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442426740",
+        "title": "P.s. I Still Love You",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenny Han"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 337,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062024046",
+        "title": "Insurgent",
+        "subtitle": "Book Two Of The Divergent Series",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 525,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982137458",
+        "title": "In Five Years",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rebecca Serle"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 255,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
             }
         ],
         "publish_places": [

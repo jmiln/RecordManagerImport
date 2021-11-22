@@ -45,6 +45,11 @@ module.exports.condMap = {
     lton: "Light toning to page edges.",
     ton:  "Toning to page edges.",
 
+    // Moisture Ripple
+    fmoi: "Faint moisture ripple",
+    lmoi: "Light moisture ripple",
+
+
     // Foxing to page edges
     ffox: "faint foxing to page edges.",
     lfox: "light foxing to page edges.",
@@ -104,6 +109,10 @@ module.exports.modularCond = {
 
     // Sunning (DJ lightly sunned at spine)
     dsun: "DJ Lightly Sunned at ^.",
+
+    // Moisture Ripples
+    fmoi: "Faint moisture ripple to ^",
+    lmoi: "Light moisture ripple to ^",
 
     // Foxing
     ffox: "faint foxing to ^.",
