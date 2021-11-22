@@ -199,8 +199,8 @@ async function init() {
 
         // Work out the authors as needed
         // TODO Figure out the contributions (edited by, illustrated by, etc)
-        // TODO Not sure how this would be entered automatically, but would help out
-        // TODO when putting a book in after the 1st time/ when it pulls from the bookLog
+        //      Not sure how this would be entered automatically, but would help out
+        //      when putting a book in after the 1st time/ when it pulls from the bookLog
         if (jsonOut?.authors?.length) {
             let authStr = "";
 
@@ -335,7 +335,7 @@ async function init() {
             subtitle: subtitle ? toProperCase(subtitle.replace(/^[-:]/, "").trim()) : "",
             authors: authOut.map(auth => { return {name: auth}; }),
             publish_date: date?.toString(),
-            pages: Number.isInteger(argv.pages) ? parseInt(argv.pages, 10) : "unpaginated",
+            pages: argv.pages ? argv.pages : "unpaginated",
             price: argv.price,
             binding: argv.binding
         };
