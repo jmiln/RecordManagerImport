@@ -729,7 +729,9 @@ async function getPub(pubName, inLocs) {
         const pubRes = await askQuestionV2(`I found the following publishers, which should I use?\n\n${pubChoices.map((p, ix) => `[${ix}] ${p.name}`).join("\n")}\n${chooseOtherStr}${cancelStr}`, resOptions);
         if (pubChoices[pubRes]) {
             out.pub = pubChoices[pubRes].name;
-            inLocs.push(...pubChoices[pubRes].locations);
+            if (pubChoices[pubRes]?.locations) {
+                inLocs.push(...pubChoices[pubRes].locations);
+            }
             if (pubChoices && parseInt(pubRes, 10) === newNum) {
                 out.new = true;
             }
