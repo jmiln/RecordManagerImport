@@ -4,5 +4,8 @@ module.exports = {
     },
     "Jack Du Brul": {
         format: "Du Brul, Jack",
+    },
+    "Robert Hans Van Gulik": {
+        format: "Van Gulick, Robert Hans"
     }
 };

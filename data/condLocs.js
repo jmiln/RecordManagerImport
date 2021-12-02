@@ -81,6 +81,9 @@ module.exports.condMap = {
     ste: "Small Tear",
     tte: "Tiny Tear",
 
+    // Sticker Scar
+    stsc: "sticker scar at ...",
+
     // DJ stuff
     dsun: "DJ Lightly Sunned at Spine.",
     fewd: "Faint Edgewear to DJ.",
@@ -107,6 +110,15 @@ module.exports.modularCond = {
     lton: "Light toning to ^.",
     ton:  "Toning to ^.",
 
+    // Previous owner notes etc.
+    poad:  "Prev. Owner's address label ^^.",
+    poin:  "Prev. Owner's initials ^^.",
+    poins: "Prev. Owner's inscription ^^.",
+    pona:  "Prev. Owner's name ^^.",
+    pono:  "Prev. Owner note ^^.",
+    pobp:  "Prev. Owner bookplate ^^.",
+    post:  "Prev. Owner stamp ^^.",
+
     // Sunning (DJ lightly sunned at spine)
     dsun: "DJ Lightly Sunned at ^.",
 
@@ -128,6 +140,9 @@ module.exports.modularCond = {
     // Tears
     ste: "small tear to ^.",
     tte: "tiny tear to ^.",
+
+    // Sticker scars
+    stsc: "sticker scar at ^",
 };
 
 // The different parts of the book to name off

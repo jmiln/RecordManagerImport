@@ -733,7 +733,8 @@
             "Harper-One",
             "Harper-Perennial",
             "Harper-Teen",
-            "Harper Voyager"
+            "Harper Voyager",
+            "Harper-Luxe / Harper"
         ],
         "aliases": [
             "Harper",
@@ -741,7 +742,6 @@
             "Harpercollins publishers"
         ],
         "locations": [
-            "New York",
             "New York"
         ]
     },
@@ -2564,6 +2564,30 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Atlantic Books / Grove"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Allison & Busby, Limited"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Amazon-Encore"
+        ],
+        "locations": [
+            "Las Vegas, Nv."
         ]
     }
 ]

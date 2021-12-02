@@ -4256,27 +4256,6 @@
         ]
     },
     {
-        "isbn": "9781538719671",
-        "title": "Gambling Man",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Baldacci"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0385480547",
         "title": "Undertaker's Widow",
         "subtitle": "",
@@ -15662,27 +15641,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781464209734",
-        "title": "Murder Of My Aunt",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Richard Hull"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Poisoned Pen Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
             }
         ]
     },
@@ -35587,7 +35545,7 @@
         "subtitle": "A Novel",
         "authors": [
             {
-                "name": "Joseph Elliott"
+                "name": "Walker Boo"
             }
         ],
         "publish_date": "2020",
@@ -37042,6 +37000,881 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781601422477",
+        "title": "Gathering Of Finches",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 387,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Multnomah Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sisters, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781843547228",
+        "title": "White Tiger",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Aravind Adiga"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 321,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Books / Grove"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780749009519",
+        "title": "Rose Garden",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susanna Kearsley"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 478,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Allison & Busby, Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250014085",
+        "title": "Murphys Law",
+        "subtitle": "The First Molly Murphy Mystery",
+        "authors": [
+            {
+                "name": "Rhys Bowen"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 226,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062944290",
+        "title": "Cruel Deception",
+        "subtitle": "A Bess Crawford Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 435,
+        "price": 14.5,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Harper-Luxe / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061764981",
+        "title": "Matter Of Justice",
+        "subtitle": "An Inspector Ian Rutledge Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 330,
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678829",
+        "title": "Forgotten Place",
+        "subtitle": "A Bess Crawford Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 354,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455536375",
+        "title": "Burial Hour",
+        "subtitle": "A Lincoln Rhyme Novel",
+        "authors": [
+            {
+                "name": "Jeffery Deaver"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 735,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765320049",
+        "title": "Hidden Empire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Orson Scott Card"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 335,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719671",
+        "title": "Gambling Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 436,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781935597643",
+        "title": "Dove Season",
+        "subtitle": "A Jimmy Veeder Fiasco",
+        "authors": [
+            {
+                "name": "Johnny Shaw"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 380,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Amazon-Encore"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Las Vegas, Nv."
+            }
+        ]
+    },
+    {
+        "isbn": "9781524745790",
+        "title": "Stay Close",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 387,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451467867",
+        "title": "Punishment She Deserves",
+        "subtitle": "A Lynley Novel",
+        "authors": [
+            {
+                "name": "Elizabeth George"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 360,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781623654481",
+        "title": "Lewis Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter May"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 320,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781477825570",
+        "title": "My Sister's Grave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Dugoni"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 410,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas & Mercer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780375719233",
+        "title": "Leather Maiden",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joe R. Lansdale"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 287,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307455383",
+        "title": "Savage Season",
+        "subtitle": "A Hap And Leonard Novel",
+        "authors": [
+            {
+                "name": "Joe R. Lansdale"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 178,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316311601",
+        "title": "Jackrabbit Smile",
+        "subtitle": "A Hap And Leonard Novel",
+        "authors": [
+            {
+                "name": "Joe R. Lansdale"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 260,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316329415",
+        "title": "Honky Tonk Samurai",
+        "subtitle": "A Hap And Leonard Novel",
+        "authors": [
+            {
+                "name": "Joe R. Lansdale"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 340,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524745073",
+        "title": "Before She Disappeared",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Gardner"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 387,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780393355901",
+        "title": "Fateful Mornings",
+        "subtitle": "A Henry Farrell Novel",
+        "authors": [
+            {
+                "name": "Tom Bouman"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 353,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781783299737",
+        "title": "Warlock Holmes",
+        "subtitle": "The Hell-Hound Of The Baskervilles",
+        "authors": [
+            {
+                "name": "G. S. Denning"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 397,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781783299751",
+        "title": "Warlock Holmes - My Grave Ritual",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "G. S. Denning"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 421,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781785659362",
+        "title": "Warlock Holmes",
+        "subtitle": "The Sign Of Nine",
+        "authors": [
+            {
+                "name": "G. S. Denning"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 432,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781783299713",
+        "title": "Warlock Holmes",
+        "subtitle": "A Study In Brimstone",
+        "authors": [
+            {
+                "name": "G. S. Denning"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 368,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780684842387",
+        "title": "Shilling For Candles",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Josephine Tey"
+            }
+        ],
+        "publish_date": "1998",
+        "pages": 238,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781913527839",
+        "title": "Murder At Monk's Barn",
+        "subtitle": "A 'Perrins, Private Investigators' Mystery",
+        "authors": [
+            {
+                "name": "Cecil Waye"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 203,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dean Street Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464215407",
+        "title": "Port Of London Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Josephine Bell"
+            },
+            {
+                "name": "John Telfer"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 260,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781911413271",
+        "title": "Hole And Corner",
+        "subtitle": "A Golden Age Mystery",
+        "authors": [
+            {
+                "name": "Patricia Wentworth"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 197,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dean Street Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464207426",
+        "title": "Family Matters",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anthony Rolls"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 237,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781464209734",
+        "title": "Murder Of My Aunt",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Hull"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 218,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781913054359",
+        "title": "Billiard-Room Mystery",
+        "subtitle": "Bathurst Mstyeries, Book One",
+        "authors": [
+            {
+                "name": "Brian Flynn"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 177,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dean Street Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781912574896",
+        "title": "Night Of Fear",
+        "subtitle": "A Golden Age Mystery",
+        "authors": [
+            {
+                "name": "Moray Dalton"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 195,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dean Street Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9798589331530",
+        "title": "Layton Court Mystery",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anthony Berkeley"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 239,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Spitfire Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Bath, U.K."
             }
         ]
     }
