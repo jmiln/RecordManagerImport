@@ -531,7 +531,8 @@
     },
     {
         "name": [
-            "Emily Bestler Books"
+            "Emily Bestler Books",
+            "Emily Bestler Books / Atria"
         ],
         "aliases": [
             "Emily Bestler",
@@ -2588,6 +2589,22 @@
         ],
         "locations": [
             "Las Vegas, Nv."
+        ]
+    },
+    {
+        "name": [
+            "Other Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Ebury Press"
+        ],
+        "locations": [
+            "London"
         ]
     }
 ]

@@ -81,8 +81,10 @@ module.exports.condMap = {
     ste: "Small Tear",
     tte: "Tiny Tear",
 
-    // Sticker Scar
+    // Sticker Issues
     stsc: "sticker scar at ...",
+    ssha: "sticker shadow at ...",
+    srem: "sticker remnant at ...",
 
     // DJ stuff
     dsun: "DJ Lightly Sunned at Spine.",
@@ -158,6 +160,7 @@ module.exports.condLocs = {
     djv:  "dj verso",
     ep:   "early pages",
     ffep: "ffep",
+    fe:   "fore-edge",
     fw:   "front wrap",
     p:    "pages",
     pe:   "page edges",
