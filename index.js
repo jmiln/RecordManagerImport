@@ -206,7 +206,7 @@ async function init() {
 
             // Clean the names then make sure that there are no duplicates
             const authSet = new Set(jsonOut.authors.map(auth => {
-                auth.name = auth.name.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+                auth.name = auth.name.normalize("NFD").replace(/ø/g, "o").replace(/[\u0300-\u036f]/g, "");
                 return auth.name.toLowerCase();
             }));
             const authArr = [...authSet];
@@ -1035,7 +1035,9 @@ async function askQuestionV2(question, answers) {
 
 // Clean the control characters out of strings from readline when the arrow keys are pressed
 function cleanControlChars(stringIn) {
-    return stringIn.replace(/(\x9B|\x1B\[|\x1B)[0-?]*[ -/]*[@-~]/g, ""); // eslint-disable-line no-control-regex
+    stringIn = stringIn.replace(/ø/g, "o"); // Replace this specific character
+    stringIn.replace(/(\x9B|\x1B\[|\x1B)[0-?]*[ -/]*[@-~]/g, ""); // eslint-disable-line no-control-regex
+    return stringIn;
 }
 
 // Merge a new publisher into an existing one
