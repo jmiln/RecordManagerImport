@@ -14490,27 +14490,6 @@
         ]
     },
     {
-        "isbn": "9781439157107",
-        "title": "Dog Who Knew Too Much",
-        "subtitle": "A Chet and Bernie Mystery",
-        "authors": [
-            {
-                "name": "Spencer Quinn"
-            }
-        ],
-        "publish_date": "2011",
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781451665178",
         "title": "Fistful Of Collars",
         "subtitle": "A Chet And Bernie Mystery",
@@ -39510,6 +39489,219 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316376358",
+        "title": "Indigo Slam",
+        "subtitle": "An Elvis Cole Novel",
+        "authors": [
+            {
+                "name": "Robert Crais"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 241,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250297709",
+        "title": "Of Mutts And Men",
+        "subtitle": "A Chet & Bernie Mystery",
+        "authors": [
+            {
+                "name": "Spencer Quinn"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 316,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439157107",
+        "title": "Dog Who Knew Too Much",
+        "subtitle": "A Chet & Bernie Mystery",
+        "authors": [
+            {
+                "name": "Spencer Quinn"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": "308+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250297730",
+        "title": "Heart Of Barkness",
+        "subtitle": "A Chet & Bernie Mystery",
+        "authors": [
+            {
+                "name": "Spencer Quinn"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 315,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984823748",
+        "title": "It's Not All Downhill From Here",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terry Mcmillan"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 350,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425260906",
+        "title": "Daring To Dream",
+        "subtitle": "Book One Of The Dream Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 389,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425223871",
+        "title": "Villa",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "pages": 453,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781891830877",
+        "title": "Surrogates",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Venditti"
+            },
+            {
+                "name": "Brett Weldele"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": "158+",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Top Shelf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Marietta, Ga."
             }
         ]
     }
