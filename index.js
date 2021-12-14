@@ -1236,7 +1236,8 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
         title = title
             .replace(/\s*: a novel/i, "")
             .replace(/\s*- a novel/i, "")
-            .replace(/a novel/i, "");
+            .replace(/a novel/i, "")
+            .trim();
         if (!subtitle?.length) {
             subtitle = ": a novel";
         } else {
