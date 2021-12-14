@@ -2614,5 +2614,45 @@
         "locations": [
             "Marietta, Ga."
         ]
+    },
+    {
+        "name": [
+            "Ibooks, Inc."
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Center Street / Hachette"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Harper-Muse"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Collins Crime Club / Harper"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Cumberland House Publishing"
+        ],
+        "locations": [
+            "Nashville, Tn."
+        ]
     }
 ]

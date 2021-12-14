@@ -7,5 +7,8 @@ module.exports = {
     },
     "Robert Hans Van Gulik": {
         format: "Van Gulick, Robert Hans"
+    },
+    "L. E. Modesitt Jr.": {
+        format: "Modesitt, L. E., Jr."
     }
 };

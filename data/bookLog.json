@@ -4072,27 +4072,6 @@
         ]
     },
     {
-        "isbn": "9781982107017",
-        "title": "Light Over London",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Julia Kelly"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Gallery Books / S&S"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780736919678",
         "title": "When The Cat's Away",
         "subtitle": "Jacques And Cleo, Cat Detectives #3",
@@ -5732,27 +5711,6 @@
         "publishers": [
             {
                 "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062868930",
-        "title": "Guest List",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lucy Foley"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "William Morrow"
             }
         ],
         "publish_places": [
@@ -7441,27 +7399,6 @@
         ]
     },
     {
-        "isbn": "9780593085738",
-        "title": "Neon Prey",
-        "subtitle": "a lucas davenport novel",
-        "authors": [
-            {
-                "name": "John Sandford"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781101967690",
         "title": "Rooster Bar",
         "subtitle": "",
@@ -9116,30 +9053,6 @@
         ]
     },
     {
-        "isbn": "9781250069801",
-        "title": "Truly Madly Guilty",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Liane Moriarty"
-            },
-            {
-                "name": "Moriarty Liane"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Flatiron Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0312866151",
         "title": "Where Late The Sweet Birds Sang",
         "subtitle": "",
@@ -9254,27 +9167,6 @@
             }
         ],
         "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062678744",
-        "title": "Black Ascot",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Charles Todd"
-            }
-        ],
-        "publish_date": "2019",
         "publishers": [
             {
                 "name": "William Morrow"
@@ -9524,27 +9416,6 @@
         ]
     },
     {
-        "isbn": "9781250229533",
-        "title": "Great Alone",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250080400",
         "title": "Nightingale",
         "subtitle": "A Novel",
@@ -9688,27 +9559,6 @@
         "publish_places": [
             {
                 "name": "Altadena, Ca."
-            }
-        ]
-    },
-    {
-        "isbn": "9781538736333",
-        "title": "Fair Warning",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Michael Connelly"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -12267,27 +12117,6 @@
         ]
     },
     {
-        "isbn": "9780142424179",
-        "title": "Fault In Our Stars",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "John Green"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781481477826",
         "title": "Spy School Secret Service",
         "subtitle": "",
@@ -13114,27 +12943,6 @@
         ]
     },
     {
-        "isbn": "9781335284808",
-        "title": "Last Bookshop In London",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Madeline Martin"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Hanover Square Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
-            }
-        ]
-    },
-    {
         "isbn": "9780143034902",
         "title": "Shadow Of The Wind",
         "subtitle": "",
@@ -13895,27 +13703,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780778312253",
-        "title": "Virgin River",
-        "subtitle": "Book 1 Of The Virgin River Series",
-        "authors": [
-            {
-                "name": "Robyn Carr"
-            }
-        ],
-        "publish_date": "2007",
-        "publishers": [
-            {
-                "name": "Mira Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -19440,27 +19227,6 @@
         "publishers": [
             {
                 "name": "Harper / Harper-Collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781616955304",
-        "title": "Last Detective",
-        "subtitle": "Introducing Detective Superintendent Peter Diamond",
-        "authors": [
-            {
-                "name": "Peter Lovesey"
-            }
-        ],
-        "publish_date": "2011",
-        "publishers": [
-            {
-                "name": "Soho Crime / Soho Press"
             }
         ],
         "publish_places": [
@@ -39702,6 +39468,2075 @@
         "publish_places": [
             {
                 "name": "Marietta, Ga."
+            }
+        ]
+    },
+    {
+        "isbn": "067942525X",
+        "title": "Intensity",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dean Koontz"
+            }
+        ],
+        "publish_date": "1995",
+        "pages": 308,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "055310666X",
+        "title": "False Memory",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dean Koontz"
+            }
+        ],
+        "publish_date": "1999",
+        "pages": 627,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553804154",
+        "title": "Velocity",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dean Koontz"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 400,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553801430",
+        "title": "By The Light Of The Moon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dean Koontz"
+            },
+            {
+                "name": "Stephen Lang"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 431,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0449908623",
+        "title": "Guardian",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Saul"
+            }
+        ],
+        "publish_date": "1993",
+        "pages": 390,
+        "price": 11.75,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345433300",
+        "title": "Manhattan Hunt Club",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Saul"
+            }
+        ],
+        "publish_date": "2001",
+        "pages": 313,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345433327",
+        "title": "Black Creek Crossing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Saul"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 358,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0743435338",
+        "title": "Diplomatic Immunity",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lois Mcmaster Bujold"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 311,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Baen Publishing / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Riverdale, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0743497848",
+        "title": "This Immortal",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Roger Zelazny"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 174,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ibooks, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312868383",
+        "title": "Forever Hero",
+        "subtitle": "Includes Dawn For A Distant Earth, The Silent Warrior, In Endless Twilight",
+        "authors": [
+            {
+                "name": "L. E. Modesitt Jr."
+            }
+        ],
+        "publish_date": "1999",
+        "pages": 748,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "specialCondition": [
+            "3 books-in-one."
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594483653",
+        "title": "Cellist Of Sarajevo",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Steven Galloway"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 235,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425244135",
+        "title": "Lost Wife",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alyson Richman"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 358,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735215092",
+        "title": "Immortalists",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Chloe Benjamin"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 350,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451216588",
+        "title": "It Can't Happen Here",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sinclair Lewis"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 383,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781599954097",
+        "title": "Unsaid",
+        "subtitle": "A  Novel",
+        "authors": [
+            {
+                "name": "Neil Abramson"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 360,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Center Street / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524746360",
+        "title": "Fifty Words For Rain",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Asha Lemmie"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 452,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250219596",
+        "title": "Saint X",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexis Schaitkin"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 343,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "067943853X",
+        "title": "Of Love And Other Demons",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gabriel Garcia Marquez"
+            }
+        ],
+        "publish_date": "1995",
+        "pages": 147,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250105714",
+        "title": "Sadie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Courtney Summers"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 308,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316015844",
+        "title": "Twilight",
+        "subtitle": "The Twilight Saga, Book 1",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 498,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375842207",
+        "title": "Book Thief",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Markus Zusak"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": "552+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142424179",
+        "title": "Fault In Our Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Green"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 318,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781733311106",
+        "title": "Forever, Lately",
+        "subtitle": "A Regency Time Travel Romance",
+        "authors": [
+            {
+                "name": "Linore Rose Burkard"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 305,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lilliput Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062425454",
+        "title": "Family Tree",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Susan Wiggs"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 356,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250229533",
+        "title": "Great Alone",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 549,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250069801",
+        "title": "Truly Madly Guilty",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Moriarty Liane"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 520,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785290209",
+        "title": "London House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Katherine Reay"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 350,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Muse"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335284808",
+        "title": "Last Bookshop In London",
+        "subtitle": "A Novel Of World War Ii",
+        "authors": [
+            {
+                "name": "Madeline Martin"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 314,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hanover Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062840097",
+        "title": "Two Truths And A Lie",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Meg Mitchell Moore"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 389,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312144105",
+        "title": "Second Mate",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philip Mccutchan"
+            }
+        ],
+        "publish_date": "1996",
+        "pages": 186,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316420259",
+        "title": "Deadly Cross",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 403,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063015043",
+        "title": "Arctic Storm Rising",
+        "subtitle": "A Nick Flynn Novel",
+        "authors": [
+            {
+                "name": "Dale Brown"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 377,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062847522",
+        "title": "Careless Love",
+        "subtitle": "A Dci Banks Novel",
+        "authors": [
+            {
+                "name": "Peter Robinson"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 301,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062847492",
+        "title": "Many Rivers To Cross",
+        "subtitle": "A Dci Banks Novel",
+        "authors": [
+            {
+                "name": "Peter Robinson"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 327,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678744",
+        "title": "Black Ascot",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 342,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316420280",
+        "title": "20th Victim",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 402,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250207203",
+        "title": "Golden In Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 387,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316457422",
+        "title": "Coast-To-Coast Murders",
+        "subtitle": "A Novel Of Psychological Suspense",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "J. D. Barker"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 554,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062858108",
+        "title": "Silent Wife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karin Slaughter"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 482,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641291057",
+        "title": "Bombay Prince",
+        "subtitle": "A Mystery If 1920s India",
+        "authors": [
+            {
+                "name": "Sujata Massey"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 349,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641292580",
+        "title": "Three Hours In Paris",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cara Black"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 348,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496711878",
+        "title": "Survival Of The Fritters",
+        "subtitle": "A Deputy Donut Mystery",
+        "authors": [
+            {
+                "name": "Ginger Bolton"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 313,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715444",
+        "title": "Inn",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Candice Fox"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 364,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593085738",
+        "title": "Neon Prey",
+        "subtitle": "A Lucas Davenport Novel",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 405,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616955304",
+        "title": "Last Detective",
+        "subtitle": "Introducing Detective Superintendent Peter Diamond",
+        "authors": [
+            {
+                "name": "Peter Lovesey"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 382,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250057518",
+        "title": "That Night",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chevy Stevens"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 406,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312156961",
+        "title": "Winter King",
+        "subtitle": "The Arthur Books, Book 1",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "publish_date": "1997",
+        "pages": 431,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868930",
+        "title": "Guest List",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lucy Foley"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 313,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143136392",
+        "title": "Strange Flowers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Donal Ryan"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 230,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451495594",
+        "title": "Little French Bistro",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nina George"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593335192",
+        "title": "House On Tradd Street",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen White"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 339,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250796721",
+        "title": "Crossings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alex Landragin"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 359,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525806414",
+        "title": "Girl From The Channel Islands",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jenny Lecoat"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 291,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307742216",
+        "title": "Maine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "J. Courtney Sullivan"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 512,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778312253",
+        "title": "Virgin River",
+        "subtitle": "Book 1 Of The Virgin River Series",
+        "authors": [
+            {
+                "name": "Robyn Carr"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 396,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982107017",
+        "title": "Light Over London",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Julia Kelly"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 293,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982107833",
+        "title": "Last Garden In England",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julia Kelly"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": "354+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525806469",
+        "title": "Bookseller's Secret",
+        "subtitle": "A Novel Of Nancy Mitford And Wwii",
+        "authors": [
+            {
+                "name": "Michelle Gable"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": "370+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538705018",
+        "title": "Fortunate Ones",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Catherine Hokin"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 351,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008390532",
+        "title": "Sisters Of War",
+        "subtitle": "A Novel Of World War Ii",
+        "authors": [
+            {
+                "name": "Lana Kortchik"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 370,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hq / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496719188",
+        "title": "Secret Wife Of Aaron Burr",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susan Holloway Scott"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 500,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338815795",
+        "title": "Light In Hidden Places",
+        "subtitle": "A Novel Based On A True Story Of Remarkable Heroism During World War Ii",
+        "authors": [
+            {
+                "name": "Sharn Cameron"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": "377+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736333",
+        "title": "Fair Warning",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 447,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593328576",
+        "title": "Masked Prey",
+        "subtitle": "A Lucas Davenport Novel",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 418,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496736062",
+        "title": "Christmas Dessert Murder",
+        "subtitle": "Two hannah swensen holiday mysteries in one volume (christmas cake murder, christmas caramel murder)",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 408,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593101087",
+        "title": "Mrs. Jeffries And The Midwinter Murders",
+        "subtitle": "A Victorian Mystery",
+        "authors": [
+            {
+                "name": "Emily Brightwell"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 294,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312195516",
+        "title": "Red Tent",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anita Diamant"
+            }
+        ],
+        "publish_date": "1997",
+        "pages": 321,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador Usa"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496732873",
+        "title": "Infamous",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Minerva Spencer"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 376,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401225759",
+        "title": "Sandman",
+        "subtitle": "Volume 1, Preludes & Nocturnes",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": "u",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781607066019",
+        "title": "Saga, Volume One",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brian K. Vaughan"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780008276713",
+        "title": "Invisible Weapons",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cecil John Charles Street"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 278,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Collins Crime Club / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804172851",
+        "title": "If You Could See Me Now",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter Straub"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 353,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683690399",
+        "title": "Hope Never Dies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Andrew Shaffer"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 301,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quirk Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780440000204",
+        "title": "Sun Down Motel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Simone St. James"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250311368",
+        "title": "Vanishing Man",
+        "subtitle": "A Charles Lenox Mystery",
+        "authors": [
+            {
+                "name": "Charles Finch"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 288,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250217349",
+        "title": "Under The Whispering Door",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. J. Klune"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 376,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982127244",
+        "title": "Amnesty",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Aravind Adiga"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 256,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781581826098",
+        "title": "Matter Of Honor",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William C. Hammond"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 416,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Cumberland House Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
             }
         ]
     }
