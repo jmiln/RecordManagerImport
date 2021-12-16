@@ -10,5 +10,8 @@ module.exports = {
     },
     "L. E. Modesitt Jr.": {
         format: "Modesitt, L. E., Jr."
+    },
+    "Frank Ayres Jr.": {
+        format: "Ayres, Frank, Jr."
     }
 };

@@ -15726,48 +15726,6 @@
         ]
     },
     {
-        "isbn": "9780062315007",
-        "title": "Alchemist",
-        "subtitle": "25th Anniversary Edition",
-        "authors": [
-            {
-                "name": "Paulo Coelho"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Harper-One"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781566894883",
-        "title": "In The Distance",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Hernán Díaz"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Coffee House Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Minneapolis, Mn."
-            }
-        ]
-    },
-    {
         "isbn": "9780142000663",
         "title": "Grapes Of Wrath",
         "subtitle": "Steinbeck Centennial Edition",
@@ -17121,27 +17079,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781984822185",
-        "title": "Normal People",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Sally Rooney"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Hogarth"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "London"
             }
         ]
     },
@@ -41537,6 +41474,576 @@
         "publish_places": [
             {
                 "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781984805720",
+        "title": "Portrait Of A Scotsman",
+        "subtitle": "A League Of Extraordinary Women Novel, Book Three",
+        "authors": [
+            {
+                "name": "Evie Dunmore"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 408,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593200162",
+        "title": "Wisteria Society Of Lady Scoundrels",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "India Holton"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 324,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143124382",
+        "title": "Gray Ghost Murders",
+        "subtitle": "A Sean Stranahan Mystery",
+        "authors": [
+            {
+                "name": "Keith Mccafferty"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": "306+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062676801",
+        "title": "Word Is Murder",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anthony Horowitz"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": "390+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455524174",
+        "title": "Two Kinds Of Truth",
+        "subtitle": "A Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 458,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455526956",
+        "title": "Black Box",
+        "subtitle": "A Harry Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 424,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316485616",
+        "title": "Night Fire",
+        "subtitle": "A Renee Ballard And Harry Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 405,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385540292",
+        "title": "Beatlebone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kevin Barry"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 299,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781566894883",
+        "title": "In The Distance",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hernan Diaz"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 256,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Coffee House Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780679767923",
+        "title": "Independent People",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Halldor Laxness"
+            }
+        ],
+        "publish_date": "1997",
+        "pages": 482,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984822185",
+        "title": "Normal People",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sally Rooney"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 287,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hogarth"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062315007",
+        "title": "Alchemist",
+        "subtitle": "25th Anniversary Edition",
+        "authors": [
+            {
+                "name": "Paulo Coelho"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 149,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-One"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780071795401",
+        "title": "Geometry",
+        "subtitle": "Schaum's Outline Series -  Includes Plane Analytic And Transformational Geometries - Fifth Edition",
+        "authors": [
+            {
+                "name": "Christopher Thomas"
+            },
+            {
+                "name": "Barnett Rich"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 326,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780071762540",
+        "title": "Elementary Mathematics",
+        "subtitle": "Schaum's Outline Series - Second Edition",
+        "authors": [
+            {
+                "name": "Barnett Rich"
+            },
+            {
+                "name": "Philip Schmidt"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 288,
+        "price": 11.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0070080194",
+        "title": "Theory And Problems Of Differential Equations",
+        "subtitle": "Schaum's Outline Series - Second Edition",
+        "authors": [
+            {
+                "name": "Richard Bronson"
+            }
+        ],
+        "publish_date": "1994",
+        "pages": 358,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780071629980",
+        "title": "Intermediate Algebra",
+        "subtitle": "Schaum's Outline Series - Second Edition",
+        "authors": [
+            {
+                "name": "Ray Steege"
+            },
+            {
+                "name": "Kelly Bailey"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 340,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0070068933",
+        "title": "Theory And Problems Of Trigonometry",
+        "subtitle": "Schaum's Outline Series - Third Edition, With Calculator-Based Solutions",
+        "authors": [
+            {
+                "name": "Robert E. Moyer"
+            },
+            {
+                "name": "Frank Ayres Jr."
+            }
+        ],
+        "publish_date": "1999",
+        "pages": 215,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780071611633",
+        "title": "Elementary Algebra",
+        "subtitle": "Schaum's Outline Series - Third Edition",
+        "authors": [
+            {
+                "name": "Barnett Rich"
+            },
+            {
+                "name": "Philip Schmidt"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 368,
+        "price": 12,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0070527660",
+        "title": "Theory And Problems Of Geometry",
+        "subtitle": "Includes Plane, Analytic, And Transformational Geometries - Third Edition",
+        "authors": [
+            {
+                "name": "Barnett Rich"
+            },
+            {
+                "name": "Philip A. Schmidt"
+            }
+        ],
+        "publish_date": "2000",
+        "pages": 369,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "007141083X",
+        "title": "Schaum's Outline Of Theory And Problems Of Elementary Algebra",
+        "subtitle": "Schaum's Outline Series - Third Edition",
+        "authors": [
+            {
+                "name": "Barnett Rich"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 368,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0070608393",
+        "title": "Schaum's Outline Of Theory And Problems Of Intermediate Algebra",
+        "subtitle": "Schaum's Outline Series",
+        "authors": [
+            {
+                "name": "Ray Steege"
+            },
+            {
+                "name": "Kerry Bailey"
+            }
+        ],
+        "publish_date": "1997",
+        "pages": 381,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill Education"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
