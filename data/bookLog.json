@@ -42046,5 +42046,59 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781250108654",
+        "title": "Pint Of No Return",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 296,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250205759",
+        "title": "Beyond A Reasonable Stout",
+        "subtitle": "A Sloan Krause Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 280,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
