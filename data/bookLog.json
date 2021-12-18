@@ -9284,30 +9284,6 @@
         ]
     },
     {
-        "isbn": "9780062347268",
-        "title": "America's First Daughter",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Stephanie Dray"
-            },
-            {
-                "name": "Laura Kamoie"
-            }
-        ],
-        "publish_date": "2016",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250622624",
         "title": "Scent Keeper",
         "subtitle": "A Novel",
@@ -42098,6 +42074,248 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780618711659",
+        "title": "Extremely Loud And Incredibly Close",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jonathan Safran Foer"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 326,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399181399",
+        "title": "Mrs. Miracle Christmas",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 256,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765320230",
+        "title": "Irish Country Village",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patrick Taylor"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 431,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062347268",
+        "title": "America's First Daughter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephanie Dray"
+            },
+            {
+                "name": "Laura Kamoie"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 590,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0758210183",
+        "title": "Key Lime Pie Murder",
+        "subtitle": "A Hannah Swensen Mystery With Recipes",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 342,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758210180",
+        "title": "Key Lime Pie Murder",
+        "subtitle": "A Hannah Swensen Mystery With Recipes",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 342,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758210203",
+        "title": "Carrot Cake Murder",
+        "subtitle": "A Hannah Swensen Mystery With Recipes",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 324,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758221988",
+        "title": "Candy Cane Murder",
+        "subtitle": "A Hannah Swensen Mystery With Recipes",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 390,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781094071329",
+        "title": "Deep, Deep Snow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brian Freeman"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 354,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Blackstone Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ashland, Or."
             }
         ]
     }
