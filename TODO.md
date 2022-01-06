@@ -1,12 +1,5 @@
 # Todo list
 
-- Add whatever new flags are needed, as they're needed?
-
-- Possibly phase out some of the older bits that aren't really ever used
-
-- When comparing old vs new book entries, ignore certain fields like contribution (Still need to do something with this)
-  and anything else that's added
-
 
 ## New Fields
 
@@ -53,8 +46,13 @@
 
 ## Bugs
 
+- When a publisher is not in the publishers file, but is used by books in the bookLog file, it doesn't trim down duplicates
+  like if more than 1 title has the same publisher. This would happen most often if it's a self published title with no location for the publisher
+
 
 ## Other stuff
+
+- When listing bunches of publishers or other items (askQ..), pad the beginning so they're all lined up nicely
 
 - When checking for publishers, and it finds a result in one with multiple names, it should only return the one(s) that actually match
 
@@ -65,12 +63,14 @@
     * Maybe have options for each type of extra (other, save, yes/no)
     * Input would be an array (of titles or pubs, etc), and an object for the options ({other: true, save: true, ...})
 
-- If it doesn't have a subtitle or other info, see if theres another book of the title and ask to use some of that?
+- If it doesn't have a subtitle or other info, see if theres another book of the title (From the same author) and ask to use some of that?
     * Could maybe do the same based on the author, to check for series', but maybe an extra flag for if that should be enabled or not
 
 - If entering a subtitle manually, check if it's part of the title too, then check about removing it from there
+    * This will help keep it from doubling up bits like `a novel` when it's part of the title, then also being added
 
 - When choosing between new & old versions, let the user decide which changes to keep in case there are multiple differences
+    * This would also allow it to ignore certain fields more easily, like author contributions and such
 
 
 ## Long term/ maybes
