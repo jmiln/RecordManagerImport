@@ -8420,27 +8420,6 @@
         ]
     },
     {
-        "isbn": "9781501188787",
-        "title": "Turn Of The Key",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Ruth Ware"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Scout Press / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525557647",
         "title": "An Unwanted Guest",
         "subtitle": "A Novel",
@@ -40903,32 +40882,6 @@
         ]
     },
     {
-        "isbn": "9781525806469",
-        "title": "Bookseller's Secret",
-        "subtitle": "A Novel Of Nancy Mitford And Wwii",
-        "authors": [
-            {
-                "name": "Michelle Gable"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": "370+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Graydon House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
-            }
-        ]
-    },
-    {
         "isbn": "9781538705018",
         "title": "Fortunate Ones",
         "subtitle": "",
@@ -42316,6 +42269,919 @@
         "publish_places": [
             {
                 "name": "Ashland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538703953",
+        "title": "Shadow",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Brian Sitts"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 378,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719688",
+        "title": "Gambling Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 459,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538737811",
+        "title": "Deliver Us From Evil",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 435,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501188787",
+        "title": "Turn Of The Key",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ruth Ware"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": "336+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101883082",
+        "title": "Lilac Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martha Hall Kelly"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 502,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385341004",
+        "title": "Guernsey Literary And Potato Peel Pie Society",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Ann Shaffer"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 290,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375870644",
+        "title": "Fourteenth Goldfish",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jennifer L. Holm"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 195,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781913054816",
+        "title": "Condamine Case",
+        "subtitle": "A Golden Age Mystery",
+        "authors": [
+            {
+                "name": "Moray Dalton"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 199,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dean Street Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781695761261",
+        "title": "Aspire To Die",
+        "subtitle": "Bridget Hart, Book 1 - An Oxford Murder Mystery",
+        "authors": [
+            {
+                "name": "M. S. Morris"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 304,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Landmark Media"
+            }
+        ]
+    },
+    {
+        "isbn": "9781916245860",
+        "title": "Snowdonia Killings",
+        "subtitle": "A Di Ruth Hunter Crime Thriller",
+        "authors": [
+            {
+                "name": "Simon Mccleave"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 407,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Stamford Publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101911402",
+        "title": "To The Top Of The Mountain",
+        "subtitle": "An Intercrime Novel",
+        "authors": [
+            {
+                "name": "Arne Dahl"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 390,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538751138",
+        "title": "Hush",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Candice Fox"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 366,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250024183",
+        "title": "Vengeance",
+        "subtitle": "Quirke, Book 5 - A Novel",
+        "authors": [
+            {
+                "name": "Benjamin Black"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 304,
+        "price": 12,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador / Henry Holt & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250252678",
+        "title": "Blacktop Wasteland",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "S. A. Cosby"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 285,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525950127",
+        "title": "Woods",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 404,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062563217",
+        "title": "Sword Of Kings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 334,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525509158",
+        "title": "Rock The Boat",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Beck Dorey-Stein"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 354,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525806469",
+        "title": "Bookseller's Secret",
+        "subtitle": "A Novel Of Nancy Mitford And Wwii",
+        "authors": [
+            {
+                "name": "Michelle Gable"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": "370+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616203160",
+        "title": "Art Forger",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Barbara A. Shapiro"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 369,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780812988192",
+        "title": "Good Morning, Midnight",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lily Brooks-Dalton"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 258,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780241980767",
+        "title": "Ministry Of Utmost Happiness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Arundhati Roy"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 445,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492663997",
+        "title": "Sold On A Monday",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristina Mcmorris"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781439199367",
+        "title": "Boston Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anita Diamant"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 322,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143108078",
+        "title": "Enchanted August",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brenda Bowen"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 307,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062686862",
+        "title": "Midnight Blue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Simone Van Der Vlugt"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 327,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385490818",
+        "title": "Handmaid's Tale",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 311,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538764893",
+        "title": "Paris Orphan",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Natasha Lester"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 472,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400074297",
+        "title": "Daughter's Walk",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 388,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Waterbrook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Colorado Springs, Co."
+            }
+        ]
+    },
+    {
+        "isbn": "9781501143519",
+        "title": "Gunslinger",
+        "subtitle": "The Dark Tower, Book 1",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 253,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335040015",
+        "title": "King Of Fools",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amanda Foody"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 598,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Inkyard Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484750711",
+        "title": "Return To The Isle Of The Lost",
+        "subtitle": "A Descendants Novel, Book Two",
+        "authors": [
+            {
+                "name": "Melissa De La Cruz"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 309,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484781289",
+        "title": "Rise Of The Isle Of The Lost",
+        "subtitle": "A Descendants Novel, Book Three",
+        "authors": [
+            {
+                "name": "Melissa De La Cruz"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 289,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101994825",
+        "title": "Wolf Hollow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lauren E. Wolk"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 291,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063112193",
+        "title": "Autopsy",
+        "subtitle": "A Scarpetta Novel, Book 25",
+        "authors": [
+            {
+                "name": "Patricia Daniels Cornwell"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 398,
+        "price": 17.4,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385525985",
+        "title": "Dog Named Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gregory D. Kincaid"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 148,
+        "price": 8.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

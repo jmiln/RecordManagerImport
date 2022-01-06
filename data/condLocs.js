@@ -72,6 +72,7 @@ module.exports.condMap = {
 
     // PB Wraps creased
     cr:   "creased",
+    crea:   "creased",
     fwcr: "Front Wrap Creased.",
     rwcr: "Rear Wrap Creased.",
     fpcr: "Front Page Creased.",
@@ -138,6 +139,7 @@ module.exports.modularCond = {
 
     // X creased
     cr: "^ Creased.",
+    crea: "^ Creased.",
 
     // Tears
     ste: "small tear to ^.",
