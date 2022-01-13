@@ -7142,27 +7142,6 @@
         ]
     },
     {
-        "isbn": "9781525895999",
-        "title": "Warsaw Orphan",
-        "subtitle": "A Wwii Novel",
-        "authors": [
-            {
-                "name": "Kelly Rimmer"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Graydon House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
-            }
-        ]
-    },
-    {
         "isbn": "9781786816306",
         "title": "Secrets We Keep",
         "subtitle": "A Gripping Emotional Page Turner",
@@ -27043,27 +27022,6 @@
         ]
     },
     {
-        "isbn": "9780062348630",
-        "title": "Carve The Mark",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Veronica Roth"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Katherine Tegen Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0312424078",
         "title": "Night Country",
         "subtitle": "A Novel",
@@ -43962,6 +43920,949 @@
         "publish_places": [
             {
                 "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062348630",
+        "title": "Carve The Mark",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 468,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250067845",
+        "title": "Orphan X",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gregg Andrew Hurwitz"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 356,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425203468",
+        "title": "Mrs. Jeffries Learns The Trade",
+        "subtitle": "The First Three Mrs. Jeffries Mysteries....",
+        "authors": [
+            {
+                "name": "Emily Brightwell"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 454,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062120342",
+        "title": "Fire In The Hole, And Other Stories (Previously Published As When The Women Come Out To Dance)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elmore Leonard"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 240,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781617737978",
+        "title": "Hot Blooded",
+        "subtitle": "The First Rick Bentz/ Reuben Montoya Novel",
+        "authors": [
+            {
+                "name": "Lisa Jackson"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 423,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812989489",
+        "title": "Watch Me Disappear",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Janelle Brown"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 362,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Spiegel & Grau / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538761533",
+        "title": "Long Road To Mercy",
+        "subtitle": "An Atlee Pine Thriller",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 430,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525895999",
+        "title": "Warsaw Orphan",
+        "subtitle": "A Wwii Novel",
+        "authors": [
+            {
+                "name": "Kelly Rimmer"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": "395+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553386424",
+        "title": "Genuine Lies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 406,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250011756",
+        "title": "Crystal Cove",
+        "subtitle": "A Friday Harbor Novel",
+        "authors": [
+            {
+                "name": "Lisa Kleypas"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 316,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312605865",
+        "title": "Christmas Eve At Friday Harbor",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Kleypas"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 211,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250236609",
+        "title": "Oona Out Of Order",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margarita Montimore"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": 338,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060590291",
+        "title": "You Suck",
+        "subtitle": "A Love Story",
+        "authors": [
+            {
+                "name": "Christopher Moore"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 328,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375726012",
+        "title": "Whore'S Child, And Other Stories",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Russo"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 225,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594633928",
+        "title": "Paying Guests",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Waters"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 571,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780751548204",
+        "title": "Autumn Throne",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Chadwick"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 488,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sphere / Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780751548259",
+        "title": "Winter Crown (Eleanor Of Aquitaine Trilogy)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Chadwick"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 511,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sphere / Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780996894319",
+        "title": "Fish Wielder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J.r.r.r. (Jim) Hardison"
+            }
+        ],
+        "publish_date": "2016",
+        "pages": 286,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Fiery Seas Publishing"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728220130",
+        "title": "Haunting Of Ashburn House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Darcy Coates"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 329,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781542005234",
+        "title": "If You Tell",
+        "subtitle": "A True Story Of Murder, Family Secrets, And The Unbreakable Bond Of Sisterhood",
+        "authors": [
+            {
+                "name": "Gregg Olsen"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": "405+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas & Mercer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781455553532",
+        "title": "Testimony",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Scott Turow"
+            }
+        ],
+        "publish_date": "2018",
+        "pages": 483,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345455680",
+        "title": "London",
+        "subtitle": "The Novel",
+        "authors": [
+            {
+                "name": "Edward Rutherfurd"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 1126,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0736909117",
+        "title": "Rescue",
+        "subtitle": "The English Garden Series, Book Two",
+        "authors": [
+            {
+                "name": "Lori Wick"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 297,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvet House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Eugene, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780553386455",
+        "title": "Brazen Virtue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 279,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062564054",
+        "title": "Pride",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ibi Zoboi"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": "289+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Balzer + Bray/harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780471736172",
+        "title": "Pentium Chronicles",
+        "subtitle": "The People, Passion, And Politics Behind Intel's Landmark Chips",
+        "authors": [
+            {
+                "name": "Robert P. Colwell"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 187,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "John Wiley & Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hoboken, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "9781935429777",
+        "title": "Codename Sailor V, Volume 1",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Naoko Takeuchi"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 276,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kodansha Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Tokyo, Japan"
+            }
+        ]
+    },
+    {
+        "isbn": "9781612620046",
+        "title": "Sailor Moon, Vol. 8",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Naoko Takeuchi"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 229,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kodansha Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Tokyo, Japan"
+            }
+        ]
+    },
+    {
+        "isbn": "9781612620084",
+        "title": "Sailor Moon, Vol. 12",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Naoko Takeuchi"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": "246+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kodansha Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Tokyo, Japan"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062351722",
+        "title": "Shake Puppies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carli Davidson"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 144,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Design"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062242648",
+        "title": "Shake",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carli Davidson"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 144,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Design"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781581572797",
+        "title": "Dogs In Cars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lara Jo Regan"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": "u",
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316227704",
+        "title": "Underwater Dogs",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Seth Casteel"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 132,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316254892",
+        "title": "Underwater Puppies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Seth Casteel"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 115,
+        "price": 11.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316068055",
+        "title": "Host",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 619,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316068048",
+        "title": "Host",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 619,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

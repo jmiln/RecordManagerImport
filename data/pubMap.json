@@ -2670,5 +2670,37 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Spiegel & Grau / Random"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "John Wiley & Sons"
+        ],
+        "locations": [
+            "Hoboken, Nj."
+        ]
+    },
+    {
+        "name": [
+            "Kodansha Comics"
+        ],
+        "locations": [
+            "Tokyo, Japan"
+        ]
+    },
+    {
+        "name": [
+            "Harper-Design"
+        ],
+        "locations": [
+            "New York"
+        ]
     }
 ]
