@@ -6,6 +6,7 @@ module.exports.condMap = {
     ins:     "Inscribed to prev. owner.",
     sigins:  "Inscribed & Signed by author.",
     siginsp: "Inscribed to Prev. Owner & Signed by author.",
+    siginspo: "Inscribed to Prev. Owner & Signed by author.",
 
     lp:  "Large Print.",
 
@@ -114,20 +115,20 @@ module.exports.modularCond = {
     ton:  "Toning to ^.",
 
     // Previous owner notes etc.
-    poad:  "Prev. Owner's address label ^^.",
-    poin:  "Prev. Owner's initials ^^.",
-    poins: "Prev. Owner's inscription ^^.",
-    pona:  "Prev. Owner's name ^^.",
-    pono:  "Prev. Owner note ^^.",
-    pobp:  "Prev. Owner bookplate ^^.",
-    post:  "Prev. Owner stamp ^^.",
+    poad:  "Prev. Owner's address label ^.",
+    poin:  "Prev. Owner's initials ^.",
+    poins: "Prev. Owner's inscription ^.",
+    pona:  "Prev. Owner's name ^.",
+    pono:  "Prev. Owner note ^.",
+    pobp:  "Prev. Owner bookplate ^.",
+    post:  "Prev. Owner stamp ^.",
 
     // Sunning (DJ lightly sunned at spine)
     dsun: "DJ Lightly Sunned at ^.",
 
     // Moisture Ripples
-    fmoi: "Faint moisture ripple to ^",
-    lmoi: "Light moisture ripple to ^",
+    fmoi: "Faint moisture ripple to ^.",
+    lmoi: "Light moisture ripple to ^.",
 
     // Foxing
     ffox: "faint foxing to ^.",
@@ -146,7 +147,7 @@ module.exports.modularCond = {
     tte: "tiny tear to ^.",
 
     // Sticker scars
-    stsc: "sticker scar at ^",
+    stsc: "sticker scar at ^.",
 };
 
 // The different parts of the book to name off

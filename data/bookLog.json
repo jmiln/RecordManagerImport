@@ -1793,27 +1793,6 @@
         ]
     },
     {
-        "isbn": "1880418592",
-        "title": "Song of Susannah",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Stephen King"
-            }
-        ],
-        "publish_date": "2004",
-        "publishers": [
-            {
-                "name": "Donald M. Grant"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "hampton falls, nh."
-            }
-        ]
-    },
-    {
         "isbn": "1880418622",
         "title": "Dark Tower",
         "subtitle": "",
@@ -5145,27 +5124,6 @@
         "publishers": [
             {
                 "name": "Broadway Books / Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780812982626",
-        "title": "Orphan Master's Son",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Adam Johnson"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Random House"
             }
         ],
         "publish_places": [
@@ -43182,6 +43140,828 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743454551",
+        "title": "Vanishing Acts",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "publish_date": "2005",
+        "pages": 418,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451226815",
+        "title": "Rooftops Of Tehran",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mahbod Seraji"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 348,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812974539",
+        "title": "Whiskey Rebels",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "David Liss"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": "525+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780393337204",
+        "title": "In Other Rooms Other Wonders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniyal Mueenuddin"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 5247,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812982626",
+        "title": "Orphan Master's Son",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adam Johnson"
+            }
+        ],
+        "publish_date": "2012",
+        "pages": 456,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385722206",
+        "title": "Balzac And The Little Chinese Seamstress",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dai Sijie"
+            }
+        ],
+        "publish_date": "2002",
+        "pages": 184,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061472558",
+        "title": "Weight Of Heaven",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Thrity Umrigar"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 365,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781565129849",
+        "title": "Blind Your Ponies",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stanley Gordon West"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 546,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780061240287",
+        "title": "Belong To Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marisa De Los Santos"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 397,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812980530",
+        "title": "Shanghai Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa See"
+            }
+        ],
+        "publish_date": "2010",
+        "pages": 322,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735221109",
+        "title": "Couple Next Door",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Shari Lapena"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": "308+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501190117",
+        "title": "Family Upstairs",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Jewell"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": "342+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781473682146",
+        "title": "Wolf And The Watchman",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Niklas Natt Och Dag"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 407,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "John Murray / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0060586168",
+        "title": "When The Women Come Out To Dance",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Elmore Leonard"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 228,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dark Alley / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416550310",
+        "title": "Art Thief",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Noah Charney"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 290,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451225245",
+        "title": "Pillars Of The Earth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "publish_date": "2007",
+        "pages": 973,
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250803825",
+        "title": "Flicker In The Dark",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stacy Willingham"
+            }
+        ],
+        "publish_date": "2022",
+        "pages": 357,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399149724",
+        "title": "Confessor",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "publish_date": "2003",
+        "pages": 401,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0446531081",
+        "title": "Hour Game",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 437,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446577892",
+        "title": "Inner Circle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brad Meltzer"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 449,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446531092",
+        "title": "Collectors",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "publish_date": "2006",
+        "pages": 438,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416543831",
+        "title": "Last Patriot",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 342,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451611755",
+        "title": "Last Night At Chateau Marmont",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lauren Weisberger"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 370,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061988332",
+        "title": "Return To Sullivan's Island",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dorothea Benton Frank"
+            }
+        ],
+        "pages": 406,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781639101610",
+        "title": "Holiday Swap",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Maggie Knox"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 342,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781639100279",
+        "title": "Love Hypothesis",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ali Hazelwood"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 356,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780763672201",
+        "title": "Egg & Spoon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gregory Maguire"
+            }
+        ],
+        "publish_date": "2014",
+        "pages": 475,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062399281",
+        "title": "Obsidian And Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Eshbaugh"
+            }
+        ],
+        "publish_date": "2017",
+        "pages": 359,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593351024",
+        "title": "Other Merlin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robyn Schneider"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 417,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1880418592",
+        "title": "Song Of Susannah",
+        "subtitle": "The Dark Tower, Book 4",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": 411,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Donald M. Grant"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hampton Falls, Nh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781595540089",
+        "title": "Sinner",
+        "subtitle": "A Paradise Novel",
+        "authors": [
+            {
+                "name": "Ted Dekker"
+            }
+        ],
+        "publish_date": "2008",
+        "pages": 386,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
             }
         ]
     }
