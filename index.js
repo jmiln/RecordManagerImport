@@ -720,6 +720,11 @@ async function getPub(pubName, inLocs) {
         debugLog("[possiblePubs 4] ", {possiblePubs});
     }
 
+    // Make sure there aren't any duplicates in there
+    if (possiblePubs?.length) {
+        possiblePubs = getUniqueFromObjArray(possiblePubs);
+        debugLog("Pubs, After set: ", possiblePubs);
+    }
     let pubChoices = [];  // Fill it with objects with name/loc each
 
     // Go through the matched publishers, and stick them into pubChoices with their possible locations
@@ -1352,6 +1357,12 @@ function debugLog(text, other) {
 // Return an array filled with consecutive numbers starting at 0
 function arrRange(length) {
     return [...Array(length).keys()];
+}
+
+// Return the given array, but with no duplicates
+// Based on one of the comments from this post: https://stackoverflow.com/a/36744732
+function getUniqueFromObjArray(arrIn) {
+    return arrIn.filter((object,index) => index === arrIn.findIndex(obj => JSON.stringify(obj) === JSON.stringify(object)));
 }
 
 // Like camel-case but with spaces
