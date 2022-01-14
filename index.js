@@ -80,6 +80,7 @@ debugLog("argV: ", argv);
 
 let isbn = process.argv[2];
 let globalKWLen = null;
+const globalKWs = [];
 
 if (!isbn) {
     rl.close();
@@ -334,6 +335,7 @@ async function init() {
             title: toProperCase(rawTitle),
             subtitle: subtitle ? toProperCase(subtitle.replace(/^[-:]/, "").trim()) : "",
             authors: authOut.map(auth => { return {name: auth}; }),
+            keywords: globalKWs,
             publish_date: date?.toString(),
             pages: argv.pages ? argv.pages : "unpaginated",
             price: argv.price,
@@ -513,6 +515,7 @@ function processArgv() {
                 // Check against a list of em from data/keywordMap.js
                 if (Object.keys(kwMap).indexOf(kw) > -1) {
                     outArr.push(`KW${ix}=${kwMap[kw]}`);
+                    globalKWs.push(kw);
                     ix += 1;
                 } else if (kw.length > 3) {
                     // If it's not in the keyword map, and it's larger than the 3 characters that the actual keywords are, assume it's a keyword itself?
