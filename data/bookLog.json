@@ -12160,27 +12160,6 @@
         ]
     },
     {
-        "isbn": "9780345803788",
-        "title": "Crazy Rich Asians",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kevin Kwan"
-            }
-        ],
-        "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525535287",
         "title": "Red At The Bone",
         "subtitle": "A Novel",
@@ -45098,6 +45077,190 @@
         "publishers": [
             {
                 "name": "Blue Sky Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593098462",
+        "title": "Our Italian Summer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jennifer Probst"
+            }
+        ],
+        "publish_date": "2021",
+        "pages": 362,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804172066",
+        "title": "China Rich Girlfriend",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kevin Kwan"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 479,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803788",
+        "title": "Crazy Rich Asians",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kevin Kwan"
+            }
+        ],
+        "publish_date": "2013",
+        "pages": 527,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492671527",
+        "title": "Book Woman Of Troublesome Creek",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kim Michele Richardson"
+            }
+        ],
+        "publish_date": "2019",
+        "pages": 308,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316375054",
+        "title": "Book Of Lost And Found",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lucy Foley"
+            }
+        ],
+        "publish_date": "2015",
+        "pages": 420,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062748317",
+        "title": "St. Francis Society For Wayward Pets",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Annie England Noblin"
+            }
+        ],
+        "publish_date": "2020",
+        "pages": "351+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0439271991",
+        "title": "Witness",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Hesse"
+            }
+        ],
+        "publish_date": "2001",
+        "pages": 161,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
             }
         ],
         "publish_places": [
