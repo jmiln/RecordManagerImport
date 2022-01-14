@@ -354,12 +354,46 @@ async function init() {
         if (oldBook) {
             // There's an older version of the book in there
             // Check if they're the same, then ask if it should replace the old one?
+            // TODO Make this better/ let the user choose each difference
+            // Should go through each key and compare those rather than the whole thing?
             const jsonToSaveString = JSON.stringify(jsonToSave, null, 4);
             const oldBookString    = JSON.stringify(oldBook, null, 4);
             if (jsonToSaveString !== oldBookString) {
-                console.log("\nThis is different than a previously saved bookLog entry\n");
-                const repRes = await askQuestionV2(`Which of the following should be saved?\n\n[0] NEW\n${jsonToSaveString}\n\n[1] OLD\n${oldBookString}`, [0, 1]);
-                if (parseInt(repRes, 10) === 0) {
+                const keyDiffs = {};
+                for (const key of Object.keys(oldBook)) {
+                    // Check each key in the old data to see if it's different
+                    const oldKeyJson = JSON.stringify(oldBook[key]);
+                    const newKeyJson = JSON.stringify(jsonToSave[key]);
+                    if (oldKeyJson !== newKeyJson) {
+                        keyDiffs[key] = {
+                            old: oldBook[key],
+                            new: jsonToSave[key]
+                        };
+                    }
+                }
+                for (const key of Object.keys(jsonToSave)) {
+                    // Check each key in the new data to see if it's different (just in case it has something the old one didn't)
+                    if (keyDiffs[key]) continue;    // It's already been checked and logged
+                    const oldKeyJson = JSON.stringify(oldBook[key]);
+                    const newKeyJson = JSON.stringify(jsonToSave[key]);
+                    if (oldKeyJson !== newKeyJson) {
+                        keyDiffs[key] = {
+                            old: oldBook[key],
+                            new: jsonToSave[key]
+                        };
+                    }
+                }
+                debugLog("############# KEYDIFFS ############", keyDiffs);
+                const keyDiffKeys = Object.keys(keyDiffs);
+                if (keyDiffKeys.length) {
+                    // Something's different, so go through and ask about each
+                    console.log(`I found differences in ${keyDiffKeys.length} fields.\n`);
+                    for (const key of Object.keys(keyDiffs)) {
+                        const diff = keyDiffs[key];
+                        const repRes = await askQuestionV2(`Which of the following should be saved?\n\n[0] NEW\n${inspect(diff["new"], {depth: 5})}\n\n[1] OLD\n${inspect(diff["old"], {depth: 5})}`, [0, 1]);
+                        const keep = repRes > 0 ? diff["old"] : diff["new"];
+                        jsonToSave[key] = keep;
+                    }
                     // The new one was chosen, so get rid of the old one
                     bookLog.splice(bookLog.findIndex(b => b.isbn == isbn), 1);
                     // Stick the new one it
@@ -369,8 +403,6 @@ async function init() {
                     const booksToSave = JSON.stringify(bookLog, null, 4);
                     debugLog("JSON to save: ", jsonToSave);
                     await saveBooks(booksToSave);
-                } else {
-                    // Just move along and ignore it
                 }
             }
         } else {
