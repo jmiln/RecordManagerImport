@@ -2702,5 +2702,21 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Clarkson Potter"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Blue Sky Press"
+        ],
+        "locations": [
+            "New York"
+        ]
     }
 ]

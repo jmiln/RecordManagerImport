@@ -44865,5 +44865,245 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780143116103",
+        "title": "Hitler's Empire",
+        "subtitle": "How The Nazis Ruled Europe",
+        "authors": [
+            {
+                "name": "Mark Mazower"
+            }
+        ],
+        "publish_date": "2009",
+        "pages": 726,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1400048710",
+        "title": "Day Of The Dachshund",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jim Dratfield"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": "u",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Clarkson Potter"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0811829111",
+        "title": "Dog",
+        "subtitle": "100 Years Of Classic Photography",
+        "authors": [
+            {
+                "name": "Ruth Silverman"
+            }
+        ],
+        "publish_date": "2000",
+        "pages": 160,
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Chronicle Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0679405135",
+        "title": "Babel Tower",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "A. S. Byatt"
+            }
+        ],
+        "publish_date": "1996",
+        "pages": 623,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345500663",
+        "title": "Sheen On The Silk",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "publish_date": "2011",
+        "pages": 518,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0394749308",
+        "title": "Too Many Songs By Tom Lehrer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tom Lehrer"
+            }
+        ],
+        "publish_date": "1981",
+        "pages": 160,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pantheon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670878073",
+        "title": "Wobegon Boy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Garrison Keillor"
+            }
+        ],
+        "publish_date": "1997",
+        "pages": 305,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039924302X",
+        "title": "Orange For Frankie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patricia Polacco"
+            }
+        ],
+        "publish_date": "2004",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Philomel Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0590417037",
+        "title": "Hallo-Wiener",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dav Pilkey"
+            }
+        ],
+        "publish_date": "1995",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Blue Sky Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
