@@ -392,9 +392,15 @@ async function init() {
                     console.log(`I found differences in ${keyDiffKeys.length} fields.\n`);
                     for (const key of Object.keys(keyDiffs)) {
                         const diff = keyDiffs[key];
-                        const repRes = await askQuestionV2(`Which of the following should be saved?\n\n[0] NEW\n${inspect(diff["new"], {depth: 5})}\n\n[1] OLD\n${inspect(diff["old"], {depth: 5})}`, [0, 1]);
-                        const keep = repRes > 0 ? diff["old"] : diff["new"];
-                        jsonToSave[key] = keep;
+                        let repRes = null;
+                        if (!diff["old"]) {
+                            // If there's no old version, so we're comparing a new value to something that isn't there, just take the new one
+                            jsonToSave[key] = diff["new"];
+                        } else {
+                            repRes = await askQuestionV2(`Which of the following ${key.toUpperCase()} should be saved?\n\n[0] NEW\n${inspect(diff["new"], {depth: 5})}\n\n[1] OLD\n${inspect(diff["old"], {depth: 5})}`, [0, 1]);
+                            const keep = repRes > 0 ? diff["old"] : diff["new"];
+                            jsonToSave[key] = keep;
+                        }
                     }
                     // The new one was chosen, so get rid of the old one
                     bookLog.splice(bookLog.findIndex(b => b.isbn == isbn), 1);
