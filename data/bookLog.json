@@ -14925,27 +14925,6 @@
         ]
     },
     {
-        "isbn": "9781594483851",
-        "title": "Thousand Splendid Suns",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Khaled Hosseini"
-            }
-        ],
-        "publish_date": "2008",
-        "publishers": [
-            {
-                "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0399150749",
         "title": "Opposite Of Fate",
         "subtitle": "A Book Of Musings",
@@ -42711,32 +42690,6 @@
         ]
     },
     {
-        "isbn": "9781492663997",
-        "title": "Sold On A Monday",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristina Mcmorris"
-            }
-        ],
-        "publish_date": "2018",
-        "pages": 343,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Sourcebooks Landmark"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
         "isbn": "9781439199367",
         "title": "Boston Girl",
         "subtitle": "A Novel",
@@ -45007,7 +44960,7 @@
     {
         "isbn": "0670878073",
         "title": "Wobegon Boy",
-        "subtitle": "",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Garrison Keillor"
@@ -45266,6 +45219,734 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525896002",
+        "title": "Clover Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Viola Shipman"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "403+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982105549",
+        "title": "Book Charmer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Hawkins"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": "344+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643855004",
+        "title": "Agatha Arch Is Afraid Of Everything",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Bair"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 346,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Alcove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316013611",
+        "title": "Arrangement",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Dunn"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 357,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062997302",
+        "title": "Restoration Of Celia Fairchild",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marie Bostwick"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 390,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818812",
+        "title": "Dear Santa",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 259,
+        "price": 11.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316269674",
+        "title": "Golden Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 389,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062914095",
+        "title": "Lost And Found Bookshop",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Susan Wiggs"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 355,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594139550",
+        "title": "Americanah",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chimamanda Ngozi Adichie"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 791,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Large Print Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Farmington Hills, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "0393046745",
+        "title": "Hundred Days",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1998",
+        "pages": 281,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316547611",
+        "title": "Power",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Naomi Alderman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 386,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "067942007X",
+        "title": "Written On The Body",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jeanette Winterson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1993",
+        "pages": 190,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781646220557",
+        "title": "Godshot",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chelsea Bieker"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 325,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Catapult"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060878061",
+        "title": "Keeping Faith",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 422,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385312377",
+        "title": "Butcher Boy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patrick Mccabe"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1994",
+        "pages": 231,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Dell Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "034546401X",
+        "title": "Saving Fish From Drowning",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Tan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 496,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593313282",
+        "title": "Promise Of Ankles",
+        "subtitle": "a 44 Scotland Street Novel, Book 14",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 297,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492663997",
+        "title": "Sold On A Monday",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristina Mcmorris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781492681014",
+        "title": "Welcome To The Pine Away Motel And Cabins",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Katarina Bivald"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 438,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780393352801",
+        "title": "Green Road",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anne Enright"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 310,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679723288",
+        "title": "China Men",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maxine Hong Kingston"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1989",
+        "pages": 308,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594483851",
+        "title": "Thousand Splendid Suns",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Khaled Hosseini"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 420,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400031801",
+        "title": "Kalahari Typing School For Men",
+        "subtitle": "The No. 1 Ladies' Detective Agency, Book 4",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 191,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0865473900",
+        "title": "Rosie",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Lamott"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1989",
+        "pages": 275,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "North Point Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco"
             }
         ]
     }

@@ -16,5 +16,8 @@ module.exports = {
     },
     "Simone Van Der Vlugt": {
         format: "Van Der Vlugt, Simone"
+    },
+    "Viola Shipman": {
+        format: "Shipman, Viola (Rouse, Wade)"
     }
 };

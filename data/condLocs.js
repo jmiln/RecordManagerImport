@@ -171,6 +171,9 @@ module.exports.condLocs = {
     rp:   "rear pages",
     rw:   "rear wrap",
     sp:   "spine",
+    usp:  "upper spine",
+    tesp: "top edge of spine",
+    tp:   "title page",
 };
 
 

@@ -2718,5 +2718,45 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Alcove Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Large Print Press"
+        ],
+        "locations": [
+            "Farmington Hills, Mi."
+        ]
+    },
+    {
+        "name": [
+            "Catapult"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Dell Publishing"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "North Point Press"
+        ],
+        "locations": [
+            "Berkeley, CA."
+        ]
     }
 ]
