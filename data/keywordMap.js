@@ -31,6 +31,7 @@ module.exports = {
     mat: "Mathematics",
     mbp: "Man Booker Prize",
     med: "Medieval",
+    mem: "Memoirs",
     met: "Metaphysics",
     mfi: "Military Fiction",
     mil: "Military History",

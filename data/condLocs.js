@@ -24,6 +24,9 @@ module.exports.condMap = {
     lew:  "Light Edgewear.",
     lewo: "Lightly Edgeworn.",
 
+    // Movie/ tv tie-in covers
+    mti: "Movie tie-in cover.",
+
     // General Wear
     fw:  "Faint Wear.",
     lw:  "Light Wear.",
@@ -165,6 +168,7 @@ module.exports.condLocs = {
     ffep: "ffep",
     fe:   "fore-edge",
     fw:   "front wrap",
+    ldjs: "lower dj spine",
     p:    "pages",
     pe:   "page edges",
     rfep: "rfep",
@@ -174,6 +178,7 @@ module.exports.condLocs = {
     usp:  "upper spine",
     tesp: "top edge of spine",
     tp:   "title page",
+    wr:   "wraps"
 };
 
 

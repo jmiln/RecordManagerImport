@@ -16275,27 +16275,6 @@
         ]
     },
     {
-        "isbn": "9781538752548",
-        "title": "Law Of Innocence",
-        "subtitle": "A Lincoln Layer Novel",
-        "authors": [
-            {
-                "name": "Michael Connelly"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781643856780",
         "title": "Body On The Train",
         "subtitle": "A Kate Shackleton Mystery",
@@ -17368,27 +17347,6 @@
         "publishers": [
             {
                 "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538761656",
-        "title": "Daylight",
-        "subtitle": "An Atlee Pine Thriller",
-        "authors": [
-            {
-                "name": "David Baldacci"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
@@ -19465,7 +19423,7 @@
     },
     {
         "isbn": "9780062878021",
-        "title": "Serpent And Dove",
+        "title": "Serpent & Dove",
         "subtitle": "",
         "authors": [
             {
@@ -31601,32 +31559,6 @@
         ]
     },
     {
-        "isbn": "9780312541538",
-        "title": "Still Life",
-        "subtitle": "A Chief Inspector Gamache Novel",
-        "authors": [
-            {
-                "name": "Louise Penny"
-            }
-        ],
-        "publish_date": "2008",
-        "pages": 312,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780143127512",
         "title": "Secret Place",
         "subtitle": "A Novel",
@@ -32173,32 +32105,6 @@
         "publishers": [
             {
                 "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062955326",
-        "title": "Poppy Wife",
-        "subtitle": "A Novel Of The Great War",
-        "authors": [
-            {
-                "name": "Caroline Scott"
-            }
-        ],
-        "publish_date": "2019",
-        "pages": 423,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "William Morrow"
             }
         ],
         "publish_places": [
@@ -34477,32 +34383,6 @@
         "publishers": [
             {
                 "name": "Miramax / Hyperion"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062868916",
-        "title": "Hunting Party",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lucy Foley"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 327,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "William Morrow"
             }
         ],
         "publish_places": [
@@ -38517,36 +38397,6 @@
         ]
     },
     {
-        "isbn": "9781984818508",
-        "title": "Better Off Dead",
-        "subtitle": "A Jack Reacher Novel",
-        "authors": [
-            {
-                "name": "Lee Child"
-            },
-            {
-                "name": "Andrew Child"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 325,
-        "price": 17.4,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Delacorte Press/random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250200808",
         "title": "Turn A Blind Eye",
         "subtitle": "A Detective William Warwick Novel",
@@ -38982,33 +38832,6 @@
         "publish_date": "2019",
         "pages": 308,
         "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250072450",
-        "title": "Garden Of Promises And Lies",
-        "subtitle": "Book Three In The Found Things Series - A Novel",
-        "authors": [
-            {
-                "name": "Paula Brackston"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 309,
-        "price": 15,
         "binding": [
             "hc",
             "dj"
@@ -45947,6 +45770,1021 @@
         "publish_places": [
             {
                 "name": "San Francisco"
+            }
+        ]
+    },
+    {
+        "isbn": "0312243022",
+        "title": "Hours",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Michael Cunningham"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "1998",
+        "pages": 230,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador Usa"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061950728",
+        "title": "Orphan Train",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cristina Baker Kline"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2013",
+        "pages": 290,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062955326",
+        "title": "Poppy Wife",
+        "subtitle": "A Novel Of The Great War",
+        "authors": [
+            {
+                "name": "Caroline Scott"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 423,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1400097029",
+        "title": "Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Banville"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "mbp"
+        ],
+        "publish_date": "2006",
+        "pages": 423,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062878038",
+        "title": "Serpent & Dove",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Shelby Mahurin"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": "519+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982104603",
+        "title": "Chill",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Scott Carson"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2021",
+        "pages": "435+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0452267218",
+        "title": "'Salem's Lot",
+        "subtitle": "Collectors Edition",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "1991",
+        "pages": 381,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496726346",
+        "title": "Sprinkling Of Murder",
+        "subtitle": "A Fairy Garden Mystery",
+        "authors": [
+            {
+                "name": "Daryl Wood Gerber"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1920",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140294309",
+        "title": "Sharpe's Eagle",
+        "subtitle": "Richard Sharpe Series, Volume 2",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi",
+            "hfi"
+        ],
+        "publish_date": "2001",
+        "pages": 270,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140294295",
+        "title": "Sharpe's Rifles",
+        "subtitle": "Richard Sharpe Series, Volume 1",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi",
+            "hfi"
+        ],
+        "publish_date": "2001",
+        "pages": 304,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780140294316",
+        "title": "Sharpe's Gold",
+        "subtitle": "Richard Sharpe Series, Volume 3",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi",
+            "hfi"
+        ],
+        "publish_date": "2001",
+        "pages": 250,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525433125",
+        "title": "Hypnotist",
+        "subtitle": "A Joona Linna Novel",
+        "authors": [
+            {
+                "name": "Lars Kepler"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 565,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868916",
+        "title": "Hunting Party",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lucy Foley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 327,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778317760",
+        "title": "Good Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Kubica"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 382,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778318743",
+        "title": "Pretty Baby",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Kubica"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 396,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538731635",
+        "title": "Unsolved",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "David Ellis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 468,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538749982",
+        "title": "Palm Beach Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 366,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982154851",
+        "title": "Fortune And Glory",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 304,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538752548",
+        "title": "Law Of Innocence",
+        "subtitle": "A Lincoln Layer Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 421,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538748237",
+        "title": "Win",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 373,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538761656",
+        "title": "Daylight",
+        "subtitle": "An Atlee Pine Thriller",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 435,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316540711",
+        "title": "President's Daughter",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Bill Clinton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 594,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778319986",
+        "title": "Every Last Lie",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Kubica"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 331,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399176616",
+        "title": "Vicious Circle",
+        "subtitle": "A Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 367,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818508",
+        "title": "Better Off Dead",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            },
+            {
+                "name": "Andrew Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 325,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250072450",
+        "title": "Garden Of Promises And Lies",
+        "subtitle": "Book Three In The Found Things Series - A Novel",
+        "authors": [
+            {
+                "name": "Paula Brackston"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 309,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250313072",
+        "title": "Ninth House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": "465+",
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982126995",
+        "title": "First Sister",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Linden A. Lewis"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 344,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Skybound Books / Gallery"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312541538",
+        "title": "Still Life",
+        "subtitle": "A Chief Inspector Gamache Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 312,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063061798",
+        "title": "Lovecraft Country",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Matt Ruff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "372+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0156011042",
+        "title": "East Of The Mountains",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Guterson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 288,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0860683591",
+        "title": "Edwardians",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Vita Sackville-West"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1983",
+        "pages": 347,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Virago Modern Classics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0812969014",
+        "title": "We Thought You Would Be Prettier",
+        "subtitle": "True Tales Of The Dorkiest Girl Alive",
+        "authors": [
+            {
+                "name": "Laurie Notaro"
+            }
+        ],
+        "keywords": [
+            "hum",
+            "bio",
+            "mem"
+        ],
+        "publish_date": "2005",
+        "pages": 223,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Villard / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

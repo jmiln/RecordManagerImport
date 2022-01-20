@@ -1858,7 +1858,8 @@
     },
     {
         "name": [
-            "Virago"
+            "Virago",
+            "Virago Modern Classics"
         ],
         "locations": [
             "London"
@@ -2757,6 +2758,22 @@
         ],
         "locations": [
             "Berkeley, CA."
+        ]
+    },
+    {
+        "name": [
+            "Skybound Books / Gallery"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Villard / Random House"
+        ],
+        "locations": [
+            "New York"
         ]
     }
 ]
