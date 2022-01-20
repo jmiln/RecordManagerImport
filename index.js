@@ -333,7 +333,7 @@ async function init() {
         const jsonToSave = {
             isbn: isbn,
             title: toProperCase(rawTitle),
-            subtitle: subtitle ? toProperCase(subtitle.replace(/^[-:]/, "").trim()) : "",
+            subtitle: subtitle ? toProperCase(subtitle.replace(/^\s*[-:]/, "").trim()) : "",
             authors: authOut.map(auth => { return {name: auth}; }),
             keywords: globalKWs,
             publish_date: date?.toString(),
@@ -396,6 +396,7 @@ async function init() {
                         if (!diff["old"]) {
                             // If there's no old version, so we're comparing a new value to something that isn't there, just take the new one
                             jsonToSave[key] = diff["new"];
+                            console.log(`Added new ${key.toUpperCase()} (${diff["new"]})`);
                         } else {
                             repRes = await askQuestionV2(`Which of the following ${key.toUpperCase()} should be saved?\n\n[0] NEW\n${inspect(diff["new"], {depth: 5})}\n\n[1] OLD\n${inspect(diff["old"], {depth: 5})}`, [0, 1]);
                             const keep = repRes > 0 ? diff["old"] : diff["new"];
