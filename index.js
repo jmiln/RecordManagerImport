@@ -1230,18 +1230,29 @@ async function getFromAuthMap(auth, titleIn) {
     debugLog("[getFromAuthMap] FromMap: ", fromMap);
     if (!fromMap?.length) return null;
 
-    const titleFilter = (book) => !(book.title.toLowerCase().includes(titleIn.toLowerCase()) || titleIn.toLowerCase().includes(book.title.toLowerCase()));
+    const titleFilter  = (book) => !(book.title.toLowerCase().includes(titleIn.toLowerCase()) || titleIn.toLowerCase().includes(book.title.toLowerCase()));
     const lengthFilter = (book) => book.title.length <= 19;
-    const dateSort = (a, b) => parseInt(a.publish_date, 10) > parseInt(b.publish_date, 10) ? 1 : -1;
+    const dateSort     = (a, b) => parseInt(a.publish_date, 10) > parseInt(b.publish_date, 10) ? 1 : -1;
 
+    // Get any possible previously entered titles that we can use
     const titles = fromMap
         .filter(titleFilter)
         .filter(lengthFilter)
         .sort(dateSort)
         .map(book => book.title.toLowerCase());
 
+    // If there are no titles found from the bookLog, resort to checking from authMap
+    if (!titles?.length) {
+        const authFromMap = authMap[toProperCase(auth)];
+        if (authFromMap?.titles) {
+            titles.push(...authFromMap.titles);
+        }
+    }
+
+    // Use a Set to remove any duplicate titles from the list
     const noDupTitles = [...new Set(titles)];
 
+    // Return only as many as we can fit in there
     return noDupTitles.slice(globalKWLen-5);
 }
 

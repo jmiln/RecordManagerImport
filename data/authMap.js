@@ -19,5 +19,12 @@ module.exports = {
     },
     "Viola Shipman": {
         format: "Shipman, Viola (Rouse, Wade)"
+    },
+    "Daryl Wood Gerber": {
+        titles: [
+            "Wining And Dying",
+            "Hint Of Mischief",
+            "Shredding The Evidence"
+        ]
     }
 };
