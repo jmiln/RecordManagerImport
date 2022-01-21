@@ -46787,5 +46787,817 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781503904590",
+        "title": "What The Wind Knows",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Harmon"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 406,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780143123309",
+        "title": "Broken Harbor",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 450,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781783296682",
+        "title": "Box Of Bones",
+        "subtitle": "A Captain Darac Mystery",
+        "authors": [
+            {
+                "name": "Peter Morfoot"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 459,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781529063011",
+        "title": "Dead Simple",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James, Peter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 469,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451230256",
+        "title": "Long Fall",
+        "subtitle": "The First Leonid Mcgill Mystery",
+        "authors": [
+            {
+                "name": "Walter Moseley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 356,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385744669",
+        "title": "Girl At Midnight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melissa Grey"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": "361+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142415436",
+        "title": "If I Stay",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gayle Forman"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2010",
+        "pages": "261+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594631436",
+        "title": "Chaperone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laura Moriarty"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2013",
+        "pages": 406,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1400031354",
+        "title": "Tears Of The Giraffe",
+        "subtitle": "The No. 1 Ladies' Detective Agency, Book 2",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 227,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393308219",
+        "title": "Ionian Mission",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 8",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1991",
+        "pages": 367,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039330907X",
+        "title": "Thirteengun Salute",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 13",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 319,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393309061",
+        "title": "Nutmeg Of Consolation",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 14",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1993",
+        "pages": 315,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393310167",
+        "title": "Truelove",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 15",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1993",
+        "pages": 256,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393312445",
+        "title": "Wine-Dark Sea",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 16",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1994",
+        "pages": 261,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039330762X",
+        "title": "Mauritius Command",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 4",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1991",
+        "pages": 348,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039330812X",
+        "title": "Desolation Island",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 5",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1991",
+        "pages": 325,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393308138",
+        "title": "Fortune Of War",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 6",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1991",
+        "pages": 329,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393307069",
+        "title": "Post Captain",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 2",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1990",
+        "pages": 496,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393307611",
+        "title": "H.m.s. Surprise",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 3",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1991",
+        "pages": 379,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393314596",
+        "title": "Commodore",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 17",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1996",
+        "pages": 282,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393317048",
+        "title": "Yellow Admiral",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 18",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1997",
+        "pages": 262,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393307050",
+        "title": "Master And Commander",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 1",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1990",
+        "pages": 412,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393309606",
+        "title": "Reverse Of The Medal",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 11",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 287,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393309053",
+        "title": "Letter Of Marque",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 12",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 284,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393308200",
+        "title": "Surgeon's Mate",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 7",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 382,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039331538X",
+        "title": "Unknown Shore",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1996",
+        "pages": 313,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393315371",
+        "title": "Golden Ocean",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1996",
+        "pages": 285,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
