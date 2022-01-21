@@ -29669,27 +29669,6 @@
         ]
     },
     {
-        "isbn": "9780525618553",
-        "title": "Serpentine",
-        "subtitle": "An Alex Delaware Novel",
-        "authors": [
-            {
-                "name": "Jonathan Kellerman"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250142924",
         "title": "Fallen",
         "subtitle": "A Novel Of Suspense",
@@ -45715,7 +45694,7 @@
         ],
         "publish_places": [
             {
-                "name": "San Francisco"
+                "name": "Berkeley, Ca."
             }
         ]
     },
@@ -47756,6 +47735,130 @@
         "publishers": [
             {
                 "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062910455",
+        "title": "Lost Boys",
+        "subtitle": "A Decker / Lazarus Novel",
+        "authors": [
+            {
+                "name": "Faye Kellerman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 361,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538748145",
+        "title": "Boy From The Woods",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 371,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525618553",
+        "title": "Serpentine",
+        "subtitle": "An Alex Delaware Novel",
+        "authors": [
+            {
+                "name": "Jonathan Kellerman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 351,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538748213",
+        "title": "Win",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 375,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
