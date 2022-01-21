@@ -14,10 +14,6 @@ const pubMap    = require(__dirname + "/data/pubMap.json");
 const bookLog   = require(__dirname + "/data/bookLog.json");
 const authMap   = require(__dirname + "/data/authMap.js");
 
-const chooseOtherStr = "\n[O] Choose other";
-const cancelStr      = "\n[C] Cancel";
-const saveStr        = "\n[S] Save as is";
-
 const cancelVals = ["c", "cancel"];
 const noVals     = ["n", "no"];
 const otherVals  = ["o", "other"];
@@ -120,8 +116,12 @@ async function init() {
             "pictorial boards",
             "spiral binding",
         ];
-        const resOptions = (arrRange(boardTypes.length)).concat(otherVals, cancelVals);
-        const boardRes = await askQuestionV2(`The book is HC without a DJ. Which, if any of the following should I use?\n\n${boardTypes.map((b, ix) => `[${ix}] ${b}`).join("\n")}\n${chooseOtherStr}${cancelStr}`, resOptions);
+        const boardRes = await askQuestionV2({
+            question: "The book is HC without a DJ. Which, if any of the following should I use?",
+            answerList: boardTypes,
+            other: true,
+            cancel: true
+        });
         if (boardTypes[boardRes]) {
             boardStr = boardStr.replace("X", boardTypes[boardRes]);
         } else if (otherVals.includes(boardRes)) {
@@ -186,7 +186,11 @@ async function init() {
             // If there are subtitles from both us entering one in with the --subtitle flag, and from the api/ booklog
             // Ask which one we want to use
             if (jsonOut.subtitle && argv.subtitle && jsonOut.subtitle.toLowerCase() !== argv.subtitle.toLowerCase()) {
-                const subRes = await askQuestionV2(`Two subtitle options were found, which of these do you want to use?\n[0] ${jsonOut.subtitle}\n[1] ${argv.subtitle}\n\n[C] Cancel / Neither`, [0,1].concat(cancelVals));
+                const subRes = await askQuestionV2({
+                    question: "Two subtitle options were found, which of these do you want to use?",
+                    answerList: [jsonOut.subtitle, argv.subtitle],
+                    cancel: true,
+                });
                 if (parseInt(subRes, 10) === 1) {
                     jsonOut.subtitle = argv.subtitle;
                 }
@@ -235,8 +239,11 @@ async function init() {
                 const kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
-                    const resOptions = yesVals.concat(noVals);
-                    const res = await askQuestionV2(`I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.map(t => toProperCase(t)).join(", ")}\nShould I use them? (Y)es / (N)o`,  resOptions);
+                    const res = await askQuestionV2({
+                        question: `I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.map(t => toProperCase(t)).join(", ")}\nShould I use them?`,
+                        answerList: [],
+                        yesNo: true
+                    });
                     if (["y", "yes"].includes(res.toLowerCase())) {
                         for (const title of kwTitles) {
                             globalKWLen++;
@@ -304,8 +311,11 @@ async function init() {
             const illusOptions = require("./data/illustrations.js");
 
             if (typeof argv.illustrated === "boolean") {
-                const resOptions = (arrRange(illusOptions.length)).concat(cancelVals);
-                const illRes = await askQuestionV2(`What sort of illustrations are they?\n\n${illusOptions.map((ill, ix) => `[${ix}] ${ill}`).join("\n")}`, resOptions);
+                const illRes = await askQuestionV2({
+                    question: "What sort of illustrations are they?",
+                    answerList: illusOptions,
+                    cancel: true
+                });
                 if (Number.isInteger(parseInt(illRes)) && illusOptions[illRes]) {
                     bookInfoArr.push(`ILLUS=${illusOptions[illRes]}`);
                 }
@@ -398,7 +408,10 @@ async function init() {
                             jsonToSave[key] = diff["new"];
                             console.log(`Added new ${key.toUpperCase()} (${diff["new"]})`);
                         } else {
-                            repRes = await askQuestionV2(`Which of the following ${key.toUpperCase()} should be saved?\n\n[0] NEW\n${inspect(diff["new"], {depth: 5})}\n\n[1] OLD\n${inspect(diff["old"], {depth: 5})}`, [0, 1]);
+                            repRes = await askQuestionV2({
+                                question: `Which of the following ${key.toUpperCase()} should be saved?`,
+                                answerList: [`NEW\n${inspect(diff["new"], {depth: 5})}`, `\nOLD\n${inspect(diff["old"], {depth: 5})}`],
+                            });
                             const keep = repRes > 0 ? diff["old"] : diff["new"];
                             jsonToSave[key] = keep;
                         }
@@ -772,8 +785,12 @@ async function getPub(pubName, inLocs) {
     // If there were matches, work through those and spit out the choices
     if (pubChoices?.length > 1) {
         // We found more than one result, lets choose one
-        const resOptions = (arrRange(pubChoices.length)).concat(otherVals, cancelVals);
-        const pubRes = await askQuestionV2(`I found the following publishers, which should I use?\n\n${pubChoices.map((p, ix) => `[${ix}] ${p.name}`).join("\n")}\n${chooseOtherStr}${cancelStr}`, resOptions);
+        const pubRes = await askQuestionV2({
+            question: "I found the following publishers, which should I use?",
+            answerList: pubChoices.map(p => p.name),
+            other: true,
+            cancel: true
+        });
         if (pubChoices[pubRes]) {
             out.pub = pubChoices[pubRes].name;
             if (pubChoices[pubRes]?.locations) {
@@ -805,14 +822,13 @@ async function getPub(pubName, inLocs) {
     } else if (pubChoices.length == 1) {
         // Only one result was found. Use it?
         const pub = pubChoices[0];
-        const resOptions = yesVals.concat(noVals, cancelVals);
         let question = null;
         if (pub.new) {
-            question = `I did not find this publisher: ${pub.name}\nWould you like to use it anyways? (Y)es / (N)o / (C)ancel`;
+            question = `I did not find this publisher: ${pub.name}\nWould you like to use it anyways?`;
         } else {
-            question = `I found the publisher: ${pub.name}\nWould you like to use this? (Y)es / (N)o / (C)ancel`;
+            question = `I found the publisher: ${pub.name}\nWould you like to use this?`;
         }
-        const res = await askQuestionV2(question, resOptions);
+        const res = await askQuestionV2({question: question, yesNo: true, cancel: true});
         if (["y", "yes"].includes(res.toLowerCase())) {
             // If it has the correct publisher, go ahead and use it
             out.pub = pub.name;
@@ -919,8 +935,12 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
 
         // If there is more than one location, let em choose
         if (inLocs?.length > 1) {
-            const locResOptions = (arrRange(inLocs.length)).concat(otherVals, cancelVals);
-            const locRes = await askQuestionV2(`I found these location(s), which one should I use?\n\n${inLocs.map((loc, ix) => `[${ix}] ${loc}`).join("\n")}\n${chooseOtherStr}${cancelStr}`, locResOptions);
+            const locRes = await askQuestionV2({
+                question: "I found these location(s), which one should I use?",
+                answerList: inLocs,
+                other: true,
+                cancel: true
+            });
             if (Number.isInteger(parseInt(locRes)) && inLocs[locRes]) {
                 return inLocs[locRes];
             } else if (locRes.toUpperCase() === "O") {
@@ -957,8 +977,10 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
             return inLocs[0];
         } else {
             // There were no matching locations, so see if they want to find one
-            const locResOptions = yesVals.concat(noVals);
-            const locRes = await askQuestionV2("I did not find any matching locations, would you like to find one? (Y)es / (N)o", locResOptions);
+            const locRes = await askQuestionV2({
+                question: "I did not find any matching locations, would you like to find one?",
+                yesNo: true
+            });
             if (["y", "yes"].includes(locRes.toLowerCase())) {
                 const targetLoc = await getNewLoc();
                 return targetLoc;
@@ -968,8 +990,10 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
         }
     } else {
         // There were no locations provided, so see if they want to find one
-        const locResOptions = yesVals.concat(noVals);
-        const locRes = await askQuestionV2("There are no provided locations, would you like to find one? (Y)es / (N)o", locResOptions);
+        const locRes = await askQuestionV2({
+            question: "There are no provided locations, would you like to find one?",
+            yesNo: true
+        });
         if (["y", "yes"].includes(locRes.toLowerCase())) {
             const targetLoc = await getNewLoc();
             return targetLoc;
@@ -1004,8 +1028,11 @@ async function getNewLoc() {
 
     if (!possibleLocs?.length) {
         // If there are no matches, ask to use what was entered
-        const locResOptions = yesVals.concat(noVals, useVals);
-        const noLocRes = await askQuestionV2(`I did not find any matches for ${newLocRes}, would you like to try again? (Y)es / (N)o / (U)se`, locResOptions);
+        const noLocRes = await askQuestionV2({
+            question: `I did not find any matches for ${newLocRes}, would you like to try again?`,
+            yesNo: true,
+            use: true
+        });
         if (["y", "yes"].includes(noLocRes.toLowerCase())) {
             newLoc = getNewLoc();
         } else if (["u", "use"].includes(noLocRes.toLowerCase())) {
@@ -1013,16 +1040,21 @@ async function getNewLoc() {
         }
     } else if (possibleLocs.length > 1) {
         // If matched with more than one location
-        const locResOptions = (arrRange(possibleLocs.length)).concat(cancelVals);
-        const locChoiceRes = await askQuestionV2(`I found the following locations, which should I use?\n\n${possibleLocs.map((p, ix) => `[${ix}] ${p}`).join("\n")}\n${cancelStr}`, locResOptions);
+        const locChoiceRes = await askQuestionV2({
+            question: "I found the following locations, which should I use?",
+            answerList: possibleLocs,
+            cancel: true
+        });
         if (possibleLocs[locChoiceRes]) {
             debugLog("Setting newLoc to ", possibleLocs[locChoiceRes]);
             newLoc = possibleLocs[locChoiceRes];
         }
     } else {
         // There's only one match, so check if it's viable
-        const locResOptions = yesVals.concat(noVals);
-        const oneLocRes = await askQuestionV2(`I found one match (${possibleLocs[0]}), would you like to use it? (Y)es / (N)o`, locResOptions);
+        const oneLocRes = await askQuestionV2({
+            question: `I found one match (${possibleLocs[0]}), would you like to use it?`,
+            yesNo: true
+        });
         if (["y", "yes"].includes(oneLocRes.toLowerCase())) {
             newLoc = possibleLocs[0];
         }
@@ -1033,8 +1065,10 @@ async function getNewLoc() {
 // If there's no pub given, ask if it's wanted
 async function getEmptyPub() {
     let out = {};
-    const noResOptions = yesVals.concat(noVals);
-    const noRes = await askQuestionV2("I did not find any publisher, would you like to find one? (Y)es / (N)o", noResOptions);
+    const noRes = await askQuestionV2({
+        question: "I did not find any publisher, would you like to find one?",
+        yesNo: true
+    });
     if (["y", "yes"].includes(noRes.toLowerCase())) {
         const newPub = await askQuestion("What publisher should I search for?");
         out = await getPub(newPub);
@@ -1059,22 +1093,82 @@ async function askQuestion(query) {
     }));
 }
 
+
+// const chooseOtherStr = "\n[O] Choose other";
+// const cancelStr      = "\n[C] Cancel";
+// const saveStr        = "\n[S] Save as is";
+//
+// const cancelVals = ["c", "cancel"];
+// const noVals     = ["n", "no"];
+// const otherVals  = ["o", "other"];
+// const saveVals   = ["s", "save"];
+// const useVals    = ["u", "use"];
+// const yesVals    = ["y", "yes"];
+
 // Ask a question, with set answers that are expected
-async function askQuestionV2(question, answers) {
-    debugLog("[askQuestionV2] Q: ", question);
-    debugLog("[askQuestionV2] A: ", answers);
-    answers = answers.map(a => a.toString().toLowerCase());
+async function askQuestionV2({question="", answerList=[], cancel=false, save=false, other=false, yesNo=false, use=false} = {}) {
+    debugLog("[askQuestionV2] inQuestion: ", question);
+    debugLog("[askQuestionV2] inAnswerList: ", answerList);
+    debugLog("Options: ", {cancel, save, other, yesNo, use});
+    const defaultPad = 4;   // Space for the brackets, with single digit number, and a space after
+    let pad = defaultPad;
+    let answerLen = answerList.length;
+    answerLen += save   ? 1 : 0;
+    answerLen += other  ? 1 : 0;
+    answerLen += yesNo  ? 1 : 0;
+    answerLen += use    ? 1 : 0;
+    answerLen += cancel ? 1 : 0;
+    if (answerLen > 99) {
+        pad = 6;
+    } else if (answerLen > 9) {
+        pad = 7;
+    }
+
+    const answers = [];
+    let questionOptions = [];
+    if (answerList?.length) {
+        questionOptions = [""].concat(answerList.map((a, ix) => {
+            answers.push(ix.toString());
+            return `[${ix}]`.padEnd(pad) + a.trim();
+        }));
+    }
+    if (cancel || save || other || use || yesNo) {
+        questionOptions.push("");
+        if (save) {
+            answers.push(...saveVals);
+            questionOptions.push(`${"[S]".padEnd(pad)}Save as is`);
+        }
+        if (yesNo) {
+            answers.push(...yesVals, ...noVals);
+            questionOptions.push(`${"[Y]".padEnd(pad)}Yes`);
+            questionOptions.push(`${"[N]".padEnd(pad)}No`);
+        }
+        if (use) {
+            answers.push(...useVals);
+            questionOptions.push(`${"[U]".padEnd(pad)}Use`);
+        }
+        if (other) {
+            answers.push(...otherVals);
+            questionOptions.push(`${"[O]".padEnd(pad)}Choose other`);
+        }
+        if (cancel) {
+            answers.push(...cancelVals);
+            questionOptions.push(`${"[C]".padEnd(pad)}Cancel`);
+        }
+    }
+    debugLog("Answers After: ", answers);
+    debugLog("QuestionOpts: (What's printed)", questionOptions);
 
     const prompt = "\n\n> ";
 
     return new Promise((resolve) => {
-        rl.question("\n" + question + prompt, (line) => {
+        rl.question("\n" + question + (questionOptions?.length ? "\n" + questionOptions.join("\n") : "") + prompt, (line) => {
             line = cleanControlChars(line);
             if (answers.indexOf(line.toLowerCase()) > -1) {
                 resolve(line.toLowerCase());
             } else {
                 console.log(line + " is not a valid answer.\nChoose from the following: " + answers.join(", "));
-                resolve(askQuestionV2(question, answers));
+                resolve(askQuestionV2({question, answers, answerList, cancel, save, other, yesNo, use}));
             }
         });
     });
@@ -1134,11 +1228,10 @@ async function mergePubs(newPub) {
         // If it found a list of similar publishers, ask which of them it should go in with
 
         // Get a list of the numbers for the answers, then tack on the options for other or cancel
-        const answers = arrRange(foundPubs.length).concat(cancelVals, saveVals);
         const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + toProperCase(name) : toProperCase(name)).join("\n")}`).join("\n");
-        const question = `I found these entries that could match. Would you like to put ${toProperCase(newPub.pub)} into one of these?\n\n${pubList}\n${saveStr}${cancelStr}`;
+        const question = `I found these entries that could match. Would you like to put ${toProperCase(newPub.pub)} into one of these?`;
 
-        const foundRes = await askQuestionV2(question, answers);
+        const foundRes = await askQuestionV2({question, answerList: pubList, save: true, cancel: true});
         if (saveVals.includes(foundRes)) {
             // If none of the matches are where it should go, just save it as a new publisher
             debugLog("If not for debug mode, it would save this publisher here: ", newPub);
@@ -1373,9 +1466,9 @@ function debugLog(text, other) {
 }
 
 // Return an array filled with consecutive numbers starting at 0
-function arrRange(length) {
-    return [...Array(length).keys()];
-}
+// function arrRange(length) {
+//     return [...Array(length).keys()];
+// }
 
 // Return the given array, but with no duplicates
 // Based on one of the comments from this post: https://stackoverflow.com/a/36744732
