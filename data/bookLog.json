@@ -47017,7 +47017,7 @@
     },
     {
         "isbn": "039330907X",
-        "title": "Thirteengun Salute",
+        "title": "Thirteen-Gun Salute",
         "subtitle": "The Aubrey/ Maturin Novels, Book 13",
         "authors": [
             {
@@ -47859,6 +47859,219 @@
         "publishers": [
             {
                 "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316476881",
+        "title": "Latecomers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Helen Klein Ross"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 418,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062064233",
+        "title": "Flight Of Gemma Hardy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margot Livesey"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": "446+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060936789",
+        "title": "House Of Blue Mangoes",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "David Davidar"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 421,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062442215",
+        "title": "Secrets Between Us",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Thrity N. Umrigar"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": "357+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250118325",
+        "title": "Last Painting Of Sara De Vos",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dominic Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 295,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399182242",
+        "title": "Mistress Of The Ritz",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melanie Benjamin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 372,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781624904783",
+        "title": "Yonahlossee Riding Camp For Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anton Disclafani"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 664,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
             }
         ],
         "publish_places": [
