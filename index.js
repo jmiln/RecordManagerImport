@@ -1128,6 +1128,9 @@ async function askQuestionV2({question="", answerList=[], cancel=false, save=fal
     let questionOptions = [];
     if (answerList?.length) {
         questionOptions = [""].concat(answerList.map((a, ix) => {
+            if (a.indexOf("\n")) {
+                a = a.split("\n").join("\n".padEnd(pad+1));
+            }
             answers.push(ix.toString());
             return `[${ix}]`.padEnd(pad) + a.trim();
         }));
@@ -1228,10 +1231,9 @@ async function mergePubs(newPub) {
         // If it found a list of similar publishers, ask which of them it should go in with
 
         // Get a list of the numbers for the answers, then tack on the options for other or cancel
-        const pubList = foundPubs.map((p, ix) => `[${ix}] ${p.name.map((name, jx) => jx > 0 ? " ".repeat(ix.toString().length + 3) + toProperCase(name) : toProperCase(name)).join("\n")}`).join("\n");
         const question = `I found these entries that could match. Would you like to put ${toProperCase(newPub.pub)} into one of these?`;
 
-        const foundRes = await askQuestionV2({question, answerList: pubList, save: true, cancel: true});
+        const foundRes = await askQuestionV2({question, answerList: foundPubs.map(p => p.name.join("\n")), save: true, cancel: true});
         if (saveVals.includes(foundRes)) {
             // If none of the matches are where it should go, just save it as a new publisher
             debugLog("If not for debug mode, it would save this publisher here: ", newPub);
