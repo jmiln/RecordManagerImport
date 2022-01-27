@@ -9392,27 +9392,6 @@
         ]
     },
     {
-        "isbn": "0765306298",
-        "title": "New Spring (A Wheel Of Time Prequel Novel)",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Robert Jordan"
-            }
-        ],
-        "publish_date": "2004",
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781906413873",
         "title": "Darkling Spy",
         "subtitle": "",
@@ -11469,27 +11448,6 @@
         "publishers": [
             {
                 "name": "Del Rey / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780765387561",
-        "title": "Invisible Life Of Addie Larue",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "V. E. Schwab"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
             }
         ],
         "publish_places": [
@@ -13986,27 +13944,6 @@
         "publishers": [
             {
                 "name": "Vintage Crime / Black Lizard"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538733721",
-        "title": "Night Fire",
-        "subtitle": "A Renee Ballard And Harry Bosch Novel",
-        "authors": [
-            {
-                "name": "Michael Connelly"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
@@ -16740,27 +16677,6 @@
         ]
     },
     {
-        "isbn": "9780061233005",
-        "title": "Bridgertons",
-        "subtitle": "Happily Ever After - Collection Of Bridgerton Epilogues",
-        "authors": [
-            {
-                "name": "Julia Quinn"
-            }
-        ],
-        "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "Avon Books / Harper"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780063138629",
         "title": "Viscount Who Loved Me",
         "subtitle": "Bridgerton",
@@ -17661,48 +17577,6 @@
         "publishers": [
             {
                 "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593200629",
-        "title": "Lady's Formula For Love",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Elizabeth Everett"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Jove / Berkley"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538736135",
-        "title": "Lady's Guide To Mischief And Mayhem",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Manda Collins"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Forever Books / Hachette"
             }
         ],
         "publish_places": [
@@ -19019,27 +18893,6 @@
         "publish_places": [
             {
                 "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
-        "isbn": "9781250108630",
-        "title": "Death On Tap",
-        "subtitle": "A Mystery",
-        "authors": [
-            {
-                "name": "Ellie Alexander"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -25033,27 +24886,6 @@
         ]
     },
     {
-        "isbn": "9780525563242",
-        "title": "Washington Black",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Esi Edugyan"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062041289",
         "title": "Sisters Brothers",
         "subtitle": "",
@@ -29857,27 +29689,6 @@
         "publish_places": [
             {
                 "name": "Boston"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593355657",
-        "title": "Bookshop Of Second Chances",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jackie Fraser"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -37387,32 +37198,6 @@
         ]
     },
     {
-        "isbn": "9780312537074",
-        "title": "Firefly Lane",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "publish_date": "2009",
-        "pages": 479,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250207104",
         "title": "Hideaway",
         "subtitle": "",
@@ -41029,58 +40814,6 @@
         ]
     },
     {
-        "isbn": "9781984805720",
-        "title": "Portrait Of A Scotsman",
-        "subtitle": "A League Of Extraordinary Women Novel, Book Three",
-        "authors": [
-            {
-                "name": "Evie Dunmore"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 408,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Berkley Books/penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593200162",
-        "title": "Wisteria Society Of Lady Scoundrels",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "India Holton"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 324,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Jove / Berkley"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780143124382",
         "title": "Gray Ghost Murders",
         "subtitle": "A Sean Stranahan Mystery",
@@ -41590,33 +41323,6 @@
         "publishers": [
             {
                 "name": "Mcgraw-Hill Education"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250108654",
-        "title": "Pint Of No Return",
-        "subtitle": "A Mystery",
-        "authors": [
-            {
-                "name": "Ellie Alexander"
-            }
-        ],
-        "publish_date": "2018",
-        "pages": 296,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
             }
         ],
         "publish_places": [
@@ -48072,6 +47778,1983 @@
         "publishers": [
             {
                 "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524746186",
+        "title": "Never Tell",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Gardner"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 430,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538749968",
+        "title": "Paris Detective",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Richard Dilallo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 429,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593419465",
+        "title": "Fast Ice",
+        "subtitle": "A Kurt Austin Adventure - A Novel From The Numa Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Graham Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 417,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455524143",
+        "title": "Crossing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 408,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101967676",
+        "title": "Whistler",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 416,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399585012",
+        "title": "Gone Without A Trace",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Torjussen"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 334,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982140670",
+        "title": "Truth Be Told",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kathleen Barber"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "326+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101990476",
+        "title": "Widow",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fiona Barton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": "324+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501132933",
+        "title": "Woman In Cabin 10",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruth Ware"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 340,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781542029377",
+        "title": "World Played Chess",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Robert Dugoni"
+            },
+            {
+                "name": "Todd Haberkorn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "369+",
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250020833",
+        "title": "Lookaway Lookaway",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Wilton Barnhardt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 359,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778309710",
+        "title": "Rules Of The Road",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ciara Geraghty"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 379,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525563242",
+        "title": "Washington Black",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Esi Edugyan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 384,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781735758800",
+        "title": "Colors Of Truth",
+        "subtitle": "A Carnton Novel, Book 2",
+        "authors": [
+            {
+                "name": "Tamera Alexander"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi",
+            "rom"
+        ],
+        "publish_date": "2020",
+        "pages": 504,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Fountain Creek Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764234248",
+        "title": "Shadows Of Swanford Abbey",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Klassen"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi",
+            "rom"
+        ],
+        "publish_date": "2021",
+        "pages": 410,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781984806390",
+        "title": "Archive Of The Forgotten",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "A. J. Hackwith"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 352,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ace / Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358451174",
+        "title": "Chosen Ones",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 424,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765387561",
+        "title": "Invisible Life Of Addie Larue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "V. E. Schwab"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 447,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984804433",
+        "title": "Sucker Punch",
+        "subtitle": "An Anita Blake Vampire Hunter Novel",
+        "authors": [
+            {
+                "name": "Laurell K. Hamilton"
+            }
+        ],
+        "keywords": [
+            "par",
+            "rom",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 609,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062841131",
+        "title": "Christmas Boutique",
+        "subtitle": "An Elm Creek Quilts Novel",
+        "authors": [
+            {
+                "name": "Jennifer Chiaverini"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 290,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736135",
+        "title": "Lady's Guide To Mischief And Mayhem",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Manda Collins"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 338,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984805720",
+        "title": "Portrait Of A Scotsman",
+        "subtitle": "A League Of Extraordinary Women Novel, Book Three",
+        "authors": [
+            {
+                "name": "Evie Dunmore"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 408,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593200629",
+        "title": "Lady's Formula For Love",
+        "subtitle": "The Secret Scientists Of London, Volume 1",
+        "authors": [
+            {
+                "name": "Elizabeth Everett"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 332,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781420152234",
+        "title": "Duke, The Lady, And A Baby",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Vanessa Riley"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 312,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zebra / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593332771",
+        "title": "Isn't It Bromantic?",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lyssa Kay Adams"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 342,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593333037",
+        "title": "Dial A For Aunties",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jesse Q. Sutanto"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 309,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593335024",
+        "title": "Road Trip",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Beth O'leary"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 384,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593355657",
+        "title": "Bookshop Of Second Chances",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jackie Fraser"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 438,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312537074",
+        "title": "Firefly Lane",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": "479+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250123046",
+        "title": "Rise Of Magicks",
+        "subtitle": "Chronicles Of The One, Book 3",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 467,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492651796",
+        "title": "Fifth Of July",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kelly Simmons"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 279,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982135027",
+        "title": "Adequate Yearly Progress",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Roxanna Elden"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "378+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063141674",
+        "title": "Christmas Bookshop",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jenny Colgan"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 310,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062691194",
+        "title": "New Kid",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jerry Craft"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "gra",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 249,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616206345",
+        "title": "Darwin Affair",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tim Mason"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 373,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250108654",
+        "title": "Pint Of No Return",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 296,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250108630",
+        "title": "Death On Tap",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 310,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250055880",
+        "title": "Black Skies",
+        "subtitle": "An Inspector Erlendur Novel",
+        "authors": [
+            {
+                "name": "Arnaldur Indridason"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 330,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312428587",
+        "title": "Draining Lake",
+        "subtitle": "A Reykjavik Thriller",
+        "authors": [
+            {
+                "name": "Arnaldur Indridason"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 323,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312428068",
+        "title": "Voices",
+        "subtitle": "A Reykjavik Thriller",
+        "authors": [
+            {
+                "name": "Bernard Scudder"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 313,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538733721",
+        "title": "Night Fire",
+        "subtitle": "A Renee Ballard And Harry Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 438,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464211232",
+        "title": "Molten Mud Murder",
+        "subtitle": "An Alexa Glock Mystery",
+        "authors": [
+            {
+                "name": "Sara E. Johnson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 299,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538731758",
+        "title": "Dark Sacred Night",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 473,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780752881287",
+        "title": "Echo Park",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 405,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orion Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250768681",
+        "title": "Eye Of The World",
+        "subtitle": "Book One Of The Wheel Of Time",
+        "authors": [
+            {
+                "name": "Robert Jordan"
+            }
+        ],
+        "keywords": [
+            "fan",
+            "sfi"
+        ],
+        "publish_date": "2020",
+        "pages": 779,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0765306298",
+        "title": "New Spring",
+        "subtitle": "A Wheel Of Time Prequel Novel",
+        "authors": [
+            {
+                "name": "Robert Jordan"
+            }
+        ],
+        "keywords": [
+            "fan",
+            "sfi"
+        ],
+        "publish_date": "2004",
+        "pages": 334,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446528054",
+        "title": "Dear John",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicholas Sparks"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 276,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250047304",
+        "title": "Happiness For Beginners",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Katherine Center"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 312,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399573187",
+        "title": "After Party",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anton Disclafani"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 388,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250192561",
+        "title": "Class Mom",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laurie Gelman"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "290+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476763446",
+        "title": "Year We Turned Forty",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Liz Fenton"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 322,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715642",
+        "title": "Happy Ever After Playlist",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Abby Jimenez"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 388,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593200162",
+        "title": "Wisteria Society Of Lady Scoundrels",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "India Holton"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 324,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781791392796",
+        "title": "Verity",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Hoover"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "314+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9780310247531",
+        "title": "Even Now",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2005",
+        "pages": 356,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zondervan Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "0140254544",
+        "title": "Light In The Window",
+        "subtitle": "The Mitford Years, Book 2",
+        "authors": [
+            {
+                "name": "Jan Karon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": "382+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802147516",
+        "title": "Story Of A Goat",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Murugan Perumal"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 183,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Black Cat / Grove Atlantic"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062671196",
+        "title": "Night Watchman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 451,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670031208",
+        "title": "Shepherds Abiding",
+        "subtitle": "A Mitford Christmas Story",
+        "authors": [
+            {
+                "name": "Jan Karon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 288,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1400061032",
+        "title": "Poe Shadow",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pearl, Matthew"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 370,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594488399",
+        "title": "Interestings",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Meg Wolitzer"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 468,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374515362",
+        "title": "Complete Stories",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Flannery O'connor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 555,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Farrar, Straus And Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061233005",
+        "title": "Happily Ever After",
+        "subtitle": "A Collection Of Bridgerton Epilogues",
+        "authors": [
+            {
+                "name": "Julia Quinn"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2013",
+        "pages": 374,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451627282",
+        "title": "11/22/63",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2011",
+        "pages": 849,
+        "price": 18.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375504397",
+        "title": "Black House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            },
+            {
+                "name": "Peter Straub"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2001",
+        "pages": 624,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
             }
         ],
         "publish_places": [

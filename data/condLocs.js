@@ -76,7 +76,7 @@ module.exports.condMap = {
 
     // PB Wraps creased
     cr:   "creased",
-    crea:   "creased",
+    crea: "creased",
     fwcr: "Front Wrap Creased.",
     rwcr: "Rear Wrap Creased.",
     fpcr: "Front Page Creased.",
@@ -84,7 +84,9 @@ module.exports.condMap = {
 
     // Tears
     ste: "Small Tear",
+    stea:"Small Tear",
     tte: "Tiny Tear",
+    ttea:"Tiny Tear",
 
     // Sticker Issues
     stsc: "sticker scar at ...",
@@ -122,7 +124,7 @@ module.exports.modularCond = {
     poin:  "Prev. Owner's initials ^.",
     poins: "Prev. Owner's inscription ^.",
     pona:  "Prev. Owner's name ^.",
-    pono:  "Prev. Owner note ^.",
+    pono:  "Prev. Owner notes ^.",
     pobp:  "Prev. Owner bookplate ^.",
     post:  "Prev. Owner stamp ^.",
 
@@ -147,7 +149,9 @@ module.exports.modularCond = {
 
     // Tears
     ste: "small tear to ^.",
+    stea:"small tear to ^.",
     tte: "tiny tear to ^.",
+    ttea:"tiny tear to ^.",
 
     // Sticker scars
     stsc: "sticker scar at ^.",
@@ -168,6 +172,8 @@ module.exports.condLocs = {
     ffep: "ffep",
     fe:   "fore-edge",
     fw:   "front wrap",
+    hea:  "head",
+    hee:  "heel",
     ldjs: "lower dj spine",
     p:    "pages",
     pe:   "page edges",
