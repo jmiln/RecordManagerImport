@@ -1,18 +1,17 @@
 # Todo list
 
+## Next in line
+
+- When checking for differences between an old/ saved version and what's going in now, it should update what's going in so it can help catch mistakes/ missed bits
+
+
+## Recursion issues
+
+- When changing a publisher from what it thinks it found to something else (Self-published/ author name -> published by author), it
+  will try sticking in the location it found, rather than nothing like I told it to
+
 
 ## New Fields
-
-- Add more fields to the bookLog so it will fill more of it in if/ when I get around to making a gui
-    * Keywords maybe?
-    * Main category
-    * French wraps, spiral variation (wire or comb)
-
-- Add a spot for other titles for it to grab as keywords, where it will look last if no other titles were entered
-    * Possibly just have it as keywords, where titles can be in there?
-    * Any titles in there would be manually entered
-    * Possibly also start/ go back to saving titles under authors, so each author would have a list of titles associated
-      with em, dates not needed, but still something to fall back on if there are not enough books in the booklog by that author
 
 - Add in sub-whatever for authors, that will always go in as lowercase (illustrated by, edited by, etc.)
     * Contribution? not sure what to call it, but that kinda makes sense.
@@ -46,13 +45,11 @@
 
 ## Bugs
 
-- When a publisher is not in the publishers file, but is used by books in the bookLog file, it doesn't trim down duplicates
-  like if more than 1 title has the same publisher. This would happen most often if it's a self published title with no location for the publisher
-
 
 ## Other stuff
 
-- When listing bunches of publishers or other items (askQ..), pad the beginning so they're all lined up nicely
+- When grabbing new titles from the api, if there are parentheses in the title,
+  check if I want to put something specific in, since that's normally a subtitle mashed in there
 
 - When checking for publishers, and it finds a result in one with multiple names, it should only return the one(s) that actually match
 
@@ -68,9 +65,6 @@
 
 - If entering a subtitle manually, check if it's part of the title too, then check about removing it from there
     * This will help keep it from doubling up bits like `a novel` when it's part of the title, then also being added
-
-- When choosing between new & old versions, let the user decide which changes to keep in case there are multiple differences
-    * This would also allow it to ignore certain fields more easily, like author contributions and such
 
 
 ## Long term/ maybes
