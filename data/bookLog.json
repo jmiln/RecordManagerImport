@@ -19551,27 +19551,6 @@
         ]
     },
     {
-        "isbn": "9780553418026",
-        "title": "Martian",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Andy Weir"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Broadway Books / Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0553373358",
         "title": "Green Mars",
         "subtitle": "",
@@ -49760,6 +49739,366 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735214446",
+        "title": "White Chrysanthemum",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Lynn Bracht"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "300+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553418026",
+        "title": "Martian",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andy Weir"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2014",
+        "pages": 387,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439157800",
+        "title": "Mercy Falls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": "344+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062436627",
+        "title": "In This Grave Hour",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": "333+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802146021",
+        "title": "Death In A Strange Country",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 304,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802128515",
+        "title": "Willful Behavior",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": "288+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802146045",
+        "title": "Dressed For Death",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 292,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802129208",
+        "title": "Temptation Of Forgiveness",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "300+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802120656",
+        "title": "Jewels Of Paradise",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": "244+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802120298",
+        "title": "Uniform Justice",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": "258+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802124876",
+        "title": "Falling In Love",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": "264+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780099536666",
+        "title": "Noble Radiance",
+        "subtitle": "Beneath The Surface Lies A Dark Secret...",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 277,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Arrow Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
             }
         ]
     }
