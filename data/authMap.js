@@ -26,5 +26,12 @@ module.exports = {
             "Hint Of Mischief",
             "Shredding The Evidence"
         ]
+    },
+    "Elizabeth Strout": {
+        titles: [
+            "Burgess Boys",
+            "Olive Kitteridge",
+            "Abide With Me"
+        ]
     }
 };
