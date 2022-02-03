@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+const fetch = (...args) => import("node-fetch").then(({default: fetch}) => fetch(...args));
 const fs = require("fs");
 const { inspect } = require("util");
 const { exec } = require("child_process");
