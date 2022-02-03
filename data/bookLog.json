@@ -18027,27 +18027,6 @@
         ]
     },
     {
-        "isbn": "9780316176668",
-        "title": "Transcription",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kate Atkinson"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Back Bay/little, Brown & Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781524797676",
         "title": "Something In The Water",
         "subtitle": "A Novel",
@@ -51004,6 +50983,268 @@
         "publishers": [
             {
                 "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780440001331",
+        "title": "Affair Of The Mysterious Letter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexis Hall"
+            }
+        ],
+        "keywords": [
+            "fan",
+            "sfi"
+        ],
+        "publish_date": "2019",
+        "pages": 340,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ace / Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316176668",
+        "title": "Transcription",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Atkinson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "339+",
+        "price": 9.5,
+        "binding": [],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524798710",
+        "title": "Story Of Arthur Truluv",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Berg"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 253,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780762459667",
+        "title": "Bulldozer Dreams",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sharon Chriscoe"
+            },
+            {
+                "name": "John Joven",
+                "contribution": "illustrated by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2017",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Running Press / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781416941354",
+        "title": "Truckery Rhymes",
+        "subtitle": "Jon Scieszka's Trucktown",
+        "authors": [
+            {
+                "name": "Jon Scieszka"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2009",
+        "pages": 57,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062499608",
+        "title": "Cece Loves Science",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kimberly Derting"
+            },
+            {
+                "name": "Shelli R. Johannes"
+            },
+            {
+                "name": "Vashti Harrison",
+                "contribution": "illustrations by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2018",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Greenwillow Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780763674786",
+        "title": "Soon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Timothy Knapman"
+            },
+            {
+                "name": "Patrick Benson",
+                "contribution": "illustrated by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2015",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9781534429796",
+        "title": "Puma Dreams",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tony Johnston"
+            },
+            {
+                "name": "Jim Lamarche",
+                "contribution": "illustrated by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2019",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
             }
         ],
         "publish_places": [

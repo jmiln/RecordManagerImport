@@ -50,6 +50,8 @@ module.exports.condMap = {
     ton:  "Toning to page edges.",
 
     // Moisture Ripple
+    fmr: "Faint moisture ripple",
+    lmr: "Light moisture ripple",
     fmoi: "Faint moisture ripple",
     lmoi: "Light moisture ripple",
 
@@ -132,6 +134,8 @@ module.exports.modularCond = {
     dsun: "DJ Lightly Sunned at ^.",
 
     // Moisture Ripples
+    fmr: "Faint moisture ripple to ^.",
+    lmr: "Light moisture ripple to ^.",
     fmoi: "Faint moisture ripple to ^.",
     lmoi: "Light moisture ripple to ^.",
 
