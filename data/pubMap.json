@@ -1018,7 +1018,8 @@
             "Mira"
         ],
         "locations": [
-            "Toronto, Ontario"
+            "Toronto, Ontario",
+            "Don Mills, Ontario, Canada"
         ]
     },
     {
@@ -2805,6 +2806,38 @@
         ],
         "locations": [
             "Philadelphia, Pa."
+        ]
+    },
+    {
+        "name": [
+            "Harper-Entertainment"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Amy Einhorn Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "5 Spot / Hachette"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Brash Books, Llc"
+        ],
+        "locations": [
+            "Leawood, Ks."
         ]
     }
 ]

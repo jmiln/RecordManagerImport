@@ -51252,5 +51252,920 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "0440503531",
+        "title": "Ultimate Dracula",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anne Rice"
+            },
+            {
+                "name": "Dan Simmons"
+            },
+            {
+                "name": "Philip Jose Farmer"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "1991",
+        "pages": 358,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dell Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0156029065",
+        "title": "Baudolino",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Umberto Eco"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 527,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439153666",
+        "title": "Kitchen House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kathleen Grissom"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": "368+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679761044",
+        "title": "Snow Country",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kawabata, Yasunari"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 175,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140077480",
+        "title": "Where The Rivers Flow North",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Howard Frank Mosher"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1985",
+        "pages": 205,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802128256",
+        "title": "Convenience Store Woman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sayaka Murata"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 163,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984821522",
+        "title": "Butler",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Danielle Steel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 257,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060765453",
+        "title": "Chronicles Of Narnia",
+        "subtitle": "The Original Novels",
+        "authors": [
+            {
+                "name": "C. S. Lewis"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2005",
+        "pages": 767,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Entertainment"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538711804",
+        "title": "Total Control",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 640,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538764398",
+        "title": "Blindside",
+        "subtitle": "A Detective Michael Bennett Thriller",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "James O. Born"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 377,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781936787357",
+        "title": "Margaret The First",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Danielle Dutton"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 167,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Catapult"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758229540",
+        "title": "Henry's Sisters",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cathy Lamb"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 439,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805059814",
+        "title": "Childhood",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andre Alexis"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1998",
+        "pages": 259,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547634524",
+        "title": "Shout Her Lovely Name",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Natalie Serber"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 226,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Harcourt"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399157202",
+        "title": "You Know When The Men Are Gone",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Siobhan Fallon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 226,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Amy Einhorn Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780452298385",
+        "title": "Blackberry Winter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Jio"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": "290+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780970640574",
+        "title": "Fires Of Edgarville",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Craig Joseph Danner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 256,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Crispin/hammer Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446699235",
+        "title": "Odd Mom Out",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Porter"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 410,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "5 Spot / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778329244",
+        "title": "Precious And Fragile Things",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Megan Hart"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 394,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476754161",
+        "title": "When We Meet Again",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2016",
+        "pages": "365+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781590202555",
+        "title": "When Autumn Leaves",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amy Susan Foster"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 287,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Overlook Press / Peter Mayer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423134817",
+        "title": "Putting Makeup On Dead People",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jen Violi"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 326,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553801821",
+        "title": "Man Who Ate The 747",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ben Sherwood"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 260,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781419705304",
+        "title": "In The Shadow Of Blackbirds",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cat Winters"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi",
+            "hor"
+        ],
+        "publish_date": "2013",
+        "pages": 387,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Amulet / Abrams"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780061826986",
+        "title": "Agent X",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Noah Boyd"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 391,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781609451448",
+        "title": "Dark Times In The City",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gene Kerrigan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 316,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780997832341",
+        "title": "Double Wide",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leo W. Banks"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 345,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Brash Books, Llc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Leawood, Ks."
+            }
+        ]
+    },
+    {
+        "isbn": "9781912604043",
+        "title": "Mortal Outcomes",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Dave Stanton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 275,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloodhound Books"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250092168",
+        "title": "City Of The Lost",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Kelley Armstrong"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi",
+            "thr"
+        ],
+        "publish_date": "2017",
+        "pages": 408,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250042576",
+        "title": "Afrika Reich",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Guy Saville"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 379,
+        "price": 14,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
