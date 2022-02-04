@@ -52167,5 +52167,66 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "0425167313",
+        "title": "Here On Earth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alice Hoffman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1998",
+        "pages": 293,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425280126",
+        "title": "Island Of Glass",
+        "subtitle": "Book Three Of The Guardians Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 339,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
