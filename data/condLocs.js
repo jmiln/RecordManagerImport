@@ -175,6 +175,7 @@ module.exports.condLocs = {
     ep:   "early pages",
     ffep: "ffep",
     fe:   "fore-edge",
+    fp:   "front page",
     fw:   "front wrap",
     hea:  "head",
     hee:  "heel",
