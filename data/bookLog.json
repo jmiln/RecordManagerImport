@@ -23847,27 +23847,6 @@
         ]
     },
     {
-        "isbn": "9780842356329",
-        "title": "Lineage Of Grace",
-        "subtitle": "Five Stories Of Unlikely Women Who Changed Eternity",
-        "authors": [
-            {
-                "name": "Francine Rivers"
-            }
-        ],
-        "publish_date": "2009",
-        "publishers": [
-            {
-                "name": "Tyndale House Publishers"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Carol Stream, Il."
-            }
-        ]
-    },
-    {
         "isbn": "9781789096491",
         "title": "Later",
         "subtitle": "A Novel",
@@ -53504,6 +53483,433 @@
         "publishers": [
             {
                 "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982176976",
+        "title": "Nameless Ones",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "John Connolly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 421,
+        "price": 16.8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316499873",
+        "title": "Noise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "J. D. Barker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 421,
+        "price": 16.8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593331729",
+        "title": "Criminal Mischief",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 307,
+        "price": 16.8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101984468",
+        "title": "Cold Cold Heart",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tami Hoag"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 388,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780394751047",
+        "title": "King Must Die",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Renault"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1988",
+        "pages": 338,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375726804",
+        "title": "Bull From The Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Renault"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484746455",
+        "title": "Tower Of Nero",
+        "subtitle": "The Trials of Apollo, Book Five",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 410,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Los Angeles, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780842356329",
+        "title": "Lineage Of Grace",
+        "subtitle": "Five Stories Of Unlikely Women Who Changed Eternity",
+        "authors": [
+            {
+                "name": "Francine Rivers"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2009",
+        "pages": 542,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593337134",
+        "title": "Siren Of Sussex",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mimi Matthews"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 420,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781629728513",
+        "title": "Merchant And The Rogue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah M. Eden"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 352,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Shadow Mountain"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Salt Lake City, Ut."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736159",
+        "title": "Heiress's Guide To Deception And Desire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Manda Collins"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311287",
+        "title": "Little Christmas Spirit",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sheila Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 314,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250779632",
+        "title": "Hard Cash Valley",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brian Panowich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 290,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312289162",
+        "title": "Persia Cafe",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melany Neilson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "pages": 276,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
             }
         ],
         "publish_places": [

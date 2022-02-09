@@ -92,6 +92,7 @@ module.exports.condMap = {
 
     // Sticker Issues
     stsc: "sticker scar at ...",
+    smstsc: "small sticker scar at ...",
     ssha: "sticker shadow at ...",
     srem: "sticker remnant at ...",
 
@@ -159,6 +160,7 @@ module.exports.modularCond = {
 
     // Sticker scars
     stsc: "sticker scar at ^.",
+    smstsc: "small sticker scar at ^.",
 };
 
 // The different parts of the book to name off
