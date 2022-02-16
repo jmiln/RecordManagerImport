@@ -2847,5 +2847,21 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Brown Books Publishing Group"
+        ],
+        "locations": [
+            "Dallas, Tx."
+        ]
+    },
+    {
+        "name": [
+            "Black Mask Studios"
+        ],
+        "locations": [
+            "Los Angeles, Ca."
+        ]
     }
 ]

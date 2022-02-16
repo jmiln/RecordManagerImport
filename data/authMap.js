@@ -33,5 +33,8 @@ module.exports = {
             "Olive Kitteridge",
             "Abide With Me"
         ]
+    },
+    "Ursula K. Le Guin": {
+        format: "Le Guin, Ursula K."
     }
 };

@@ -150,27 +150,6 @@
         ]
     },
     {
-        "isbn": "9780142402511",
-        "title": "Looking for Alaska",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "John Green"
-            }
-        ],
-        "publish_date": "2006",
-        "publishers": [
-            {
-                "name": "Speak / Penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780593189801",
         "title": "Q Is for Quarry",
         "subtitle": "",
@@ -1689,27 +1668,6 @@
         ]
     },
     {
-        "isbn": "9781501173219",
-        "title": "All the Light We Cannot See",
-        "subtitle": "a novel",
-        "authors": [
-            {
-                "name": "Anthony Doerr"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781492699248",
         "title": "No Way to Die",
         "subtitle": "a cal claxton oregon mystery",
@@ -2105,27 +2063,6 @@
         "publishers": [
             {
                 "name": "Speak / Penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250012579",
-        "title": "Eleanor & Park",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Rainbow Rowell"
-            }
-        ],
-        "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
             }
         ],
         "publish_places": [
@@ -14862,27 +14799,6 @@
         ]
     },
     {
-        "isbn": "9780439023511",
-        "title": "Mockingjay",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Suzanne Collins"
-            }
-        ],
-        "publish_date": "2010",
-        "publishers": [
-            {
-                "name": "Scholastic Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780593099766",
         "title": "Lethal Game",
         "subtitle": "A Ghostwalker Novel",
@@ -23403,27 +23319,6 @@
         ]
     },
     {
-        "isbn": "9781250252692",
-        "title": "Blacktop Wasteland",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "S. A. Cosby"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Flatiron Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780063070721",
         "title": "Neverwhere",
         "subtitle": "A Novel",
@@ -24319,27 +24214,6 @@
         ]
     },
     {
-        "isbn": "9780735219106",
-        "title": "Where The Crawdads Sing",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Delia Owens"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781501193491",
         "title": "Deal Of A Lifetime",
         "subtitle": "A Novella",
@@ -24730,27 +24604,6 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062041289",
-        "title": "Sisters Brothers",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Patrick Dewitt"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Ecco / Harper-Collins"
             }
         ],
         "publish_places": [
@@ -53915,6 +53768,1167 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781595544254",
+        "title": "Conspiracy Of Ravens",
+        "subtitle": "A Lady Trent Mystery, Book 2",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2008",
+        "pages": 314,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781595544278",
+        "title": "Sonnet To A Dead Contessa",
+        "subtitle": "A Lady Trent Mystery, Book 3",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2009",
+        "pages": 313,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250191076",
+        "title": "Eye Of The Heron",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ursula K. Le Guin"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2018",
+        "pages": 204,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780756417291",
+        "title": "We Have Always Been Here",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lena Nguyen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 355,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Daw Books, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250012579",
+        "title": "Eleanor & Park",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rainbow Rowell"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 328,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780439023511",
+        "title": "Mockingjay",
+        "subtitle": "The Hunger Games, Book 3",
+        "authors": [
+            {
+                "name": "Suzanne Collins"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2010",
+        "pages": 390,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525707370",
+        "title": "Babysitters Coven",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kate Williams"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 360,
+        "price": 9,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781934812372",
+        "title": "Kendra Kandlestar And The Shard From Greeve",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lee Edward Fodi"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": 293,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Brown Books Publishing Group"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Dallas, Tx."
+            }
+        ]
+    },
+    {
+        "isbn": "9780142402511",
+        "title": "Looking For Alaska",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Green"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2006",
+        "pages": 221,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250084071",
+        "title": "Way To Game The Walk Of Shame",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenn P. Nguyen"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": "306+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Swoon Reads"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553392647",
+        "title": "Let Sleeping Dogs Lie",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rita Mae Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 272,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250252692",
+        "title": "Blacktop Wasteland",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "S. A. Cosby"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 303,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439156438",
+        "title": "Istanbul Passage",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joseph Kanon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": "401+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312377632",
+        "title": "Plum Lucky",
+        "subtitle": "A Stephanie Plum Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 166,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312306342",
+        "title": "Plum Lovin'",
+        "subtitle": "A Stephanie Plum Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            },
+            {
+                "name": "Lorelei King"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 163,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538750148",
+        "title": "Cari Mora",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Thomas Harris"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 311,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385546027",
+        "title": "Judge's List",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 357,
+        "price": 17,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060584030",
+        "title": "Motor Mouth",
+        "subtitle": "A Barnaby Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 312,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345542922",
+        "title": "Top Secret Twenty-One",
+        "subtitle": "A Stephanie Plum Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 341,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061733147",
+        "title": "Road Dogs",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elmore Leonard"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 262,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735220683",
+        "title": "Eleanor Oliphant Is Completely Fine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gail Honeyman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 327,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pamela Dorman / Viking"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062409850",
+        "title": "Go Set A Watchman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Harper Lee"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 278,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143126829",
+        "title": "Redeployment",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Phil Klay"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 291,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312273231",
+        "title": "Moth Smoke",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mohsin Hamid"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 244,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador Usa"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062041289",
+        "title": "Sisters Brothers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patrick Dewitt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 328,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143122647",
+        "title": "How It All Began",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Penelope Lively"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 229,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735219106",
+        "title": "Where The Crawdads Sing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Delia Owens"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 391,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501173219",
+        "title": "All The Light We Cannot See",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "531+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425201325",
+        "title": "Little Fate",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 325,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496707444",
+        "title": "Extraordinary Union",
+        "subtitle": "A Novel Of The Civil War",
+        "authors": [
+            {
+                "name": "Alyssa Cole"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic",
+            "hfi"
+        ],
+        "publish_date": "2017",
+        "pages": 258,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250043870",
+        "title": "Every Time You Go Away",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Beth Harbison"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 293,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143108863",
+        "title": "After You",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": "352+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735222304",
+        "title": "Paris For One",
+        "subtitle": "And Other Stories",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "274+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399146598",
+        "title": "Louisa",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Simone Zelitch"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 378,
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781628751888",
+        "title": "4 Kids Walk Into A Bank",
+        "subtitle": "A Torrid Tale Of Child Crime",
+        "authors": [
+            {
+                "name": "Matthew Rosenberg"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Black Mask Studios"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Los Angeles, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781632156747",
+        "title": "Paper Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brian K. Vaughan"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2016",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781534300361",
+        "title": "Snotgirl",
+        "subtitle": "Green Hair Don't Care",
+        "authors": [
+            {
+                "name": "Bryan Lee O'malley"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2017",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781627389877",
+        "title": "Chilling Adventures Of Sabrina",
+        "subtitle": "The Crucible",
+        "authors": [
+            {
+                "name": "Roberto Aguirre-Sacasa"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2016",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Archie Comic Publications"
             }
         ]
     }
