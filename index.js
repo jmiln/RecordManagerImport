@@ -1043,11 +1043,14 @@ async function getNewLoc() {
         const locChoiceRes = await askQuestionV2({
             question: "I found the following locations, which should I use?",
             answerList: possibleLocs,
-            cancel: true
+            cancel: true,
+            other: true
         });
         if (possibleLocs[locChoiceRes]) {
             debugLog("Setting newLoc to ", possibleLocs[locChoiceRes]);
             newLoc = possibleLocs[locChoiceRes];
+        } else if (otherVals.includes(locChoiceRes)) {
+            newLoc = getNewLoc();
         }
     } else {
         // There's only one match, so check if it's viable
