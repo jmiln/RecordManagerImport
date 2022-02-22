@@ -1040,6 +1040,7 @@ async function getNewLoc() {
         }
     } else if (possibleLocs.length > 1) {
         // If matched with more than one location
+        possibleLocs = [...new Set(possibleLocs.map(l => toProperCase(l)))];
         const locChoiceRes = await askQuestionV2({
             question: "I found the following locations, which should I use?",
             answerList: possibleLocs,
