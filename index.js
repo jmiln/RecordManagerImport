@@ -24,6 +24,21 @@ const yesVals    = ["y", "yes"];
 // The max length of a single full size row/ field in record manager
 const MAX_LEN = 64;
 
+// Max length of the mid-sized rows (publisher, illustrations)
+const MAX_MID_LEN = 28;
+
+// Max length of the smaller mid-sized rows (topic, location)
+const MAX_SMALL_MID_LEN = 27;
+
+// Max length of the small rows (Pub date, size)
+const MAX_SMALL_LEN = 15;  // eslint-disable-line no-unused-vars
+
+// Max length of the smaller rows (edition, binding, jacket, pages)
+const MAX_SMALLER_LEN = 15; // eslint-disable-line no-unused-vars
+
+// Max length of the keyword fields
+const MAX_KW_LEN = 19; // eslint-disable-line no-unused-vars
+
 // The readline to allow user input from the commandline
 const rl = readline.createInterface({
     input: process.stdin,
@@ -125,7 +140,7 @@ async function init() {
         if (boardTypes[boardRes]) {
             boardStr = boardStr.replace("X", boardTypes[boardRes]);
         } else if (otherVals.includes(boardRes)) {
-            const newBoardRes = await askQuestion("What would you like to replace the X in `VG IN X` with?");
+            const newBoardRes = await askQuestion({query: "What would you like to replace the X in `VG IN X` with?", maxLen: MAX_LEN-"VG IN .".length});
             if (newBoardRes?.length) {
                 if ((newBoardRes.length + boardStr.length - 1) > MAX_LEN) {
                     console.log(`Invalid string, your board condition can only be a max of ${MAX_LEN} long, including the base of "VG IN ."`);
@@ -801,7 +816,7 @@ async function getPub(pubName, inLocs) {
             }
         } else if (pubRes.toLowerCase() === "o") {
             // Query for a new name to look for
-            const newPub = await askQuestion("What publisher should I search for?");
+            const newPub = await askQuestion({query: "What publisher should I search for?", maxLen: MAX_MID_LEN});
             if (!newPub?.length) {
                 console.log("No publisher entered.");
                 return out;
@@ -843,7 +858,7 @@ async function getPub(pubName, inLocs) {
             return out;
         } else {
             // If that's not what it should be, ask what should be there, then run the search again...
-            const newPub = await askQuestion("What publisher should I search for?");
+            const newPub = await askQuestion({query: "What publisher should I search for?", maxLen: MAX_MID_LEN});
             out = await getPub(newPub);
             if (!out.locs && !out.pub) {
                 return out;
@@ -945,7 +960,7 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
                 return inLocs[locRes];
             } else if (locRes.toUpperCase() === "O") {
                 // Ask for something to search by, and run it through this again with the results from that
-                const targetLoc = await askQuestion("Which location are you looking for?");
+                const targetLoc = await askQuestion({query: "What location would you like to look for?", maxLen: MAX_SMALL_MID_LEN });
                 let possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(targetLoc) > -1);
                 if (!possibleLocs.length) {
                     // if it didn't find any, try checking against the bookLog
@@ -1007,7 +1022,7 @@ async function getLoc(inLocs=[]) { // eslint-disable-line no-unused-vars
 // If we don't have a location to go off of, ask for a new location and do what we can to find it
 async function getNewLoc() {
     let newLoc = null;
-    const newLocRes = await askQuestion("What location would you like to look for?");
+    const newLocRes = await askQuestion({query: "What location would you like to look for?", maxLen: MAX_SMALL_MID_LEN });
     let possibleLocs = locMap.filter(loc => loc.toLowerCase().indexOf(newLocRes) > -1);
 
     if (!possibleLocs.length) {
@@ -1074,7 +1089,7 @@ async function getEmptyPub() {
         yesNo: true
     });
     if (["y", "yes"].includes(noRes.toLowerCase())) {
-        const newPub = await askQuestion("What publisher should I search for?");
+        const newPub = await askQuestion({query: "What publisher should I search for?", maxLen: MAX_MID_LEN});
         out = await getPub(newPub);
         debugLog("Empty pub out: ", out);
         if (!out.locs && !out.pub) {
@@ -1088,12 +1103,17 @@ async function getEmptyPub() {
 }
 
 // Ask a question/ prompt and wait for the reply
-async function askQuestion(query) {
+async function askQuestion({query, maxLen=0}) {
     debugLog("[askQuestion] Q: " + query);
     const prompt = "\n\n> ";
     return new Promise(resolve => rl.question("\n" + query + prompt, line => {
-        line = cleanControlChars(line);
-        resolve(line);
+        if (maxLen && line.length > maxLen) {
+            console.log(`\nERROR: That answer was too long, max length is ${maxLen}`);
+            resolve(askQuestion({query: query, maxLen: maxLen}));
+        } else {
+            line = cleanControlChars(line);
+            resolve(line);
+        }
     }));
 }
 
@@ -1435,13 +1455,13 @@ async function findInfo() {
     };
 
     // Grab the year it was published
-    const dateRes = await askQuestion("What year was this published? Must be in YYYY format.");
+    const dateRes = await askQuestion({query: "What year was this published? Must be in YYYY format.", maxLen: 4});
     if (dateRes.match(/^\d{4}$/) && parseInt(dateRes, 10) > 0 && parseInt(dateRes, 10) <= new Date().getFullYear()) {
         newJsonOut.publish_date = dateRes;
     }
 
     // Grab the title, and subtitle, if viable
-    const titleRes = await askQuestion("What is the title of this book? (If there's a subtitle, it will grab everything after a \":\")");
+    const titleRes = await askQuestion("What is the title of this book? ({query: If there's a subtitle, it will grab everything after a \":\" })");
     if (titleRes?.length) {
         const [thisTitle, ...thisSub] = titleRes.split(":");
         newJsonOut.title = thisTitle.trim();
@@ -1450,8 +1470,8 @@ async function findInfo() {
         }
     }
 
-    // Grab what ever author(s)
-    const authRes = await askQuestion("What authors go with this book? (Authors will be split by commas)");
+    // Grab whatever author(s)
+    const authRes = await askQuestion({query: "What authors go with this book? (Authors will be split by commas)" });
     if (authRes?.length) {
         const thisAuths = [...new Set(authRes.split(",").map(a => toProperCase(a.trim())))];
         newJsonOut.authors = thisAuths.map(auth => {
