@@ -28,6 +28,7 @@ module.exports = {
     lp:  "Large Print",
     lit: "Literature",
     mag: "Magick",
+    man: "Manga",
     mat: "Mathematics",
     mbp: "Man Booker Prize",
     med: "Medieval",

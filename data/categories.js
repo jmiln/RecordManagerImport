@@ -51,6 +51,7 @@ module.exports = [
     "LINGUIS",
     "LITERATURE",
     "LRGPRINT",
+    "MANGA",
     "MATH",
     "MIDEAST",
     "MILITARY",

@@ -182,6 +182,7 @@ module.exports.condLocs = {
     fw:   "front wrap",
     hea:  "head",
     hee:  "heel",
+    lsp:  "lower spine",
     ldjs: "lower dj spine",
     p:    "pages",
     pe:   "page edges",

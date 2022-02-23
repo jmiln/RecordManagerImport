@@ -1510,13 +1510,15 @@
         "name": [
             "Sourcebooks",
             "Sourcebooks Fire",
-            "Sourcebooks Landmark"
+            "Sourcebooks Landmark",
+            "Sourcebooks Casablanca"
         ],
         "aliases": [
             "Source"
         ],
         "locations": [
-            "Naperville, IL."
+            "Naperville, IL.",
+            "Naperville, Il."
         ]
     },
     {
@@ -2862,6 +2864,86 @@
         ],
         "locations": [
             "Los Angeles, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Harper-Via/ Harper-Collins"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Orchard Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Texas Tech University Press"
+        ],
+        "locations": [
+            "Lubbock, Te."
+        ]
+    },
+    {
+        "name": [
+            "Viz Media"
+        ],
+        "locations": [
+            "San Francisco, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Dark Horse Books"
+        ],
+        "locations": [
+            "Milwaukie, Or."
+        ]
+    },
+    {
+        "name": [
+            "Steerforth Press"
+        ],
+        "locations": [
+            "Hanover, Nh."
+        ]
+    },
+    {
+        "name": [
+            "Ig Publishing"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Custom House/ William Morrow"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Chizine"
+        ],
+        "locations": [
+            "Toronto, On."
+        ]
+    },
+    {
+        "name": [
+            "Endicott And Hugh Books"
+        ],
+        "locations": [
+            "Burton, Wa."
         ]
     }
 ]
