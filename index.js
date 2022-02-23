@@ -1108,7 +1108,7 @@ async function askQuestion({query, maxLen=0}) {
     const prompt = "\n\n> ";
     return new Promise(resolve => rl.question("\n" + query + prompt, line => {
         if (maxLen && line.length > maxLen) {
-            console.log(`\nERROR: That answer was too long, max length is ${maxLen}`);
+            console.log(`\nERROR: That answer was too long (${line.length}), max length is ${maxLen}`);
             resolve(askQuestion({query: query, maxLen: maxLen}));
         } else {
             line = cleanControlChars(line);
