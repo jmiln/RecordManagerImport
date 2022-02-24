@@ -158,9 +158,11 @@ module.exports.modularCond = {
     tte: "tiny tear to ^.",
     ttea:"tiny tear to ^.",
 
-    // Sticker scars
+    // Sticker issues
     stsc: "sticker scar at ^.",
     smstsc: "small sticker scar at ^.",
+    ssha: "sticker shadow at ^.",
+    srem: "sticker remnant at ^.",
 };
 
 // The different parts of the book to name off
