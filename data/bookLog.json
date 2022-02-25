@@ -15534,27 +15534,6 @@
         ]
     },
     {
-        "isbn": "9780062678751",
-        "title": "Black Ascot",
-        "subtitle": "An Inspector Ian Rutledge Mystery",
-        "authors": [
-            {
-                "name": "Charles Todd"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781681443621",
         "title": "Critic",
         "subtitle": "An Enzo Macleod Investigation",
@@ -55404,7 +55383,7 @@
     },
     {
         "isbn": "9781416978176",
-        "title": "Ghost Writer Secret",
+        "title": "Ghostwriter Secret",
         "subtitle": "",
         "authors": [
             {
@@ -55528,7 +55507,7 @@
     },
     {
         "isbn": "9781423123682",
-        "title": "Secrets Of The Darlings",
+        "title": "Darlings Are Forever",
         "subtitle": "",
         "authors": [
             {
@@ -57782,6 +57761,653 @@
         "publishers": [
             {
                 "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316055444",
+        "title": "Goldfinch",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Donna Tartt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2015",
+        "pages": 771,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143123170",
+        "title": "Cold Dish",
+        "subtitle": "The First Novel In The Longmire Mystery Series",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": "354+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143038382",
+        "title": "Death Without Company",
+        "subtitle": "A Longmire Mystery",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": "271+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781784298333",
+        "title": "Freeze Frame",
+        "subtitle": "An Enzo Maxleod Investigation",
+        "authors": [
+            {
+                "name": "Peter May"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 371,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverrun / Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678751",
+        "title": "Black Ascot",
+        "subtitle": "An Inspector Ian Rutledge Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "342+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385341011",
+        "title": "Black Path",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Asa Larsson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 384,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Delta / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781477821930",
+        "title": "Wreckage",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emily Bleeker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 296,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781509816323",
+        "title": "Need You Dead",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James, Peter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 419,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0517681358",
+        "title": "Kill Or Cure",
+        "subtitle": "Suspense Stories About The World Of Medicine",
+        "authors": [
+            {
+                "name": "Marcia Muller"
+            },
+            {
+                "name": "Bill Pronzini"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1989",
+        "pages": 306,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bonanza Books/ Crown"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802148674",
+        "title": "Trace Elements",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 278,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681443898",
+        "title": "Coffin Road",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter May"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 303,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635061222",
+        "title": "Man With No Face",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter May"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 406,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385313632",
+        "title": "Hard Time",
+        "subtitle": "A V.i. Warshawski Novel",
+        "authors": [
+            {
+                "name": "Sara Paretsky"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1999",
+        "pages": 385,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316176637",
+        "title": "Transcription",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Atkinson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 343,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400044597",
+        "title": "Our Story Begins",
+        "subtitle": "New And Selected Stories",
+        "authors": [
+            {
+                "name": "Tobias Wolff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 379,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781932386905",
+        "title": "Return Of The Dapper Men",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jim McCann"
+            },
+            {
+                "name": "Janet Lee",
+                "contribution": "art by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2010",
+        "pages": "u",
+        "price": 16,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Archaia Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Los Angeles, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0811812642",
+        "title": "Twelve Days Of Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Woodleigh Marx Hubbard"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "1996",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Chronicle Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "1570614202",
+        "title": "Camelback Dogs",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jasper Tomkins"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2004",
+        "pages": "u",
+        "price": 27,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Sasquatch Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780807588161",
+        "title": "What's So Special About Planet Earth?",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert E. Wells"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2010",
+        "pages": "u",
+        "price": 14,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Albert Whitman & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chicago"
+            }
+        ]
+    },
+    {
+        "isbn": "9780807590812",
+        "title": "Why Do Elephants Need The Sun?",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert E. Wells"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2010",
+        "pages": "u",
+        "price": 27,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Albert Whitman & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chicago, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "0060245328",
+        "title": "Treasury Of Princesses",
+        "subtitle": "Princess Tales From Around The World",
+        "authors": [
+            {
+                "name": "Shirley Climo"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "1996",
+        "pages": 73,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
             }
         ],
         "publish_places": [

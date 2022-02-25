@@ -164,6 +164,7 @@
             "Little Brown",
             "Little, Brown",
             "Back Bay",
+            "Back Bay Books",
             "Mulholland"
         ],
         "locations": [
@@ -957,13 +958,16 @@
     },
     {
         "name": [
-            "MacMillan Company"
+            "MacMillan Company",
+            "Macmillan"
         ],
         "aliases": [
             "MacMillan",
             "MPS"
         ],
-        "locations": []
+        "locations": [
+            "London"
+        ]
     },
     {
         "name": [
@@ -1319,13 +1323,15 @@
     },
     {
         "name": [
-            "Quercus"
+            "Quercus",
+            "Riverrun / Quercus"
         ],
         "aliases": [
             "Quercus"
         ],
         "locations": [
-            "New York"
+            "New York",
+            "London"
         ]
     },
     {
@@ -2952,6 +2958,38 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Bonanza Books/ Crown"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Archaia Comics"
+        ],
+        "locations": [
+            "Los Angeles, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Sasquatch Books"
+        ],
+        "locations": [
+            "Seattle, Wa."
+        ]
+    },
+    {
+        "name": [
+            "Albert Whitman & Company"
+        ],
+        "locations": [
+            "Chicago"
         ]
     }
 ]
