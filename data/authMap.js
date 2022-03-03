@@ -36,5 +36,8 @@ module.exports = {
     },
     "Ursula K. Le Guin": {
         format: "Le Guin, Ursula K."
+    },
+    "Leonard Pitts, Jr.": {
+        format: "Pitts, Leonard, Jr."
     }
 };

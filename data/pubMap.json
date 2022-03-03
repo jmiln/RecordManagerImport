@@ -2991,5 +2991,53 @@
         "locations": [
             "Chicago"
         ]
+    },
+    {
+        "name": [
+            "Westside Books"
+        ],
+        "locations": [
+            "Lodi, Nj."
+        ]
+    },
+    {
+        "name": [
+            "Montlake"
+        ],
+        "locations": [
+            "Seattle, Wa."
+        ]
+    },
+    {
+        "name": [
+            "Avid Reader Press/ S&S"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Authorhouse"
+        ],
+        "locations": [
+            "Bloomington, In."
+        ]
+    },
+    {
+        "name": [
+            "Ace / Penguin Random"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Bolden / Agate"
+        ],
+        "locations": [
+            "Chicago"
+        ]
     }
 ]

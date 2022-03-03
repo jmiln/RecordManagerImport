@@ -1584,27 +1584,6 @@
         ]
     },
     {
-        "isbn": "9781338635171",
-        "title": "Ballad Of Songbirds And Snakes",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Suzanne Collins"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Scholastic Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781643750255",
         "title": "Afterlife",
         "subtitle": "a novel",
@@ -9173,27 +9152,6 @@
         "publishers": [
             {
                 "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250080400",
-        "title": "Nightingale",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
             }
         ],
         "publish_places": [
@@ -45490,40 +45448,6 @@
         ]
     },
     {
-        "isbn": "9781984818508",
-        "title": "Better Off Dead",
-        "subtitle": "A Jack Reacher Novel",
-        "authors": [
-            {
-                "name": "Lee Child"
-            },
-            {
-                "name": "Andrew Child"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 325,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Delacorte Press/random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250072450",
         "title": "Garden Of Promises And Lies",
         "subtitle": "Book Three In The Found Things Series - A Novel",
@@ -47564,37 +47488,6 @@
         "publish_places": [
             {
                 "name": "Nashville, Tn."
-            }
-        ]
-    },
-    {
-        "isbn": "9780764234248",
-        "title": "Shadows Of Swanford Abbey",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Julie Klassen"
-            }
-        ],
-        "keywords": [
-            "xfi",
-            "hfi",
-            "rom"
-        ],
-        "publish_date": "2021",
-        "pages": 410,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Bethany House Publishers"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Minneapolis, Mn."
             }
         ]
     },
@@ -58408,6 +58301,1221 @@
         "publishers": [
             {
                 "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764234248",
+        "title": "Shadows Of Swanford Abbey",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Klassen"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi",
+            "rom"
+        ],
+        "publish_date": "2021",
+        "pages": 410,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764232404",
+        "title": "Waiting On Love",
+        "subtitle": "A Ladies of the Lake Novel",
+        "authors": [
+            {
+                "name": "Peterson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi",
+            "rom"
+        ],
+        "publish_date": "2021",
+        "pages": 310,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781338635171",
+        "title": "Ballad Of Songbirds And Snakes",
+        "subtitle": "A Hunger Games Novel",
+        "authors": [
+            {
+                "name": "Suzanne Collins"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 517,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781934813072",
+        "title": "Listen",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nancy Coffelt"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": 213,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Westside Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Lodi, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "9781681195100",
+        "title": "Curse So Dark And Lonely",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brigid Kemmerer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": "484+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476703404",
+        "title": "Paw And Order",
+        "subtitle": "A Chet And Bernie Mystery",
+        "authors": [
+            {
+                "name": "Peter Abrahams"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": "304+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778309543",
+        "title": "Yankee Widow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Linda Lael Miller"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "434+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781420152258",
+        "title": "Earl, The Girl, And A Toddler",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Vanessa Riley"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 373,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zebra / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781542025225",
+        "title": "Highland Fling",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Meghan Quinn"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 338,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Montlake"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250080400",
+        "title": "Nightingale",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 570,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593337752",
+        "title": "Lightning In A Mirror",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jayne Ann Krentz"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 310,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062976529",
+        "title": "Her Heart For A Compass",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Ferguson"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 555,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399562488",
+        "title": "Giver Of Stars",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 390,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781402276637",
+        "title": "Firebird",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susanna Kearsley"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 539,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "0385722494",
+        "title": "Pride Of Carthage",
+        "subtitle": "A Novel Of Hannibal",
+        "authors": [
+            {
+                "name": "David Anthony Durham"
+            }
+        ],
+        "keywords": [
+            "hfi",
+            "mfi"
+        ],
+        "publish_date": "2006",
+        "pages": 568,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312598983",
+        "title": "Attila",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William Napier"
+            }
+        ],
+        "keywords": [
+            "hfi",
+            "mfi"
+        ],
+        "publish_date": "2010",
+        "pages": 402,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312598990",
+        "title": "Attila",
+        "subtitle": "The Gathering Of The Storm - A Novel",
+        "authors": [
+            {
+                "name": "William Napier"
+            }
+        ],
+        "keywords": [
+            "hfi",
+            "mfi"
+        ],
+        "publish_date": "2010",
+        "pages": 336,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312672843",
+        "title": "Silver Eagle",
+        "subtitle": "A Novel Of The Forgotten Legion",
+        "authors": [
+            {
+                "name": "Ben Kane"
+            }
+        ],
+        "keywords": [
+            "hfi",
+            "mfi"
+        ],
+        "publish_date": "2011",
+        "pages": 469,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385337670",
+        "title": "Emperor",
+        "subtitle": "The Gods Of War",
+        "authors": [
+            {
+                "name": "Conn Iggulden"
+            }
+        ],
+        "keywords": [
+            "hfi",
+            "mfi"
+        ],
+        "publish_date": "2006",
+        "pages": 383,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061969638",
+        "title": "Fort",
+        "subtitle": "A Novel Of The Revolutionary War",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "hfi",
+            "mfi"
+        ],
+        "publish_date": "2010",
+        "pages": 468,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060530464",
+        "title": "Sharpe's Havoc",
+        "subtitle": "Richard Sharpe And The Campaign In Northern Portugal, Spring 1809",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "hfi",
+            "mfi"
+        ],
+        "publish_date": "2003",
+        "pages": 306,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982164881",
+        "title": "Enemy At The Gates",
+        "subtitle": "A Mitch Rapp Novel",
+        "authors": [
+            {
+                "name": "Vince Flynn"
+            },
+            {
+                "name": "Kyle Mills"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 340,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818508",
+        "title": "Better Off Dead",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            },
+            {
+                "name": "Andrew Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 325,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525618584",
+        "title": "City Of The Dead",
+        "subtitle": "An Alex Delaware Novel",
+        "authors": [
+            {
+                "name": "Jonathan Kellerman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 319,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316485647",
+        "title": "Dark Hours",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 391,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982177881",
+        "title": "Falling",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "T. J. Newman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 290,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Avid Reader Press/ S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250007759",
+        "title": "Last Line",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anthony Shaffer"
+            },
+            {
+                "name": "William H. Keith"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 374,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781452088976",
+        "title": "Laserstar",
+        "subtitle": "The Space Defense Chronicles",
+        "authors": [
+            {
+                "name": "Charles Solbrig"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 586,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Authorhouse"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Bloomington, In."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250140760",
+        "title": "Bloody Sunday",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Ben Coes"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 392,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765321374",
+        "title": "Larry Bond's Red Dragon Rising",
+        "subtitle": "Shadows Of War",
+        "authors": [
+            {
+                "name": "Larry Bond"
+            },
+            {
+                "name": "Jim Defelice"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 415,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781632867957",
+        "title": "Sidney Chambers And The Persistence Of Love",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Runcie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 344,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425271766",
+        "title": "Kingfisher",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patricia A. Mckillip"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2016",
+        "pages": 346,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ace / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250764768",
+        "title": "Dune",
+        "subtitle": "The Duke Of Caladan",
+        "authors": [
+            {
+                "name": "Kevin J. Anderson"
+            },
+            {
+                "name": "Brian Herbert"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 318,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781572842458",
+        "title": "Last Thing You Surrender",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Leonard Pitts  Jr."
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2019",
+        "pages": 511,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Bolden / Agate"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chicago"
+            }
+        ]
+    },
+    {
+        "isbn": "0316925810",
+        "title": "Diamond Dogs",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Watt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 243,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "0811832406",
+        "title": "Distant Land Of My Father",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bo Caldwell"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2001",
+        "pages": 373,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Chronicle Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0345442245",
+        "title": "Speed Of Light",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Rosner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 241,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781951142766",
+        "title": "What Storm, What Thunder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Myriam J. A. Chancy"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 313,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tin House Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "0871139022",
+        "title": "Deafening",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Frances Itani"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 378,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
             }
         ],
         "publish_places": [
