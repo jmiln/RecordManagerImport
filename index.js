@@ -1461,7 +1461,7 @@ async function findInfo() {
     }
 
     // Grab the title, and subtitle, if viable
-    const titleRes = await askQuestion("What is the title of this book? ({query: If there's a subtitle, it will grab everything after a \":\" })");
+    const titleRes = await askQuestion({query: "What is the title of this book? If there's a subtitle, it will grab everything after a \":\"" });
     if (titleRes?.length) {
         const [thisTitle, ...thisSub] = titleRes.split(":");
         newJsonOut.title = thisTitle.trim();
