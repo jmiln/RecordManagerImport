@@ -3039,5 +3039,21 @@
         "locations": [
             "Chicago"
         ]
+    },
+    {
+        "name": [
+            "Hill And Wang / Fs&g"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Clarion Books"
+        ],
+        "locations": [
+            "New York"
+        ]
     }
 ]

@@ -25304,27 +25304,6 @@
         ]
     },
     {
-        "isbn": "9780316556323",
-        "title": "Circe",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Madeline Miller"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Back Bay/little, Brown & Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250257871",
         "title": "Independent Bones",
         "subtitle": "A Sarah Booth Delaney Mystery",
@@ -27462,27 +27441,6 @@
         ]
     },
     {
-        "isbn": "9781728240763",
-        "title": "Last Mona Lisa",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jonathan Santlofer"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Sourcebooks Landmark"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
         "isbn": "9781503958746",
         "title": "Last Green Valley",
         "subtitle": "A Novel",
@@ -28769,27 +28727,6 @@
         "publishers": [
             {
                 "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780345804327",
-        "title": "Underground Railroad",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Colson Whitehead"
-            }
-        ],
-        "publish_date": "2016",
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
             }
         ],
         "publish_places": [
@@ -38777,32 +38714,6 @@
         ]
     },
     {
-        "isbn": "9780142424179",
-        "title": "Fault In Our Stars",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "John Green"
-            }
-        ],
-        "publish_date": "2012",
-        "pages": 318,
-        "price": 7.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781733311106",
         "title": "Forever, Lately",
         "subtitle": "A Regency Time Travel Romance",
@@ -39460,32 +39371,6 @@
         "publishers": [
             {
                 "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780451495594",
-        "title": "Little French Bistro",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Nina George"
-            }
-        ],
-        "publish_date": "2017",
-        "pages": 338,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Broadway Books / Random"
             }
         ],
         "publish_places": [
@@ -59516,6 +59401,1531 @@
         "publishers": [
             {
                 "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008340520",
+        "title": "German Midwife",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mandy Robotham"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 354,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678416",
+        "title": "Woman In The Window",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "A. J. Finn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 427,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316154059",
+        "title": "City Of Bones",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2002",
+        "pages": 393,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545840712",
+        "title": "Liberty",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kirby Larson"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": "221+",
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399587191",
+        "title": "Big Little Lies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liane Moriarty"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 492,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316024495",
+        "title": "Heretic's Daughter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kathleen Kent"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2009",
+        "pages": "332+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374500016",
+        "title": "Night",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elie Wiesel"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "2006",
+        "pages": 120,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hill And Wang / Fs&g"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060923245",
+        "title": "Sweet Hereafter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Russell Banks"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1992",
+        "pages": 257,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345804341",
+        "title": "Nickel Boys",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colson Whitehead"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 210,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524796426",
+        "title": "Sunflower Sisters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martha Hall Kelly"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 522,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316556323",
+        "title": "Circe",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Madeline Miller"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "393+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451495594",
+        "title": "Little French Bistro",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nina George"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345804327",
+        "title": "Underground Railroad",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colson Whitehead"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 313,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781443437424",
+        "title": "Disclaimer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Renee Knight"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 336,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425281413",
+        "title": "Conspiracy In Belgravia",
+        "subtitle": "The Lady Sherlock Series, Book 2",
+        "authors": [
+            {
+                "name": "Sherry Thomas"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 317,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501176890",
+        "title": "New Iberia Blues",
+        "subtitle": "A Dave Robicheaux Novel",
+        "authors": [
+            {
+                "name": "James Lee Burke"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 447,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060740689",
+        "title": "Death At La Fenice",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2004",
+        "pages": 270,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0446520659",
+        "title": "Lion's Game",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nelson Demille"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2000",
+        "pages": 677,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385504225",
+        "title": "Lost Symbol",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dan Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 509,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062458827",
+        "title": "Closed Casket",
+        "subtitle": "The New Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Sophie Hannah"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 302,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681777719",
+        "title": "Handful Of Ashes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rob Mccarthy"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 373,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250312204",
+        "title": "Last Passenger",
+        "subtitle": "A Charles Lenox Mystery",
+        "authors": [
+            {
+                "name": "Charles Finch"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 292,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728240763",
+        "title": "Last Mona Lisa",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jonathan Santlofer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 376,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250246936",
+        "title": "Germania",
+        "subtitle": "A Novel Of Nazi Berlin",
+        "authors": [
+            {
+                "name": "Harald Gilbers"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 346,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538747254",
+        "title": "Crooked River",
+        "subtitle": "A Pendergast Novel",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 400,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312290896",
+        "title": "Last Temptation",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Val Mcdermid"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2002",
+        "pages": 432,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062853431",
+        "title": "Sins Of The Fathers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. A. Jance"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 370,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593300015",
+        "title": "Never",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 802,
+        "price": 19,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399180194",
+        "title": "Twisted Twenty-Six",
+        "subtitle": "A Stephanie Plum Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 306,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061840302",
+        "title": "Need You Now",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Grippando"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 357,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250295170",
+        "title": "Meet Me At The Museum",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Youngson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 272,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812973433",
+        "title": "Sudden Country",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Fisher"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 379,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "055309582X",
+        "title": "Death And Life Of Superman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Roger Stern"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "1993",
+        "pages": 415,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1594489238",
+        "title": "Harsh Cry Of The Heron",
+        "subtitle": "The Last Tale Of The Otori - Tales Of The Otori, Book 4",
+        "authors": [
+            {
+                "name": "Lian Hearn"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2006",
+        "pages": 506,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439148426",
+        "title": "Out Of The Cocoon",
+        "subtitle": "Star Trek - Corps Of Engineers",
+        "authors": [
+            {
+                "name": "William Leisner"
+            },
+            {
+                "name": "Kevin Killiany"
+            },
+            {
+                "name": "Phaedra Weldon"
+            },
+            {
+                "name": "Robert T. Jeschonek"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2010",
+        "pages": 553,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142424179",
+        "title": "Fault In Our Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Green"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 318,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062457806",
+        "title": "They Both Die At The End",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adam Silvera"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": "379+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316349567",
+        "title": "Word Of Mouse",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Chris Grabenstein"
+            },
+            {
+                "name": "Joe Sutphin"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 284,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534463424",
+        "title": "Unlocked",
+        "subtitle": "Keeper Of The Lost Cities, Book 8.5",
+        "authors": [
+            {
+                "name": "Shannon Messenger"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 747,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Aladdin / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101934852",
+        "title": "Auggie & Me",
+        "subtitle": "Three Wonder Stories",
+        "authors": [
+            {
+                "name": "R. J. Palacio"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 303,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780544052703",
+        "title": "Greenglass House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kate Milford"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 376,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Clarion Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481431873",
+        "title": "Chain Of Gold",
+        "subtitle": "The Last Hours, Book One",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": "582+",
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481431903",
+        "title": "Chain Of Iron",
+        "subtitle": "The Last Hours, Book Two - A Shadowhunters Novel",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            },
+            {
+                "name": "Finty Williams"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": "656+",
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684853159",
+        "title": "Wasp Factory",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Iain M. Banks"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1998",
+        "pages": 184,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316779425",
+        "title": "Barrel Fever",
+        "subtitle": "Stories And Essays",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1994",
+        "pages": 196,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345807090",
+        "title": "Bat",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jo Nesbo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 369,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455554478",
+        "title": "Reversal",
+        "subtitle": "A Lincoln Lawyer Novel, Book 3",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 416,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399179440",
+        "title": "Spy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Danielle Steel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 273,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316375191",
+        "title": "Identicals",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 423,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [

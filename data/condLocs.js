@@ -40,6 +40,7 @@ module.exports.condMap = {
     poin:  "Prev. Owner's initials inside.",
     poins: "Prev. Owner's inscription inside.",
     pona:  "Prev. Owner's name inside.",
+    poni:  "Prev. Owner's name inside.",
     pono:  "Prev. Owner note inside.",
     pobp:  "Prev. Owner bookplate inside.",
     post:  "Prev. Owner stamp inside.",
@@ -63,6 +64,9 @@ module.exports.condMap = {
     // Soiling to page edges
     fsoi: "faint soiling to page edges.",
     lsoi: "light soiling to page edges.",
+
+    fsta: "faint stain.",
+    lsta: "light stain.",
 
     // Soiling to boards
     fsoib: "faint soiling to boards.",
@@ -148,6 +152,10 @@ module.exports.modularCond = {
     fsoi: "faint soiling to ^.",
     lsoi: "light soiling to ^.",
 
+    // Staining
+    fsta: "faint stain to ^.",
+    lsta: "light stain to ^.",
+
     // X creased
     cr: "^ Creased.",
     crea: "^ Creased.",
@@ -180,12 +188,14 @@ module.exports.condLocs = {
     fb:   "front board",
     ffep: "ffep",
     fe:   "fore-edge",
+    ffe:  "front fore-edge",
     fp:   "front page",
     fw:   "front wrap",
     hea:  "head",
     hee:  "heel",
-    lsp:  "lower spine",
     ldjs: "lower dj spine",
+    lfw:  "lower front wrap",
+    lsp:  "lower spine",
     p:    "pages",
     pe:   "page edges",
     rb:   "rear board",
