@@ -60933,5 +60933,98 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780385541190",
+        "title": "Whistler",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 374,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781629729350",
+        "title": "Beyond The Lavender Fields",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Arlem Hawks"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 358,
+        "price": 16.2,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Shadow Mountain"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Salt Lake City, Ut."
+            }
+        ]
+    },
+    {
+        "isbn": "9780063019614",
+        "title": "Hidden Treasures",
+        "subtitle": "A Novel Of First Love, Second Chances, And The Hidden Stories Of The Heart",
+        "authors": [
+            {
+                "name": "Michelle Adams"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 321,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
