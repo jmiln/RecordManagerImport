@@ -58231,7 +58231,7 @@
         "subtitle": "A Ladies of the Lake Novel",
         "authors": [
             {
-                "name": "Peterson"
+                "name": "Tracie Peterson"
             }
         ],
         "keywords": [
@@ -58357,7 +58357,7 @@
         "subtitle": "A Chet And Bernie Mystery",
         "authors": [
             {
-                "name": "Peter Abrahams"
+                "name": "Spencer Quinn"
             }
         ],
         "keywords": [
@@ -60724,9 +60724,6 @@
         "authors": [
             {
                 "name": "Cassandra Clare"
-            },
-            {
-                "name": "Finty Williams"
             }
         ],
         "keywords": [
@@ -61019,6 +61016,190 @@
         "publishers": [
             {
                 "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764212451",
+        "title": "River",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Beverly Lewis"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2014",
+        "pages": 316,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0553030000",
+        "title": "Murder On The Orient Express",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1983",
+        "pages": 212,
+        "price": 8,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto"
+            }
+        ]
+    },
+    {
+        "isbn": "0553350005",
+        "title": "And Then There Were None",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1984",
+        "pages": 194,
+        "price": 8,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0151010854",
+        "title": "Last Call For Blackford Oakes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William F. Buckley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 353,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Orlando, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "0385477945",
+        "title": "Brothers No More",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William F. Buckley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1995",
+        "pages": 294,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0439784549",
+        "title": "Harry Potter And The Half-Blood Prince",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2005",
+        "pages": 652,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
             }
         ],
         "publish_places": [
