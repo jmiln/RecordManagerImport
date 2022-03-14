@@ -39,5 +39,8 @@ module.exports = {
     },
     "Leonard Pitts, Jr.": {
         format: "Pitts, Leonard, Jr."
+    },
+    "William E. Butterworth IV": {
+        format: "Butterworth, William E., IV"
     }
 };
