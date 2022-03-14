@@ -1190,7 +1190,7 @@ async function askQuestionV2({question="", answerList=[], cancel=false, save=fal
 
     return new Promise((resolve) => {
         rl.question("\n" + question + (questionOptions?.length ? "\n" + questionOptions.join("\n") : "") + prompt, (line) => {
-            line = cleanControlChars(line);
+            line = cleanControlChars(line.trim());
             if (answers.indexOf(line.toLowerCase()) > -1) {
                 resolve(line.toLowerCase());
             } else {
