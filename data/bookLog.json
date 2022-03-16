@@ -18204,27 +18204,6 @@
         ]
     },
     {
-        "isbn": "9781250066213",
-        "title": "Better Man",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Louise Penny"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780735220171",
         "title": "Black Leopard, Red Wolf",
         "subtitle": "",
@@ -62654,6 +62633,443 @@
         "publishers": [
             {
                 "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061143441",
+        "title": "Don't Look Twice",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andrew Gross"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 376,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670891541",
+        "title": "Train Now Departing",
+        "subtitle": "Two Novellas",
+        "authors": [
+            {
+                "name": "Martha Grimes"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2000",
+        "pages": 185,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250101082",
+        "title": "Disappearance Of Alistair Ainsworth",
+        "subtitle": "A Daughter Of Sherlock Holmes Mystery",
+        "authors": [
+            {
+                "name": "Leonard Goldberg"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 306,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805051759",
+        "title": "Esau",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Philip Kerr"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1997",
+        "pages": 372,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399154584",
+        "title": "Winter Study",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nevada Barr"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 370,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250140227",
+        "title": "Bishop's Pawn",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Steve Berry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 340,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316734592",
+        "title": "Blonde Faith",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Walter Mosley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 308,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066213",
+        "title": "Better Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 437,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399170898",
+        "title": "Brotherhood In Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. D. Robb"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 388,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316428163",
+        "title": "Texas Outlaw",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Andrew Bourelle"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 440,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780805078985",
+        "title": "Messenger Of Truth",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 322,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399169151",
+        "title": "Insatiable Appetites",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 309,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250123152",
+        "title": "Secrets In Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. D. Robb"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 370,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399163845",
+        "title": "X",
+        "subtitle": "A Kinsey Millhone Mystery, Book 24",
+        "authors": [
+            {
+                "name": "Sue Grafton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 403,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
             }
         ],
         "publish_places": [
