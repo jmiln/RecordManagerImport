@@ -10702,27 +10702,6 @@
         ]
     },
     {
-        "isbn": "9781982110567",
-        "title": "Institute",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Stephen King"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780385537858",
         "title": "Inferno",
         "subtitle": "A Novel",
@@ -61659,7 +61638,7 @@
         "subtitle": "An Alaska Mystery",
         "authors": [
             {
-                "name": "Henry, Sue"
+                "name": "Sue Henry"
             }
         ],
         "keywords": [
@@ -62830,7 +62809,7 @@
     {
         "isbn": "9780316734592",
         "title": "Blonde Faith",
-        "subtitle": "",
+        "subtitle": "The Tenth Easy Rawlins Thriller",
         "authors": [
             {
                 "name": "Walter Mosley"
@@ -63075,6 +63054,280 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0452261341",
+        "title": "Dark Tower",
+        "subtitle": "The Gunslinger, Book 1",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "1988",
+        "pages": "197+",
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Plume Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982110567",
+        "title": "Institute",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2019",
+        "pages": 561,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399179327",
+        "title": "Blessing In Disguise",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Danielle Steel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 277,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401302719",
+        "title": "Rest Of Her Life",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laura Moriarty"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 306,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780452297265",
+        "title": "Head Over Heels",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rain Mitchell"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 273,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781787473102",
+        "title": "Before We Were Yours",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Wingate"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 462,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "093552648X",
+        "title": "Sloop Of War",
+        "subtitle": "Richard Bolitho Novels, No. 4",
+        "authors": [
+            {
+                "name": "Alexander Kent"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1998",
+        "pages": 351,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "0935526439",
+        "title": "In Gallant Company",
+        "subtitle": "Richard Bolitho Novels, No. 3",
+        "authors": [
+            {
+                "name": "Alexander Kent"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1998",
+        "pages": 319,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "1578562341",
+        "title": "What Once We Loved",
+        "subtitle": "The Kinship And Courage Historical Series, Book 3",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2001",
+        "pages": 390,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Waterbrook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Colorado Springs, Co."
             }
         ]
     }
