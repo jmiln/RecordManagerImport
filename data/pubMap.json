@@ -158,6 +158,7 @@
         "name": [
             "Back Bay/Little, Brown & Co.",
             "Little, Brown & Company",
+            "Little, Brown And Co.",
             "Mulholland Books"
         ],
         "aliases": [
@@ -3081,6 +3082,38 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Mystery Guild"
+        ],
+        "locations": [
+            "Garden City, NY"
+        ]
+    },
+    {
+        "name": [
+            "Crown Publishers"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Hot Key Books"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Pyr / Prometheus Books"
+        ],
+        "locations": [
+            "Amherst, Ny."
         ]
     }
 ]

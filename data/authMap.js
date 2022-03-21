@@ -42,5 +42,8 @@ module.exports = {
     },
     "William E. Butterworth IV": {
         format: "Butterworth, William E., IV"
+    },
+    "Peter de Jonge": {
+        format: "de Jonge, Peter"
     }
 };
