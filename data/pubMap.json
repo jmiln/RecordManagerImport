@@ -639,7 +639,8 @@
             "G. P. Putnam's Sons"
         ],
         "aliases": [
-            "Putnam"
+            "Putnam",
+            "G.P. Putnam's Sons"
         ],
         "locations": [
             "New York"
@@ -3114,6 +3115,62 @@
         ],
         "locations": [
             "Amherst, Ny."
+        ]
+    },
+    {
+        "name": [
+            "Midnight Ink"
+        ],
+        "locations": [
+            "Woodbury, Mi."
+        ]
+    },
+    {
+        "name": [
+            "Tyrus Books"
+        ],
+        "locations": [
+            "Madison, Wi."
+        ]
+    },
+    {
+        "name": [
+            "Rookery Press / Overlook"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Amistad / Harper-Collins"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Lyons Press"
+        ],
+        "locations": [
+            "Guilford, Connecticut"
+        ]
+    },
+    {
+        "name": [
+            "Rebellion"
+        ],
+        "locations": [
+            "Oxford"
+        ]
+    },
+    {
+        "name": [
+            "Joanna Cotler Books"
+        ],
+        "locations": [
+            "New York"
         ]
     }
 ]
