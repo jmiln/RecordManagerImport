@@ -20,9 +20,10 @@ module.exports.condMap = {
     remm: "Remainder Mark.",
 
     // Edgewear
-    few:  "Faint Edgewear.",
-    lew:  "Light Edgewear.",
-    lewo: "Lightly Edgeworn.",
+    few:   "Faint Edgewear.",
+    lew:   "Light Edgewear.",
+    lewo:  "Lightly Edgeworn.",
+    lewod: "Lightly Edgeworn.",
 
     // Movie/ tv tie-in covers
     mti: "Movie tie-in cover.",
@@ -131,7 +132,7 @@ module.exports.modularCond = {
     poin:  "Prev. Owner's initials ^.",
     poins: "Prev. Owner's inscription ^.",
     pona:  "Prev. Owner's name ^.",
-    pono:  "Prev. Owner notes ^.",
+    pono:  "Prev. Owner notes on ^.",
     pobp:  "Prev. Owner bookplate ^.",
     post:  "Prev. Owner stamp ^.",
 
@@ -206,6 +207,7 @@ module.exports.condLocs = {
     usp:  "upper spine",
     upe:  "upper page edges",
     tesp: "top edge of spine",
+    htp:  "half title page",
     tp:   "title page",
     wr:   "wraps"
 };
