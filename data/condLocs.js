@@ -57,6 +57,7 @@ module.exports.condMap = {
     fmoi: "Faint moisture ripple",
     lmoi: "Light moisture ripple",
 
+    sds: "small dampstain.",
 
     // Foxing to page edges
     ffox: "faint foxing to page edges.",
@@ -145,6 +146,9 @@ module.exports.modularCond = {
     fmoi: "Faint moisture ripple to ^.",
     lmoi: "Light moisture ripple to ^.",
 
+    // Dampstains
+    sds: "Small Dampstain at ^.",
+
     // Foxing
     ffox: "faint foxing to ^.",
     lfox: "light foxing to ^.",
@@ -196,6 +200,7 @@ module.exports.condLocs = {
     hee:  "heel",
     ldjs: "lower dj spine",
     lfw:  "lower front wrap",
+    lp:   "later pages",
     lsp:  "lower spine",
     p:    "pages",
     pe:   "page edges",

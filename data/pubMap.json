@@ -2935,7 +2935,7 @@
     },
     {
         "name": [
-            "Custom House/ William Morrow"
+            "Custom House"
         ],
         "locations": [
             "New York"
@@ -3168,6 +3168,38 @@
     {
         "name": [
             "Joanna Cotler Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "John Scognamiglio/kensington"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Waterfall Press"
+        ],
+        "locations": [
+            "Grand Haven, Mi."
+        ]
+    },
+    {
+        "name": [
+            "Lyrical Press/ Kensington"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Night Shade Books"
         ],
         "locations": [
             "New York"

@@ -45,5 +45,12 @@ module.exports = {
     },
     "Peter de Jonge": {
         format: "de Jonge, Peter"
+    },
+    "Emily St. John Mandel": {
+        titles: [
+            "Station Eleven",
+            "Lola Quartet",
+            "Singer'S Gun"
+        ]
     }
 };
