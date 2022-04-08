@@ -16737,27 +16737,6 @@
         ]
     },
     {
-        "isbn": "9780399593574",
-        "title": "No Middle Name",
-        "subtitle": "The Complete Collected Jack Reacher Short Stories",
-        "authors": [
-            {
-                "name": "Lee Child"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Delacorte Press/random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780345539830",
         "title": "Golden Son",
         "subtitle": "Book 2 of the Red Rising Trilogy",
@@ -25405,27 +25384,6 @@
         "publishers": [
             {
                 "name": "Feiwel & Friends"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780525423669",
-        "title": "Reached",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ally Condie"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Dutton / Penguin"
             }
         ],
         "publish_places": [
@@ -72899,12 +72857,6 @@
         "authors": [
             {
                 "name": "David Baldacci"
-            },
-            {
-                "name": "Kyf Brewer"
-            },
-            {
-                "name": "Orlagh Cassidy"
             }
         ],
         "keywords": [
@@ -72984,6 +72936,351 @@
         "publishers": [
             {
                 "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670034533",
+        "title": "Light From Heaven",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jan Karon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 384,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743298025",
+        "title": "Thirteenth Tale",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diane Setterfield"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 406,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345427653",
+        "title": "Star Wars.",
+        "subtitle": "The Phantom Menace",
+        "authors": [
+            {
+                "name": "Terry Brooks"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "1999",
+        "pages": 324,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Ballantine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062657572",
+        "title": "Field Of Bones",
+        "subtitle": "A Brady Novel Of Suspense",
+        "authors": [
+            {
+                "name": "Judith A. Jance"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 381,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538761410",
+        "title": "Redemption",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 420,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316412698",
+        "title": "President Is Missing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Bill Clinton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 513,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown / Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316154067",
+        "title": "Void Moon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2000",
+        "pages": 391,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399593574",
+        "title": "No Middle Name",
+        "subtitle": "The Complete Collected Jack Reacher Short Stories",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 418,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525423669",
+        "title": "Reached",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ally Condie"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 512,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416595212",
+        "title": "Last Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Vince Flynn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 433,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455510177",
+        "title": "Abraham Lincoln",
+        "subtitle": "Vampire Hunter",
+        "authors": [
+            {
+                "name": "Seth Grahame-Smith"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr",
+            "hfi"
+        ],
+        "publish_date": "2012",
+        "pages": 370,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
