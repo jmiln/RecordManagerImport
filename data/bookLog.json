@@ -1584,27 +1584,6 @@
         ]
     },
     {
-        "isbn": "9780062491831",
-        "title": "Commonwealth",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Ann Patchett"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781492699248",
         "title": "No Way to Die",
         "subtitle": "a cal claxton oregon mystery",
@@ -23677,27 +23656,6 @@
         ]
     },
     {
-        "isbn": "9781250304452",
-        "title": "Maidens",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Alex Michaelides"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Celadon Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780670026456",
         "title": "Serpent's Tooth",
         "subtitle": "A Walt Longmire Mystery",
@@ -32843,32 +32801,6 @@
         "publishers": [
             {
                 "name": "Doubleday / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780345483447",
-        "title": "Summer Island",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "publish_date": "2004",
-        "pages": 427,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
             }
         ],
         "publish_places": [
@@ -42559,11 +42491,15 @@
     {
         "isbn": "9781492671527",
         "title": "Book Woman Of Troublesome Creek",
-        "subtitle": "",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Kim Michele Richardson"
             }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
         ],
         "publish_date": "2019",
         "pages": 308,
@@ -73008,8 +72944,8 @@
     },
     {
         "isbn": "0345427653",
-        "title": "Star Wars.",
-        "subtitle": "The Phantom Menace",
+        "title": "Star Wars",
+        "subtitle": "Episode I, The Phantom Menace",
         "authors": [
             {
                 "name": "Terry Brooks"
@@ -73281,6 +73217,1260 @@
         "publishers": [
             {
                 "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0143036114",
+        "title": "Rumpole And The Penge Bungalow Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Mortimer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 215,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476776866",
+        "title": "House We Grew Up In",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Jewell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": "388+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250105653",
+        "title": "Force Of Nature",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Harper"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 342,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501189692",
+        "title": "Little Cruelties",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liz Nugent"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 343,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399587221",
+        "title": "Brush With Shadows",
+        "subtitle": "A Lady Darby Mystery",
+        "authors": [
+            {
+                "name": "Anna Lee Huber"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 375,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781503943377",
+        "title": "Beneath A Scarlet Sky",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mark Sullivan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 513,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780525567066",
+        "title": "Shooting At Chateau Rock",
+        "subtitle": "A Mystery Of The French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 305,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101970751",
+        "title": "Fatal Pursuit",
+        "subtitle": "A Mystery Of The French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 301,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525435723",
+        "title": "Body In The Castle Well",
+        "subtitle": "A Mystery Of The French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "328+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525435716",
+        "title": "Taste For Vengeance",
+        "subtitle": "A Mystery Of The French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 335,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778309437",
+        "title": "Final Deception",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Heather Graham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 298,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593084908",
+        "title": "Turnout",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Megan Abbott"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 340,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250207173",
+        "title": "Vendetta In Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. D. Robb"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 356,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982170219",
+        "title": "Fortune And Glory",
+        "subtitle": "A Stephanie Plumm Novel - Tantalizing Twenty-Seven",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "315+",
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "006019443X",
+        "title": "Sinister Pig",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tony Hillerman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 228,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039915177X",
+        "title": "Lost City",
+        "subtitle": "A Novel From The Numa Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2004",
+        "pages": 420,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250304452",
+        "title": "Maidens",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Michaelides"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 337,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735217171",
+        "title": "Unbound",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 311,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735219229",
+        "title": "Desperate Measures",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 311,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735219168",
+        "title": "Skin Game",
+        "subtitle": "A Teddy Fay Novel Featuring Stone Barrington",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            },
+            {
+                "name": "Parnell Hall"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 311,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735218598",
+        "title": "Money Shot",
+        "subtitle": "A Teddy Fay Novel Featuring Stone Barrington",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 311,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593083192",
+        "title": "Treason",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 307,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593188293",
+        "title": "Choppy Water",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 323,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250776686",
+        "title": "Of Women And Salt",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gabriela Garcia"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 207,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385546690",
+        "title": "Women Of Troy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pat Barker"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 284,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476711959",
+        "title": "Bellman & Black",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diane Setterfield"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 328,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060936363",
+        "title": "Portrait In Sepia",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Isabel Allende"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 304,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307275837",
+        "title": "Rant",
+        "subtitle": "The Oral Biography Of Buster Casey",
+        "authors": [
+            {
+                "name": "Chuck Palahniuk"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 318,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062491831",
+        "title": "Commonwealth",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 322,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538720233",
+        "title": "Glorious Guinness Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emily Hourican"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 405,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374538583",
+        "title": "Wake, Siren",
+        "subtitle": "Ovid Resung",
+        "authors": [
+            {
+                "name": "Nina Maclaughlin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 342,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Farrar, Straus And Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492637134",
+        "title": "Bellewether",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susanna Kearsley"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 434,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062958501",
+        "title": "If I Never Met You",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mhairi Mcfarlane"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 412,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984826879",
+        "title": "Love, Unscripted",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Owen Nicholls"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 343,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345483447",
+        "title": "Summer Island",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 427,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316454933",
+        "title": "Queen Of The Conquered",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kacen Callender"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 391,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316509886",
+        "title": "City We Became",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "N. K. Jemisin"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 465,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316422017",
+        "title": "Once And Future Witches",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alix E. Harrow"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 529,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008450663",
+        "title": "Midnight In Everwood",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "M. A. Kuzniar"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 342,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hq / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982102548",
+        "title": "Inheritance Of Orquidea Divina",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Zoraida Cordova"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 324,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062973122",
+        "title": "Wolf And The Woodsman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ava Reid"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 418,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper Voyager"
             }
         ],
         "publish_places": [
