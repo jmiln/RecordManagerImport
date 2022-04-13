@@ -114,6 +114,9 @@ module.exports.condMap = {
 
 // Conditions that can have locations inserted instead of being statically assigned one
 module.exports.modularCond = {
+    // Signed
+    sigbp: "Signed Bookplate on ^.",
+
     // Edgewear
     few:  "Faint Edgewear to ^.",
     lew:  "Light Edgewear tp ^.",

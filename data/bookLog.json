@@ -6803,27 +6803,6 @@
         ]
     },
     {
-        "isbn": "9780345519467",
-        "title": "Between Sisters",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "publish_date": "2009",
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781538714652",
         "title": "Silent Wife",
         "subtitle": "A Gripping, Emotional Page-Turner With A Twist That Will Take Your Breath Away",
@@ -16192,27 +16171,6 @@
         ]
     },
     {
-        "isbn": "9780812977172",
-        "title": "All-Girl Filling Station's Last Reunion",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Fannie Flagg"
-            }
-        ],
-        "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781471100482",
         "title": "Perks Of Being A Wallflower",
         "subtitle": "",
@@ -17661,27 +17619,6 @@
             }
         ],
         "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Thomas Nelson, Inc."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Nashville, Tn."
-            }
-        ]
-    },
-    {
-        "isbn": "9780785228448",
-        "title": "One Little Lie",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Colleen Coble"
-            }
-        ],
-        "publish_date": "2020",
         "publishers": [
             {
                 "name": "Thomas Nelson, Inc."
@@ -72147,36 +72084,6 @@
         ]
     },
     {
-        "isbn": "0452282829",
-        "title": "We Were The Mulvaneys",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Joyce Carol Oates"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "1997",
-        "pages": 454,
-        "price": 8,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Plume Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780743277310",
         "title": "Daughter Of York",
         "subtitle": "A Novel",
@@ -73621,8 +73528,8 @@
     },
     {
         "isbn": "9781982170219",
-        "title": "Fortune And Glory",
-        "subtitle": "A Stephanie Plumm Novel - Tantalizing Twenty-Seven",
+        "title": "Fortune And Glory - Tantalizing Twenty-Seven",
+        "subtitle": "A Stephanie Plum Novel",
         "authors": [
             {
                 "name": "Janet Evanovich"
@@ -74471,6 +74378,1662 @@
         "publishers": [
             {
                 "name": "Harper Voyager"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316020725",
+        "title": "Rescue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anita Shreve"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 288,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982154912",
+        "title": "Recovery Agent",
+        "subtitle": "A Gabriela Rose Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 297,
+        "price": 17.4,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593198308",
+        "title": "Runaway Duchess",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joanna Lowell"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 350,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446570978",
+        "title": "Last Song",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicholas Sparks"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "pages": 413,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778325505",
+        "title": "Twenty Wishes",
+        "subtitle": "A Blossom Street Book",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 360,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "0812971043",
+        "title": "Dante Club",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Matthew Pearl"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 380,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451222640",
+        "title": "Light A Penny Candle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Maeve Binchy"
+            },
+            {
+                "name": "Rh Value Publishing"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 582,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142180785",
+        "title": "Mary Coin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marisa Silver"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 322,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345807298",
+        "title": "Circle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dave Eggers"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 497,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425232095",
+        "title": "School Of Essential Ingredients",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Erica Bauermeister"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 261,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "014023828X",
+        "title": "Tortilla Curtain",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. C. Boyle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 355,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812977172",
+        "title": "All-Girl Filling Station's Last Reunion",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fannie Flagg"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 367,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "014027166X",
+        "title": "Riven Rock",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. C. Boyle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1999",
+        "pages": 461,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "014303586X",
+        "title": "Inner Circle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. C. Boyle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 418,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785228448",
+        "title": "One Little Lie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Coble"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 339,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "0842329218",
+        "title": "Tribulation Force",
+        "subtitle": "The Continuing Drama Of Those Left Behind",
+        "authors": [
+            {
+                "name": "Tim F. Lahaye"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "1999",
+        "pages": 452,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Wheaton, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "0842329242",
+        "title": "Nicolae",
+        "subtitle": "The Rise Of Antichrist",
+        "authors": [
+            {
+                "name": "Tim F. Lahaye"
+            },
+            {
+                "name": "Jerry B. Jenkins"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "1997",
+        "pages": 413,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Wheaton, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781423101475",
+        "title": "Last Olympian",
+        "subtitle": "Percy Jackson And The Olympians, Book 5",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": 381,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338109061",
+        "title": "Fantastic Beasts And Where To Find Them: The Original Screenplay",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 293,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805000321",
+        "title": "Fine And Pleasant Misery",
+        "subtitle": "Cautionary Tales Of The Outdoor Life",
+        "authors": [
+            {
+                "name": "Patrick F. Mcmanus"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "1978",
+        "pages": 209,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425276792",
+        "title": "Tonight And Always",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            },
+            {
+                "name": "Amy Mcfadden"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 287,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345519467",
+        "title": "Between Sisters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 454,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250161598",
+        "title": "Shelter In Place",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 438,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765320735",
+        "title": "Irish Country Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patrick Taylor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 319,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765319951",
+        "title": "Irish Country Doctor",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patrick Taylor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 351,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765382733",
+        "title": "Irish Country Love Story",
+        "subtitle": "An Irish Country Novel",
+        "authors": [
+            {
+                "name": "Patrick Taylor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 397,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765332172",
+        "title": "Irish Country Wedding",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Taylor, Patrick"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 428,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765338365",
+        "title": "Irish Doctor In Peace And At War",
+        "subtitle": "An Irish Country Novel",
+        "authors": [
+            {
+                "name": "Patrick Taylor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 414,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780340924792",
+        "title": "Likeness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 696,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hodder & Stoughton"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312426385",
+        "title": "Jar City",
+        "subtitle": "An Inspector Erlendur Novel - A Reykjavik Thriller",
+        "authors": [
+            {
+                "name": "Arnaldur Indriðason"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 290,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307472847",
+        "title": "Man From Beijing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 454,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455581146",
+        "title": "Mean Streak",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sandra Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 409,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455581184",
+        "title": "Friction",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sandra Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": "410+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316010707",
+        "title": "Case Histories",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kate Atkinson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": "310+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451237699",
+        "title": "Believing The Lie",
+        "subtitle": "An Inspector Lynley Novel",
+        "authors": [
+            {
+                "name": "Elizabeth George"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 610,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594487729",
+        "title": "Last Days Of Ptolemy Grey",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Walter Mosley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 277,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496711342",
+        "title": "Death By Chocolate Frosted Doughnut",
+        "subtitle": "A Death By Chocolate Mystery",
+        "authors": [
+            {
+                "name": "Sarah Graves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 278,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399152679",
+        "title": "Sea Change",
+        "subtitle": "A Jesse Stone Novel",
+        "authors": [
+            {
+                "name": "Robert B. Parker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 296,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307269997",
+        "title": "Girl Who Kicked The Hornet's Nest",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stieg Larsson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 563,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593130001",
+        "title": "Scarlet Fever",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rita Mae Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 274,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399162497",
+        "title": "Mayan Secrets",
+        "subtitle": "A Fargo Adventure",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Thomas Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 375,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455586608",
+        "title": "End Game",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 408,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345541437",
+        "title": "Heartbreak Hotel",
+        "subtitle": "An Alex Delaware Novel",
+        "authors": [
+            {
+                "name": "Jonathan Kellerman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 351,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781590525135",
+        "title": "Redeeming Love",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Francine Rivers"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 479,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Multnomah Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sisters, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982131807",
+        "title": "Doctor Sleep",
+        "subtitle": "A Sequel To The Shining",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2019",
+        "pages": 531,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982115982",
+        "title": "Pet Sematary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2019",
+        "pages": 394,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982127794",
+        "title": "It",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2019",
+        "pages": "1157+",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496730046",
+        "title": "How To Love Your Elf",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kerrelyn Sparks"
+            }
+        ],
+        "keywords": [
+            "par",
+            "rom"
+        ],
+        "publish_date": "2020",
+        "pages": 328,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496730060",
+        "title": "Siren And the Deep Blue Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kerrelyn Sparks"
+            }
+        ],
+        "keywords": [
+            "par",
+            "rom"
+        ],
+        "publish_date": "2020",
+        "pages": 359,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643856674",
+        "title": "Unraveling of Cassidy Holmes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elissa R Sloan"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "422+",
+        "price": 8.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525518587",
+        "title": "River of Royal Blood",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amanda Joy"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 351,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525581673",
+        "title": "Guinevere Deception",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kiersten White"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 340,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062567987",
+        "title": "Last Namsara",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristen Ciccarelli"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": 421,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0452282829",
+        "title": "We Were the Mulvaneys",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joyce Carol Oates"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1997",
+        "pages": 454,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
             }
         ],
         "publish_places": [
