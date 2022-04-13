@@ -1508,9 +1508,19 @@ function getUniqueFromObjArray(arrIn) {
 
 // Like camel-case but with spaces
 function toProperCase(stringIn) {
-    return stringIn.replace(/([^\W_]+[^\s-]*) */g, function(txt) {
+    const ignoreList = ["a", "an", "for", "if", "is", "of", "the"];
+
+    // Then go through and do so for each following word (Excluding the strings specified)
+    stringIn = stringIn.replace(/([^\W_]+[^\s-]*) */g, function(txt) {
+        if (ignoreList.includes(txt.trim().toLowerCase())) {
+            return txt.toLowerCase();
+        }
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
     });
+
+
+    // Make sure the 1st word is capitalized
+    return stringIn.charAt(0).toUpperCase() + stringIn.substr(1);
 }
 
 
