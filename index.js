@@ -83,44 +83,44 @@ const argv = require("minimist")(process.argv.slice(2), {
     }
 });
 
-
-if (argv.help) {
-    return console.log(helpArr.join("\n"));
-}
-debugLog("argV: ", argv);
-
 let isbn = process.argv[2];
 let globalKWLen = null;
-const globalKWs = [];
-
-if (!isbn) {
-    rl.close();
-    return console.log("Missing ISBN.");
-} else if (isbn.length !== 10 && isbn.length !== 13) {
-    rl.close();
-    return console.log(`"${isbn}" is not a valid ISBN. (${isbn.length} is an invalid isbn length)`);
-} else {
-    isbn = isbn.toString().toUpperCase();
-}
-
-const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString().toUpperCase()}&jscmd=data&format=json`;
-
 let boardStr = "VG IN X.";
 
-argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
-debugLog("Conditions: ", argv.conditions);
-if (argv.conditions.includes("bc")) {
-    argv.bc = true;     // Book Club
-}
-if (argv.conditions.includes("lp")) {
-    argv.lp = true;     // Large Print
-}
-if (argv.conditions.includes("fr")) {
-    argv.french = true; // French Wraps
-}
+const globalKWs = [];
+const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString().toUpperCase()}&jscmd=data&format=json`;
 
-let jsonOut = null;
 async function init() {
+    if (argv.help) {
+        console.log(helpArr.join("\n"));
+        rl.close();
+        process.exit();
+    }
+    debugLog("argV: ", argv);
+
+    if (!isbn) {
+        rl.close();
+        return console.log("Missing ISBN.");
+    } else if (isbn.length !== 10 && isbn.length !== 13) {
+        rl.close();
+        return console.log(`"${isbn}" is not a valid ISBN. (${isbn.length} is an invalid isbn length)`);
+    } else {
+        isbn = isbn.toString().toUpperCase();
+    }
+
+    argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
+    debugLog("Conditions: ", argv.conditions);
+    if (argv.conditions.includes("bc")) {
+        argv.bc = true;     // Book Club
+    }
+    if (argv.conditions.includes("lp")) {
+        argv.lp = true;     // Large Print
+    }
+    if (argv.conditions.includes("fr")) {
+        argv.french = true; // French Wraps
+    }
+
+    let jsonOut = null;
     // If it's a hardcover book with no DJ, this will ask about special boards and such as needed.
     if (argv.hc && !argv.dj) {
         // Check if the X should be swapped out
@@ -672,40 +672,42 @@ function parseCond() {
 }
 
 // Go through and see if there is a matching publisher available
-async function getPub(pubName, inLocs) {
+async function getPub(pubName, inLocs=[]) {
     debugLog("[getPub input]", {pubName, inLocs});
     let out = {};
-    if (!inLocs) {
-        inLocs = [];
-    }
     if (!Array.isArray(inLocs)) {
-        inLocs = [inLocs];
+        return new Error("[getPub] inLocs needs to be an array!");
     }
     if (!pubName?.length) {
-        return new Error("Missing pubName to search for.");
+        return new Error("[getPub] Missing pubName to search for.");
     }
     pubName = pubName.toLowerCase();
     debugLog("[getPub pubName] Searching for: ", pubName);
 
     // Filter down the list to only include ones that have matching names
-    let possiblePubs = pubMap.filter(pub => {
-        let valid = false;
-        if (!pub.name && pub.pub) pub.name = pub.pub;
+    let possiblePubs = pubMap
+        .map(pub => {
+            return {
+                name: pub.name.filter(n => n.toLowerCase() === pubName || n.toLowerCase().includes(pubName)),
+                locations: pub.locations
+            };
+        })
+        .filter(pub => {
+            if (!pub.name && pub.pub) pub.name = pub.pub;
+            if (Array.isArray(pub.name)) {
+                if (pub.name.find(n => n.toLowerCase() === pubName || n.toLowerCase().includes(pubName))) {
+                    return true;
+                }
+            } else if (pub.name.toLowerCase().includes(pubName)) {
+                return true;
+            }
+            return false;
+        });
 
-        if (Array.isArray(pub.name)) {
-            valid = pub.name.find(n => n.toLowerCase() === pubName || n.toLowerCase().includes(pubName));
-        } else {
-            valid = pub.name.toLowerCase().includes(pubName);
-        }
-
-        return valid;
-    });
-
-    // Then if somehow, it cannot find a match in the names, check the aliases
+    // Then if it cannot find a match in the names, check the aliases
     if (!possiblePubs.length) {
         possiblePubs = pubMap.filter(pub => {
             if (!pub?.aliases) {
-                // debugLog("No aliases", pub);
                 return false;
             }
             const foundPub = pub.aliases.find(a => {
@@ -1316,13 +1318,13 @@ async function mergePubs(newPub) {
 async function savePubs(pubJson) {
     if (argv.debug) return false;
     console.log("Saving pubs");
-    await fs.writeFileSync(__dirname + "/data/pubMap.json", pubJson);
+    fs.writeFileSync(__dirname + "/data/pubMap.json", pubJson);
 }
 
 // Save the bookLog
 async function saveBooks(bookJson) {
     if (argv.debug) return false;
-    await fs.writeFileSync(__dirname + "/data/bookLog.json", bookJson);
+    fs.writeFileSync(__dirname + "/data/bookLog.json", bookJson);
 }
 
 // Run through all the data to make it all lowercase so it can be put in with caps lock on, then
@@ -1333,9 +1335,9 @@ async function saveAndRun(infoArr) {
         .join("\n")
         .replace(/’/g, "'");
     // Write to a file, then pass that to the ahk
-    await fs.writeFileSync(__dirname + "/bookInfo.txt", bookInfoOut);
+    fs.writeFileSync(__dirname + "/bookInfo.txt", bookInfoOut);
     rl.close();
-    await exec(__dirname + "/bookOut.ahk", (error) => {
+    exec(__dirname + "/bookOut.ahk", (error) => {
         if (error) {
             console.log(error);
         }
