@@ -675,8 +675,10 @@ function parseCond() {
 async function getPub(pubName, inLocs=[]) {
     debugLog("[getPub input]", {pubName, inLocs});
     let out = {};
-    if (!Array.isArray(inLocs)) {
+    if (inLocs && !Array.isArray(inLocs)) {
         return new Error("[getPub] inLocs needs to be an array!");
+    } else if (!inLocs) {
+        inLocs = [];
     }
     if (!pubName?.length) {
         return new Error("[getPub] Missing pubName to search for.");
