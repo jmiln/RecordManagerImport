@@ -76232,7 +76232,7 @@
     {
         "isbn": "9781984806734",
         "title": "Beach Read",
-        "subtitle": "",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Emily Henry"
@@ -76528,6 +76528,278 @@
         "publishers": [
             {
                 "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316078917",
+        "title": "Holidays On Ice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2010",
+        "pages": 166,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492651734",
+        "title": "Murder Has a Motive",
+        "subtitle": "A Mordecai Tremaine Mystery",
+        "authors": [
+            {
+                "name": "Francis Duncan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 378,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250007827",
+        "title": "Fountain Filled With Blood",
+        "subtitle": "A Clare Fergusson / Russ Van Alstyne Novel",
+        "authors": [
+            {
+                "name": "Julia Spencer-Fleming"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": "314+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316267731",
+        "title": "Iq",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joe Ide"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": "319+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765336385",
+        "title": "Skies of Ash",
+        "subtitle": "A Detective Elouise Norton Novel",
+        "authors": [
+            {
+                "name": "Rachel Howzell Hall"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 347,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781596435568",
+        "title": "Friends With Boys",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Faith Erin Hicks"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "ya",
+            "tfi"
+        ],
+        "publish_date": "2012",
+        "pages": "u",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "First Second"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0785111190",
+        "title": "New X-Men",
+        "subtitle": "Assault On Weapon Plus",
+        "authors": [
+            {
+                "name": "Grant Morrison"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2003",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785141716",
+        "title": "X-Factor: Time And a Half (X-Factor Vol. Iii #7)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter David"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2009",
+        "pages": "u",
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481492065",
+        "title": "Amina's Voice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hena Khan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": 197,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Salaam Reads / S&s"
             }
         ],
         "publish_places": [

@@ -8,5 +8,6 @@ module.exports = [
     "Full color photographs",
     "Illustrated throughout",
     "Photographs throughout",
-    "Photographs & illustrations"
+    "Photographs & illustrations",
+    "Black & White Illustrations"
 ];
