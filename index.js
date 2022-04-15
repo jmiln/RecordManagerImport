@@ -7,12 +7,14 @@ const readline = require("readline");
 
 const {condMap, condLocs, modularCond} = require(__dirname + "/data/condLocs.js");  // eslint-disable-line no-unused-vars
 
-const helpArr   = require(__dirname + "/data/helpOut.js");
-const kwMap     = require(__dirname + "/data/keywordMap.js");
-const locMap    = require(__dirname + "/data/locations.js");
-const pubMap    = require(__dirname + "/data/pubMap.json");
-const bookLog   = require(__dirname + "/data/bookLog.json");
-const authMap   = require(__dirname + "/data/authMap.js");
+const helpArr      = require(__dirname + "/data/helpOut.js");
+const kwMap        = require(__dirname + "/data/keywordMap.js");
+const locMap       = require(__dirname + "/data/locations.js");
+const pubMap       = require(__dirname + "/data/pubMap.json");
+const bookLog      = require(__dirname + "/data/bookLog.json");
+const authMap      = require(__dirname + "/data/authMap.js");
+const illusOptions = require(__dirname + "/data/illustrations.js");
+
 
 const cancelVals = ["c", "cancel"];
 const noVals     = ["n", "no"];
@@ -88,7 +90,6 @@ let globalKWLen = null;
 let boardStr = "VG IN X.";
 
 const globalKWs = [];
-const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString().toUpperCase()}&jscmd=data&format=json`;
 
 async function init() {
     if (argv.help) {
@@ -107,6 +108,7 @@ async function init() {
     } else {
         isbn = isbn.toString().toUpperCase();
     }
+    const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString().toUpperCase()}&jscmd=data&format=json`;
 
     argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
     debugLog("Conditions: ", argv.conditions);
@@ -132,7 +134,7 @@ async function init() {
             "spiral binding",
         ];
         const boardRes = await askQuestionV2({
-            question: "The book is HC without a DJ. Which, if any of the following should I use?",
+            question: "The book is a HC without a DJ. Which, if any of the following should I use?",
             answerList: boardTypes,
             other: true,
             cancel: true
@@ -160,10 +162,6 @@ async function init() {
 
         // Stick it as an object with the isbn as it's key so it matches the api response
         jsonOut["ISBN:" + oldJsonOut.isbn] = oldJsonOut;
-
-        // TODO Verify the data against what was entered (Check for changes in binding, page count, etc) then alert the user
-        // This should help reduce mistakes when forgetting to change something or missing a field
-
         debugLog("Old data:", jsonOut);
     } else {
         debugLog(`No old data found for ${isbn}, trying to fetch new.`);
@@ -323,8 +321,6 @@ async function init() {
 
         // If the illustrations flag is given, ask which one it should put, based on the options in data/illustrations.js
         if (argv.illustrated) {
-            const illusOptions = require("./data/illustrations.js");
-
             if (typeof argv.illustrated === "boolean") {
                 const illRes = await askQuestionV2({
                     question: "What sort of illustrations are they?",
@@ -496,8 +492,9 @@ function processArgv() {
     // If the page count orlack thereof is given
     if (argv.pages) {
         const pg = parseInt(argv.pages, 10);
+        const plus = argv.pages.toString().endsWith("+") ? "+" : "";
         if (Number.isInteger(pg)) {
-            outArr.push(`PAGES=${pg}${argv.pages.toString().endsWith("+") ? "+" : ""}`);
+            outArr.push(`PAGES=${pg}${plus}`);
         } else if (argv.pages.toString().toLowerCase() === "u") {
             outArr.push("PAGES=unpaginated");
         }
@@ -673,7 +670,7 @@ function parseCond() {
 
 // Go through and see if there is a matching publisher available
 async function getPub(pubName, inLocs=[]) {
-    debugLog("[getPub input]", {pubName, inLocs});
+    debugLog("[getPub INIT]", {pubName, inLocs});
     let out = {};
     if (inLocs && !Array.isArray(inLocs)) {
         return new Error("[getPub] inLocs needs to be an array!");
@@ -688,12 +685,14 @@ async function getPub(pubName, inLocs=[]) {
 
     // Filter down the list to only include ones that have matching names
     let possiblePubs = pubMap
+        // Filter out the names that won't matter
         .map(pub => {
             return {
                 name: pub.name.filter(n => n.toLowerCase() === pubName || n.toLowerCase().includes(pubName)),
                 locations: pub.locations
             };
         })
+        // Then filter out the publishers we don't want
         .filter(pub => {
             if (!pub.name && pub.pub) pub.name = pub.pub;
             if (Array.isArray(pub.name)) {
@@ -773,14 +772,14 @@ async function getPub(pubName, inLocs=[]) {
             for (const name of pub.name) {
                 pubChoices.push({
                     name: name,
-                    locations: pub.locations,
+                    locations: pub?.locations ? pub.location : [],
                     new: pub.new ? true : false
                 });
             }
         } else {
             pubChoices.push({
                 name: pub.name,
-                locations: pub.locations,
+                locations: pub?.locations ? pub.location : [],
                 new: pub.new ? true : false
             });
         }
@@ -812,12 +811,13 @@ async function getPub(pubName, inLocs=[]) {
         });
         if (pubChoices[pubRes]) {
             out.pub = pubChoices[pubRes].name;
-            if (pubChoices[pubRes]?.locations) {
+            if (pubChoices[pubRes]?.locations?.length) {
                 inLocs.push(...pubChoices[pubRes].locations);
             }
             if (pubChoices && parseInt(pubRes, 10) === newNum) {
                 out.new = true;
             }
+            debugLog(`[pubChoices OUT] Chose "${out.pub}": `, out);
         } else if (pubRes.toLowerCase() === "o") {
             // Query for a new name to look for
             const newPub = await askQuestion({query: "What publisher should I search for?", maxLen: MAX_MID_LEN});
@@ -860,20 +860,18 @@ async function getPub(pubName, inLocs=[]) {
             out.pub = null;
             out.locs = null;
             return out;
-        } else {
+        } else if (noVals.includes(res.toLowerCase())) {
             // If that's not what it should be, ask what should be there, then run the search again...
             const newPub = await askQuestion({query: "What publisher should I search for?", maxLen: MAX_MID_LEN});
             out = await getPub(newPub);
-            if (!out.locs && !out.pub) {
+            if ((!out.locs && !out.pub) || !out.locs?.length) {
                 return out;
             }
-            if (out.locs?.length) {
-                if (out.locs.length === 1) {
-                    debugLog("Returning just out", out);
-                    return out;
-                } else {
-                    inLocs.push(...out.locs);
-                }
+            if (out.locs.length === 1) {
+                debugLog("Returning just out", out);
+                return out;
+            } else {
+                inLocs.push(...out.locs);
             }
         }
     }
@@ -1059,7 +1057,7 @@ async function getNewLoc() {
         }
     } else if (possibleLocs.length > 1) {
         // If matched with more than one location
-        possibleLocs = [...new Set(possibleLocs.map(l => toProperCase(l)))];
+        possibleLocs = [...new Set(possibleLocs.map(loc => toProperCase(loc)))];
         const locChoiceRes = await askQuestionV2({
             question: "I found the following locations, which should I use?",
             answerList: possibleLocs,
@@ -1134,7 +1132,7 @@ async function askQuestion({query, maxLen=0}) {
 // const yesVals    = ["y", "yes"];
 
 // Ask a question, with set answers that are expected
-async function askQuestionV2({question="", answerList=[], cancel=false, save=false, other=false, yesNo=false, use=false} = {}) {
+async function askQuestionV2({question="", answerList=[], cancel=false, save=false, other=false, yesNo=false, use=false}) {
     debugLog("[askQuestionV2] inQuestion: ", question);
     debugLog("[askQuestionV2] inAnswerList: ", answerList);
     debugLog("Options: ", {cancel, save, other, yesNo, use});
@@ -1513,6 +1511,10 @@ function getUniqueFromObjArray(arrIn) {
 // Like camel-case but with spaces
 function toProperCase(stringIn) {
     const ignoreList = ["a", "an", "for", "if", "is", "of", "the"];
+
+    if (!stringIn?.length) {
+        return stringIn;
+    }
 
     // Then go through and do so for each following word (Excluding the strings specified)
     stringIn = stringIn.replace(/([^\W_]+[^\s-]*) */g, function(txt) {
