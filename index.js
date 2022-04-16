@@ -1153,12 +1153,12 @@ async function askQuestionV2({question="", answerList=[], cancel=false, save=fal
     const answers = [];
     let questionOptions = [];
     if (answerList?.length) {
-        questionOptions = [""].concat(answerList.map((a, ix) => {
-            if (a.indexOf("\n")) {
-                a = a.split("\n").join("\n".padEnd(pad+1));
+        questionOptions = [""].concat(answerList.map((ans, ix) => {
+            if (ans.indexOf("\n")) {
+                ans = ans.split("\n").join("\n".padEnd(pad+1));
             }
             answers.push(ix.toString());
-            return `[${ix}]`.padEnd(pad) + a.trim();
+            return `[${ix}]`.padEnd(pad) + ans.trim();
         }));
     }
     if (cancel || save || other || use || yesNo) {

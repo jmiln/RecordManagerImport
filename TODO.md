@@ -2,8 +2,6 @@
 
 ## Next in line
 
-- When checking for differences between an old/ saved version and what's going in now, it should update what's going in so it can help catch mistakes/ missed bits
-
 - Add a new flag (Or file/ command) that will display the last x days worth of titles, seperated by genre (?), sorted by title or author (1st author only), and show them nicely to the console
 
 
@@ -69,15 +67,6 @@
 
 - When grabbing new titles from the api, if there are parentheses in the title,
   check if I want to put something specific in, since that's normally a subtitle mashed in there
-
-- When checking for publishers, and it finds a result in one with multiple names, it should only return the one(s) that actually match
-
-- When inputting publishers and such manually when it doesn't find one, make sure to check the length against the max, and grumble as needed
-
-- Put another function in, to number the options so it doesn't have to be done each time
-    * This would basically just call the askQv2, but so we don't have to format everything each time
-    * Maybe have options for each type of extra (other, save, yes/no)
-    * Input would be an array (of titles or pubs, etc), and an object for the options ({other: true, save: true, ...})
 
 - If it doesn't have a subtitle or other info, see if theres another book of the title (From the same author) and ask to use some of that?
     * Could maybe do the same based on the author, to check for series', but maybe an extra flag for if that should be enabled or not
