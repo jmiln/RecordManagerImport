@@ -255,10 +255,10 @@ async function init() {
             // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
             debugLog("GlobalKWLen: ", globalKWLen);
             if (5 - globalKWLen > 0) {
-                let kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
+                let kwTitles = await getFromAuthMap(authArr[0], rawTitle);
                 if (!kwTitles?.length && authUrl) {
                     // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
-                    kwTitles = await getOpenLibTitles(toProperCase(authArr[0]), authUrl);
+                    kwTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authArr[0]), authUrl: authUrl});
                 }
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
@@ -1360,15 +1360,15 @@ async function saveAndRun(infoArr) {
     });
 }
 
+
 // Quick little function to get the most recent x titles to use in the keyword slots
 async function getFromAuthMap(auth, titleIn) {
-    debugLog("[getFromAuthMap] AuthIn: ", auth);
+    debugLog(`[getFromAuthMap] AuthIn: ${auth}, TitleIn: ${titleIn}`);
     const fromMap = bookLog.filter(b => b.authors.some(a => a.name.toLowerCase() === auth.toLowerCase()));
     debugLog("[getFromAuthMap] FromMap: ", fromMap);
-    if (!fromMap?.length) return null;
 
-    const titleFilter  = (book) => !(book.title.toLowerCase().includes(titleIn.toLowerCase()) || titleIn.toLowerCase().includes(book.title.toLowerCase()));
-    const lengthFilter = (book) => book.title.length <= 19;
+    const titleFilter  = (book) => !book.title.toLowerCase().includes(titleIn.toLowerCase()) && !titleIn.toLowerCase().includes(book.title.toLowerCase());
+    const lengthFilter = (book) => book.title.length <= MAX_KW_LEN;
     const dateSort     = (a, b) => parseInt(a.publish_date, 10) > parseInt(b.publish_date, 10) ? 1 : -1;
 
     // Get any possible previously entered titles that we can use
@@ -1378,20 +1378,63 @@ async function getFromAuthMap(auth, titleIn) {
         .sort(dateSort)
         .map(book => book.title.toLowerCase());
 
+    debugLog("Titles after filtering: ", titles);
+
     // If there are no titles found from the bookLog, resort to checking from authMap
     if (!titles?.length) {
+        debugLog("[getFromAuthMap] No titles from BookLog, grabbing from authMap");
         const authFromMap = authMap[toProperCase(auth)];
         if (authFromMap?.titles) {
+            authFromMap.titles = authFromMap.titles
+                .filter(title => title.toLowerCase() !== titleIn.toLowerCase());
+            debugLog("[getFromAuthMap] Found from authMap: ", authFromMap);
             titles.push(...authFromMap.titles);
         }
     }
 
     // Use a Set to remove any duplicate titles from the list
     const noDupTitles = [...new Set(titles)];
+    if (!noDupTitles?.length) return null;
 
     // Return only as many as we can fit in there
     return noDupTitles.slice(globalKWLen-5);
 }
+
+// Function to grab the newset titles from an author's page if the link was provided
+async function getOpenLibTitles({titleIn, authName, authUrl}) {
+    const pageHTML = await fetch(authUrl + "?sort=new").then(res => res.text());
+    const $ = cheerio.load(pageHTML);
+
+    const titleList = [...new Set($(".list-books > .searchResultItem").toArray().map((elem) => {
+        let title = $(".resultTitle > h3 > a", elem).text().trim().replace(/^a |an |the /i, "").trim().toLowerCase();
+        title = title.split(":")[0]; // If there's a subtitle, don't keep itself
+        const authors = $(".bookauthor > a", elem).toArray().map(a => $(a).text());
+        if (authors.length > 1) {
+            // There's more than just the main author, so probably an anthology that I don't want
+            return null;
+        }
+        return title;
+    }).filter(a => !!a))];
+
+    const titleFilter  = (bookTitle) => !bookTitle.toLowerCase().includes(titleIn.toLowerCase() && !titleIn.toLowerCase().includes(bookTitle.toLowerCase()));
+    const lengthFilter = (bookTitle) => bookTitle.length <= MAX_KW_LEN;
+
+    const titlesOut = titleList
+        .filter(titleFilter)
+        .filter(lengthFilter)
+        .map(bookTitle => bookTitle.toLowerCase());
+
+
+    // If we're here, then we don't have any other titles to go off of, so save these to the authmap
+    if (!authMap[authName]) {
+        authMap[authName] = {};
+    }
+    authMap[authName].titles = titlesOut.map(t => toProperCase(t));
+    await saveAuths(JSON.stringify(authMap, null, 4));
+
+    return titlesOut;
+}
+
 
 // Parse the title from what's given, as well as subtitle
 function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
@@ -1547,30 +1590,6 @@ function toProperCase(stringIn) {
 
 
 
-async function getOpenLibTitles(authName, authUrl) {
-    const pageHTML = await fetch(authUrl + "?sort=new").then(res => res.text());
-    const $ = cheerio.load(pageHTML);
-
-    const titleList = [...new Set($(".list-books > .searchResultItem").toArray().map((elem) => {
-        let title = $(".resultTitle > h3 > a", elem).text().trim().replace(/^a |an |the /i, "").trim().toLowerCase();
-        title = title.split(":")[0]; // If there's a subtitle, don't keep itself
-        const authors = $(".bookauthor > a", elem).toArray().map(a => $(a).text());
-        if (authors.length > 1) {
-            // There's more than just the main author, so probably an anthology that I don't want
-            return null;
-        }
-        return title;
-    }).filter(a => !!a).filter(a => a.length <= MAX_KW_LEN))].slice(globalKWLen-5);
-
-    // If we're here, then we don't have any other titles to go off of, so save these to the authmap
-    if (!authMap[authName]) {
-        authMap[authName] = {};
-    }
-    authMap[authName].titles = titleList.map(t => toProperCase(t));
-    await saveAuths(JSON.stringify(authMap, null, 4));
-
-    return titleList;
-}
 
 
 
