@@ -1,5 +1,6 @@
 const fetch = (...args) => import("node-fetch").then(({default: fetch}) => fetch(...args));
 const fs = require("fs");
+const cheerio = require("cheerio");
 const { inspect } = require("util");
 const { exec } = require("child_process");
 
@@ -12,7 +13,7 @@ const kwMap        = require(__dirname + "/data/keywordMap.js");
 const locMap       = require(__dirname + "/data/locations.js");
 const pubMap       = require(__dirname + "/data/pubMap.json");
 const bookLog      = require(__dirname + "/data/bookLog.json");
-const authMap      = require(__dirname + "/data/authMap.js");
+const authMap      = require(__dirname + "/data/authMap.json");
 const illusOptions = require(__dirname + "/data/illustrations.js");
 
 
@@ -222,6 +223,11 @@ async function init() {
         if (jsonOut?.authors?.length) {
             let authStr = "";
 
+            let authUrl = null;
+            if (jsonOut.authors[0]?.url) {
+                authUrl = jsonOut.authors[0].url;
+            }
+
             // Clean the names then make sure that there are no duplicates
             const authSet = new Set(jsonOut.authors.map(auth => {
                 auth.name = auth.name.normalize("NFD").replace(/ø/g, "o").replace(/[\u0300-\u036f]/g, "");
@@ -249,7 +255,11 @@ async function init() {
             // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
             debugLog("GlobalKWLen: ", globalKWLen);
             if (5 - globalKWLen > 0) {
-                const kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
+                let kwTitles = await getFromAuthMap(authArr[0], jsonOut.title);
+                if (!kwTitles?.length && authUrl) {
+                    // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
+                    kwTitles = await getOpenLibTitles(toProperCase(authArr[0]), authUrl);
+                }
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
                     const res = await askQuestionV2({
@@ -1327,6 +1337,12 @@ async function saveBooks(bookJson) {
     fs.writeFileSync(__dirname + "/data/bookLog.json", bookJson);
 }
 
+// Save the authMap
+async function saveAuths(authMapJson) {
+    if (argv.debug) return false;
+    fs.writeFileSync(__dirname + "/data/authMap.json", authMapJson);
+}
+
 // Run through all the data to make it all lowercase so it can be put in with caps lock on, then
 // save it to the file and run the ahk script to actually put it into Record Manager
 async function saveAndRun(infoArr) {
@@ -1531,9 +1547,30 @@ function toProperCase(stringIn) {
 
 
 
+async function getOpenLibTitles(authName, authUrl) {
+    const pageHTML = await fetch(authUrl).then(res => res.text());
+    const $ = cheerio.load(pageHTML);
 
+    const titleList = [...new Set($(".list-books > .searchResultItem").toArray().map((elem) => {
+        let title = $(".resultTitle > h3 > a", elem).text().trim().replace(/^a |an |the /i, "").trim().toLowerCase();
+        title = title.split(":")[0]; // If there's a subtitle, don't keep itself
+        const authors = $(".bookauthor > a", elem).toArray().map(a => $(a).text());
+        if (authors.length > 1) {
+            // There's more than just the main author, so probably an anthology that I don't want
+            return null;
+        }
+        return title;
+    }).filter(a => !!a).filter(a => a.length <= MAX_KW_LEN))].slice(globalKWLen-5);
 
+    // If we're here, then we don't have any other titles to go off of, so save these to the authmap
+    if (!authMap[authName]) {
+        authMap[authName] = {};
+    }
+    authMap[authName].titles = titleList.map(t => toProperCase(t));
+    await saveAuths(JSON.stringify(authMap, null, 4));
 
+    return titleList;
+}
 
 
 
