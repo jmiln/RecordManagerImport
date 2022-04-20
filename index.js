@@ -782,7 +782,7 @@ async function getPub(pubName, inLocs=[]) {
             for (const name of pub.name) {
                 pubChoices.push({
                     name: name,
-                    locations: pub?.locations ? pub.location : [],
+                    locations: pub?.locations ? pub.locations : [],
                     new: pub.new ? true : false
                 });
             }
