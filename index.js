@@ -1548,7 +1548,7 @@ function toProperCase(stringIn) {
 
 
 async function getOpenLibTitles(authName, authUrl) {
-    const pageHTML = await fetch(authUrl).then(res => res.text());
+    const pageHTML = await fetch(authUrl + "?sort=new").then(res => res.text());
     const $ = cheerio.load(pageHTML);
 
     const titleList = [...new Set($(".list-books > .searchResultItem").toArray().map((elem) => {
