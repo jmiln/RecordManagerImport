@@ -18,28 +18,6 @@
     Then, sort future results by that, so the more common ones are closer to the top. (This would have issues
     when there's a LOT of results, but that needs to have a way of trimming down too)
 
-- Possible new feature. Grab list of books by author if we've not seen enough to fill the keyword slots, and it's available.
-    * Phantom Menace by Terry Brooks (https://openlibrary.org/api/books?bibkeys=ISBN:0345427653&jscmd=data&format=json)
-    * Has a link under author > url, then tack the ?sort=new on the end: (https://openlibrary.org/authors/OL4356457A/Terry_Brooks?sort=new)
-        - Make sure to filter out duplicates & anthologies
-        - If this ends up working, change the authMap into a .json so it can be auto-edited, then tack the newest ones onto there so it
-          doesn't have to do this more than once for an author
-
-    ```js
-        for (thisTitle of titleList) {
-            title = thisTitle.querySelector(".resultTitle > h3 > a").innerText;
-            authors = thisTitle.querySelectorAll(".bookauthor > a");
-            if (authors.length > 1) {
-                // There's more than just the main author, so probably an anthology that I don't want
-                continue;
-            } else {
-                // It's just the main author I want, so grab it (Should just be the same for everything if it's just them, but in case I guess?)
-                author = authors[0].innerText;
-            }
-            year = thisTitle.querySelector(".publishedYear").innerText.replace("First published in ", "");
-            console.log(`Title: ${title}\nAuthor: ${author}\nPubYear: ${year}\n\n`)
-        }
-    ```
 
 ## Conditions update
 
