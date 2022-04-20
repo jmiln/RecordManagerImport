@@ -28873,32 +28873,6 @@
         ]
     },
     {
-        "isbn": "9781250151346",
-        "title": "Bring Me Back",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "B. A. Paris"
-            }
-        ],
-        "publish_date": "2019",
-        "pages": 294,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780008287047",
         "title": "Dilemma",
         "subtitle": "",
@@ -41608,32 +41582,6 @@
         ]
     },
     {
-        "isbn": "9781728220130",
-        "title": "Haunting Of Ashburn House",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Darcy Coates"
-            }
-        ],
-        "publish_date": "2019",
-        "pages": 329,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Poisoned Pen Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
         "isbn": "9781542005234",
         "title": "If You Tell",
         "subtitle": "A True Story Of Murder, Family Secrets, And The Unbreakable Bond Of Sisterhood",
@@ -43750,36 +43698,6 @@
         "publishers": [
             {
                 "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538752548",
-        "title": "Law Of Innocence",
-        "subtitle": "A Lincoln Lawyer Novel",
-        "authors": [
-            {
-                "name": "Michael Connelly"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 421,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
@@ -65130,38 +65048,6 @@
         ]
     },
     {
-        "isbn": "9781639100439",
-        "title": "Ex Hex",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Erin Sterling"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 308,
-        "price": 10,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "bc": true,
-        "publishers": [
-            {
-                "name": "Avon Books / Harper"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781639101573",
         "title": "How To Marry Keanu Reeves In 90 Days",
         "subtitle": "",
@@ -76805,6 +76691,773 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778312703",
+        "title": "O'brien Family Christmas",
+        "subtitle": "A Chesapeake Shores Novel",
+        "authors": [
+            {
+                "name": "Sherryl Woods"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 282,
+        "price": 8.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, On."
+            }
+        ]
+    },
+    {
+        "isbn": "9781639100439",
+        "title": "Ex Hex",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Erin Sterling"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 308,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063031968",
+        "title": "Paris Model",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alexandra Joel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2020",
+        "pages": 341,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501110344",
+        "title": "November 9",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Hoover"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 300,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778360926",
+        "title": "One Charmed Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sheila Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 318,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781447283072",
+        "title": "Nightingale",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 440,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008365394",
+        "title": "Little White Lies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philippa East"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 341,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hq / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781640092013",
+        "title": "Still Lives",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Maria Hummel"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 281,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Counterpoint Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538752548",
+        "title": "Law of Innocence",
+        "subtitle": "A Lincoln Lawyer Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 421,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781800198272",
+        "title": "Family Across the Street",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicole Trope"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 247,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bookouture"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062225443",
+        "title": "Reconstructing Amelia",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kimberly Mccreight"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 385,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250151346",
+        "title": "Bring Me Back",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "B. A. Paris"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 294,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525557678",
+        "title": "Someone We Know",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Shari Lapena"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "292+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781504057547",
+        "title": "Death of an Art Collector",
+        "subtitle": "A Nero Wolfe Mystery",
+        "authors": [
+            {
+                "name": "Robert Goldsborough"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 228,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Open Road Media"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400031559",
+        "title": "White Lioness",
+        "subtitle": "A Kurt Wallander Mystery",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 440,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400095827",
+        "title": "Pyramid",
+        "subtitle": "The First Wallander Cases",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 392,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643859316",
+        "title": "Arsenic And Adobo",
+        "subtitle": "A Tita Rosie's Kitchen Mystery",
+        "authors": [
+            {
+                "name": "Mia P. Manansala"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 307,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250271372",
+        "title": "Too Good To Be True",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Carola Lovering"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 342,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439192955",
+        "title": "Athena Project",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 324,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643852317",
+        "title": "River Run",
+        "subtitle": "A Delia Chavez Mystery",
+        "authors": [
+            {
+                "name": "J.s. James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 327,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593130094",
+        "title": "Claws for Alarm",
+        "subtitle": "A Mrs. Murphy Mystery",
+        "authors": [
+            {
+                "name": "Rita Mae Brown"
+            },
+            {
+                "name": "Sneaky Pie Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "249+",
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593130032",
+        "title": "Furmidable Foes",
+        "subtitle": "A Mrs. Murphy Mystery",
+        "authors": [
+            {
+                "name": "Rita Mae Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "271+",
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619636040",
+        "title": "Queen of Shadows",
+        "subtitle": "A Throne of Glass Novel",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 648,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553496710",
+        "title": "Sun is Also a Star",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicola Yoon"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": "346+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728220130",
+        "title": "Haunting of Ashburn House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Darcy Coates"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2019",
+        "pages": 329,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
             }
         ]
     }

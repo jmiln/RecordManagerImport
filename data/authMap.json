@@ -52,5 +52,63 @@
             "Lola Quartet",
             "Singer'S Gun"
         ]
+    },
+    "Alexandra Joel": {
+        "titles": [
+            "Royal Correspondent",
+            "Paris Model",
+            "Rosetta"
+        ]
+    },
+    "Sheila Roberts": {
+        "titles": [
+            "Road To Christmas",
+            "Sand Dollar Lane",
+            "Summer Retreat"
+        ]
+    },
+    "Philippa East": {
+        "titles": [
+            "Safe And Sound",
+            "Little White Lies"
+        ]
+    },
+    "Maria Hummel": {
+        "titles": [
+            "Still Lives",
+            "Motherland",
+            "Wilderness Run"
+        ]
+    },
+    "Nicole Trope": {
+        "titles": [
+            "Hush, Little Bird",
+            "Three Hours Late",
+            "Boy Under Table"
+        ]
+    },
+    "Kimberly Mccreight": {
+        "titles": [
+            "Scattering",
+            "Outliers"
+        ]
+    },
+    "Carola Lovering": {
+        "titles": [
+            "Can't Look Away",
+            "Too Good To Be True",
+            "Tell Me Lies"
+        ]
+    },
+    "J.s. James": {
+        "titles": [
+            "River Run"
+        ]
+    },
+    "Nicola Yoon": {
+        "titles": [
+            "Sun is Also a Star",
+            "Everything Everything"
+        ]
     }
 }
