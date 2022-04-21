@@ -110,5 +110,40 @@
             "Sun is Also a Star",
             "Everything Everything"
         ]
+    },
+    "Anne Canadeo": {
+        "titles": [
+            "Purls And Poison",
+            "Knit To Kill",
+            "Murder In Mohair",
+            "Silence of Llamas",
+            "Stitch Before Dying",
+            "Duchy"
+        ]
+    },
+    "Heather Webber": {
+        "titles": [
+            "Désespérément",
+            "Root of All Trouble",
+            "Trouble Under Tree",
+            "Truly, Madly",
+            "Weeding Out Trouble",
+            "Digging Up Trouble"
+        ]
+    },
+    "Rachel Khong": {
+        "titles": [
+            "Goodbye, Vitamin"
+        ]
+    },
+    "Sherry Jones": {
+        "titles": [
+            "Sharp Hook of Love",
+            "Aisha Y Al",
+            "Jewel of Medina",
+            "Revelations",
+            "Guidance In Montana",
+            "Together"
+        ]
     }
 }

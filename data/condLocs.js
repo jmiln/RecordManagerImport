@@ -10,6 +10,9 @@ module.exports.condMap = {
 
     lp:  "Large Print.",
 
+    // Turned corners
+    stu: "Some turned corners.",
+
     // CDs
     acd: "Audio CD.",
 

@@ -38488,7 +38488,7 @@
         "subtitle": "",
         "authors": [
             {
-                "name": "Cecil John Charles Street"
+                "name": "John Rhode"
             }
         ],
         "publish_date": "2018",
@@ -77458,6 +77458,410 @@
         "publish_places": [
             {
                 "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250272935",
+        "title": "Legacy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            },
+            {
+                "name": "January Lavoy"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 434,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525539766",
+        "title": "Eternal",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 468,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464205811",
+        "title": "Death In the Tunnel",
+        "subtitle": "A British Library Crime Classics Novel",
+        "authors": [
+            {
+                "name": "Miles Burton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 221,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781496708946",
+        "title": "Purls And Poison",
+        "subtitle": "A Black Sheep & Company Mystery",
+        "authors": [
+            {
+                "name": "Anne Canadeo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 289,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455585038",
+        "title": "Invisible",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "David Ellis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 422,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250198617",
+        "title": "Midnight At the Blackbird Cafe",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Heather Webber"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan",
+            "rom"
+        ],
+        "publish_date": "2020",
+        "pages": 333,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250182555",
+        "title": "Goodbye, Vitamin",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rachel Khong"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 196,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501102448",
+        "title": "Josephine Baker's Last Dance",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sherry Jones"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 365,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385721676",
+        "title": "Oryx And Crake",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 376,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593081938",
+        "title": "Sex And Vanity",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kevin Kwan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 352,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593318270",
+        "title": "Archer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paulo Coelho"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 130,
+        "price": 11.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385528771",
+        "title": "Year of the Flood",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 431,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Nan A. Talese / Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501160837",
+        "title": "Anxious People",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 341,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
