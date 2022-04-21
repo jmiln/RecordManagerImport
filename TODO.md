@@ -58,6 +58,9 @@
 - If entering a subtitle manually, check if it's part of the title too, then check about removing it from there
     * This will help keep it from doubling up bits like `a novel` when it's part of the title, then also being added
 
+- When entering a new book, maybe see if there's been an older listing of it in a different format?
+  If so, we could grab subtitle data from it if we don't have any
+
 
 ## Long term/ maybes
 

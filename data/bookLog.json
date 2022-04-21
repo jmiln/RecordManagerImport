@@ -49873,37 +49873,6 @@
         ]
     },
     {
-        "isbn": "9780425280126",
-        "title": "Island Of Glass",
-        "subtitle": "Book Three Of The Guardians Trilogy",
-        "authors": [
-            {
-                "name": "Nora Roberts"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2016",
-        "pages": 339,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "Berkley Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781416571698",
         "title": "In The Kitchen",
         "subtitle": "A Novel",
@@ -77857,6 +77826,222 @@
         "publishers": [
             {
                 "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670030643",
+        "title": "Eyre Affair",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jasper Fforde"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 374,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780756416461",
+        "title": "False Value",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ben Aaronovitch"
+            }
+        ],
+        "keywords": [
+            "par",
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 294,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Daw Books, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781569474297",
+        "title": "Thirty-Three Teeth",
+        "subtitle": "A Dr. Siri Paiboun Mystery Set In Laos",
+        "authors": [
+            {
+                "name": "Colin Cotterill"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 238,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616952976",
+        "title": "Woman Who Wouldn't Die",
+        "subtitle": "A Dr. Siri Paiboun Mystery Set In Laos",
+        "authors": [
+            {
+                "name": "Colin Cotterill"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 307,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425280102",
+        "title": "Stars of Fortune",
+        "subtitle": "Book One of the Guardians Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 314,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425280119",
+        "title": "Bay of Sighs",
+        "subtitle": "Book Two of the Guardians Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 338,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425280126",
+        "title": "Island of Glass",
+        "subtitle": "Book Three of the Guardians Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 339,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
             }
         ],
         "publish_places": [
