@@ -1405,7 +1405,7 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
     const pageHTML = await fetch(authUrl + "?sort=new").then(res => res.text());
     const $ = cheerio.load(pageHTML);
 
-    const titleList = [...new Set($(".list-books > .searchResultItem").toArray().map((elem) => {
+    const titleList = $(".list-books > .searchResultItem").toArray().map((elem) => {
         let title = $(".resultTitle > h3 > a", elem).text().trim().replace(/^a |an |the /i, "").trim().toLowerCase();
         title = title.split(":")[0]; // If there's a subtitle, don't keep itself
         const authors = $(".bookauthor > a", elem).toArray().map(a => $(a).text());
@@ -1414,25 +1414,27 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
             return null;
         }
         return title;
-    }).filter(a => !!a))];
+    }).filter(a => !!a);
 
     const titleFilter  = (bookTitle) => !bookTitle.toLowerCase().includes(titleIn.toLowerCase() && !titleIn.toLowerCase().includes(bookTitle.toLowerCase()));
     const lengthFilter = (bookTitle) => bookTitle.length <= MAX_KW_LEN;
 
-    const titlesOut = titleList
+    const filteredTitleList = titleList
         .filter(titleFilter)
         .filter(lengthFilter)
         .map(bookTitle => bookTitle.toLowerCase());
 
+    const noDupTitles = [...new Set(filteredTitleList)];
+    if (!noDupTitles?.length) return null;
 
     // If we're here, then we don't have any other titles to go off of, so save these to the authmap
     if (!authMap[authName]) {
         authMap[authName] = {};
     }
-    authMap[authName].titles = titlesOut.map(t => toProperCase(t));
+    authMap[authName].titles = noDupTitles.map(t => toProperCase(t));
     await saveAuths(JSON.stringify(authMap, null, 4));
 
-    return titlesOut;
+    return noDupTitles.slice(globalKWLen-5);
 }
 
 
