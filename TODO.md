@@ -18,6 +18,12 @@
     Then, sort future results by that, so the more common ones are closer to the top. (This would have issues
     when there's a LOT of results, but that needs to have a way of trimming down too)
 
+- New pseudonyms file, to check each author against
+  This should alert if certain authors come up, so we can make sure it puts the proper one in
+    * Nora Roberts / J. D. Robb
+    * Cecil John Charles Street -> John Rhodes / Miles Burton
+    * J. K. Rowling -> Galbraith
+
 
 ## Conditions update
 
