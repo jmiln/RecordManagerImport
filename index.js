@@ -14,6 +14,7 @@ const locMap       = require(__dirname + "/data/locations.js");
 const pubMap       = require(__dirname + "/data/pubMap.json");
 const bookLog      = require(__dirname + "/data/bookLog.json");
 const authMap      = require(__dirname + "/data/authMap.json");
+const pseudonyms   = require(__dirname + "/data/pseudonyms.json");
 const illusOptions = require(__dirname + "/data/illustrations.js");
 
 
@@ -89,6 +90,7 @@ const argv = require("minimist")(process.argv.slice(2), {
 let isbn = process.argv[2];
 let globalKWLen = null;
 let boardStr = "VG IN X.";
+let isOldListing = false;
 
 const globalKWs = [];
 
@@ -160,6 +162,7 @@ async function init() {
     if (oldJsonOut) {
         debugLog(`Found older data for ${isbn}, using that.`);
         jsonOut = {};
+        isOldListing = true;
 
         // Stick it as an object with the isbn as it's key so it matches the api response
         jsonOut["ISBN:" + oldJsonOut.isbn] = oldJsonOut;
@@ -233,10 +236,19 @@ async function init() {
                 auth.name = auth.name.normalize("NFD").replace(/ø/g, "o").replace(/[\u0300-\u036f]/g, "");
                 return auth.name.toLowerCase();
             }));
-            const authArr = [...authSet];
+            const authArr = [];
+            for (const auth of [...authSet]) {
+                if (isOldListing) {
+                    authArr.push(auth);
+                } else {
+                    const pseu = await checkPseudonyms(auth);
+                    authArr.push(pseu);
+                }
+            }
 
             for (const auth of authArr) {
                 const foundAuth = authMap[toProperCase(auth)];
+
                 if (authStr.length) {
                     authStr += "; ";
                 }
@@ -1590,8 +1602,24 @@ function toProperCase(stringIn) {
     return stringIn.charAt(0).toUpperCase() + stringIn.substr(1);
 }
 
+// Check against other names in case we're given the wrong one.
+async function checkPseudonyms(nameIn) {
+    if (!nameIn?.length) return new Error("[checkPseudonyms] Missing name input.");
+    if (typeof nameIn !== "string") return new Error("[checkPseudonyms] Input must be a string.");
 
+    for (const authArr of pseudonyms) {
+        debugLog("[checkPseudonyms] Checking auths: ", authArr);
+        if (authArr.map(au => au.toLowerCase()).includes(nameIn.toLowerCase())) {
+            const qAnswer = await askQuestionV2({
+                question: "This author writes under multiple names. Which one is used here?",
+                answerList: authArr
+            });
+            debugLog("[checkPseudonyms] Answered: ", authArr[qAnswer]);
 
+            return authArr[qAnswer];
+        }
+    }
+}
 
 
 

@@ -18,12 +18,6 @@
     Then, sort future results by that, so the more common ones are closer to the top. (This would have issues
     when there's a LOT of results, but that needs to have a way of trimming down too)
 
-- New pseudonyms file, to check each author against
-  This should alert if certain authors come up, so we can make sure it puts the proper one in
-    * Nora Roberts / J. D. Robb
-    * Cecil John Charles Street -> John Rhodes / Miles Burton
-    * J. K. Rowling -> Galbraith
-
 
 ## Conditions update
 
@@ -49,21 +43,18 @@
 
 ## Other stuff
 
-- When grabbing new titles from the api, if there are parentheses in the title,
-  check if I want to put something specific in, since that's normally a subtitle mashed in there
-
-- If it doesn't have a subtitle or other info, see if theres another book of the title (From the same author) and ask to use some of that?
-    * Could maybe do the same based on the author, to check for series', but maybe an extra flag for if that should be enabled or not
+- When grabbing new titles from the api, if there are parentheses in the title, check if I want to put
+  something specific in, since that's normally a subtitle mashed in there
 
 - If entering a subtitle manually, check if it's part of the title too, then check about removing it from there
     * This will help keep it from doubling up bits like `a novel` when it's part of the title, then also being added
 
 - When entering a new book, maybe see if there's been an older listing of it in a different format?
-  If so, we could grab subtitle data from it if we don't have any
+    * If so, we could grab subtitle data from it if we don't have any (Make sure to query for that though, with an author so there's no duplicate title weirdness)
 
 
 ## Long term/ maybes
 
 - Eventually, work out a way to put this into a gui/ local html so it's more user friendly?
   Not sure how that will/ would work, but whatever
-  * If this ever happens, it should just ask for the isbn to start, then load up everything from the api or stored info
+    * If this ever happens, it should just ask for the isbn to start, then load up everything from the api or stored info
