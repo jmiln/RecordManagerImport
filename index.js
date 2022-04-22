@@ -242,7 +242,11 @@ async function init() {
                     authArr.push(auth);
                 } else {
                     const pseu = await checkPseudonyms(auth);
-                    authArr.push(pseu);
+                    if (!pseu) {
+                        authArr.push(auth);
+                    } else {
+                        authArr.push(pseu);
+                    }
                 }
             }
 
@@ -1428,7 +1432,7 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
         return title;
     }).filter(a => !!a);
 
-    const titleFilter  = (bookTitle) => !bookTitle.toLowerCase().includes(titleIn.toLowerCase() && !titleIn.toLowerCase().includes(bookTitle.toLowerCase()));
+    const titleFilter  = (bookTitle) => !bookTitle.toLowerCase().includes(titleIn.toLowerCase()) && !titleIn.toLowerCase().includes(bookTitle.toLowerCase());
     const lengthFilter = (bookTitle) => bookTitle.length <= MAX_KW_LEN;
 
     const filteredTitleList = titleList
