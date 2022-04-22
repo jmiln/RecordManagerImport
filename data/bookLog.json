@@ -63604,40 +63604,6 @@
         ]
     },
     {
-        "isbn": "9781982173678",
-        "title": "State Of Terror",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Louise Penny"
-            },
-            {
-                "name": "Hillary Rodham Clinton"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 494,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "S & S / St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781594634024",
         "title": "Girl On The Train",
         "subtitle": "A Novel",
@@ -78042,6 +78008,248 @@
         "publishers": [
             {
                 "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008305413",
+        "title": "59 Memory Lane",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Celia Anderson"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 392,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683222699",
+        "title": "Prodigal's Welcome",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Billerbeck"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2002",
+        "pages": 319,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Barbour Publishing, Inc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593466285",
+        "title": "Cold Clay",
+        "subtitle": "A Shady Hollow Mystery",
+        "authors": [
+            {
+                "name": "Juneau Black"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 224,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781912574919",
+        "title": "Body In the Road",
+        "subtitle": "A Golden Age Mystery",
+        "authors": [
+            {
+                "name": "Moray Dalton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 194,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dean Street Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312263102",
+        "title": "Death In Kashmir",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "M.m. Kaye"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2000",
+        "pages": 238,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455504787",
+        "title": "Death of a Liar",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "M. C. Beaton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 261,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982173678",
+        "title": "State of Terror",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            },
+            {
+                "name": "Hillary Rodham Clinton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 494,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "S & S / St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593188064",
+        "title": "Tom Clancy Firing Point",
+        "subtitle": "A Jack Ryan Jr. Novel",
+        "authors": [
+            {
+                "name": "Mike Maden"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 468,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
             }
         ],
         "publish_places": [
