@@ -10804,27 +10804,6 @@
         ]
     },
     {
-        "isbn": "9780062834959",
-        "title": "New Girl",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Daniel Silva"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Harper / Harper-Collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780399576386",
         "title": "Promise",
         "subtitle": "An Elvis Cole and Joe Pike Novel",
@@ -78250,6 +78229,345 @@
         "publishers": [
             {
                 "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425223628",
+        "title": "Under Enemy Colors",
+        "subtitle": "Charles Hayden, Book 1",
+        "authors": [
+            {
+                "name": "S. Thomas Russell"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "2008",
+        "pages": 496,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062059970",
+        "title": "Elite",
+        "subtitle": "Book Two of the Selection Series",
+        "authors": [
+            {
+                "name": "Kiera Cass"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": "323+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062059949",
+        "title": "Selection",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kiera Cass"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": "327+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142419779",
+        "title": "Matched",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ally Condie"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": "366+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982684419",
+        "title": "Absinthe Earl",
+        "subtitle": "The Faery Rehistory Series, Book 1",
+        "authors": [
+            {
+                "name": "Sharon Lynn Fisher"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 311,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Blackstone Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ashland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538713839",
+        "title": "President is Missing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bill Clinton"
+            },
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 513,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central / Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834959",
+        "title": "New Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 442,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501187025",
+        "title": "Kill Shot",
+        "subtitle": "An American Assassin Thriller",
+        "authors": [
+            {
+                "name": "Vince Flynn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": "385+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399155031",
+        "title": "Tailspin",
+        "subtitle": "An Fbi Thriller",
+        "authors": [
+            {
+                "name": "Catherine Coulter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 403,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062699732",
+        "title": "Inappropriation",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lexi Freiman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 351,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250093424",
+        "title": "Vengeance of Mothers",
+        "subtitle": "The Journals of Margaret Kelly & Molly Mcgill - a Novel",
+        "authors": [
+            {
+                "name": "Jim Fergus"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 337,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
             }
         ],
         "publish_places": [

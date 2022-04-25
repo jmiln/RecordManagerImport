@@ -15,8 +15,7 @@
     * Also, the `edited by AUTHOR` or `AUTHOR, editor`, different orders, need to figure out why for each/ when to use which
 
 - Possible new feature, put a counter on each publisher, and every time that publisher is used, increment it.
-    Then, sort future results by that, so the more common ones are closer to the top. (This would have issues
-    when there's a LOT of results, but that needs to have a way of trimming down too)
+    Then, sort future results by that, so the more common ones are closer to the top.
 
 
 ## Conditions update

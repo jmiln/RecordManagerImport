@@ -197,5 +197,50 @@
             "Drone",
             "Blue Warrior"
         ]
+    },
+    "Sharon Lynn Fisher": {
+        "titles": [
+            "Ophelia Prophecy",
+            "Before She Wakes",
+            "Echo 8",
+            "Raven Takes a Pearl",
+            "Ghost Planet"
+        ]
+    },
+    "Bill Clinton": {
+        "titles": [
+            "Back To Work",
+            "Giving",
+            "Zhitʹ Otdavai͡a",
+            "Conversations",
+            "Donner",
+            "My Life"
+        ]
+    },
+    "Catherine Coulter": {
+        "titles": [
+            "Labyrinth",
+            "Final Cut",
+            "Bombshell",
+            "Prince of Ravenscar",
+            "Backfire",
+            "Split Second",
+            "Twice Dead",
+            "Valcourt Heiress",
+            "Whiplash",
+            "Knockout",
+            "Double Jeopardy"
+        ]
+    },
+    "Jim Fergus": {
+        "titles": [
+            "Strongheart",
+            "Last Apache Girl",
+            "Wild Girl",
+            "Sporting Road",
+            "Hunter Road",
+            "Hunter's Road",
+            "Wild Girl "
+        ]
     }
 }
