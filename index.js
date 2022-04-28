@@ -270,10 +270,11 @@ async function init() {
 
             // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
             debugLog("GlobalKWLen: ", globalKWLen);
-            if (5 - globalKWLen > 0) {
+            if (globalKWLen < 5) {
                 let kwTitles = await getFromAuthMap(authArr[0], rawTitle);
-                if (!kwTitles?.length && authUrl) {
+                if ((!kwTitles?.length || globalKWLen < 5) && authUrl) {
                     // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
+                    // Or, if it found some, but needs more, go ahead and check too
                     kwTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authArr[0]), authUrl: authUrl});
                 }
                 debugLog("KW titles to fill with: ", kwTitles);
@@ -1413,7 +1414,7 @@ async function getFromAuthMap(auth, titleIn) {
     if (!noDupTitles?.length) return null;
 
     // Return only as many as we can fit in there
-    return noDupTitles.slice(globalKWLen-5);
+    return noDupTitles.slice(0, 5-globalKWLen);
 }
 
 // Function to grab the newset titles from an author's page if the link was provided
@@ -1450,7 +1451,7 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
     authMap[authName].titles = noDupTitles.map(t => toProperCase(t));
     await saveAuths(JSON.stringify(authMap, null, 4));
 
-    return noDupTitles.slice(globalKWLen-5);
+    return noDupTitles.slice(0, 5-globalKWLen);
 }
 
 
