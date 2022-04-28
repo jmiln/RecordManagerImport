@@ -1140,7 +1140,7 @@ async function askQuestion({query, maxLen=0}) {
             console.log(`\nERROR: That answer was too long (${line.length}), max length is ${maxLen}`);
             resolve(askQuestion({query: query, maxLen: maxLen}));
         } else {
-            line = cleanControlChars(line);
+            line = cleanString(line);
             resolve(line);
         }
     }));
@@ -1219,7 +1219,7 @@ async function askQuestionV2({question="", answerList=[], cancel=false, save=fal
 
     return new Promise((resolve) => {
         rl.question("\n" + question + (questionOptions?.length ? "\n" + questionOptions.join("\n") : "") + prompt, (line) => {
-            line = cleanControlChars(line.trim());
+            line = cleanString(line.trim());
             if (answers.indexOf(line.toLowerCase()) > -1) {
                 resolve(line.toLowerCase());
             } else {
@@ -1231,9 +1231,14 @@ async function askQuestionV2({question="", answerList=[], cancel=false, save=fal
 }
 
 // Clean the control characters out of strings from readline when the arrow keys are pressed
-function cleanControlChars(stringIn) {
+function cleanString(stringIn) {
     stringIn = stringIn.replace(/ø/g, "o"); // Replace this specific character
-    stringIn.replace(/(\x9B|\x1B\[|\x1B)[0-?]*[ -/]*[@-~]/g, ""); // eslint-disable-line no-control-regex
+    stringIn = stringIn
+        .replace(/(\x9B|\x1B\[|\x1B)[0-?]*[ -/]*[@-~]/g, "") // eslint-disable-line no-control-regex
+        .replace("½", "1/2")                                 // Replace the ½ symbol with 1/2
+        .replace(/(\r\n|\n|\r)/gm,"")                        // Replace all line returns
+        .replace(/\s\s+/g, " ")                              // Replace multiple spaces with singles
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "");   // Replace accented letters with normal ones
     return stringIn;
 }
 
@@ -1448,7 +1453,7 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
     if (!authMap[authName]) {
         authMap[authName] = {};
     }
-    authMap[authName].titles = noDupTitles.map(t => toProperCase(t));
+    authMap[authName].titles = noDupTitles.map(t => cleanString(toProperCase(t)));
     await saveAuths(JSON.stringify(authMap, null, 4));
 
     return noDupTitles.slice(0, 5-globalKWLen);
@@ -1463,11 +1468,8 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
     let title = titleIn
         .replace(/^the /i, "")          // Replace "the " at the beginning of titles
         .replace(/^a /i, "")            // Replace "a " at the beginning of the titles
-        .replace(/^an /i, "")           // Replace "an " at the beginning of the titles
-        .replace("½", "1/2")            // Replace the ½ symbol with 1/2
-        .replace(/(\r\n|\n|\r)/gm,"")   // Replace all line returns
-        .replace(/\s\s+/g, " ")         // Replace multiple spaces with singles
-        .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Replace accented letters with normal ones
+        .replace(/^an /i, "");          // Replace "an " at the beginning of the titles
+    title = cleanString(title);
 
     const bcString   = " - book club edition";
     const lpString   = " - large print edition";
