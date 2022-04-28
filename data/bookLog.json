@@ -78816,5 +78816,96 @@
                 "name": "San Diego, Ca."
             }
         ]
+    },
+    {
+        "isbn": "9781405921558",
+        "title": "According To Yes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dawn French"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 376,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin / Random UK"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345528681",
+        "title": "Aviator's Wife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Melanie Benjamin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 429,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525541998",
+        "title": "Family",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Naomi Krupitsky"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 360,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
