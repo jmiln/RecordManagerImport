@@ -47761,37 +47761,6 @@
         ]
     },
     {
-        "isbn": "9780735219090",
-        "title": "Where The Crawdads Sing",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Delia Owens"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2018",
-        "pages": 372,
-        "price": 14,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781338042702",
         "title": "Skeleton Tree",
         "subtitle": "",
@@ -78573,6 +78542,278 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715949",
+        "title": "19th Christmas",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 359,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0452282195",
+        "title": "Bluest Eye",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "2000",
+        "pages": 216,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735219090",
+        "title": "Where the Crawdads Sing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Delia Owens"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 370,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781593079789",
+        "title": "Dallas",
+        "subtitle": "Umbrella Academy, Volume 1",
+        "authors": [
+            {
+                "name": "Gerard Way"
+            },
+            {
+                "name": "Gabriel Ba"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "com"
+        ],
+        "publish_date": "2008",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dark Horse Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukie, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781595823458",
+        "title": "Dallas",
+        "subtitle": "Umbrella Academy, Volume 2",
+        "authors": [
+            {
+                "name": "Gerard Way"
+            },
+            {
+                "name": "Gabriel Ba"
+            },
+            {
+                "name": "Dave Stewart"
+            },
+            {
+                "name": "Nate Piekos"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "com"
+        ],
+        "publish_date": "2009",
+        "pages": "172+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dark Horse Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukie, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781506711423",
+        "title": "Hotel Oblivion",
+        "subtitle": "Umbrella Academy Volume 3",
+        "authors": [
+            {
+                "name": "Gerard Way"
+            },
+            {
+                "name": "Gabriel Ba"
+            },
+            {
+                "name": "Nick Filardi"
+            },
+            {
+                "name": "Nate Piekos"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "com"
+        ],
+        "publish_date": "2019",
+        "pages": "u",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dark Horse Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukie, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781600109539",
+        "title": "Crown of Shadows",
+        "subtitle": "Locke & Key, Volume 3",
+        "authors": [
+            {
+                "name": "Joe Hill"
+            },
+            {
+                "name": "Gabriel Rodriguez"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "com"
+        ],
+        "publish_date": "2011",
+        "pages": "140+",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Idw Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Diego, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781600103841",
+        "title": "Welcome To Lovecraft",
+        "subtitle": "Locke & Key Volume 1",
+        "authors": [
+            {
+                "name": "Joe Hill"
+            },
+            {
+                "name": "Gabriel Rodriguez"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "com"
+        ],
+        "publish_date": "2009",
+        "pages": "158+",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Idw Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Diego, Ca."
             }
         ]
     }
