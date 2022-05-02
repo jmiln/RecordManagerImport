@@ -1426,7 +1426,7 @@ async function getFromAuthMap(auth, titleIn) {
 async function getOpenLibTitles({titleIn, authName, authUrl}) {
 
     // If there are other titles already registered there, don't try getting more / overwriting em
-    if (authMap[authName].titles?.length) return null;
+    if (authMap[authName]?.titles?.length) return null;
 
     const pageHTML = await fetch(authUrl + "?sort=new").then(res => res.text());
     const $ = cheerio.load(pageHTML);
