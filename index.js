@@ -272,7 +272,7 @@ async function init() {
             debugLog("GlobalKWLen: ", globalKWLen);
             if (globalKWLen < 5) {
                 let kwTitles = await getFromAuthMap(authArr[0], rawTitle);
-                if ((!kwTitles?.length || globalKWLen < 5) && authUrl) {
+                if ((!kwTitles?.length || (5 - kwTitles.length - globalKWLen) > 0) && authUrl) {
                     // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
                     // Or, if it found some, but needs more, go ahead and check too
                     kwTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authArr[0]), authUrl: authUrl});
@@ -1391,7 +1391,7 @@ async function getFromAuthMap(auth, titleIn) {
 
     const titleFilter  = (book) => !book.title.toLowerCase().includes(titleIn.toLowerCase()) && !titleIn.toLowerCase().includes(book.title.toLowerCase());
     const lengthFilter = (book) => book.title.length <= MAX_KW_LEN;
-    const dateSort     = (a, b) => parseInt(a.publish_date, 10) > parseInt(b.publish_date, 10) ? 1 : -1;
+    const dateSort     = (a, b) => parseInt(a.publish_date, 10) < parseInt(b.publish_date, 10) ? 1 : -1;
 
     // Get any possible previously entered titles that we can use
     const titles = fromMap
@@ -1440,10 +1440,12 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
 
     const titleFilter  = (bookTitle) => !bookTitle.toLowerCase().includes(titleIn.toLowerCase()) && !titleIn.toLowerCase().includes(bookTitle.toLowerCase());
     const lengthFilter = (bookTitle) => bookTitle.length <= MAX_KW_LEN;
+    const commaFilter  = (bookTitle) => !bookTitle.includes(",");
 
     const filteredTitleList = titleList
         .filter(titleFilter)
         .filter(lengthFilter)
+        .filter(commaFilter)
         .map(bookTitle => bookTitle.toLowerCase());
 
     const noDupTitles = [...new Set(filteredTitleList)];
@@ -1590,7 +1592,7 @@ function getUniqueFromObjArray(arrIn) {
 
 // Like camel-case but with spaces
 function toProperCase(stringIn) {
-    const ignoreList = ["a", "an", "for", "if", "is", "of", "the"];
+    const ignoreList = ["a", "an", "and", "for", "if", "is", "of", "the"];
 
     if (!stringIn?.length) {
         return stringIn;
