@@ -280,7 +280,7 @@ async function init() {
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
                     const res = await askQuestionV2({
-                        question: `I found ${kwTitles.length} titles to use as keywords.\n${kwTitles.map(t => toProperCase(t)).join(", ")}\nShould I use them?`,
+                        question: `I found ${kwTitles.length} titles by ${toProperCase(authArr[0])} to use as keywords.\n${kwTitles.map(t => toProperCase(t)).join(", ")}\nShould I use them?`,
                         answerList: [],
                         yesNo: true
                     });
@@ -1383,13 +1383,15 @@ async function saveAndRun(infoArr) {
 }
 
 
-// Quick little function to get the most recent x titles to use in the keyword slots
 async function getFromAuthMap(auth, titleIn) {
     debugLog(`[getFromAuthMap] AuthIn: ${auth}, TitleIn: ${titleIn}`);
+    // Quick little function to get the most recent x titles from the bookLog file to use in the keyword slots
     const fromMap = bookLog.filter(b => b.authors.some(a => a.name.toLowerCase() === auth.toLowerCase()));
     debugLog("[getFromAuthMap] FromMap: ", fromMap);
 
-    const titleFilter  = (book) => !book.title.toLowerCase().includes(titleIn.toLowerCase()) && !titleIn.toLowerCase().includes(book.title.toLowerCase());
+    titleIn = titleIn.toLowerCase();
+
+    const titleFilter  = (book) => !book.title.toLowerCase().includes(titleIn) && !titleIn.includes(book.title.toLowerCase());
     const lengthFilter = (book) => book.title.length <= MAX_KW_LEN;
     const dateSort     = (a, b) => parseInt(a.publish_date, 10) < parseInt(b.publish_date, 10) ? 1 : -1;
 
@@ -1403,14 +1405,12 @@ async function getFromAuthMap(auth, titleIn) {
     debugLog("Titles after filtering: ", titles);
 
     // If there are no titles found from the bookLog, resort to checking from authMap
-    if (!titles?.length) {
+    if (globalKWLen < 5) {
         debugLog("[getFromAuthMap] No titles from BookLog, grabbing from authMap");
         const authFromMap = authMap[toProperCase(auth)];
         if (authFromMap?.titles) {
-            authFromMap.titles = authFromMap.titles
-                .filter(title => title.toLowerCase() !== titleIn.toLowerCase());
             debugLog("[getFromAuthMap] Found from authMap: ", authFromMap);
-            titles.push(...authFromMap.titles);
+            titles.push(...authFromMap.titles.map(title => title.toLowerCase()));
         }
     }
 
@@ -1424,6 +1424,10 @@ async function getFromAuthMap(auth, titleIn) {
 
 // Function to grab the newset titles from an author's page if the link was provided
 async function getOpenLibTitles({titleIn, authName, authUrl}) {
+
+    // If there are other titles already registered there, don't try getting more / overwriting em
+    if (authMap[authName].titles?.length) return null;
+
     const pageHTML = await fetch(authUrl + "?sort=new").then(res => res.text());
     const $ = cheerio.load(pageHTML);
 
