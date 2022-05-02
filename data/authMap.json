@@ -262,5 +262,141 @@
             "Great Big Knits",
             "Big Knits"
         ]
+    },
+    "Mary Beth Keane": {
+        "titles": [
+            "Fever",
+            "Walking People",
+            "Ask Again, Yes"
+        ]
+    },
+    "Aldous Huxley": {
+        "titles": [
+            "Island",
+            "Crome Yellow",
+            "Those Barren Leaves",
+            "Ape And Essence",
+            "Point Counter Point",
+            "Eyeless In Gaza"
+        ]
+    },
+    "Marie Benedict": {
+        "titles": [
+            "Her Hidden Genius",
+            "Personal Librarian",
+            "Lady Clementine",
+            "Carnegie's Maid",
+            "Other Einstein"
+        ]
+    },
+    "Sarah Schmidt": {
+        "titles": [
+            "Blue Hour",
+            "See What I Have Done"
+        ]
+    },
+    "Jonathan Lethem": {
+        "titles": [
+            "Blot",
+            "Gambler's Anatomy",
+            "Dissident Gardens"
+        ]
+    },
+    "Laura Sebastian": {
+        "titles": [
+            "Into Glades",
+            "Ember Queen",
+            "Lady Smoke",
+            "Kul Prensesi",
+            "Ash Princess",
+            "Happily Ever After?"
+        ]
+    },
+    "T. J. Klune": {
+        "titles": [
+            "Heat Wave",
+            "Flash Fire",
+            "Extraordinaries",
+            "Tell Me It's Real",
+            "Ravensong",
+            "Heartsong",
+            "Wish Upon the Stars",
+            "Art of Breathing",
+            "Who We Are"
+        ]
+    },
+    "Ann Leckie": {
+        "titles": [
+            "Raven Tower",
+            "Provenance",
+            "Ancillary Mercy",
+            "Ancillary Sword"
+        ]
+    },
+    "Eowyn Ivey": {
+        "titles": [
+            "Snot Child",
+            "To The Bright Edge Of The World"
+        ]
+    },
+    "Haruki Murakami": {
+        "titles": [
+            "After Dark",
+            "After the Quake",
+            "Dance Dance Dance",
+            "Elephant Vanishes",
+            "Kafka on the Shore",
+            "Sputnik Sweetheart"
+        ]
+    },
+    "Don Delillo": {
+        "titles": [
+            "End Zone",
+            "Running Dog",
+            "Great Jones Street",
+            "Point Omega",
+            "Libra",
+            "Underworld"
+        ]
+    },
+    "Thomas Hardy": {
+        "titles": [
+            "Laodicean"
+        ]
+    },
+    "Ernest Hemingway": {
+        "titles": [
+            "For Whom Bell Tolls",
+            "Death In Afternoon"
+        ]
+    },
+    "Gregory Maguire": {
+        "titles": [
+            "Oracle of Maracoor",
+            "Brides of Maracoor",
+            "Wild Winter Swan",
+            "Hiddensee",
+            "Egg & Spoon",
+            "After Alice",
+            "Egg and Spoon"
+        ]
+    },
+    "Julie Clark": {
+        "titles": [
+            "Lies I Tell",
+            "Ones We Choose",
+            "Baby-Led Weaning"
+        ]
+    },
+    "Peter Lovesey": {
+        "titles": [
+            "Upon a Dark Night",
+            "Diamond and Eye",
+            "Finisher",
+            "Case of Spirits",
+            "Bertie ",
+            "Beau Death",
+            "Abracadaver"
+        ]
     }
 }

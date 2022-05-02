@@ -2582,27 +2582,6 @@
         ]
     },
     {
-        "isbn": "9781524745035",
-        "title": "When You See Me",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lisa Gardner"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316703567",
         "title": "You'll Thank Me for This",
         "subtitle": "A Novel",
@@ -8525,27 +8504,6 @@
         ]
     },
     {
-        "isbn": "9781439157817",
-        "title": "Copper River",
-        "subtitle": "A Cork O'connor Mystery",
-        "authors": [
-            {
-                "name": "William Kent Krueger"
-            }
-        ],
-        "publish_date": "2006",
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781439153871",
         "title": "Vermilion Drift",
         "subtitle": "A Novel",
@@ -14262,27 +14220,6 @@
         "publishers": [
             {
                 "name": "Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0684801221",
-        "title": "Old Man And The Sea",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ernest Hemingway"
-            }
-        ],
-        "publish_date": "1995",
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
             }
         ],
         "publish_places": [
@@ -22128,27 +22065,6 @@
         ]
     },
     {
-        "isbn": "9780800727000",
-        "title": "All She Left Behind",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Jane Kirkpatrick"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Revell / Baker Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Grand Rapids, Mi."
-            }
-        ]
-    },
-    {
         "isbn": "9780764212314",
         "title": "Where Courage Calls",
         "subtitle": "",
@@ -26026,27 +25942,6 @@
         ]
     },
     {
-        "isbn": "0517591812",
-        "title": "London",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Edward Rutherfurd"
-            }
-        ],
-        "publish_date": "1997",
-        "publishers": [
-            {
-                "name": "Crown Books / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780307277466",
         "title": "Miracle At Speedy Motors",
         "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 9",
@@ -26181,27 +26076,6 @@
             }
         ],
         "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "140007570X",
-        "title": "In The Company Of Cheerful Ladies",
-        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 6",
-        "authors": [
-            {
-                "name": "Alexander Mccall Smith"
-            }
-        ],
-        "publish_date": "2006",
         "publishers": [
             {
                 "name": "Anchor / Random House"
@@ -27923,27 +27797,6 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781451645859",
-        "title": "Ordinary Grace",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "William Kent Krueger"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
             }
         ],
         "publish_places": [
@@ -29867,35 +29720,6 @@
         ]
     },
     {
-        "isbn": "9781538704585",
-        "title": "2 Sisters Detective Agency",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "James Patterson"
-            },
-            {
-                "name": "Candice Fox"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 379,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781595547835",
         "title": "Butterfly Palace",
         "subtitle": "",
@@ -30815,36 +30639,6 @@
         "publishers": [
             {
                 "name": "Viking / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316499347",
-        "title": "21st Birthday",
-        "subtitle": "A Women's Murder Club Novel",
-        "authors": [
-            {
-                "name": "James Patterson"
-            },
-            {
-                "name": "Maxine Paetro"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 408,
-        "price": 17.4,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [
@@ -32479,35 +32273,6 @@
         "publishers": [
             {
                 "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538715468",
-        "title": "20th Victim",
-        "subtitle": "A Women's Murder Club Novel",
-        "authors": [
-            {
-                "name": "James Patterson"
-            },
-            {
-                "name": "Maxine Paetro"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 415,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
@@ -36538,33 +36303,6 @@
         "publishers": [
             {
                 "name": "Emily Bestler Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780399179563",
-        "title": "Numbers Game",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Danielle Steel"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 271,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Delacorte Press/random House"
             }
         ],
         "publish_places": [
@@ -42301,32 +42039,6 @@
         ]
     },
     {
-        "isbn": "9780345803788",
-        "title": "Crazy Rich Asians",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kevin Kwan"
-            }
-        ],
-        "publish_date": "2013",
-        "pages": 527,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781492671527",
         "title": "Book Woman Of Troublesome Creek",
         "subtitle": "A Novel",
@@ -43647,36 +43359,6 @@
         "publishers": [
             {
                 "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781982154851",
-        "title": "Fortune And Glory",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Janet Evanovich"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 304,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
             }
         ],
         "publish_places": [
@@ -45379,39 +45061,6 @@
         "publishers": [
             {
                 "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538749968",
-        "title": "Paris Detective",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "James Patterson"
-            },
-            {
-                "name": "Richard Dilallo"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 429,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
@@ -57850,36 +57499,6 @@
         ]
     },
     {
-        "isbn": "9781524796426",
-        "title": "Sunflower Sisters",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Martha Hall Kelly"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 522,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316556323",
         "title": "Circe",
         "subtitle": "",
@@ -61899,39 +61518,6 @@
         "publishers": [
             {
                 "name": "Bantam Books / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781101885680",
-        "title": "Go Tell The Bees That I Am Gone",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Diana Gabaldon"
-            },
-            {
-                "name": "Davina Porter"
-            }
-        ],
-        "keywords": [
-            "par"
-        ],
-        "publish_date": "2021",
-        "pages": 902,
-        "price": 19,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Delacorte Press/random House"
             }
         ],
         "publish_places": [
@@ -66921,36 +66507,6 @@
         ]
     },
     {
-        "isbn": "9781597896122",
-        "title": "Allison's Journey",
-        "subtitle": "The Brides Of Webster County, Book 4",
-        "authors": [
-            {
-                "name": "Wanda E. Brunstetter"
-            }
-        ],
-        "keywords": [
-            "xfi",
-            "rom"
-        ],
-        "publish_date": "2008",
-        "pages": 284,
-        "price": 6,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Barbour Publishing, Inc"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Uhrichsville, Oh."
-            }
-        ]
-    },
-    {
         "isbn": "1593107145",
         "title": "Quilter's Daughter",
         "subtitle": "Daughters Of Lancaster County, Book 2",
@@ -67705,37 +67261,6 @@
         "publishers": [
             {
                 "name": "Plume Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781501173219",
-        "title": "All The Light We Cannot See",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Anthony Doerr"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic",
-            "pul"
-        ],
-        "publish_date": "2017",
-        "pages": 531,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
             }
         ],
         "publish_places": [
@@ -78642,7 +78167,7 @@
     },
     {
         "isbn": "9781593079789",
-        "title": "Dallas",
+        "title": "Apocalypse Suite",
         "subtitle": "Umbrella Academy, Volume 1",
         "authors": [
             {
@@ -78900,6 +78425,1429 @@
         "publishers": [
             {
                 "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780800727000",
+        "title": "All She Left Behind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2017",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "0684801221",
+        "title": "Old Man and the Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 127,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780099541523",
+        "title": "Tender is the Night",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "F. Scott Fitzgerald"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 337,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Classics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982106980",
+        "title": "Ask Again, Yes",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mary Beth Keane"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 390,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061767647",
+        "title": "Brave New World (P.s.)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Aldous Huxley"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": "340+",
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501173219",
+        "title": "All the Light We Cannot See",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2017",
+        "pages": 531,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492666899",
+        "title": "Only Woman In the Room",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marie Benedict"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 315,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780802128133",
+        "title": "See What I Have Done",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Schmidt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 328,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062859075",
+        "title": "Feral Detective",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jonathan Lethem"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 326,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524745035",
+        "title": "When You See Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Gardner"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 400,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101885680",
+        "title": "Go Tell the Bees That I Am Gone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diana Gabaldon"
+            },
+            {
+                "name": "Davina Porter"
+            }
+        ],
+        "keywords": [
+            "par",
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 902,
+        "price": 19,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0517591812",
+        "title": "London",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward Rutherfurd"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1997",
+        "pages": 829,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451658903",
+        "title": "Wind Through the Keyhole",
+        "subtitle": "A Dark Tower Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2012",
+        "pages": 307,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593118160",
+        "title": "Castles In Their Bones",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Laura Sebastian"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2022",
+        "pages": 514,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399179563",
+        "title": "Numbers Game",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Danielle Steel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 271,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778313342",
+        "title": "Trading Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            },
+            {
+                "name": "Renee Raudman"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 362,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9781597896122",
+        "title": "Allison's Journey",
+        "subtitle": "The Brides of Webster County, Book 4",
+        "authors": [
+            {
+                "name": "Wanda E. Brunstetter"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2008",
+        "pages": 284,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Barbour Publishing, Inc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401690069",
+        "title": "Midnight Sea",
+        "subtitle": "A Novel Of The Aloha Reef Series",
+        "authors": [
+            {
+                "name": "Colleen Coble"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2014",
+        "pages": 308,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250217318",
+        "title": "House In the Cerulean Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. J. Klune"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": "398+",
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780356502403",
+        "title": "Ancillary Justice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ann Leckie"
+            },
+            {
+                "name": "Patrick Marcel"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": "386+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439102770",
+        "title": "Storyteller",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 460,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316175661",
+        "title": "Snow Child",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Eowyn Ivey"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": "391+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Reagan Arthur/back Bay Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316434782",
+        "title": "Red Clocks",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Leni Zumas"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 356,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803788",
+        "title": "Crazy Rich Asians",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kevin Kwan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 527,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "140007570X",
+        "title": "In the Company of Cheerful Ladies",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 6",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 233,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524796426",
+        "title": "Sunflower Sisters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martha Hall Kelly"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "522+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307389831",
+        "title": "What I Talk About When I Talk About Running",
+        "subtitle": "A Memoir",
+        "authors": [
+            {
+                "name": "Haruki Murakami"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 180,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140077022",
+        "title": "White Noise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Don Delillo"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1985",
+        "pages": 326,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345804006",
+        "title": "Far From the Madding Crowd",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Thomas Hardy"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 434,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Classics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780684801469",
+        "title": "Farewell To Arms",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 332,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "068482499X",
+        "title": "Moveable Feast",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 211,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060987107",
+        "title": "Wicked",
+        "subtitle": "The Life and Times of the Wicked Witch of the West - a Novel",
+        "authors": [
+            {
+                "name": "Gregory Maguire"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 409,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728234229",
+        "title": "Last Flight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Clark"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 278,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593471302",
+        "title": "Stay Close",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 387,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982154851",
+        "title": "Fortune and Glory",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 304,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781569473221",
+        "title": "Diamond Dust",
+        "subtitle": "A Peter Diamond Mystery",
+        "authors": [
+            {
+                "name": "Peter Lovesey"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 342,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780751543315",
+        "title": "Skeleton Hill",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter Lovesey"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 339,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sphere / Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715468",
+        "title": "20th Victim",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 417,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451645859",
+        "title": "Ordinary Grace",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": "307+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439157817",
+        "title": "Copper River",
+        "subtitle": "A Cork O'connor Mystery",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": "309+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538749968",
+        "title": "Paris Detective",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Richard Dilallo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "429+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538753187",
+        "title": "Coast-To-Coast Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "J. D. Barker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "562+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538704585",
+        "title": "2 Sisters Detective Agency",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Candice Fox"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "379+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316499347",
+        "title": "21st Birthday",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 408,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316097499",
+        "title": "11th Hour",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 407,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown and Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316210829",
+        "title": "12th of Never",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": "397+",
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [

@@ -87,6 +87,7 @@ module.exports.condMap = {
 
     // PB Wraps creased
     cr:   "creased",
+    cre:  "creased",
     crea: "creased",
     fwcr: "Front Wrap Creased.",
     rwcr: "Rear Wrap Creased.",
