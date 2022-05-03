@@ -79855,5 +79855,35 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781841499918",
+        "title": "Calibans War Expanse",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": 595,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
     }
 ]

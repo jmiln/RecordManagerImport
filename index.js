@@ -279,13 +279,24 @@ async function init() {
                 }
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
+                    const kwTitleMap = kwTitles.map(t => toProperCase(t));
                     const res = await askQuestionV2({
-                        question: `I found ${kwTitles.length} titles by ${toProperCase(authArr[0])} to use as keywords.\n${kwTitles.map(t => toProperCase(t)).join(", ")}\nShould I use them?`,
-                        answerList: [],
-                        yesNo: true
+                        question: `I found ${kwTitles.length} titles by ${toProperCase(authArr[0])} to use as keywords.\n${kwTitleMap.join(", ")}\nShould I use them?`,
+                        answerList: kwTitleMap,
+                        yesNo: true,
+                        multiOption: true
                     });
-                    if (["y", "yes"].includes(res.toLowerCase())) {
+                    if (Array.isArray(res)) {
+                        // Got multiple answers back, process em
+                        for (const resNum of res) {
+                            if (globalKWLen >= 5) break;
+                            globalKWLen++;
+                            bookInfoArr.push(`kw${globalKWLen}=${kwTitles[resNum]}`);
+                        }
+                    } else if (["y", "yes"].includes(res.toLowerCase())) {
+                        // Just answered yes, add all available titles while possible
                         for (const title of kwTitles) {
+                            if (globalKWLen >= 5) break;
                             globalKWLen++;
                             bookInfoArr.push(`kw${globalKWLen}=${title}`);
                         }
@@ -595,7 +606,7 @@ function processArgv() {
 //     * Somehow parse out each option, so it can be "creasing to rear wrap" vs front wrap, etc
 //         - Possibly something along the lines of condition_type:location (ex: few:rw  (Faint edgewear to rear wrap))?
 //         - If going this route, it would likely be worth trying to bunch em by location too, like if there are multiple for rear wrap (Creasing & small tear, etc)
-//             * Possibly seperate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
+//             * Possibly separate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
 //     * Should stick in vg/vg-/g etc as extra options
 function parseCond() {
     const condOut = {1: "", 2: ""};
@@ -1159,12 +1170,11 @@ async function askQuestion({query, maxLen=0}) {
 // const yesVals    = ["y", "yes"];
 
 // Ask a question, with set answers that are expected
-async function askQuestionV2({question="", answerList=[], cancel=false, save=false, other=false, yesNo=false, use=false}) {
+async function askQuestionV2({question="", answerList=[], multiOption=false, cancel=false, save=false, other=false, yesNo=false, use=false}) {
     debugLog("[askQuestionV2] inQuestion: ", question);
     debugLog("[askQuestionV2] inAnswerList: ", answerList);
     debugLog("Options: ", {cancel, save, other, yesNo, use});
-    const defaultPad = 4;   // Space for the brackets, with single digit number, and a space after
-    let pad = defaultPad;
+    let pad = 4;
     let answerLen = answerList.length;
     answerLen += save   ? 1 : 0;
     answerLen += other  ? 1 : 0;
@@ -1217,23 +1227,46 @@ async function askQuestionV2({question="", answerList=[], cancel=false, save=fal
 
     const prompt = "\n\n> ";
 
-    return new Promise((resolve) => {
-        rl.question("\n" + question + (questionOptions?.length ? "\n" + questionOptions.join("\n") : "") + prompt, (line) => {
-            line = cleanString(line.trim());
-            if (answers.indexOf(line.toLowerCase()) > -1) {
-                resolve(line.toLowerCase());
-            } else {
-                console.log(line + " is not a valid answer.\nChoose from the following: " + answers.join(", "));
-                resolve(askQuestionV2({question, answers, answerList, cancel, save, other, yesNo, use}));
-            }
+    if (!multiOption) {
+        return new Promise((resolve) => {
+            rl.question("\n" + question + (questionOptions?.length ? "\n" + questionOptions.join("\n") : "") + prompt, (line) => {
+                line = cleanString(line.trim());
+                if (answers.indexOf(line.toLowerCase()) > -1) {
+                    resolve(line.toLowerCase());
+                } else {
+                    console.log(line + " is not a valid answer.\nChoose from the following: " + answers.join(", "));
+                    resolve(askQuestionV2({question, answers, multiOption, answerList, cancel, save, other, yesNo, use}));
+                }
+            });
         });
-    });
+    } else {
+        const mutliChoiceStr = `You may choose more than one NUMBERED option (Up to ${5-globalKWLen}), separated by commas.\nIf you choose a non-numbered option, then that will be the only choice used.`;
+        return new Promise((resolve) => {
+            rl.question("\n" + question + (questionOptions?.length ? "\n" + questionOptions.join("\n") : "") + `\n\n${mutliChoiceStr}\n` + prompt, (line) => {
+                line = cleanString(line.trim());
+                const answerArr = line.split(",").map(ans => ans.trim());
+                const nonNumArr = answerArr.filter(ans => isNaN(parseInt(ans, 10)));
+                if (nonNumArr.length && answers.indexOf(nonNumArr[0].toLowerCase()) > -1) {
+                    // If any of the chosen options were one of the non-numbered / extras like Other or Yes/No, us the first one of those instead
+                    resolve(nonNumArr[0].toLowerCase());
+                } else if (answerArr.some(ans => !answers.includes(ans))) {
+                    // If any of the chosen options are invalid / not valid, try again
+                    console.log("Some of your chosen options are invalid. Please double check your answers");
+                    resolve(askQuestionV2({question, answers, multiOption, answerList, cancel, save, other, yesNo, use}));
+                } else {
+                    // They must all be valid? Let's go ahead and send em through
+                    resolve(answerArr);
+                }
+            });
+        });
+    }
 }
 
 // Clean the control characters out of strings from readline when the arrow keys are pressed
 function cleanString(stringIn) {
     stringIn = stringIn.replace(/ø/g, "o"); // Replace this specific character
     stringIn = stringIn
+        // Following line is to strip out any mess from hitting movement keys when typing
         .replace(/(\x9B|\x1B\[|\x1B)[0-?]*[ -/]*[@-~]/g, "") // eslint-disable-line no-control-regex
         .replace("½", "1/2")                                 // Replace the ½ symbol with 1/2
         .replace(/(\r\n|\n|\r)/gm,"")                        // Replace all line returns
@@ -1462,7 +1495,7 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
     authMap[authName].titles = noDupTitles.map(t => cleanString(toProperCase(t)));
     await saveAuths(JSON.stringify(authMap, null, 4));
 
-    return noDupTitles.slice(0, 5-globalKWLen);
+    return noDupTitles;
 }
 
 

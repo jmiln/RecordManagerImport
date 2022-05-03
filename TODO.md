@@ -2,7 +2,11 @@
 
 ## Next in line
 
-- Add a new flag (Or file/ command) that will display the last x days worth of titles, seperated by genre (?), sorted by title or author (1st author only), and show them nicely to the console
+- When grabbing new titles from an author's works
+    * Use the https://openlibrary.org/authors/OL6812710A/works.json link to get the json response instead of
+      scraping https://openlibrary.org/authors/OL6812710A/James_Patterson?sort=new
+    * One way that it can sorta filter out other languages would be to clean the titles and see if there's any difference before & after (Check for accented characters)
+    * We can probably try and grab categories from there too, listed under subjects?
 
 
 ## New Fields
