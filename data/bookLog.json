@@ -80591,5 +80591,65 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780778330905",
+        "title": "Sisters Like Us",
+        "subtitle": "A Mischief Bay Novel",
+        "authors": [
+            {
+                "name": "Susan Mallery"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 420,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062897800",
+        "title": "Almost Just Friends",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jill Shalvis"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "359+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

@@ -577,5 +577,30 @@
             "Buffalo Soldier",
             "Miracle At St. Anna"
         ]
+    },
+    "Susan Mallery": {
+        "titles": [
+            "Summer Getaway",
+            "Boardwalk Bookshop",
+            "Almost Perfect",
+            "All Summer Long",
+            "Summer Nights",
+            "Stepsisters",
+            "Chasing Perfect",
+            "Little Bit Pregnant"
+        ]
+    },
+    "Jill Shalvis": {
+        "titles": [
+            "Then Came You",
+            "Family You Make",
+            "Lemon Sisters",
+            "Forever Girl",
+            "Love for Beginners",
+            "Stroke of Luck",
+            "Stray Hearts",
+            "One Lucky Day",
+            "Summer Deal"
+        ]
     }
 }
