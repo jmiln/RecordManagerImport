@@ -251,9 +251,10 @@ async function init() {
             }
 
             for (const auth of authArr) {
-                const foundAuth = authMap[toProperCase(auth)];
+                const authMapIndex = Object.keys(authMap).find(au => au.toLowerCase() === auth.toLowerCase());
+                const foundAuth = authMap[authMapIndex];
 
-                if (authStr.length) {
+                if (authStr?.length) {
                     authStr += "; ";
                 }
                 if (foundAuth?.format) {
