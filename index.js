@@ -1441,10 +1441,14 @@ async function getFromAuthMap(auth, titleIn) {
     // If there are no titles found from the bookLog, resort to checking from authMap
     if (globalKWLen < 5) {
         debugLog("[getFromAuthMap] No titles from BookLog, grabbing from authMap");
-        const authFromMap = authMap[toProperCase(auth)];
+        const authMapIndex = Object.keys(authMap).find(au => au.toLowerCase() === auth.toLowerCase());
+        const authFromMap = authMap[authMapIndex];
         if (authFromMap?.titles) {
             debugLog("[getFromAuthMap] Found from authMap: ", authFromMap);
-            titles.push(...authFromMap.titles.map(title => title.toLowerCase()));
+            titles.push(...authFromMap.titles
+                .map(title => title.toLowerCase())
+                .filter(title => title !== titleIn.toLowerCase())
+            );
         }
     }
 
