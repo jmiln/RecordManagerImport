@@ -8,6 +8,8 @@
     * One way that it can sorta filter out other languages would be to clean the titles and see if there's any difference before & after (Check for accented characters)
     * We can probably try and grab categories from there too, listed under subjects?
 
+- If there's no subtitle, check against other subtitles from a given author, and see if I want to use one
+
 
 ## New Fields
 

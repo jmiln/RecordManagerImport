@@ -335,7 +335,7 @@
     },
     "Eowyn Ivey": {
         "titles": [
-            "Snot Child",
+            "Snow Child",
             "To The Bright Edge Of The World"
         ]
     },
@@ -410,6 +410,172 @@
             "Medusa Stone",
             "Vulcan's Forge",
             "Charon's Landing"
+        ]
+    },
+    "Tarryn Fisher": {
+        "titles": [
+            "Honest Lie",
+            "F*ck Marriage",
+            "Wives",
+            "I Cbe a Better You",
+            "Bad Mommy",
+            "F*ck Love",
+            "Marrow",
+            "Mud Vein",
+            "Opportunist"
+        ]
+    },
+    "Kwei Quartey": {
+        "titles": [
+            "Missing American",
+            "Death By His Grace",
+            "Trokosi"
+        ]
+    },
+    "Kwei J. Quartey": {
+        "titles": [
+            "Children of Street",
+            "Wife of Gods"
+        ]
+    },
+    "Burt Solomon": {
+        "titles": [
+            "Fdr V. Constitution",
+            "Packing Court",
+            "Washington Century",
+            "Where They Ain't",
+            "Baseball Timeline"
+        ]
+    },
+    "John Mortimer": {
+        "titles": [
+            "Forever Rumpole",
+            "Rumpole Christmas",
+            "Titmuss Regained",
+            "Rumpole Misbehaves"
+        ]
+    },
+    "W. E. B. Griffin": {
+        "titles": [
+            "Enemy of My Enemy",
+            "Curtain of Death",
+            "Broken Trust",
+            "Deadly Assets",
+            "Top Secret",
+            "Hazardous Duty",
+            "Aviators",
+            "Empire and Honor",
+            "Last Witness"
+        ]
+    },
+    "James Defelice": {
+        "titles": [
+            "Threat Level Black",
+            "Cyclops One",
+            "Brother's Keeper",
+            "Havana Strike",
+            "Silver Bullet",
+            "Coyote Bird",
+            "War Breaker",
+            "Fools and Masters",
+            "Elixir"
+        ]
+    },
+    "Anne Rice": {
+        "titles": [
+            "Blood Communion",
+            "Prueba Del aNgel",
+            "Young Messiah",
+            "El Principe Lestat",
+            "Lobos Del Invierno",
+            "Beauty's Kingdom",
+            "Wolves of Midwinter"
+        ]
+    },
+    "Marjan Kamali": {
+        "titles": [
+            "Kirtasiye Dukkani",
+            "Together Tea"
+        ]
+    },
+    "Kathy Tyers": {
+        "titles": [
+            "Shivering World",
+            "Fusion Fire",
+            "Daystar",
+            "Wind and Shadow",
+            "Annotated Firebird",
+            "Firebird Trilogy",
+            "Crown of Fire",
+            "Treve a Bakura",
+            "One Mind's Eye"
+        ]
+    },
+    "Martha Hall Kelly": {
+        "titles": [
+            "Rosyjskie Roze",
+            "Lost Roses",
+            "Lilac Girls"
+        ]
+    },
+    "W. Somerset Maugham": {
+        "titles": [
+            "La Carta",
+            "Skeptical Romancer",
+            "El Velo Pintado",
+            "Narrow Corner",
+            "Writer's Notebook",
+            "Explorer",
+            "Der Magier",
+            "Dao Feng",
+            "Moon and Sixpence"
+        ]
+    },
+    "Pamela Aidan": {
+        "titles": [
+            "Lesson In Honour",
+            "These Three Remain",
+            "Duty and Desire"
+        ]
+    },
+    "Abdulrazak Gurnah": {
+        "titles": [
+            "Gravel Heart",
+            "Desertion",
+            "En La Orilla",
+            "By Sea",
+            "Admiring Silence",
+            "Paradise",
+            "Dottie",
+            "Pilgrims Way",
+            "Memory of Departure"
+        ]
+    },
+    "Karl Marlantes": {
+        "titles": [
+            "Matterhorn"
+        ]
+    },
+    "Viet Thanh Nguyen": {
+        "titles": [
+            "Committed",
+            "Multeciler",
+            "Tong Qing Zhe",
+            "Displaced",
+            "El Simpatizante",
+            "Refugees",
+            "Sempatizan"
+        ]
+    },
+    "James Mcbride": {
+        "titles": [
+            "Deacon King Kong",
+            "Kill 'Em and Leave",
+            "Trenchblight",
+            "Color of Water",
+            "Song Yet Sung",
+            "Buffalo Soldier",
+            "Miracle At St. Anna"
         ]
     }
 }
