@@ -602,5 +602,81 @@
             "One Lucky Day",
             "Summer Deal"
         ]
+    },
+    "Larry Mcmurtry": {
+        "titles": [
+            "Custer",
+            "Hollywood",
+            "Rhino Ranch",
+            "Literary Life",
+            "Books",
+            "When Light Goes",
+            "Oh What a Slaughter",
+            "Loop Group",
+            "Wandering Hill",
+            "Sin Killer",
+            "Folly and Glory",
+            "By Sorrow's River",
+            "Paradise"
+        ]
+    },
+    "Raymond Chandler": {
+        "titles": [
+            "Annotated Big Sleep",
+            "Minasoko No Onna",
+            "El Sueno Eterno",
+            "Todos Los Cuentos",
+            "Long Good-Bye",
+            "Todo Marlowe",
+            "Playback",
+            "Rongu Guddobai =",
+            "Wysokie Okno",
+            "La Ventana Alta",
+            "All That Glitters"
+        ]
+    },
+    "Emma Healey": {
+        "titles": [
+            "Whistle In Dark",
+            "Stereoblind",
+            "Lesbisex Wars"
+        ]
+    },
+    "Steve Martini": {
+        "titles": [
+            "Blood Flag",
+            "Enemy Inside",
+            "Trader of Secrets",
+            "Rule of Nine",
+            "Guardiof Lies ",
+            "Guardiof Lies",
+            "Shadow of Power ",
+            "Shadow of Power",
+            "Shadow of Power Lp"
+        ]
+    },
+    "Tom Clancy": {
+        "titles": [
+            "Without Remorse",
+            "Rekindle",
+            "Code of Honor",
+            "Sum of All Fears",
+            "Patriot Games"
+        ]
+    },
+    "Martha Wells": {
+        "titles": [
+            "Fugitive Telemetry",
+            "Home",
+            "Murderbot Diaries",
+            "Network Effect",
+            "Exit Strategy",
+            "Rogue Protocol",
+            "All Systems Red",
+            "Harbors of the Sun",
+            "Edge of Worlds",
+            "Stories of Raksura",
+            "Emilie & Sky World"
+        ]
     }
 }
