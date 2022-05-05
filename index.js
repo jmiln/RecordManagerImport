@@ -96,9 +96,8 @@ const globalKWs = [];
 
 async function init() {
     if (argv.help) {
-        console.log(helpArr.join("\n"));
         rl.close();
-        process.exit();
+        return console.log(helpArr.join("\n"));
     }
     debugLog("argV: ", argv);
 
@@ -129,31 +128,8 @@ async function init() {
     // If it's a hardcover book with no DJ, this will ask about special boards and such as needed.
     if (argv.hc && !argv.dj) {
         // Check if the X should be swapped out
-        const boardTypes = [
-            "cloth boards",
-            "leatherette binding",
-            "padded brown leatherette with gilt lettering",     // Pretty much for the louis l'amour leatherettes
-            "pictorial boards",
-            "spiral binding",
-        ];
-        const boardRes = await askQuestionV2({
-            question: "The book is a HC without a DJ. Which, if any of the following should I use?",
-            answerList: boardTypes,
-            other: true,
-            cancel: true
-        });
-        if (boardTypes[boardRes]) {
-            boardStr = boardStr.replace("X", boardTypes[boardRes]);
-        } else if (otherVals.includes(boardRes)) {
-            const newBoardRes = await askQuestion({query: "What would you like to replace the X in `VG IN X` with?", maxLen: MAX_LEN-"VG IN .".length});
-            if (newBoardRes?.length) {
-                if ((newBoardRes.length + boardStr.length - 1) > MAX_LEN) {
-                    console.log(`Invalid string, your board condition can only be a max of ${MAX_LEN} long, including the base of "VG IN ."`);
-                } else {
-                    boardStr = boardStr.replace("X", newBoardRes);
-                }
-            }
-        }
+        const boardType = await getBoards();
+        if (boardType) boardStr = boardType;
     }
 
     const bookInfoArr = processArgv();
@@ -1672,7 +1648,34 @@ async function checkPseudonyms(nameIn) {
     }
 }
 
-
+async function getBoards() {
+    const boardTypes = [
+        "cloth boards",
+        "leatherette binding",
+        "padded brown leatherette with gilt lettering",     // Pretty much for the louis l'amour leatherettes
+        "pictorial boards",
+        "spiral binding",
+    ];
+    const boardRes = await askQuestionV2({
+        question: "The book is a HC without a DJ. Which, if any of the following should I use?",
+        answerList: boardTypes,
+        other: true,
+        cancel: true
+    });
+    if (boardTypes[boardRes]) {
+        return boardStr.replace("X", boardTypes[boardRes]);
+    } else if (otherVals.includes(boardRes)) {
+        const newBoardRes = await askQuestion({query: "What would you like to replace the X in `VG IN X` with?", maxLen: MAX_LEN-"VG IN .".length});
+        if (newBoardRes?.length) {
+            if ((newBoardRes.length + boardStr.length - 1) > MAX_LEN) {
+                console.log(`Invalid string, your board condition can only be a max of ${MAX_LEN} long, including the base of "VG IN ."`);
+                return null;
+            } else {
+                return boardStr.replace("X", newBoardRes);
+            }
+        }
+    }
+}
 
 
 
