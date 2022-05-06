@@ -1953,7 +1953,8 @@
     },
     {
         "name": [
-            "Marvel Comics"
+            "Marvel Comics",
+            "Marvel Worldwide, Inc."
         ],
         "locations": [
             "New York"
@@ -3261,6 +3262,22 @@
         ],
         "locations": [
             "San Diego, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Wildstorm Productions"
+        ],
+        "locations": [
+            "La Jolla, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Dynamite Entertainment"
+        ],
+        "locations": [
+            "Mt. Laurel, Nj."
         ]
     }
 ]

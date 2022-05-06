@@ -14,6 +14,9 @@
     "Frank Ayres Jr.": {
         "format": "Ayres, Frank, Jr."
     },
+    "Simone St. James": {
+        "format": "St. James, Simone"
+    },
     "Simone Van Der Vlugt": {
         "format": "Van Der Vlugt, Simone"
     },
@@ -699,6 +702,113 @@
             "Persigamble",
             "Kremlin Conspiracy",
             "Without Warning"
+        ]
+    },
+    "Amy Belding Brown": {
+        "titles": [
+            "Flight of Sparrow",
+            "Mr. Emerson's Wife",
+            "Strawberry Lace",
+            "Island Summer Love"
+        ]
+    },
+    "Bill Pronzini": {
+        "titles": [
+            "Paradise Affair",
+            "Stolen Gold Affair",
+            "Flimflam Affair",
+            "Give-a-Damn Jones",
+            "Violated",
+            "Endgame"
+        ]
+    },
+    "Kamila Shamsie": {
+        "titles": [
+            "Best of Friends",
+            "Duckling",
+            "God In Every Stone",
+            "Burnt Shadows",
+            "Broken Verses"
+        ]
+    },
+    "Sally Rooney": {
+        "titles": [
+            "Mr Salary"
+        ]
+    },
+    "Heather Morris": {
+        "titles": [
+            "Listening Well",
+            "Three Sisters",
+            "Cilka's Journey"
+        ]
+    },
+    "E. L. James": {
+        "titles": [
+            "More Grey",
+            "Mister",
+            "Darker"
+        ]
+    },
+    "Val Mcdermid": {
+        "titles": [
+            "Wire In Blood",
+            "Still Life",
+            "Resistance",
+            "Imagine a Country",
+            "How Dead Speak",
+            "Place of Execution",
+            "Broken Ground"
+        ]
+    },
+    "P. D. James": {
+        "titles": [
+            "Pecado Original",
+            "Taste for Death",
+            "Private Patient",
+            "Lighthouse"
+        ]
+    },
+    "Daniel H. Wilson": {
+        "titles": [
+            "Earth 2 Society",
+            "Quarantine Zone",
+            "Robogenesis",
+            "Earth 2",
+            "Robots",
+            "Robogenesis",
+            "Amped"
+        ]
+    },
+    "David F. Walker": {
+        "titles": [
+            "Luke Cage",
+            "Planet of Apes",
+            "Superb",
+            "Occupy Avengers"
+        ]
+    },
+    "Steve Kurth": {
+        "titles": [
+            "Marvel Illustrated",
+            "Hercules"
+        ]
+    },
+    "Warren Ellis": {
+        "titles": [
+            "Nina Simone's Gum",
+            "Batman's Grave",
+            "Authority Book One"
+        ]
+    },
+    "Neil Edwards": {
+        "titles": [
+            "Spiderman",
+            "Warriors Three",
+            "Incorruptible",
+            "Siege",
+            "Fantastic Four",
+            "Fantastic 4"
         ]
     }
 }

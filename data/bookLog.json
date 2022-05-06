@@ -1395,27 +1395,6 @@
         ]
     },
     {
-        "isbn": "0375411550",
-        "title": "Bluest Eye",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Toni Morrison"
-            }
-        ],
-        "publish_date": "2000",
-        "publishers": [
-            {
-                "name": "Alfred A. Knopf"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "067168518X",
         "title": "Buffalo girls",
         "subtitle": "a novel",
@@ -2066,27 +2045,6 @@
         "publishers": [
             {
                 "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062188519",
-        "title": "Orchardist",
-        "subtitle": "a Novel",
-        "authors": [
-            {
-                "name": "Amanda Coplin"
-            }
-        ],
-        "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "Harper-Perennial"
             }
         ],
         "publish_places": [
@@ -9695,27 +9653,6 @@
         ]
     },
     {
-        "isbn": "9781476746586",
-        "title": "All The Light We Cannot See",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Anthony Doerr"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781476758749",
         "title": "Three Sisters, Three Queens",
         "subtitle": "",
@@ -11644,27 +11581,6 @@
         "publishers": [
             {
                 "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780735217690",
-        "title": "Home Fire",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kamila Shamsie"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Riverhead Books / Penguin"
             }
         ],
         "publish_places": [
@@ -14456,27 +14372,6 @@
         "publish_places": [
             {
                 "name": "Toronto, Ontario"
-            }
-        ]
-    },
-    {
-        "isbn": "9780385319959",
-        "title": "Outlander",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Diana Gabaldon"
-            }
-        ],
-        "publish_date": "1991",
-        "publishers": [
-            {
-                "name": "Bantam Dell / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -35906,33 +35801,6 @@
         ]
     },
     {
-        "isbn": "9781250272812",
-        "title": "Forgotten In Death",
-        "subtitle": "An Eve Dallas Novel",
-        "authors": [
-            {
-                "name": "J. D. Robb"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 373,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781501171703",
         "title": "Kiss The Girls And Make Them Cry",
         "subtitle": "",
@@ -37641,33 +37509,6 @@
         ]
     },
     {
-        "isbn": "9780062868930",
-        "title": "Guest List",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lucy Foley"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 313,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780143136392",
         "title": "Strange Flowers",
         "subtitle": "A Novel",
@@ -38211,32 +38052,6 @@
         "publish_places": [
             {
                 "name": "Philadelphia, Pa."
-            }
-        ]
-    },
-    {
-        "isbn": "9780440000204",
-        "title": "Sun Down Motel",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Simone St. James"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 343,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Berkley Books/penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -62752,36 +62567,6 @@
         ]
     },
     {
-        "isbn": "9781501110368",
-        "title": "It Ends With Us",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Colleen Hoover"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2016",
-        "pages": 376,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781501101427",
         "title": "Eve",
         "subtitle": "A Novel",
@@ -81075,6 +80860,1254 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593199633",
+        "title": "Emily's House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amy Belding Brown"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 364,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0892969008",
+        "title": "Gun In Cheek",
+        "subtitle": "A Study of \"Alternative\" Crime Fiction",
+        "authors": [
+            {
+                "name": "Bill Pronzini"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1987",
+        "pages": 64,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mysterious Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062868930",
+        "title": "Guest List",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lucy Foley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 313,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039914563X",
+        "title": "Bear and the Dragon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tom Clancy"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2000",
+        "pages": 1028,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501110368",
+        "title": "It Ends With Us",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colleen Hoover"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 376,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735217690",
+        "title": "Home Fire",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kamila Shamsie"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 276,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780571347292",
+        "title": "Normal People",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sally Rooney"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 266,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Faber & Faber Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062188519",
+        "title": "Orchardist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amanda Coplin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": "426+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060975547",
+        "title": "Love Medicine",
+        "subtitle": "New and Expanded Version",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 367,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062049810",
+        "title": "State of Wonder",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": "353+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780099760016",
+        "title": "Sula",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1998",
+        "pages": 174,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781785763656",
+        "title": "Tattooist of Auschwitz",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Heather Morris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 375,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zaffre Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0375411550",
+        "title": "Bluest Eye",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 215,
+        "price": 8.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476746586",
+        "title": "All the Light We Cannot See",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 531,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803481",
+        "title": "Fifty Shades of Grey",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E. L. James"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 514,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385319959",
+        "title": "Outlander",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diana Gabaldon"
+            }
+        ],
+        "keywords": [
+            "par",
+            "rom",
+            "fic"
+        ],
+        "publish_date": "1991",
+        "pages": 627,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812967975",
+        "title": "Foreign Correspondent",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 273,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802123800",
+        "title": "Northanger Abbey",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Val Mcdermid"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 343,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780440000204",
+        "title": "Sun Down Motel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Simone St. James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307592828",
+        "title": "Talking About Detective Fiction",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "P. D. James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 198,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250272812",
+        "title": "Forgotten In Death",
+        "subtitle": "An Eve Dallas Novel",
+        "authors": [
+            {
+                "name": "J. D. Robb"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 373,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250278210",
+        "title": "Abandoned In Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 356,
+        "price": 17.4,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385533850",
+        "title": "Robopocalypse",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniel H. Wilson"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 347,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401261191",
+        "title": "Cyborg",
+        "subtitle": "Volume 1, Unplugged",
+        "authors": [
+            {
+                "name": "David F. Walker"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2016",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0785102191",
+        "title": "Captain America",
+        "subtitle": "Operation Rebirth",
+        "authors": [
+            {
+                "name": "Mark Waid"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "1996",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0785112405",
+        "title": "Mystique",
+        "subtitle": "Dead Drop Gorgeous",
+        "authors": [
+            {
+                "name": "Brian K. Vaughan"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2004",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785144304",
+        "title": "Iron Man",
+        "subtitle": "Armor Wars",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2011",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1401202837",
+        "title": "Red/tokyo Storm Warning",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2004",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wildstorm Productions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "La Jolla, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "1563892766",
+        "title": "Impulse",
+        "subtitle": "Reckless Youth",
+        "authors": [
+            {
+                "name": "Mark Waid"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "1997",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401216924",
+        "title": "Mystery In Space",
+        "subtitle": "Volume 2",
+        "authors": [
+            {
+                "name": "Jim Starlin"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2008",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781606905616",
+        "title": "Doctor Spektor",
+        "subtitle": "Master of the Occult, Volume 1",
+        "authors": [
+            {
+                "name": "Mark Waid"
+            },
+            {
+                "name": "Neil Edwards"
+            },
+            {
+                "name": "Christian Ward"
+            },
+            {
+                "name": "Roberto Castro"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2015",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dynamite Entertainment"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mt. Laurel, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "9780785140337",
+        "title": "Astonishing X-Men: Xenogenesis",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2011",
+        "pages": "u",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785184683",
+        "title": "Avengers",
+        "subtitle": "Endless Wartime",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            },
+            {
+                "name": "Mike Mckone"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2014",
+        "pages": "u",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781302923310",
+        "title": "Crazy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gerry Duggan"
+            },
+            {
+                "name": "Frank Tieri"
+            },
+            {
+                "name": "John Cerilli"
+            },
+            {
+                "name": "Katherine Brown"
+            },
+            {
+                "name": "Ralph Macchio"
+            },
+            {
+                "name": "Jon Adams"
+            },
+            {
+                "name": "Bill Morrison"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2020",
+        "pages": "242",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0785116605",
+        "title": "Ultimate Galactus Book 2",
+        "subtitle": "Secret",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2006",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0785114971",
+        "title": "Ultimate Galactus Book 1",
+        "subtitle": "Nightmare",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2005",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0785114572",
+        "title": "Ultimate Fantastic Four, Vol. 2",
+        "subtitle": "Doom",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            },
+            {
+                "name": "Stuart Immonen"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2004",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0785114955",
+        "title": "Ultimate Fantastic Four, Vol. 3",
+        "subtitle": "N-Zone",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            },
+            {
+                "name": "Andy Kubert"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2005",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Marvel Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1401202454",
+        "title": "John Constantine Hellblazer",
+        "subtitle": "Setting Sun (Hellblazer (Graphic Novels))",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2004",
+        "pages": 94,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534302488",
+        "title": "Injection, Vol. 3",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2017",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
             }
         ]
     }
