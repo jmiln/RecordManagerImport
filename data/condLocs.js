@@ -1,11 +1,11 @@
 module.exports.condMap = {
     // Something special
-    sig:     "Signed by author.",
-    sigtip:  "Signed by author on tipped-in page.",
-    sigbp:   "Signed Bookplate inside.",
-    ins:     "Inscribed to prev. owner.",
-    sigins:  "Inscribed & Signed by author.",
-    siginsp: "Inscribed to Prev. Owner & Signed by author.",
+    sig:      "Signed by author.",
+    sigtip:   "Signed by author on tipped-in page.",
+    sigbp:    "Signed Bookplate{ on} ${inside}.",
+    ins:      "Inscribed to prev. owner.",
+    sigins:   "Inscribed & Signed by author.",
+    siginsp:  "Inscribed to Prev. Owner & Signed by author.",
     siginspo: "Inscribed to Prev. Owner & Signed by author.",
 
     lp:  "Large Print.",
@@ -36,46 +36,44 @@ module.exports.condMap = {
     lw:  "Light Wear.",
 
     // General Wear to Boards
-    fwb:  "Faint Wear to Boards.",
-    lwb:  "Light Wear to Boards.",
+    fwb:  "Faint Wear to ${Boards}.",
+    lwb:  "Light Wear to ${Boards}.",
 
     // Previous owner stuff
-    poad:  "Prev. Owner's address label inside.",
-    poin:  "Prev. Owner's initials inside.",
-    poins: "Prev. Owner's inscription inside.",
-    pona:  "Prev. Owner's name inside.",
-    poni:  "Prev. Owner's name inside.",
-    pono:  "Prev. Owner note inside.",
-    pobp:  "Prev. Owner bookplate inside.",
-    post:  "Prev. Owner stamp inside.",
+    poad:  "Prev. Owner's address label{ on} ${inside}.",
+    poin:  "Prev. Owner's initials{ on} ${inside}.",
+    poins: "Prev. Owner's inscription{ on} ${inside}.",
+    pona:  "Prev. Owner's name{ on} ${inside}.",
+    poni:  "Prev. Owner's name{ on} ${inside}.",
+    pono:  "Prev. Owner note{ on} ${inside}.",
+    pobp:  "Prev. Owner bookplate{ on} ${inside}.",
+    post:  "Prev. Owner stamp{ on} ${inside}.",
 
     // Toning
-    fton: "Faint toning to page edges.",
-    lton: "Light toning to page edges.",
-    ton:  "Toning to page edges.",
+    fton: "Faint toning to ${page edges}.",
+    lton: "Light toning to ${page edges}.",
+    ton:  "Toning to ${page edges}.",
 
     // Moisture Ripple
-    fmr: "Faint moisture ripple",
-    lmr: "Light moisture ripple",
-    fmoi: "Faint moisture ripple",
-    lmoi: "Light moisture ripple",
+    fmoi: "Faint Moisture Ripple to ${}.",
+    lmoi: "Light Moisture Ripple to ${}.",
 
-    sds: "small dampstain.",
+    sds: "Small Dampstain to ${}.",
 
     // Foxing to page edges
-    ffox: "faint foxing to page edges.",
-    lfox: "light foxing to page edges.",
+    ffox: "Faint Foxing to ${page edges}.",
+    lfox: "Light Foxing to ${page edges}.",
 
     // Soiling to page edges
-    fsoi: "faint soiling to page edges.",
-    lsoi: "light soiling to page edges.",
+    fsoi: "Faint Soiling to ${page edges}.",
+    lsoi: "Light Soiling to ${page edges}.",
 
-    fsta: "faint stain.",
-    lsta: "light stain.",
+    fsta: "Faint Stain to ${page edges}.",
+    lsta: "Light Stain to ${page edges}.",
 
-    // Soiling to boards
-    fsoib: "faint soiling to boards.",
-    lsoib: "light soiling to boards.",
+    // SoilIng To Boards
+    fsoib: "Faint Soiling to boards.",
+    lsoib: "Light Soiling to boards.",
 
     // Board damage
     fewb: "Faint Edgewear to Boards.",
@@ -86,103 +84,31 @@ module.exports.condMap = {
     lewbd: "Light Edgewear to Boards & DJ.",
 
     // PB Wraps creased
-    cr:   "creased",
-    cre:  "creased",
-    crea: "creased",
+    cr:   "${} creased.",
+    cre:  "${} creased.",
+    crea: "${} creased.",
     fwcr: "Front Wrap Creased.",
     rwcr: "Rear Wrap Creased.",
     fpcr: "Front Page Creased.",
     rpcr: "Rear Page Creased.",
 
     // Tears
-    ste: "Small Tear",
-    stea:"Small Tear",
-    tte: "Tiny Tear",
-    ttea:"Tiny Tear",
+    stea: "Small Tear to ${}.",
+    ttea: "Tiny Tear to ${}.",
 
     // Sticker Issues
-    stsc: "sticker scar at ...",
-    smstsc: "small sticker scar at ...",
-    ssha: "sticker shadow at ...",
-    srem: "sticker remnant at ...",
+    smstsc: "small sticker scar at ${}.",
+    stsc:   "sticker scar at ${}.",
+    ssha:   "sticker shadow at ${}.",
+    srem:   "sticker remnant at ${}.",
 
     // DJ stuff
-    dsun: "DJ Lightly Sunned at Spine.",
+    dsun: "DJ Lightly Sunned at ${}.",
     fewd: "Faint Edgewear to DJ.",
     lewd: "Light Edgewear to DJ.",
     fwd:  "Faint Wear to DJ.",
     lwd:  "Light Wear to DJ.",
-    djm:  "DJ in Mylar Wrap.",
     myl:  "DJ in Mylar Wrap.",
-};
-
-// Conditions that can have locations inserted instead of being statically assigned one
-module.exports.modularCond = {
-    // Signed
-    sigbp: "Signed Bookplate on ^.",
-
-    // Edgewear
-    few:  "Faint Edgewear to ^.",
-    lew:  "Light Edgewear tp ^.",
-    lewo: "^ Lightly Edgeworn.",
-
-    // General Wear
-    fw:  "Faint Wear to ^.",
-    lw:  "Light Wear to ^.",
-
-    // Toning
-    fton: "Faint toning to ^.",
-    lton: "Light toning to ^.",
-    ton:  "Toning to ^.",
-
-    // Previous owner notes etc.
-    poad:  "Prev. Owner's address label ^.",
-    poin:  "Prev. Owner's initials ^.",
-    poins: "Prev. Owner's inscription ^.",
-    pona:  "Prev. Owner's name ^.",
-    pono:  "Prev. Owner notes on ^.",
-    pobp:  "Prev. Owner bookplate ^.",
-    post:  "Prev. Owner stamp ^.",
-
-    // Sunning (DJ lightly sunned at spine)
-    dsun: "DJ Lightly Sunned at ^.",
-
-    // Moisture Ripples
-    fmr: "Faint moisture ripple to ^.",
-    lmr: "Light moisture ripple to ^.",
-    fmoi: "Faint moisture ripple to ^.",
-    lmoi: "Light moisture ripple to ^.",
-
-    // Dampstains
-    sds: "Small Dampstain at ^.",
-
-    // Foxing
-    ffox: "faint foxing to ^.",
-    lfox: "light foxing to ^.",
-
-    // Soiling
-    fsoi: "faint soiling to ^.",
-    lsoi: "light soiling to ^.",
-
-    // Staining
-    fsta: "faint stain to ^.",
-    lsta: "light stain to ^.",
-
-    // X creased
-    cr: "^ Creased.",
-    crea: "^ Creased.",
-
-    // Tears
-    ste: "small tear to ^.",
-    stea:"small tear to ^.",
-    tte: "tiny tear to ^.",
-    ttea:"tiny tear to ^.",
-
-    // Sticker issues
-    stsc: "sticker scar at ^.",
-    smstsc: "small sticker scar at ^.",
-    ssha: "sticker shadow at ^.",
-    srem: "sticker remnant at ^.",
 };
 
 // The different parts of the book to name off
@@ -217,6 +143,7 @@ module.exports.condLocs = {
     rw:   "rear wrap",
     sp:   "spine",
     usp:  "upper spine",
+    udjs: "upper dj spine",
     upe:  "upper page edges",
     tesp: "top edge of spine",
     htp:  "half title page",

@@ -6,7 +6,7 @@ const { exec } = require("child_process");
 
 const readline = require("readline");
 
-const {condMap, condLocs, modularCond} = require(__dirname + "/data/condLocs.js");  // eslint-disable-line no-unused-vars
+const {condMap, condLocs} = require(__dirname + "/data/condLocs.js");
 
 const helpArr      = require(__dirname + "/data/helpOut.js");
 const kwMap        = require(__dirname + "/data/keywordMap.js");
@@ -16,7 +16,6 @@ const bookLog      = require(__dirname + "/data/bookLog.json");
 const authMap      = require(__dirname + "/data/authMap.json");
 const pseudonyms   = require(__dirname + "/data/pseudonyms.json");
 const illusOptions = require(__dirname + "/data/illustrations.js");
-
 
 const cancelVals = ["c", "cancel"];
 const noVals     = ["n", "no"];
@@ -35,10 +34,10 @@ const MAX_MID_LEN = 28;
 const MAX_SMALL_MID_LEN = 27;
 
 // Max length of the small rows (Pub date, size)
-const MAX_SMALL_LEN = 15;  // eslint-disable-line no-unused-vars
+// const MAX_SMALL_LEN = 15;  // eslint-disable-line no-unused-vars
 
 // Max length of the smaller rows (edition, binding, jacket, pages)
-const MAX_SMALLER_LEN = 15; // eslint-disable-line no-unused-vars
+// const MAX_SMALLER_LEN = 15; // eslint-disable-line no-unused-vars
 
 // Max length of the keyword fields
 const MAX_KW_LEN = 19; // eslint-disable-line no-unused-vars
@@ -59,6 +58,9 @@ const argv = require("minimist")(process.argv.slice(2), {
         p:     "pb",          // Paperback
         sp:    "spiral",      // Spiral Binding
         fr:    "french",      // French Wraps
+
+        // Conditions
+        vg:    "vg_cond",          // Let me put in a vg- or g+, etc as needed
 
         // Editions
         bc:    "bc",          // Book Club
@@ -91,6 +93,7 @@ let isbn = process.argv[2];
 let globalKWLen = null;
 let boardStr = "VG IN X.";
 let isOldListing = false;
+let manualCond = null;
 
 const globalKWs = [];
 
@@ -132,7 +135,7 @@ async function init() {
         if (boardType) boardStr = boardType;
     }
 
-    const bookInfoArr = processArgv();
+    const bookInfoArr = await processArgv();
 
     const oldJsonOut = bookLog.find(ob => ob.isbn == isbn);
     if (oldJsonOut) {
@@ -475,7 +478,7 @@ init();
 
 
 // Process any flags/ arguments that were used to add extra data
-function processArgv() {
+async function processArgv() {
     const outArr = [];
 
     // Anything to be put in the edition field
@@ -544,7 +547,7 @@ function processArgv() {
         argv.price = null;
     }
 
-    const condOut = parseCond();
+    const condOut = await parseCond();
     if (condOut[1].length) {
         outArr.push(`COND=${condOut[1]}`);
     }
@@ -585,7 +588,13 @@ function processArgv() {
 //         - If going this route, it would likely be worth trying to bunch em by location too, like if there are multiple for rear wrap (Creasing & small tear, etc)
 //             * Possibly separate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
 //     * Should stick in vg/vg-/g etc as extra options
-function parseCond() {
+
+// Just a condition will put the given string in.
+// A condition:location string will replace the ${} in a string with the given location.
+//  - If there's an empty ${} in the string, and no location is given, it should prompt for one
+//  - If there's no ${} and a location is given, it should warn about it, and offer to have one typed in
+
+async function parseCond() {
     const condOut = {1: "", 2: ""};
     const mainCond = "VG";
     const mainDjCond = "VG/VG";
@@ -593,11 +602,13 @@ function parseCond() {
 
     let spiralStr = "";
     let frenchStr = "";
-    if (argv.conditions.includes("spc")) spiralStr = " with spiral comb binding";
-    if (argv.conditions.includes("spw")) spiralStr = " with spiral wire binding";
-    if (argv.french)                     frenchStr = "FRENCH ";
+    if (argv.conditions.includes("spc")) spiralStr  = " with spiral comb binding";
+    if (argv.conditions.includes("spw")) spiralStr  = " with spiral wire binding";
+    if (argv.french)                     frenchStr  = "FRENCH ";
+    if (argv.vg)                         manualCond = argv.vg;
 
     debugLog("[parseCond] argv.conditions: ", argv.conditions);
+    debugLog("[parseCond] argv.vg: ", argv.vg);
 
     if (argv.condition?.length) {
         let startStr = "";
@@ -605,17 +616,18 @@ function parseCond() {
 
         if (argv.pb) {
             // Default condition to start with for pb books
-            startStr = `${mainCond} IN ${frenchStr}WRAPS${spiralStr}.`;
+            startStr = `${manualCond ? manualCond : mainCond} IN ${frenchStr}WRAPS${spiralStr}.`;
         } else if (argv.hc && argv.dj) {
             // Default condition to start with for hc books with a dj
-            startStr = mainDjCond;
+            startStr = manualCond ? manualCond : mainDjCond;
         } else if (argv.hc) {
             // Default condition to start with for hc books without a dj
             //  - This will be vg in pictorial boards, cloth, etc
             //  - This is set back at the begining when it asks about board types
-            startStr = boardStr;
+            startStr = manualCond ? boardStr.replace("VG", manualCond) : boardStr;
         }
         if (startStr?.length) {
+            debugLog("StartStr: ", startStr);
             conds.push(startStr);
         }
 
@@ -633,19 +645,65 @@ function parseCond() {
             for (const condition of Object.keys(condMap)) {
                 const foundCond = argv.conditions.find(cond => cond.str === condition);
                 if (foundCond) {
-                    if (foundCond.loc && modularCond[foundCond.str]) {
+                    const condStr = condMap[foundCond.str];
+                    const match = condStr.match(/${(.*)}/);
+                    debugLog("Match: ", match);
+                    if (typeof foundCond?.loc === "string" && !foundCond.loc.length) {
+                        // This should trigger if there's a condition with a `:` (cond:)
+                        // TODO This should pull up an askQ to let us choose a location
+                        // Also, error/ complain like below if there's no spot for a location on that one
+                        debugLog("Found cond, but no matchLen", match, foundCond);
+                        const condKeys = Object.keys(condLocs);
+                        const condLocArr  = condKeys.map(k => condLocs[k]);
+                        const res = await askQuestionV2({
+                            question: `You did not include a location for \`${condMap[foundCond.str]}\`, please choose one of the following:`,
+                            answerList: condLocArr,
+                            other: true
+                        });
+
+                        debugLog("Looking for cond, res: ", condLocs[condKeys[res]]);
+
+                        if (!otherVals.includes(res)) {
+                            foundCond.loc = condLocs[condKeys[res]];
+                        } else {
+                            // Didn't want one of those, so let's get a custom one
+                            foundCond.loc = await askQuestion({
+                                query: "What do you want to use for the condition's location?"
+                            });
+                        }
+                    }
+                    if (foundCond.loc) {
+                        debugLog("Have foundCond.loc: ", foundCond);
+                        if (!match) {
+                            // TODO This should spit out a message telling us that there's no spot for the location string specified.
+                            // Maybe query asking for a custom full string to replace it with?
+                            console.log("Missing condition loc");
+                            // continue;
+                        }
+
                         let thisLoc = condLocs[foundCond.loc];
                         if (!thisLoc) {
                             thisLoc = foundCond.loc;
                         }
-                        conds.push(modularCond[foundCond.str].replace("^", thisLoc));
+                        debugLog("thisLoc: ", thisLoc);
+                        conds.push(condStr
+                            // Replace the placeholder with the specified location
+                            .replace(/\${(.*)}/, thisLoc)
+                            // Use any "in" / "on" strings that're given
+                            .replace(/\{(.*)\}/, "$1"));
                     } else {
-                        conds.push(condMap[condition]);
+                        // Just replace any location stuff with the given default chunk
+                        conds.push(condStr
+                            // Use the placeholder, if any
+                            .replace(/\${(.*)}/, "$1")
+                            // Get rid of any extra strings
+                            .replace(/\{.*\}/, ""));
                     }
                 }
             }
         }
         conds.push(endStr);
+        debugLog("CondsOut: ", conds);
 
         // See how many of the condition strings can fit into the fields
         let maxFirst = false; // If it needs to go into the 2nd, don't keep putting stuff into the first
@@ -1397,7 +1455,7 @@ async function getFromAuthMap(auth, titleIn) {
     debugLog(`[getFromAuthMap] AuthIn: ${auth}, TitleIn: ${titleIn}`);
     // Quick little function to get the most recent x titles from the bookLog file to use in the keyword slots
     const fromMap = bookLog.filter(b => b.authors.some(a => a.name.toLowerCase() === auth.toLowerCase()));
-    debugLog("[getFromAuthMap] FromMap: ", fromMap);
+    // debugLog("[getFromAuthMap] FromMap: ", fromMap);
 
     titleIn = titleIn.toLowerCase();
 
@@ -1662,6 +1720,7 @@ async function getBoards() {
         other: true,
         cancel: true
     });
+
     if (boardTypes[boardRes]) {
         return boardStr.replace("X", boardTypes[boardRes]);
     } else if (otherVals.includes(boardRes)) {
