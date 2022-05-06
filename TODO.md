@@ -10,6 +10,8 @@
 
 - If there's no subtitle, check against other subtitles from a given author, and see if I want to use one
 
+- Clean up the index file, split a bunch of the complicated bits into their own functions instead of just one massive one
+
 
 ## New Fields
 

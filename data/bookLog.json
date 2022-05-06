@@ -80956,5 +80956,126 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781629729299",
+        "title": "Love and Lavender",
+        "subtitle": "A Mayfield Family Romance",
+        "authors": [
+            {
+                "name": "Josi S. Kilpack"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2021",
+        "pages": 311,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Shadow Mountain"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Salt Lake City, Ut."
+            }
+        ]
+    },
+    {
+        "isbn": "9781414311647",
+        "title": "Twelfth Imam",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joel C. Rosenberg"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 490,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780670015788",
+        "title": "Spirit of Steamboat",
+        "subtitle": "A Walt Longmire Story",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 146,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316069410",
+        "title": "Drop",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 388,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
