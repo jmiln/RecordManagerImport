@@ -251,7 +251,8 @@ async function init() {
             debugLog("GlobalKWLen: ", globalKWLen);
             if (globalKWLen < 5) {
                 let kwTitles = await getFromAuthMap(authArr[0], rawTitle);
-                if ((!kwTitles?.length || (5 - kwTitles.length - globalKWLen) > 0) && authUrl) {
+                debugLog(`kwTitles: ${kwTitles}, globalKWLen: ${globalKWLen}, authUrl: ${authUrl}`);
+                if ((!kwTitles?.length || (5 - (kwTitles?.length ? kwTitles.length : 0) - globalKWLen) > 0) && authUrl) {
                     // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
                     // Or, if it found some, but needs more, go ahead and check too
                     kwTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authArr[0]), authUrl: authUrl});
