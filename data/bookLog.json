@@ -4752,27 +4752,6 @@
         ]
     },
     {
-        "isbn": "9780062966292",
-        "title": "Dutch House",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Ann Patchett"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Harper / Harper-collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780345527394",
         "title": "Chain Of Thunder",
         "subtitle": "A Novel Of The Siege Of Vicksburg",
@@ -38656,33 +38635,6 @@
         ]
     },
     {
-        "isbn": "9781250205759",
-        "title": "Beyond A Reasonable Stout",
-        "subtitle": "A Sloan Krause Mystery",
-        "authors": [
-            {
-                "name": "Ellie Alexander"
-            }
-        ],
-        "publish_date": "2019",
-        "pages": 280,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780618711659",
         "title": "Extremely Loud And Incredibly Close",
         "subtitle": "A Novel",
@@ -45764,37 +45716,6 @@
         "publish_places": [
             {
                 "name": "Chapel Hill, Nc."
-            }
-        ]
-    },
-    {
-        "isbn": "9781250108654",
-        "title": "Pint Of No Return",
-        "subtitle": "A Mystery",
-        "authors": [
-            {
-                "name": "Ellie Alexander"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2018",
-        "pages": 296,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -60533,37 +60454,6 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250066213",
-        "title": "Better Man",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Louise Penny"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2019",
-        "pages": 437,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
             }
         ],
         "publish_places": [
@@ -82108,6 +81998,226 @@
         "publish_places": [
             {
                 "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062966292",
+        "title": "Dutch House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 337,
+        "price": 16.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250205759",
+        "title": "Beyond a Reasonable Stout",
+        "subtitle": "A Sloan Krause Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 280,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250108654",
+        "title": "Pint of No Return",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 296,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399179228",
+        "title": "Look Alive Twenty-Five",
+        "subtitle": "A Stephanie Plum Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 311,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066213",
+        "title": "Better Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 437,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250081896",
+        "title": "Kangaroo Too",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Curtis C. Chen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 308,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250078384",
+        "title": "Supernova",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marissa Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi",
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 552,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Feiwel & Friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

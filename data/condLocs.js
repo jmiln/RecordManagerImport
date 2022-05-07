@@ -23,10 +23,10 @@ module.exports.condMap = {
     remm: "Remainder Mark.",
 
     // Edgewear
-    few:   "Faint Edgewear.",
-    lew:   "Light Edgewear.",
-    lewo:  "Lightly Edgeworn.",
-    lewod: "Lightly Edgeworn.",
+    few:   "Faint Edgewear{ to }${}.",
+    lew:   "Light Edgewear{ to }${}.",
+    lewo:  "${}{ }Lightly Edgeworn.",
+    lewod: "${}{ }Lightly Edgeworn.",
 
     // Movie/ tv tie-in covers
     mti: "Movie tie-in cover.",
