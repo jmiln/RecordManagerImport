@@ -12,6 +12,8 @@
 
 - Clean up the index file, split a bunch of the complicated bits into their own functions instead of just one massive one
 
+- Add in a qty flag in case there end up being multiple copies of something
+
 
 ## New Fields
 

@@ -250,12 +250,22 @@ async function init() {
             // If there are spaces that can be filled up in the keywords, check the booklog for more titiles by the author to fill in with
             debugLog("GlobalKWLen: ", globalKWLen);
             if (globalKWLen < 5) {
-                let kwTitles = await getFromAuthMap(authArr[0], rawTitle);
-                debugLog(`kwTitles: ${kwTitles}, globalKWLen: ${globalKWLen}, authUrl: ${authUrl}`);
-                if ((!kwTitles?.length || (5 - (kwTitles?.length ? kwTitles.length : 0) - globalKWLen) > 0) && authUrl) {
+                // This should return `{titles: [], authUrl: ""}`, with those both filled up
+                let {titles: kwTitles, url} = await getFromAuthMap(authArr[0], rawTitle);
+                if (!authUrl) {
+                    // Only use the stored url if there's nothing provided
+                    authUrl = url;
+                }
+                debugLog(`kwTitles: ${inspect(kwTitles)}, globalKWLen: ${globalKWLen}, authUrl: ${authUrl}`);
+                if ((!kwTitles?.length || (5 - (kwTitles?.length ? kwTitles.length : 0) - globalKWLen) > 0) && authUrl?.length) {
                     // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
                     // Or, if it found some, but needs more, go ahead and check too
-                    kwTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authArr[0]), authUrl: authUrl});
+                    const openLibTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authArr[0]), authUrl: authUrl});
+                    debugLog("Out from getOpenLibTitles: ", openLibTitles);
+                    if (openLibTitles?.length) {
+                        // Just add to the list, don't reset/ overwrite it
+                        kwTitles.push(...openLibTitles);
+                    }
                 }
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
@@ -373,7 +383,16 @@ async function init() {
             isbn: isbn,
             title: toProperCase(rawTitle),
             subtitle: subtitle ? toProperCase(subtitle.replace(/^\s*[-:]/, "").trim()) : "",
-            authors: authOut.map(auth => { return {name: auth}; }),
+            authors: authOut.map((auth, ix) => {
+                if (ix > 0) {
+                    return {name: auth};
+                } else {
+                    return {
+                        name: auth,
+                        url: jsonOut.authors[0]?.url ? jsonOut.authors[0].url : null
+                    };
+                }
+            }),
             keywords: globalKWs,
             publish_date: date?.toString(),
             pages: argv.pages ? argv.pages : "unpaginated",
@@ -1457,6 +1476,8 @@ async function getFromAuthMap(auth, titleIn) {
     const fromMap = bookLog.filter(b => b.authors.some(a => a.name.toLowerCase() === auth.toLowerCase()));
     // debugLog("[getFromAuthMap] FromMap: ", fromMap);
 
+    let authUrl = null;
+
     titleIn = titleIn.toLowerCase();
 
     const titleFilter  = (book) => !book.title.toLowerCase().includes(titleIn) && !titleIn.includes(book.title.toLowerCase());
@@ -1481,17 +1502,20 @@ async function getFromAuthMap(auth, titleIn) {
             debugLog("[getFromAuthMap] Found from authMap: ", authFromMap);
             titles.push(...authFromMap.titles
                 .map(title => title.toLowerCase())
-                .filter(title => title !== titleIn.toLowerCase())
+                .filter(title => title !== titleIn)
             );
+            if (authFromMap.url) {
+                authUrl = authFromMap.url;
+            }
         }
     }
 
     // Use a Set to remove any duplicate titles from the list
     const noDupTitles = [...new Set(titles)];
-    if (!noDupTitles?.length) return null;
-
-    // Return only as many as we can fit in there
-    return noDupTitles.slice(0, 5-globalKWLen);
+    return {
+        titles: noDupTitles.length ? noDupTitles.slice(0, 5-globalKWLen) : [],
+        url: authUrl
+    };
 }
 
 // Function to grab the newset titles from an author's page if the link was provided
@@ -1532,6 +1556,9 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
         authMap[authName] = {};
     }
     authMap[authName].titles = noDupTitles.map(t => cleanString(toProperCase(t)));
+    if (!authMap[authName]?.url) {
+        authMap[authName].url = authUrl;
+    }
     await saveAuths(JSON.stringify(authMap, null, 4));
 
     return noDupTitles;
@@ -1693,8 +1720,8 @@ async function checkPseudonyms(nameIn) {
     if (typeof nameIn !== "string") return new Error("[checkPseudonyms] Input must be a string.");
 
     for (const authArr of pseudonyms) {
-        debugLog("[checkPseudonyms] Checking auths: ", authArr);
         if (authArr.map(au => au.toLowerCase()).includes(nameIn.toLowerCase())) {
+            debugLog("[checkPseudonyms] Checking auths: ", authArr);
             const qAnswer = await askQuestionV2({
                 question: "This author writes under multiple names. Which one is used here?",
                 answerList: authArr
