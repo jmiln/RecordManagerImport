@@ -273,7 +273,8 @@
     {
         "name": [
             "Bloomsbury",
-            "Bloomsbury Children's Books"
+            "Bloomsbury Children's Books",
+            "Bloomsbury Publishing"
         ],
         "aliases": [
             "Bloomsbury"
@@ -3278,6 +3279,14 @@
         ],
         "locations": [
             "Mt. Laurel, Nj."
+        ]
+    },
+    {
+        "name": [
+            "Four Walls Eight Windows"
+        ],
+        "locations": [
+            "New York"
         ]
     }
 ]

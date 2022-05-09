@@ -815,5 +815,102 @@
         "titles": [
             "Waypoint Kangaroo"
         ]
+    },
+    "Madeline Miller": {
+        "url": "https://openlibrary.org/authors/OL1926056A/Madeline_Miller",
+        "titles": [
+            "Song of Achilles",
+            "Circe"
+        ]
+    },
+    "James Rollins": {
+        "titles": [
+            "Savage Zone",
+            "Unrestricted Access",
+            "Crucible",
+            "Demon Crown",
+            "Crucible Cd",
+            "Demon Crown Intl",
+            "Demon Crown Cd",
+            "Bone Labyrinth"
+        ],
+        "url": "https://openlibrary.org/authors/OL1392680A/James_Rollins"
+    },
+    "Jenny Lee": {
+        "titles": [
+            "Anna K Away",
+            "Material Alchemy",
+            "Elvis and Underdogs",
+            "What Wendell Wants",
+            "Skinny Bitching"
+        ],
+        "url": "https://openlibrary.org/authors/OL1401387A/Jenny_Lee"
+    },
+    "Marie Rutkoski": {
+        "titles": [
+            "Real Easy",
+            "Hollow Heart",
+            "El Beso Del Ganador",
+            "Zdrada",
+            "Winner's Kiss",
+            "Kronos Chronicles",
+            "Pojedynek",
+            "Winner's Crime",
+            "Winner's Curse",
+            "Shadow Society",
+            "Jewel of Kalderash ",
+            "Celestial Globe"
+        ],
+        "url": "https://openlibrary.org/authors/OL5110015A/Marie_Rutkoski"
+    },
+    "Amy Rose Capetta": {
+        "titles": [
+            "Lost Coast",
+            "Brilliant Death",
+            "Echo After Echo",
+            "Unmade",
+            "Entangled"
+        ],
+        "url": "https://openlibrary.org/authors/OL7414344A/Amy_Rose_Capetta"
+    },
+    "Cassie Beasley": {
+        "titles": [
+            "Tumble & Blue",
+            "Shen Qi Ma Xi Tu=",
+            "Circus Mirandus"
+        ],
+        "url": "https://openlibrary.org/authors/OL7281952A/Cassie_Beasley"
+    },
+    "Mildred D. Taylor": {
+        "titles": [
+            "Land",
+            "Song of Trees",
+            "Roll of Thunder",
+            "Mississippi Bridge",
+            "Well",
+            "Le Puits",
+            "Friendship"
+        ],
+        "url": "https://openlibrary.org/authors/OL28103A/Mildred_D._Taylor"
+    },
+    "Tara Sim": {
+        "titles": [
+            "Scavenge Stars"
+        ],
+        "url": "https://openlibrary.org/authors/OL7822209A/Tara_Sim"
+    },
+    "Adriana Mather": {
+        "titles": [
+            "Hunting November",
+            "Haunting Deep",
+            "How To Hang a Witch"
+        ],
+        "url": "https://openlibrary.org/authors/OL7504290A/Adriana_Mather"
+    },
+    "Mike Chen": {
+        "titles": [
+            "We Could Be Heroes"
+        ],
+        "url": "https://openlibrary.org/authors/OL2979997A/Mike_Chen"
     }
 }

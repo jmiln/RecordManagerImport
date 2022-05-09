@@ -2033,27 +2033,6 @@
         ]
     },
     {
-        "isbn": "9781101971383",
-        "title": "Starless Sea",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Erin Morgenstern"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780679745655",
         "title": "Breakfast at Tiffany's and three stories",
         "subtitle": "",
@@ -9425,27 +9404,6 @@
         "publishers": [
             {
                 "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250192035",
-        "title": "First Mistake",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Sandie Jones"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Minotaur Books"
             }
         ],
         "publish_places": [
@@ -25330,27 +25288,6 @@
         ]
     },
     {
-        "isbn": "1568582706",
-        "title": "Manchurian Candidate",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Richard Condon"
-            }
-        ],
-        "publish_date": "2003",
-        "publishers": [
-            {
-                "name": "Thunder's Mouth Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250252708",
         "title": "Razorblade Tears",
         "subtitle": "A Novel",
@@ -36662,32 +36599,6 @@
         ]
     },
     {
-        "isbn": "9780735215092",
-        "title": "Immortalists",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Chloe Benjamin"
-            }
-        ],
-        "publish_date": "2019",
-        "pages": 350,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780451216588",
         "title": "It Can't Happen Here",
         "subtitle": "",
@@ -47835,37 +47746,6 @@
         "publishers": [
             {
                 "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250209764",
-        "title": "American Dirt",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Jeanine Cummins"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": 380,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Flatiron Books"
             }
         ],
         "publish_places": [
@@ -61169,36 +61049,6 @@
         ]
     },
     {
-        "isbn": "9781594634741",
-        "title": "City Of Girls",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Elizabeth Gilbert"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": "470+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781728234304",
         "title": "Mystery Of Mrs. Christie",
         "subtitle": "",
@@ -61682,37 +61532,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780778311010",
-        "title": "Lost Apothecary",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Sarah Penner"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": "301+",
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Park Row Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -82218,6 +82037,728 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062671189",
+        "title": "Night Watchman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 451,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594487330",
+        "title": "Office of Historical Corrections",
+        "subtitle": "A Novella and Stories",
+        "authors": [
+            {
+                "name": "Danielle Evans"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 269,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250209764",
+        "title": "American Dirt",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jeanine Cummins"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 386,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311010",
+        "title": "Lost Apothecary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Penner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "301+",
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735215092",
+        "title": "Immortalists",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chloe Benjamin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 350,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594634741",
+        "title": "City of Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Gilbert"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "470+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593342503",
+        "title": "Searcher",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 562,
+        "price": 15.5,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781328588784",
+        "title": "Auntie Poldi and the Sicilian Lions",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mario Giordano"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 332,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250192035",
+        "title": "First Mistake",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandie Jones"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 305,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1568582706",
+        "title": "Manchurian Candidate",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Condon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 311,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Four Walls Eight Windows"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062892898",
+        "title": "Last Odyssey",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Rollins"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi",
+            "thr"
+        ],
+        "publish_date": "2020",
+        "pages": 437,
+        "price": 18.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250236432",
+        "title": "Anna K",
+        "subtitle": "A Love Story",
+        "authors": [
+            {
+                "name": "Jenny Lee"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 382,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374306380",
+        "title": "Midnight Lie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marie Rutkoski"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 358,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Farrar, Straus and Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316449298",
+        "title": "Sword In the Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Rose Capetta"
+            },
+            {
+                "name": "Cori Mccarthy",
+                "url": "https://openlibrary.org/authors/OL7414344A/Amy_Rose_Capetta"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 354,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525552635",
+        "title": "Bootlace Magician",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cassie Beasley"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 409,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399257308",
+        "title": "All the Days Past, All the Days To Come",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mildred D. Taylor"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 483,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316310420",
+        "title": "Queen of Nothing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Holly Black"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 308,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781368051415",
+        "title": "Scavenge the Stars",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tara Sim"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": "327+",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion / Disney"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062561626",
+        "title": "Be Not Far From Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mindy Mcginnis"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 231,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525579113",
+        "title": "Killing November",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adriana Mather"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": "406+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101971383",
+        "title": "Starless Sea",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Erin Morgenstern"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 574,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635574043",
+        "title": "Crescent City : House of Earth and Blood",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 803,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778309345",
+        "title": " a Beginning At the End",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mike Chen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 390,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
             }
         ]
     }
