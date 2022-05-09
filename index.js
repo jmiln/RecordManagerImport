@@ -116,17 +116,17 @@ async function init() {
 
     argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
     debugLog("Conditions: ", argv.conditions);
-    if (argv.conditions.includes("bc")) {
-        argv.bc = true;     // Book Club
-    }
-    if (argv.conditions.includes("lp")) {
-        argv.lp = true;     // Large Print
-    }
-    if (argv.conditions.includes("fr")) {
-        argv.french = true; // French Wraps
+    const extraArgs = { bc: "bc", lp: "lp", fr: "french" };
+    for (const arg of Object.keys(extraArgs)) {
+        if (argv.conditions.includes(arg)) {
+            debugLog(`Removing "${arg}" from conditions / settings it's own flag`);
+            argv[extraArgs[arg]] = true;     // Book Club
+            argv.conditions.splice(argv.conditions.indexOf(arg), 1);
+        }
     }
 
     let jsonOut = null;
+
     // If it's a hardcover book with no DJ, this will ask about special boards and such as needed.
     if (argv.hc && !argv.dj) {
         // Check if the X should be swapped out
@@ -1473,7 +1473,8 @@ async function saveAndRun(infoArr) {
 async function getFromAuthMap(auth, titleIn) {
     debugLog(`[getFromAuthMap] AuthIn: ${auth}, TitleIn: ${titleIn}`);
     // Quick little function to get the most recent x titles from the bookLog file to use in the keyword slots
-    const fromMap = bookLog.filter(b => b.authors.some(a => a.name.toLowerCase() === auth.toLowerCase()));
+    auth = auth.toLowerCase();
+    const fromMap = bookLog.filter(b => b.authors.some(a => a.name.toLowerCase() === auth));
     // debugLog("[getFromAuthMap] FromMap: ", fromMap);
 
     let authUrl = null;
@@ -1496,7 +1497,7 @@ async function getFromAuthMap(auth, titleIn) {
     // If there are no titles found from the bookLog, resort to checking from authMap
     if (globalKWLen < 5) {
         debugLog("[getFromAuthMap] No titles from BookLog, grabbing from authMap");
-        const authMapIndex = Object.keys(authMap).find(au => au.toLowerCase() === auth.toLowerCase());
+        const authMapIndex = Object.keys(authMap).find(au => au.toLowerCase() === auth);
         const authFromMap = authMap[authMapIndex];
         if (authFromMap?.titles) {
             debugLog("[getFromAuthMap] Found from authMap: ", authFromMap);
@@ -1681,11 +1682,6 @@ function debugLog(text, other) {
         }
     }
 }
-
-// Return an array filled with consecutive numbers starting at 0
-// function arrRange(length) {
-//     return [...Array(length).keys()];
-// }
 
 // Return the given array, but with no duplicates
 // Based on one of the comments from this post: https://stackoverflow.com/a/36744732
