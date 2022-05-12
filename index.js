@@ -267,6 +267,7 @@ async function init() {
                         kwTitles.push(...openLibTitles);
                     }
                 }
+                kwTitles = [...new Set(kwTitles.map(t => toProperCase(t)))];
                 debugLog("KW titles to fill with: ", kwTitles);
                 if (kwTitles?.length) {
                     const kwTitleMap = kwTitles.map(t => toProperCase(t));
@@ -387,10 +388,13 @@ async function init() {
                 if (ix > 0) {
                     return {name: auth};
                 } else {
-                    return {
+                    const authOut = {
                         name: auth,
-                        url: jsonOut.authors[0]?.url ? jsonOut.authors[0].url : null
                     };
+                    if (jsonOut.authors[0]?.url) {
+                        authOut.url = jsonOut.authors[0].url;
+                    }
+                    return authOut;
                 }
             }),
             keywords: globalKWs,
@@ -1513,10 +1517,13 @@ async function getFromAuthMap(auth, titleIn) {
 
     // Use a Set to remove any duplicate titles from the list
     const noDupTitles = [...new Set(titles)];
-    return {
+    const titleOut = {
         titles: noDupTitles.length ? noDupTitles.slice(0, 5-globalKWLen) : [],
-        url: authUrl
     };
+    if (authUrl) {
+        titleOut.url = authUrl;
+    }
+    return titleOut;
 }
 
 // Function to grab the newset titles from an author's page if the link was provided
