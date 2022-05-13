@@ -7081,27 +7081,6 @@
         ]
     },
     {
-        "isbn": "9780316126113",
-        "title": "Diviners",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Libba Bray"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780307291172",
         "title": "Stephen Hawking Time And Universe",
         "subtitle": "",
@@ -8030,27 +8009,6 @@
         "publishers": [
             {
                 "name": "Forge/tom Doherty Associates"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780143119685",
-        "title": "Discovery Of Witches",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Deborah E. Harkness"
-            }
-        ],
-        "publish_date": "2011",
-        "publishers": [
-            {
-                "name": "Penguin Books"
             }
         ],
         "publish_places": [
@@ -11151,27 +11109,6 @@
             }
         ],
         "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780061990649",
-        "title": "Sound Of Broken Glass",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Deborah Crombie"
-            }
-        ],
-        "publish_date": "2014",
         "publishers": [
             {
                 "name": "William Morrow"
@@ -15930,7 +15867,7 @@
         "publish_date": "2018",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -16292,48 +16229,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780547577401",
-        "title": "Janus Stone",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Elly Griffiths"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Mariner/houghton Mifflin Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Boston"
-            }
-        ]
-    },
-    {
-        "isbn": "9780547386065",
-        "title": "Crossing Places",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Elly Griffiths"
-            }
-        ],
-        "publish_date": "2010",
-        "publishers": [
-            {
-                "name": "Mariner/houghton Mifflin Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Boston"
             }
         ]
     },
@@ -17201,7 +17096,7 @@
         "publish_date": "2007",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -18954,7 +18849,7 @@
         "publish_date": "2019",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -19017,7 +18912,7 @@
         "publish_date": "2021",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -19377,7 +19272,7 @@
         "publish_date": "2018",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -19641,7 +19536,7 @@
         "publish_date": "2020",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -20430,8 +20325,8 @@
     },
     {
         "isbn": "9781439165195",
-        "title": "Whisperers A Charlie Parker Thriller",
-        "subtitle": "",
+        "title": "Whisperers",
+        "subtitle": "A Charlie Parker Thriller",
         "authors": [
             {
                 "name": "John Connolly"
@@ -21202,27 +21097,6 @@
         "publish_places": [
             {
                 "name": "London"
-            }
-        ]
-    },
-    {
-        "isbn": "9780735216730",
-        "title": "Deacon King Kong",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "James Mcbride"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -22460,7 +22334,7 @@
         "publish_date": "2021",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -22701,7 +22575,7 @@
         "publish_date": "2019",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -22954,27 +22828,6 @@
         "publishers": [
             {
                 "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780143121701",
-        "title": "Invention Of Wings",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Sue Monk Kidd"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Penguin Books"
             }
         ],
         "publish_places": [
@@ -23845,7 +23698,7 @@
         "publish_date": "2020",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -23869,7 +23722,7 @@
         "publish_date": "2019",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -23935,7 +23788,7 @@
         "publish_date": "2019",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -24669,7 +24522,7 @@
         "publish_date": "2015",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -28054,7 +27907,7 @@
         "publish_date": "1997",
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -33034,7 +32887,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -33167,7 +33020,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -33563,32 +33416,6 @@
         "publishers": [
             {
                 "name": "Katherine Tegen Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781982137458",
-        "title": "In Five Years",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Rebecca Serle"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 255,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
             }
         ],
         "publish_places": [
@@ -36290,7 +36117,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -36723,7 +36550,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -45752,36 +45579,6 @@
         ]
     },
     {
-        "isbn": "9781538733721",
-        "title": "Night Fire",
-        "subtitle": "A Renee Ballard And Harry Bosch Novel",
-        "authors": [
-            {
-                "name": "Michael Connelly"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2020",
-        "pages": 438,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781464211232",
         "title": "Molten Mud Murder",
         "subtitle": "An Alexa Glock Mystery",
@@ -46105,36 +45902,6 @@
         "publishers": [
             {
                 "name": "Forever Books / Hachette"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593200162",
-        "title": "Wisteria Society Of Lady Scoundrels",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "India Holton"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 324,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Jove / Berkley"
             }
         ],
         "publish_places": [
@@ -47447,7 +47214,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -47835,36 +47602,6 @@
         "publishers": [
             {
                 "name": "Back Bay/little, Brown & Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781524798710",
-        "title": "Story Of Arthur Truluv",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Elizabeth Berg"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2018",
-        "pages": 253,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Random House"
             }
         ],
         "publish_places": [
@@ -50384,37 +50121,6 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593331729",
-        "title": "Criminal Mischief",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Stuart Woods"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 307,
-        "price": 16.8,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
             }
         ],
         "publish_places": [
@@ -55367,7 +55073,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -56266,37 +55972,6 @@
         "publishers": [
             {
                 "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316485647",
-        "title": "Dark Hours",
-        "subtitle": "A Renee Ballard And Harry Bosch Novel",
-        "authors": [
-            {
-                "name": "Michael Connelly"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 391,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [
@@ -58657,7 +58332,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -59403,7 +59078,7 @@
         "bc": true,
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -61495,7 +61170,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -63204,7 +62879,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -64420,7 +64095,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -66569,7 +66244,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -67155,7 +66830,7 @@
     {
         "isbn": "9780399170850",
         "title": "Robert B. Parker's Slow Burn",
-        "subtitle": "",
+        "subtitle": "A Spenser Novel",
         "authors": [
             {
                 "name": "Ace Atkins"
@@ -67953,7 +67628,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -68077,7 +67752,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -71490,8 +71165,8 @@
     },
     {
         "isbn": "0345427653",
-        "title": "Star Wars",
-        "subtitle": "Episode I, The Phantom Menace",
+        "title": "Phantom Menace",
+        "subtitle": "Star Wars - Episode I",
         "authors": [
             {
                 "name": "Terry Brooks"
@@ -74207,7 +73882,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -76153,6 +75828,9 @@
         "authors": [
             {
                 "name": "Rita Mae Brown"
+            },
+            {
+                "name": "Sneaky Pie Brown"
             }
         ],
         "keywords": [
@@ -76602,7 +76280,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -80959,7 +80637,7 @@
         ],
         "publishers": [
             {
-                "name": "Borzi / Alfred A. Knopf"
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -82758,6 +82436,2141 @@
         "publish_places": [
             {
                 "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538733721",
+        "title": "Night Fire",
+        "subtitle": "A Renee Ballard and Harry Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 438,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781402282270",
+        "title": "Absolute Honour",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "C. C. Humphreys",
+                "url": "https://openlibrary.org/authors/OL7026579A/C._C._Humphreys"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi",
+            "hfi"
+        ],
+        "publish_date": "2014",
+        "pages": 308,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781101985380",
+        "title": "Final Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Riley Sager",
+                "url": "https://openlibrary.org/authors/OL7526249A/Riley_Sager"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 342,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061990649",
+        "title": "Sound of Broken Glass",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah Crombie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 359,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781617755781",
+        "title": "Killing for Christ",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Pete Hamill",
+                "url": "https://openlibrary.org/authors/OL4764186A/Pete_Hamill"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 272,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Akashic Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781846555220",
+        "title": "Phantom",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jo Nesbo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 452,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvil Secker/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781612941752",
+        "title": "Find Me When I'm Lost",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cheryl A. Head",
+                "url": "https://openlibrary.org/authors/OL7612452A/Cheryl_A._Head"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 224,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bywater Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ann Arbor, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781948235587",
+        "title": "Unrepentant",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E.a. Aymar",
+                "url": "https://openlibrary.org/authors/OL8026376A/E.A._Aymar"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 310,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Down & Out Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Lutz, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250788207",
+        "title": "Return of the Pharaoh",
+        "subtitle": "From the Reminiscences of John H. Watson, M.d.",
+        "authors": [
+            {
+                "name": "Nicholas Meyer",
+                "url": "https://openlibrary.org/authors/OL6788758A/Nicholas_Meyer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 262,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316485647",
+        "title": "Dark Hours",
+        "subtitle": "A Renee Ballard and Harry Bosch Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 391,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250622068",
+        "title": "Dark Heart of Florence",
+        "subtitle": "A Lady Emily Mystery",
+        "authors": [
+            {
+                "name": "Tasha Alexander",
+                "url": "https://openlibrary.org/authors/OL7636519A/Tasha_Alexander"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 311,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802159021",
+        "title": "1979",
+        "subtitle": "An Allie Burns Novel",
+        "authors": [
+            {
+                "name": "Val Mcdermid",
+                "url": "https://openlibrary.org/authors/OL7274255A/Val_McDermid"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 418,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802158659",
+        "title": "Old Enemy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Henry Porter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 403,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643136202",
+        "title": "Mercenary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Paul Vidich",
+                "url": "https://openlibrary.org/authors/OL7607064A/Paul_Vidich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 274,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781770415959",
+        "title": "Stung",
+        "subtitle": "An Arthur Beauchamp Novel",
+        "authors": [
+            {
+                "name": "William Deverell",
+                "url": "https://openlibrary.org/authors/OL4777195A/William_Deverell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 592,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ecw Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593331729",
+        "title": "Criminal Mischief",
+        "subtitle": "A Stone Barrington Novel",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 307,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250145239",
+        "title": "All the Devils Are Here",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Penny",
+                "url": "https://openlibrary.org/authors/OL2829357A/Louise_Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 439,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781608094097",
+        "title": "Beyond the Headlines",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "R. G. Belsky",
+                "url": "https://openlibrary.org/authors/OL8246610A/R._G._Belsky"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 356,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Oceanview Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sarasota, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780525536857",
+        "title": "Robert B. Parker's Someone To Watch Over Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ace Atkins",
+                "url": "https://openlibrary.org/authors/OL225281A/Ace_Atkins"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 306,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593130063",
+        "title": "Out of Hounds",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rita Mae Brown",
+                "url": "https://openlibrary.org/authors/OL9054348A/Rita_Mae_Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 286,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143121701",
+        "title": "Invention of Wings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sue Monk Kidd"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 373,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735216730",
+        "title": "Deacon King Kong",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Mcbride"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 370,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743273565",
+        "title": "Great Gatsby",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "F. Scott Fitzgerald",
+                "url": "https://openlibrary.org/authors/OL27349A/Francis_Scott_Key_Fitzgerald"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 180,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311973",
+        "title": "Lost Apothecary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Penner",
+                "url": "https://openlibrary.org/authors/OL8374201A/Sarah_Penner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 316,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982137458",
+        "title": "In Five Years",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rebecca Serle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 255,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250832917",
+        "title": "Jack",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marilynne Robinson",
+                "url": "https://openlibrary.org/authors/OL224519A/Marilynne_Robinson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2021",
+        "pages": 309,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062358219",
+        "title": "Last Romantics",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tara Conklin",
+                "url": "https://openlibrary.org/authors/OL7159431A/Tara_Conklin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 354,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679744023",
+        "title": "By the Lake",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Mcgahern",
+                "url": "https://openlibrary.org/authors/OL688478A/John_McGahern"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 336,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524798710",
+        "title": "Story of Arthur Truluv",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Berg"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 253,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316592550",
+        "title": "Memoirs of Stockholm Sven",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nathaniel Ian Miller",
+                "url": "https://openlibrary.org/authors/OL9174377A/Nathaniel_Ian_Miller"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 325,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593087275",
+        "title": "Memorial",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Bryan Washington",
+                "url": "https://openlibrary.org/authors/OL7637442A/Bryan_Washington"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 303,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316126113",
+        "title": "Diviners",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Libba Bray"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 578,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345396545",
+        "title": "Ilse Witch",
+        "subtitle": "The Voyage of the Jerle Shannara, Book One",
+        "authors": [
+            {
+                "name": "Terry Brooks",
+                "url": "https://openlibrary.org/authors/OL4356457A/Terry_Brooks"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2000",
+        "pages": 454,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Ballantine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524761349",
+        "title": "Ready Player Two",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ernest Cline",
+                "url": "https://openlibrary.org/authors/OL6941868A/Ernest_Cline"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 366,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062978585",
+        "title": "Hench",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Natalie Zina Walschots",
+                "url": "https://openlibrary.org/authors/OL8013548A/Natalie_Zina_Walschots"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": "403+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538751480",
+        "title": "Wild Seed",
+        "subtitle": "A Patternist Novel",
+        "authors": [
+            {
+                "name": "Octavia E. Butler",
+                "url": "https://openlibrary.org/authors/OL30802A/Octavia_E._Butler"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 307,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143119685",
+        "title": "Discovery of Witches",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Deborah E. Harkness"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 579,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143105039",
+        "title": "Frankenstein Or Modern Prometheus",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Wollstonecraft Shelley",
+                "url": "https://openlibrary.org/authors/OL25342A/Mary_Wollstonecraft_Shelley"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2007",
+        "pages": 272,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250306432",
+        "title": "Burn the Dark",
+        "subtitle": "Malus Domestica #1",
+        "authors": [
+            {
+                "name": "S. A. Hunt",
+                "url": "https://openlibrary.org/authors/OL7903810A/S._A._Hunt"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2020",
+        "pages": 384,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538731338",
+        "title": "Imaginary Friend",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Chbosky",
+                "url": "https://openlibrary.org/authors/OL76675A/Stephen_Chbosky"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2019",
+        "pages": 705,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982104313",
+        "title": "Someone Like You",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Kingsbury",
+                "url": "https://openlibrary.org/authors/OL32066A/Karen_Kingsbury"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2020",
+        "pages": 295,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525659341",
+        "title": "Early Morning Riser",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Katherine Heiny",
+                "url": "https://openlibrary.org/authors/OL7598805A/Katherine_Heiny"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 317,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593200162",
+        "title": "Wisteria Society of Lady Scoundrels",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "India Holton"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 324,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Jove / Berkley"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464206696",
+        "title": "Cheltenham Square Murder",
+        "subtitle": "A British Library Crime Classics Novel",
+        "authors": [
+            {
+                "name": "John Bude",
+                "url": "https://openlibrary.org/authors/OL2299133A/John_Bude"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 246,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593310755",
+        "title": "Fortune Favors the Dead",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen Spotswood",
+                "url": "https://openlibrary.org/authors/OL8301822A/Stephen_Spotswood"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 336,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062400260",
+        "title": "Friend of the Devil",
+        "subtitle": "An Inspector Banks Novel",
+        "authors": [
+            {
+                "name": "Peter Robinson",
+                "url": "https://openlibrary.org/authors/OL807687A/Robinson_Peter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 372,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781947696006",
+        "title": "Russian Assassin",
+        "subtitle": "A Max Austin Thriller, Book #1",
+        "authors": [
+            {
+                "name": "Jack Arbor",
+                "url": "https://openlibrary.org/authors/OL8106737A/Jack_Arbor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 344,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "High Caliber Books"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312385392",
+        "title": "Skull Mantra",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Eliot Pattison",
+                "url": "https://openlibrary.org/authors/OL23880A/Eliot_Pattison"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 403,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316454483",
+        "title": "House of Kennedy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson",
+                "url": "https://openlibrary.org/authors/OL6812710A/James_Patterson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 421,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538747223",
+        "title": "Old Bones",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lincoln Child",
+                "url": "https://openlibrary.org/authors/OL1392769A/Lincoln_Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 369,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719725",
+        "title": "Mercy",
+        "subtitle": "An Atlee Pine Thriller",
+        "authors": [
+            {
+                "name": "David Baldacci",
+                "url": "https://openlibrary.org/authors/OL28165A/David_Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 404,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525656715",
+        "title": "V2",
+        "subtitle": "A Novel of World War Ii",
+        "authors": [
+            {
+                "name": "Robert Harris",
+                "url": "https://openlibrary.org/authors/OL834541A/Robert_Harris"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 312,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385547680",
+        "title": "Sooley",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Grisham",
+                "url": "https://openlibrary.org/authors/OL39329A/John_Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 355,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250182395",
+        "title": "Ancient Nine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ian K. Smith",
+                "url": "https://openlibrary.org/authors/OL1393010A/Ian_Smith"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 416,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643135847",
+        "title": "Heather and Homicide",
+        "subtitle": "The Highland Bookshop Mystery Series, Book 4",
+        "authors": [
+            {
+                "name": "Molly Macrae",
+                "url": "https://openlibrary.org/authors/OL3124330A/Molly_MacRae"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 277,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062473271",
+        "title": "Andromeda Evolution",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniel H. Wilson",
+                "url": "https://openlibrary.org/authors/OL1426968A/Daniel_H._Wilson"
+            },
+            {
+                "name": "Michael Crichton",
+                "contribution": "based on the series by"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 266,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060890681",
+        "title": "Last Anniversary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Liane Moriarty",
+                "url": "https://openlibrary.org/authors/OL1436339A/Liane_Moriarty"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 388,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781509889709",
+        "title": "Heron's Cry",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ann Cleeves",
+                "url": "https://openlibrary.org/authors/OL8605811A/Ann_Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 381,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pan Books / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250204455",
+        "title": "Long Call",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ann Cleeves",
+                "url": "https://openlibrary.org/authors/OL338750A/Ann_Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 387,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547577401",
+        "title": "Janus Stone",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 327,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547386065",
+        "title": "Crossing Places",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": "303+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780544227804",
+        "title": "Dying Fall",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths",
+                "url": "https://openlibrary.org/authors/OL6605313A/Elly_Griffiths"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 392,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834966",
+        "title": "Order",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva",
+                "url": "https://openlibrary.org/authors/OL217659A/Daniel_Silva"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 412,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062397676",
+        "title": "Recipes for Love and Murder",
+        "subtitle": "A Tannie Maria Mystery",
+        "authors": [
+            {
+                "name": "Sally Andrew",
+                "url": "https://openlibrary.org/authors/OL3776631A/Sally_Andrew"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 419,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593191224",
+        "title": "Saboteurs",
+        "subtitle": "An Isaac Bell Adventure",
+        "authors": [
+            {
+                "name": "Clive Cussler",
+                "url": "https://openlibrary.org/authors/OL29079A/Clive_Cussler"
+            },
+            {
+                "name": "Jack Du Brul"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 385,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399592300",
+        "title": "Under Occupation",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst",
+                "url": "https://openlibrary.org/authors/OL227962A/Alan_Furst"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 206,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501190629",
+        "title": "Lethal Agent",
+        "subtitle": "A Mitch Rapp Novel",
+        "authors": [
+            {
+                "name": "Kyle Mills"
+            },
+            {
+                "name": "Vince Flynn",
+                "url": "https://openlibrary.org/authors/OL41149A/Vince_Flynn",
+                "contribution": "Based on the series by"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 370,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834843",
+        "title": "Order",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva",
+                "url": "https://openlibrary.org/authors/OL217659A/Daniel_Silva"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 444,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

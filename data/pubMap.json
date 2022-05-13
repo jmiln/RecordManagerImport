@@ -33,7 +33,7 @@
     {
         "name": [
             "Alfred A. Knopf",
-            "Borzi / Alfred A. Knopf"
+            "Borzoi / Alfred A. Knopf"
         ],
         "aliases": [
             "Alfred A. Knopf"
@@ -3287,6 +3287,38 @@
         ],
         "locations": [
             "New York"
+        ]
+    },
+    {
+        "name": [
+            "Harvil Secker/ Random House"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Bywater Books"
+        ],
+        "locations": [
+            "Ann Arbor, Mi."
+        ]
+    },
+    {
+        "name": [
+            "Borzoi Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Pan Books / Macmillan"
+        ],
+        "locations": [
+            "London"
         ]
     }
 ]

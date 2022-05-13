@@ -103,7 +103,7 @@
             "Tell Me Lies"
         ]
     },
-    "J.s. James": {
+    "J.S. James": {
         "titles": [
             "River Run"
         ]
@@ -126,7 +126,6 @@
     },
     "Heather Webber": {
         "titles": [
-            "Désespérément",
             "Root of All Trouble",
             "Trouble Under Tree",
             "Truly, Madly",
@@ -142,7 +141,6 @@
     "Sherry Jones": {
         "titles": [
             "Sharp Hook of Love",
-            "Aisha Y Al",
             "Jewel of Medina",
             "Revelations",
             "Guidance In Montana",
@@ -185,7 +183,6 @@
             "Laplace",
             "Escocia",
             "Tenerife",
-            "Nuevo Sueña 2",
             "Trade Wind",
             "Zanzibar",
             "Enchanted Evening",
@@ -241,14 +238,11 @@
             "Last Apache Girl",
             "Wild Girl",
             "Sporting Road",
-            "Hunter Road",
-            "Hunter's Road",
             "Wild Girl "
         ]
     },
     "Gerard Way": {
         "titles": [
-            "Suite Apocaliptica",
             "Doom Patrol"
         ]
     },
@@ -257,7 +251,6 @@
             "Because of You",
             "Me. You. a Diary",
             "Oh Dear Silvia",
-            "Untitled 2",
             "Tiny Bit Marvellous",
             "Dear Fatty",
             "Frigid Women",
@@ -310,7 +303,6 @@
             "Into Glades",
             "Ember Queen",
             "Lady Smoke",
-            "Kul Prensesi",
             "Ash Princess",
             "Happily Ever After?"
         ]
@@ -360,11 +352,6 @@
             "Point Omega",
             "Libra",
             "Underworld"
-        ]
-    },
-    "Thomas Hardy": {
-        "titles": [
-            "Laodicean"
         ]
     },
     "Ernest Hemingway": {
@@ -420,7 +407,6 @@
             "Honest Lie",
             "F*ck Marriage",
             "Wives",
-            "I Cbe a Better You",
             "Bad Mommy",
             "F*ck Love",
             "Marrow",
@@ -443,7 +429,6 @@
     },
     "Burt Solomon": {
         "titles": [
-            "Fdr V. Constitution",
             "Packing Court",
             "Washington Century",
             "Where They Ain't",
@@ -487,10 +472,7 @@
     "Anne Rice": {
         "titles": [
             "Blood Communion",
-            "Prueba Del aNgel",
             "Young Messiah",
-            "El Principe Lestat",
-            "Lobos Del Invierno",
             "Beauty's Kingdom",
             "Wolves of Midwinter"
         ]
@@ -516,21 +498,16 @@
     },
     "Martha Hall Kelly": {
         "titles": [
-            "Rosyjskie Roze",
             "Lost Roses",
             "Lilac Girls"
         ]
     },
     "W. Somerset Maugham": {
         "titles": [
-            "La Carta",
             "Skeptical Romancer",
-            "El Velo Pintado",
             "Narrow Corner",
             "Writer's Notebook",
             "Explorer",
-            "Der Magier",
-            "Dao Feng",
             "Moon and Sixpence"
         ]
     },
@@ -545,7 +522,6 @@
         "titles": [
             "Gravel Heart",
             "Desertion",
-            "En La Orilla",
             "By Sea",
             "Admiring Silence",
             "Paradise",
@@ -626,15 +602,8 @@
     "Raymond Chandler": {
         "titles": [
             "Annotated Big Sleep",
-            "Minasoko No Onna",
-            "El Sueno Eterno",
-            "Todos Los Cuentos",
             "Long Good-Bye",
-            "Todo Marlowe",
             "Playback",
-            "Rongu Guddobai =",
-            "Wysokie Okno",
-            "La Ventana Alta",
             "All That Glitters"
         ]
     },
@@ -651,9 +620,7 @@
             "Enemy Inside",
             "Trader of Secrets",
             "Rule of Nine",
-            "Guardiof Lies ",
             "Guardiof Lies",
-            "Shadow of Power ",
             "Shadow of Power",
             "Shadow of Power Lp"
         ]
@@ -699,7 +666,6 @@
             "Beirut Protocol",
             "Enemies and Allies",
             "Jerusalem Assassin",
-            "Persigamble",
             "Kremlin Conspiracy",
             "Without Warning"
         ]
@@ -776,7 +742,6 @@
             "Robogenesis",
             "Earth 2",
             "Robots",
-            "Robogenesis",
             "Amped"
         ]
     },
@@ -829,9 +794,6 @@
             "Unrestricted Access",
             "Crucible",
             "Demon Crown",
-            "Crucible Cd",
-            "Demon Crown Intl",
-            "Demon Crown Cd",
             "Bone Labyrinth"
         ],
         "url": "https://openlibrary.org/authors/OL1392680A/James_Rollins"
@@ -850,11 +812,8 @@
         "titles": [
             "Real Easy",
             "Hollow Heart",
-            "El Beso Del Ganador",
-            "Zdrada",
             "Winner's Kiss",
             "Kronos Chronicles",
-            "Pojedynek",
             "Winner's Crime",
             "Winner's Curse",
             "Shadow Society",
@@ -876,19 +835,17 @@
     "Cassie Beasley": {
         "titles": [
             "Tumble & Blue",
-            "Shen Qi Ma Xi Tu=",
             "Circus Mirandus"
         ],
         "url": "https://openlibrary.org/authors/OL7281952A/Cassie_Beasley"
     },
     "Mildred D. Taylor": {
         "titles": [
-            "Land",
             "Song of Trees",
             "Roll of Thunder",
             "Mississippi Bridge",
+            "Land",
             "Well",
-            "Le Puits",
             "Friendship"
         ],
         "url": "https://openlibrary.org/authors/OL28103A/Mildred_D._Taylor"
@@ -912,5 +869,277 @@
             "We Could Be Heroes"
         ],
         "url": "https://openlibrary.org/authors/OL2979997A/Mike_Chen"
+    },
+    "C. C. Humphreys": {
+        "titles": [
+            "Shakespeare's Rebel",
+            "Hunt of Unicorn",
+            "Jack Absolute",
+            "Blood Ties",
+            "French Executioner",
+            "Vlad",
+            "Fire",
+            "Plague"
+        ],
+        "url": "https://openlibrary.org/authors/OL7026579A/C._C._Humphreys"
+    },
+    "Riley Sager": {
+        "titles": [
+            "House Across Lake",
+            "Survive Night",
+            "Home Before Dark",
+            "Lock Every Door",
+            "Last Time I Lied"
+        ],
+        "url": "https://openlibrary.org/authors/OL7526249A/Riley_Sager"
+    },
+    "Pete Hamill": {
+        "titles": [
+            "Christmas Kid",
+            "Embodied Leadership",
+            "Forever",
+            "Tabloid City",
+            "North River",
+            "Snow In August"
+        ],
+        "url": "https://openlibrary.org/authors/OL4764186A/Pete_Hamill"
+    },
+    "Tasha Alexander": {
+        "titles": [
+            "Upon Midnight Clear",
+            "Uneasy Lies Crown",
+            "Amid Winter's Snow",
+            "That Silent Night",
+            "Counterfeit Heiress",
+            "Star of East",
+            "Lady Emily Omnibus",
+            "Crimson Warning",
+            "Dangerous To Know"
+        ],
+        "url": "https://openlibrary.org/authors/OL7636519A/Tasha_Alexander"
+    },
+    "Paul Vidich": {
+        "titles": [
+            "Matchmaker",
+            "Coldest Warrior",
+            "Good Assassin",
+            "Honorable Man"
+        ],
+        "url": "https://openlibrary.org/authors/OL7607064A/Paul_Vidich"
+    },
+    "William Deverell": {
+        "titles": [
+            "Kathy Fiscus",
+            "Kill All Judges",
+            "Whipped",
+            "April Fool",
+            "Sing a Worried Song",
+            "Snow Job",
+            "Street Legal",
+            "Platinum Blues",
+            "Trial of Passion"
+        ],
+        "url": "https://openlibrary.org/authors/OL4777195A/William_Deverell"
+    },
+    "R. G. Belsky": {
+        "titles": [
+            "It's News To Me",
+            "Beyond Headlines",
+            "Last Scoop",
+            "Shooting for Stars"
+        ],
+        "url": "https://openlibrary.org/authors/OL8246610A/R._G._Belsky"
+    },
+    "Ace Atkins": {
+        "titles": [
+            "Heathens",
+            "Revelators",
+            "Sinners",
+            "Shameless",
+            "Crossroad Blues"
+        ],
+        "url": "https://openlibrary.org/authors/OL225281A/Ace_Atkins"
+    },
+    "Francis Scott Key Fitzgerald": {
+        "format": "Fitzgerald, F. Scott",
+        "titles": [
+            "Tender is the night",
+            "Great Gatsby",
+            "Taps at Reveille",
+            "Bits of Paradise",
+            "Pat Hobby Stories",
+            "This Side of Paradise"
+        ],
+        "url": "https://openlibrary.org/authors/OL27349A/Francis_Scott_Key_Fitzgerald"
+    },
+    "Tara Conklin": {
+        "titles": [
+            "Community Board",
+            "House Girl"
+        ],
+        "url": "https://openlibrary.org/authors/OL7159431A/Tara_Conklin"
+    },
+    "John Mcgahern": {
+        "titles": [
+            "Love of World",
+            "All Will Be Well",
+            "Creatures of Earth",
+            "Threebies",
+            "Barracks"
+        ],
+        "url": "https://openlibrary.org/authors/OL688478A/John_McGahern"
+    },
+    "Bryan Washington": {
+        "titles": [
+            "Lot"
+        ],
+        "url": "https://openlibrary.org/authors/OL7637442A/Bryan_Washington"
+    },
+    "Terry Brooks": {
+        "titles": [
+            "Small Magic",
+            "Child of Light",
+            "Last Druid",
+            "Stiehl Assassin",
+            "Street Freaks",
+            "Skaar Invasion",
+            "Skaar Invasion C",
+            "Black Elfstone"
+        ],
+        "url": "https://openlibrary.org/authors/OL4356457A/Terry_Brooks"
+    },
+    "Ernest Cline": {
+        "titles": [
+            "Armada",
+            "Jogador Nº1",
+            "Ready Player One",
+            "Baslat",
+            "Ultramis Airwolf"
+        ],
+        "url": "https://openlibrary.org/authors/OL6941868A/Ernest_Cline"
+    },
+    "Octavia E. Butler": {
+        "titles": [
+            "Dawn",
+            "Seed To Harvest",
+            "Mind of My Mind",
+            "Bloodchild"
+        ],
+        "url": "https://openlibrary.org/authors/OL30802A/Octavia_E._Butler"
+    },
+    "Mary Wollstonecraft Shelley": {
+        "titles": [
+            "Falkner Annotated",
+            "Mathilda",
+            "Last Millustrated",
+            "Falkner "
+        ],
+        "url": "https://openlibrary.org/authors/OL25342A/Mary_Wollstonecraft_Shelley"
+    },
+    "S. A. Hunt": {
+        "titles": [
+            "Burn Dark",
+            "Hellion",
+            "I Come With Knives"
+        ],
+        "url": "https://openlibrary.org/authors/OL7903810A/S._A._Hunt"
+    },
+    "Stephen Chbosky": {
+        "titles": [
+            "L'ami Imaginaire",
+            "Imiginary Friend",
+            "Pieces"
+        ],
+        "url": "https://openlibrary.org/authors/OL76675A/Stephen_Chbosky"
+    },
+    "Katherine Heiny": {
+        "titles": [
+            "Standard Deviation"
+        ],
+        "url": "https://openlibrary.org/authors/OL7598805A/Katherine_Heiny"
+    },
+    "John Bude": {
+        "titles": [
+            "Death On Riviera",
+            "Sussex Downs Murder",
+            "Twist of the Rope",
+            "Trouble a-Brewing"
+        ],
+        "url": "https://openlibrary.org/authors/OL2299133A/John_Bude"
+    },
+    "Stephen Spotswood": {
+        "titles": [
+            "Fortune Favors Dead"
+        ],
+        "url": "https://openlibrary.org/authors/OL8301822A/Stephen_Spotswood"
+    },
+    "Robinson, Peter": {
+        "titles": [
+            "Not Dark Yet",
+            "Flying Blind",
+            "Personal Art",
+            "Poetry and Money",
+            "Innocent Graves"
+        ],
+        "url": "https://openlibrary.org/authors/OL807687A/Robinson_Peter"
+    },
+    "Jack Arbor": {
+        "titles": [
+            "Pursuit"
+        ],
+        "url": "https://openlibrary.org/authors/OL8106737A/Jack_Arbor"
+    },
+    "Eliot Pattison": {
+        "titles": [
+            "King's Beast",
+            "Bones of Earth",
+            "Savage Liberty",
+            "Skeleton God",
+            "Blood of Oak",
+            "Soul of Fire",
+            "Original Death",
+            "Beautiful Ghosts",
+            "Mandarin Gate",
+            "Ashes of Earth"
+        ],
+        "url": "https://openlibrary.org/authors/OL23880A/Eliot_Pattison"
+    },
+    "Robert Harris": {
+        "titles": [
+            "Vender a Hitler",
+            "Second Sleep",
+            "Dictator",
+            "Conclave",
+            "Officer and a Spy",
+            "Fatherland",
+            "Fear Index",
+            "Sand Animals"
+        ],
+        "url": "https://openlibrary.org/authors/OL834541A/Robert_Harris"
+    },
+    "Ian Smith": {
+        "titles": [
+            "Blackbird Papers"
+        ],
+        "url": "https://openlibrary.org/authors/OL1393010A/Ian_Smith"
+    },
+    "Molly Macrae": {
+        "titles": [
+            "Thistle and Thieves",
+            "Crewel and Unusual",
+            "Knot Usual Suspects",
+            "Plagued By Quilt",
+            "My Troubles",
+            "Dyeing Wishes",
+            "Lawn Order",
+            "Wilder Rumors"
+        ],
+        "url": "https://openlibrary.org/authors/OL3124330A/Molly_MacRae"
+    },
+    "Sally Andrew": {
+        "titles": [
+            "Satanic Mechanic"
+        ],
+        "url": "https://openlibrary.org/authors/OL3776631A/Sally_Andrew"
     }
 }

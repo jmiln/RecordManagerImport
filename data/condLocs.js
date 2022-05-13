@@ -70,6 +70,7 @@ module.exports.condMap = {
 
     fsta: "Faint Stain to ${page edges}.",
     lsta: "Light Stain to ${page edges}.",
+    tsta: "Tiny Stain to ${page edges}.",
 
     // SoilIng To Boards
     fsoib: "Faint Soiling to boards.",
@@ -83,13 +84,13 @@ module.exports.condMap = {
     fewbd: "Faint Edgewear to Boards & DJ.",
     lewbd: "Light Edgewear to Boards & DJ.",
 
-    // PB Wraps creased
+    // Creases
     cr:   "${} creased.",
     cre:  "${} creased.",
     crea: "${} creased.",
     fwcr: "Front Wrap Creased.",
-    rwcr: "Rear Wrap Creased.",
     fpcr: "Front Page Creased.",
+    rwcr: "Rear Wrap Creased.",
     rpcr: "Rear Page Creased.",
 
     // Tears
