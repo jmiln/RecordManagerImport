@@ -669,8 +669,8 @@ async function parseCond() {
                 const foundCond = argv.conditions.find(cond => cond.str === condition);
                 if (foundCond) {
                     const condStr = condMap[foundCond.str];
-                    const match = condStr.match(/${(.*)}/);
-                    debugLog("Match: ", match);
+                    const match = condStr.match(/\${(.*)}/);
+                    debugLog("CondStr: " + condStr + ", Match: ", match);
                     if (typeof foundCond?.loc === "string" && !foundCond.loc.length) {
                         // This should trigger if there's a condition with a `:` (cond:)
                         // TODO This should pull up an askQ to let us choose a location
@@ -700,7 +700,7 @@ async function parseCond() {
                         if (!match) {
                             // TODO This should spit out a message telling us that there's no spot for the location string specified.
                             // Maybe query asking for a custom full string to replace it with?
-                            console.log("Missing condition loc");
+                            console.log("Missing condition loc for " + inspect(foundCond));
                             // continue;
                         }
 
@@ -1554,7 +1554,7 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
         .filter(titleFilter)
         .filter(lengthFilter)
         .filter(commaFilter)
-        .map(bookTitle => bookTitle.toLowerCase());
+        .map(bookTitle => bookTitle.toLowerCase().trim());
 
     const noDupTitles = [...new Set(filteredTitleList)];
     if (!noDupTitles?.length) return null;
