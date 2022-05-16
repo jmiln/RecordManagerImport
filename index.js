@@ -229,7 +229,8 @@ async function init() {
 
                 const thisAuthOut = {name: auth};
                 if (foundAuth?.url && ix === 0) {
-                    thisAuthOut.url = foundAuth.url;
+                    // If there's a different auth url that we should be using, grab that for later
+                    authUrl = foundAuth.url;
                 }
                 authOut.push(thisAuthOut);
 
