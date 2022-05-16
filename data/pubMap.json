@@ -3320,5 +3320,61 @@
         "locations": [
             "London"
         ]
+    },
+    {
+        "name": [
+            "Dey Street Books"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Andrews Mcmeel Publishing"
+        ],
+        "locations": [
+            "Kansas City, Mo."
+        ]
+    },
+    {
+        "name": [
+            "David R. Godine"
+        ],
+        "locations": [
+            "Boston"
+        ]
+    },
+    {
+        "name": [
+            "Apress"
+        ],
+        "locations": [
+            "Berkeley, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Manning Publications"
+        ],
+        "locations": [
+            "Shelter Island, Ny."
+        ]
+    },
+    {
+        "name": [
+            "O'reilly Media, Inc."
+        ],
+        "locations": [
+            "Sebastopol, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Yen Press"
+        ],
+        "locations": [
+            "New York"
+        ]
     }
 ]

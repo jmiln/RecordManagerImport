@@ -7,6 +7,7 @@ module.exports = {
     cfi: "Crime Fiction",
     civ: "American Civil War",
     com: "Comics",
+    cmp: "Computers",
     coo: "Cooking",
     dnd: "Dungeons & Dragons",
     env: "Environment",

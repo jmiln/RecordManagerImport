@@ -12056,7 +12056,7 @@
     },
     {
         "isbn": "9781338263893",
-        "title": "Fantastic Beasts: The Crimes Of Grindelwald",
+        "title": "Fantastic Beasts, The Crimes Of Grindelwald",
         "subtitle": "The Original Screenplay",
         "authors": [
             {
@@ -32142,33 +32142,6 @@
         "publish_places": [
             {
                 "name": "Chapel Hill, Nc."
-            }
-        ]
-    },
-    {
-        "isbn": "9781250204028",
-        "title": "Migrations",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Charlotte Mcconaghy"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 256,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Flatiron Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -78132,36 +78105,6 @@
         ]
     },
     {
-        "isbn": "9781439102770",
-        "title": "Storyteller",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jodi Picoult"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2013",
-        "pages": 460,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Emily Bestler Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316175661",
         "title": "Snow Child",
         "subtitle": "A Novel",
@@ -84571,6 +84514,1549 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399162428",
+        "title": "Infinite Sea",
+        "subtitle": "The Second Book of the 5th Wave",
+        "authors": [
+            {
+                "name": "Rick Yancey",
+                "url": "https://openlibrary.org/authors/OL2822940A/Rick_Yancey"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 300,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399162435",
+        "title": "Last Star",
+        "subtitle": "The Final Book of the 5th Wave",
+        "authors": [
+            {
+                "name": "Rick Yancey",
+                "url": "https://openlibrary.org/authors/OL2822940A/Rick_Yancey"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 338,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142414934",
+        "title": "Paper Towns",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Green",
+                "url": "https://openlibrary.org/authors/OL5046634A/John_Green"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": "305+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Speak / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481466516",
+        "title": "Strange Case of the Alchemist's Daughter",
+        "subtitle": "The Extraordinary Adventures of the Athena Club, Book 1",
+        "authors": [
+            {
+                "name": "Theodora Goss",
+                "url": "https://openlibrary.org/authors/OL2827545A/Theodora_Goss"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2018",
+        "pages": "402+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Saga Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062268358",
+        "title": "Yes Please",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Poehler",
+                "url": "https://openlibrary.org/authors/OL8117705A/Amy_Poehler"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2015",
+        "pages": 329,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dey Street Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781449484835",
+        "title": "Neon Soul",
+        "subtitle": "A Collection of Poetry & Prose",
+        "authors": [
+            {
+                "name": "Alexandra Elle",
+                "url": "https://openlibrary.org/authors/OL8097195A/Alexandra_Elle"
+            }
+        ],
+        "keywords": [
+            "poe"
+        ],
+        "publish_date": "2017",
+        "pages": 158,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Andrews Mcmeel Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Kansas City, Mo."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316018593",
+        "title": "Barefoot",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand",
+                "url": "https://openlibrary.org/authors/OL1394974A/Elin_Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": "406+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780199536375",
+        "title": "Karamazov Brothers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fyodor Mikhailovich Dostoevsky",
+                "url": "https://openlibrary.org/authors/OL22242A/Fyodor_Mikhailovich_Dostoevsky"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": "1012+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Oxford University Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1567922481",
+        "title": "Collected Stories of Benedict Kiely",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Benedict Kiely",
+                "url": "https://openlibrary.org/authors/OL127137A/Kiely_Benedict."
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": "762+",
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "David R. Godine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250006219",
+        "title": "Memoirs of an Imaginary Friend",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Matthew Dicks",
+                "url": "https://openlibrary.org/authors/OL5181937A/Matthew_Dicks"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 314,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764203206",
+        "title": "That Certain Spark",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cathy Marie Hake",
+                "url": "https://openlibrary.org/authors/OL1423275A/Cathy_Marie_Hake"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2009",
+        "pages": 348,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0764227726",
+        "title": "Hope Within",
+        "subtitle": "Heirs of Montana, Book 4",
+        "authors": [
+            {
+                "name": "Tracie Peterson",
+                "url": "https://openlibrary.org/authors/OL18777A/Tracie_Peterson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2005",
+        "pages": 398,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0764227718",
+        "title": "To Dream Anew",
+        "subtitle": "Heirs of Montana, Book 3",
+        "authors": [
+            {
+                "name": "Tracie Peterson",
+                "url": "https://openlibrary.org/authors/OL18777A/Tracie_Peterson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2004",
+        "pages": 398,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "076422770X",
+        "title": "Coming Storm",
+        "subtitle": "Heirs of Montana, Book 2",
+        "authors": [
+            {
+                "name": "Tracie Peterson",
+                "url": "https://openlibrary.org/authors/OL18777A/Tracie_Peterson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2004",
+        "pages": 398,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764232527",
+        "title": "Ever Constant",
+        "subtitle": "The Treasures Of Nome, Book 3",
+        "authors": [
+            {
+                "name": "Tracie Peterson",
+                "url": "https://openlibrary.org/authors/OL18777A/Tracie_Peterson"
+            },
+            {
+                "name": "Kimberley Woodhouse"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2022",
+        "pages": 348,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764210624",
+        "title": "Refining Fire",
+        "subtitle": "Brides of Seattle, Book Two",
+        "authors": [
+            {
+                "name": "Tracie Peterson",
+                "url": "https://openlibrary.org/authors/OL18777A/Tracie_Peterson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2015",
+        "pages": 312,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764210631",
+        "title": "Love Everlasting",
+        "subtitle": "Brides of Seattle, Book Three",
+        "authors": [
+            {
+                "name": "Tracie Peterson",
+                "url": "https://openlibrary.org/authors/OL18777A/Tracie_Peterson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2015",
+        "pages": 317,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764210617",
+        "title": "Steadfast Heart",
+        "subtitle": "Brides of Seattle, Book One",
+        "authors": [
+            {
+                "name": "Tracie Peterson",
+                "url": "https://openlibrary.org/authors/OL18777A/Tracie_Peterson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2015",
+        "pages": 329,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781734348064",
+        "title": "Chasing Jack",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Parnell Hall",
+                "url": "https://openlibrary.org/authors/OL28529A/Parnell_Hall"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 313,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Brash Books, Llc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Leawood, Ks."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316419482",
+        "title": "Witch's Kind",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louisa Morgan"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 468,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439102770",
+        "title": "Storyteller",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 460,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101872765",
+        "title": "Angle of Repose",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wallace Stegner",
+                "url": "https://openlibrary.org/authors/OL29961A/Wallace_Stegner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2014",
+        "pages": 632,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250204028",
+        "title": "Migrations",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Charlotte Mcconaghy"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 256,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553063014",
+        "title": "Passin Through",
+        "subtitle": "The Louis Lamour Collection",
+        "authors": [
+            {
+                "name": "Louis L'amour",
+                "url": "https://openlibrary.org/authors/OL19482A/Louis_L'Amour"
+            }
+        ],
+        "keywords": [
+            "wes",
+            "hfi"
+        ],
+        "pages": 166,
+        "price": 8,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316206846",
+        "title": "Cuckoo's Calling",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Galbraith",
+                "url": "https://openlibrary.org/authors/OL10012002A/Robert_Galbraith"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 455,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399169458",
+        "title": "Robert B. Parker's Blind Spot",
+        "subtitle": "A Jesse Stone Novel",
+        "authors": [
+            {
+                "name": "Reed Farrel Coleman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 339,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451491091",
+        "title": "Six Cats a Slayin'",
+        "subtitle": "A Cat In the Stacks Mystery",
+        "authors": [
+            {
+                "name": "Miranda James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 294,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062979858",
+        "title": "Shed No Tears",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Caz Frear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 359,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399169465",
+        "title": "Robert B. Parker's the Devil Wins",
+        "subtitle": "A Jesse Stone Novel",
+        "authors": [
+            {
+                "name": "Reed Farrel Coleman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 342,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399171437",
+        "title": "Robert B. Parker's Debt To Pay",
+        "subtitle": "A Jesse Stone Novel",
+        "authors": [
+            {
+                "name": "Reed Farrel Coleman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 338,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780373788507",
+        "title": "Marry Me At Christmas",
+        "subtitle": "A Fool's Gold Romance",
+        "authors": [
+            {
+                "name": "Susan Mallery"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 330,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harlequin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "0758211376",
+        "title": "Get a Clue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jill Shalvis"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 314,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Brava / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062448149",
+        "title": "Rainy Day Friends",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jill Shalvis"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 358,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062877925",
+        "title": "Marriage Clock",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Zara Raheem"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 337,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525823534",
+        "title": "Object of Your Affections",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Falguni Kothari"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 359,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250205360",
+        "title": "Whisper Network",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chandler Baker"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 345,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496707482",
+        "title": "Unconditional Freedom",
+        "subtitle": "A Novel Of The Civil War",
+        "authors": [
+            {
+                "name": "Alyssa Cole"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 270,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496707468",
+        "title": "Hope Divided",
+        "subtitle": "A Novel Of The Civil War",
+        "authors": [
+            {
+                "name": "Alyssa Cole"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2017",
+        "pages": 266,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1590593561",
+        "title": "Dive Into Python",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mark Pilgrim"
+            }
+        ],
+        "keywords": [
+            "com"
+        ],
+        "publish_date": "2004",
+        "pages": 413,
+        "price": 21,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Apress"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781633430075",
+        "title": "Go In Practice: Includes 70 Techniques",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Matt Butcher"
+            },
+            {
+                "name": "Matt Farina"
+            }
+        ],
+        "keywords": [
+            "com"
+        ],
+        "publish_date": "2016",
+        "pages": 287,
+        "price": 23.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Manning Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Shelter Island, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781449326333",
+        "title": "Postgresql",
+        "subtitle": "Up and Running - a Practical Guide To the Advanceed Open Source Database",
+        "authors": [
+            {
+                "name": "Regina Obe"
+            }
+        ],
+        "keywords": [
+            "com"
+        ],
+        "publish_date": "2012",
+        "pages": 147,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "O'reilly Media, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sebastopol, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316200981",
+        "title": "Infernal Devices",
+        "subtitle": "Clockwork Angel",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            },
+            {
+                "name": "Hyekyung Baek",
+                "contribution": "art by"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2012",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Yen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401271398",
+        "title": "Lucifer",
+        "subtitle": "Blood In the Streets",
+        "authors": [
+            {
+                "name": "Richard Kadrey"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2017",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401242602",
+        "title": "Lucifer, Book Two",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mike Carey"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2013",
+        "pages": "408+",
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401265410",
+        "title": "Lucifer",
+        "subtitle": "Father Lucifer",
+        "authors": [
+            {
+                "name": "Holly Black"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2017",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401261931",
+        "title": "Lucifer",
+        "subtitle": "Cold Heaven",
+        "authors": [
+            {
+                "name": "Holly Black"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2016",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401249458",
+        "title": "Lucifer, Book Five",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mike Carey"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2014",
+        "pages": "342+",
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401246051",
+        "title": "Lucifer, Book Four",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mike Carey"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2014",
+        "pages": "383+",
+        "price": 18.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401246044",
+        "title": "Lucifer, Book Three",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mike Carey"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2014",
+        "pages": 400,
+        "price": 18.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401240264",
+        "title": "Lucifer, Book One",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mike Carey"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2013",
+        "pages": 382,
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
             }
         ]
     }

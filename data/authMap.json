@@ -1141,5 +1141,248 @@
             "Satanic Mechanic"
         ],
         "url": "https://openlibrary.org/authors/OL3776631A/Sally_Andrew"
+    },
+    "Rick Yancey": {
+        "titles": [
+            "5th Wave",
+            "Last Star",
+            "Isle of Blood",
+            "Curse of Wendigo",
+            "Isle of Blood",
+            "Terror Beneath",
+            "Burning In Homeland"
+        ],
+        "url": "https://openlibrary.org/authors/OL2822940A/Rick_Yancey"
+    },
+    "Richard Yancey": {
+        "titles": [
+            "5th Wave",
+            "Last Star",
+            "Isle of Blood",
+            "Curse of Wendigo",
+            "Isle of Blood",
+            "Terror Beneath",
+            "Burning In Homeland"
+        ],
+        "url": "https://openlibrary.org/authors/OL1426790A/Richard_Yancey"
+    },
+    "Theodora Goss": {
+        "titles": [
+            "Medusa's Daughters"
+        ],
+        "url": "https://openlibrary.org/authors/OL2827545A/Theodora_Goss"
+    },
+    "Alexandra Elle": {
+        "titles": [
+            "How We Heal",
+            "In Courage Journal",
+            "After Rain",
+            "Today I Affirm"
+        ],
+        "url": "https://openlibrary.org/authors/OL8097195A/Alexandra_Elle"
+    },
+    "Fyodor Mikhailovich Dostoevsky": {
+        "titles": [
+            "Brothers Karamazov",
+            "Idiot",
+            "House of Dead"
+        ],
+        "url": "https://openlibrary.org/authors/OL22242A/Fyodor_Mikhailovich_Dostoevsky"
+    },
+    "Kiely, Benedict.": {
+        "titles": [
+            "Images of Dublin",
+            "Waves Behind Us",
+            "Letter To Peachtree",
+            "God's Own Country",
+            "Drink To Bird",
+            "Yeats' Ireland",
+            "Ireland From Air"
+        ],
+        "url": "https://openlibrary.org/authors/OL127137A/Kiely_Benedict."
+    },
+    "Matthew Dicks": {
+        "titles": [
+            "Someday is Today",
+            "Other Mother",
+            "Storyworthy",
+            "Something Missing"
+        ],
+        "url": "https://openlibrary.org/authors/OL5181937A/Matthew_Dicks"
+    },
+    "Cathy Marie Hake": {
+        "titles": [
+            "Serendipity",
+            "Mixed Blessings",
+            "Love Worth Finding",
+            "Love is Patient",
+            "Bridal Veil",
+            "No Buttons Or Beaux",
+            "Handful of Flowers",
+            "Virginia Brides",
+            "Alaska Brides",
+            "Whirlwind"
+        ],
+        "url": "https://openlibrary.org/authors/OL1423275A/Cathy_Marie_Hake"
+    },
+    "Parnell Hall": {
+        "titles": [
+            "Purloined Puzzle",
+            "Presumed Puzzled",
+            "Puzzled Indemnity",
+            "Fool for a Client",
+            "Nypd Puzzle"
+        ],
+        "url": "https://openlibrary.org/authors/OL28529A/Parnell_Hall"
+    },
+    "Wallace Stegner": {
+        "titles": [
+            "Discovery!",
+            "Crossing To Safety",
+            "Stealing Glances",
+            "Genesis"
+        ],
+        "url": "https://openlibrary.org/authors/OL29961A/Wallace_Stegner"
+    },
+    "Louis L'amour": {
+        "titles": [
+            "Man Called Trent",
+            "Desert Death-Song",
+            "Rider of Lost Creek",
+            "Riding for Brand",
+            "Strong Land",
+            "Glory Riders",
+            "Jubal Sackett",
+            "Lawless West",
+            "Dutchman's Flat",
+            "West of Tularosa",
+            "Shalako"
+        ],
+        "url": "https://openlibrary.org/authors/OL19482A/Louis_L'Amour"
+    },
+    "J. K. Rowling": {
+        "url": "https://openlibrary.org/authors/OL23919A/J._K._Rowling"
+    },
+    "Robert Galbraith": {
+        "titles": [
+            "Cuckoo's Calling",
+            "Lethal White",
+            "Silkworm",
+            "Troubled Blood"
+        ],
+        "url": "https://openlibrary.org/authors/OL10012002A/Robert_Galbraith"
+    },
+    "Reed Farrel Coleman": {
+        "titles": [
+            "What You Break",
+            "Where It Hurts",
+            "Love and Fear",
+            "Boardwalk",
+            "Hollow Girl",
+            "Valentino Pier"
+        ],
+        "url": "https://openlibrary.org/authors/OL543333A/Reed_Farrel_Coleman"
+    },
+    "Miranda James": {
+        "titles": [
+            "Hiss Me Deadly",
+            "What Cat Dragged In",
+            "Pawful Truth",
+            "Cat Me if You Can",
+            "Careless Whiskers",
+            "Claws for Concern",
+            "Fixing To Die",
+            "Dead With Wind",
+            "No Cats Allowed",
+            "Digging Up Dirt",
+            "File M for Murder",
+            "Out of Circulation"
+        ],
+        "url": "https://openlibrary.org/authors/OL6860473A/Miranda_James"
+    },
+    "Caz Frear": {
+        "titles": [
+            "Stone Cold Heart",
+            "Sweet Little Lies"
+        ],
+        "url": "https://openlibrary.org/authors/OL7538754A/Caz_Frear"
+    },
+    "Falguni Kothari": {
+        "titles": [
+            "Starstruck",
+            "My Last Love Story",
+            "Bootie and Beast"
+        ],
+        "url": "https://openlibrary.org/authors/OL7530879A/Falguni_Kothari"
+    },
+    "Chandler Baker": {
+        "titles": [
+            "Husbands",
+            "This is Not End",
+            "Alive"
+        ],
+        "url": "https://openlibrary.org/authors/OL7504417A/Chandler_Baker"
+    },
+    "Alyssa Cole": {
+        "titles": [
+            "Can't Escape Love",
+            "Prince On Paper",
+            "Princess In Theory",
+            "Duke By Default",
+            "Hope Divided",
+            "Extraordinary Union"
+        ],
+        "url": "https://openlibrary.org/authors/OL7523583A/Alyssa_cole"
+    },
+    "Mark Pilgrim": {
+        "titles": [
+            "Html5",
+            "Greasemonkey Hacks"
+        ],
+        "url": "https://openlibrary.org/authors/OL1438224A/Mark_Pilgrim"
+    },
+    "Matt Butcher": {
+        "titles": [
+            "Mastering Openldap"
+        ],
+        "url": "https://openlibrary.org/authors/OL3091323A/Matt_Butcher"
+    },
+    "Regina Obe": {
+        "titles": [
+            "Postgis In Action"
+        ],
+        "url": "https://openlibrary.org/authors/OL7082760A/Regina_Obe"
+    },
+    "Hyekyung Baek": {
+        "titles": [
+            "Chiro Volume 4",
+            "Chiro Volume 3",
+            "Star Project",
+            "Chiro Volume 2",
+            "Bring It On!"
+        ],
+        "url": "https://openlibrary.org/authors/OL7133148A/HyeKyung_Baek"
+    },
+    "Richard Kadrey": {
+        "titles": [
+            "Unti Sandmslim #12",
+            "King Bullet",
+            "Grand Dark",
+            "Hollywood Dead",
+            "Kill Society",
+            "Wrong Dead Guy",
+            "Everything Box"
+        ],
+        "url": "https://openlibrary.org/authors/OL392326A/Richard_Kadrey"
+    },
+    "Mike Carey": {
+        "titles": [
+            "Darkness Visible",
+            "X-Men Origins",
+            "Pandora",
+            "Suicide Risk",
+            "Unwritten"
+        ],
+        "url": "https://openlibrary.org/authors/OL6774663A/Mike_Carey"
     }
 }
