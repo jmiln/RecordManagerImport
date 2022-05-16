@@ -227,12 +227,11 @@ async function init() {
                 const authMapIndex = Object.keys(authMap).find(au => au.toLowerCase() === auth.toLowerCase());
                 const foundAuth = authMap[authMapIndex];
 
-                const thisAuthOut = {name: auth};
                 if (foundAuth?.url && ix === 0) {
                     // If there's a different auth url that we should be using, grab that for later
                     authUrl = foundAuth.url;
                 }
-                authOut.push(thisAuthOut);
+                authOut.push(auth);
 
                 if (authStr?.length) {
                     // If there are already authors listed, go ahead and put in the separator
@@ -256,7 +255,7 @@ async function init() {
             debugLog("GlobalKWLen: ", globalKWLen);
             if (globalKWLen < 5) {
                 // This should return `{titles: [], authUrl: ""}`, with those both filled up
-                let {titles: kwTitles, url} = await getFromAuthMap(authOut[0].name, rawTitle);
+                let {titles: kwTitles, url} = await getFromAuthMap(authOut[0], rawTitle);
                 if (!authUrl) {
                     // Only use the stored url if there's nothing provided
                     authUrl = url;
@@ -388,7 +387,9 @@ async function init() {
             isbn: isbn,
             title: toProperCase(rawTitle),
             subtitle: subtitle ? toProperCase(subtitle.replace(/^\s*[-:]/, "").trim()) : "",
-            authors: authOut,
+            authors: authOut.map(au => {
+                return {name: toProperCase(au)};
+            }),
             keywords: globalKWs,
             publish_date: date?.toString(),
             pages: argv.pages ? argv.pages : "unpaginated",
