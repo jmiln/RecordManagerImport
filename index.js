@@ -201,6 +201,7 @@ async function init() {
         // TODO Figure out the contributions (edited by, illustrated by, etc)
         //      Not sure how this would be entered automatically, but would help out
         //      when putting a book in after the 1st time/ when it pulls from the bookLog
+        const authOut = [];
         if (jsonOut?.authors?.length) {
             let authStr = "";
 
@@ -214,30 +215,33 @@ async function init() {
                 auth.name = auth.name.normalize("NFD").replace(/ø/g, "o").replace(/[\u0300-\u036f]/g, "");
                 return auth.name.toLowerCase();
             }));
-            const authArr = [];
-            for (const auth of [...authSet]) {
-                if (isOldListing) {
-                    authArr.push(auth);
-                } else {
+            for (let [ix, auth] of [...authSet].entries()) {
+                if (!isOldListing) {
+                    // If it's not an older listing where we trust that the auth is correct, go ahead and check for other names for the author
                     const pseu = await checkPseudonyms(auth);
-                    if (!pseu) {
-                        authArr.push(auth);
-                    } else {
-                        authArr.push(pseu);
+                    if (pseu) {
+                        auth = pseu;
                     }
                 }
-            }
 
-            for (const auth of authArr) {
                 const authMapIndex = Object.keys(authMap).find(au => au.toLowerCase() === auth.toLowerCase());
                 const foundAuth = authMap[authMapIndex];
 
+                const thisAuthOut = {name: auth};
+                if (foundAuth?.url && ix === 0) {
+                    thisAuthOut.url = foundAuth.url;
+                }
+                authOut.push(thisAuthOut);
+
                 if (authStr?.length) {
+                    // If there are already authors listed, go ahead and put in the separator
                     authStr += "; ";
                 }
                 if (foundAuth?.format) {
+                    // In case there's a special format for the author, like jr. or some names where there's 2 parts of the last name
                     authStr += foundAuth.format;
                 } else {
+                    // Otherwise, split it up so it's `last, first` instead of `first last`
                     const name = auth.split(" ");
                     authStr += `${name[name.length-1]}, ${name.slice(0, name.length-1).join(" ")}`;
                 }
@@ -251,7 +255,7 @@ async function init() {
             debugLog("GlobalKWLen: ", globalKWLen);
             if (globalKWLen < 5) {
                 // This should return `{titles: [], authUrl: ""}`, with those both filled up
-                let {titles: kwTitles, url} = await getFromAuthMap(authArr[0], rawTitle);
+                let {titles: kwTitles, url} = await getFromAuthMap(authOut[0].name, rawTitle);
                 if (!authUrl) {
                     // Only use the stored url if there's nothing provided
                     authUrl = url;
@@ -260,7 +264,7 @@ async function init() {
                 if ((!kwTitles?.length || (5 - (kwTitles?.length ? kwTitles.length : 0) - globalKWLen) > 0) && authUrl?.length) {
                     // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
                     // Or, if it found some, but needs more, go ahead and check too
-                    const openLibTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authArr[0]), authUrl: authUrl});
+                    const openLibTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authOut[0]), authUrl: authUrl});
                     debugLog("Out from getOpenLibTitles: ", openLibTitles);
                     if (openLibTitles?.length) {
                         // Just add to the list, don't reset/ overwrite it
@@ -272,7 +276,7 @@ async function init() {
                 if (kwTitles?.length) {
                     const kwTitleMap = kwTitles.map(t => toProperCase(t));
                     const res = await askQuestionV2({
-                        question: `I found ${kwTitles.length} titles by ${toProperCase(authArr[0])} to use as keywords.\n${kwTitleMap.join(", ")}\nShould I use them?`,
+                        question: `I found ${kwTitles.length} titles by ${toProperCase(authOut[0])} to use as keywords.\n${kwTitleMap.join(", ")}\nShould I use them?`,
                         answerList: kwTitleMap,
                         yesNo: true,
                         multiOption: true
@@ -379,24 +383,11 @@ async function init() {
 
         // Format the jsonOut data to only keep the bits that matter
         const oldBook = bookLog.find(ob => ob.isbn == isbn);
-        const authOut = jsonOut?.authors?.length ? [...new Set(jsonOut.authors.map(a => toProperCase(a.name.trim())))] : [];
         const jsonToSave = {
             isbn: isbn,
             title: toProperCase(rawTitle),
             subtitle: subtitle ? toProperCase(subtitle.replace(/^\s*[-:]/, "").trim()) : "",
-            authors: authOut.map((auth, ix) => {
-                if (ix > 0) {
-                    return {name: auth};
-                } else {
-                    const authOut = {
-                        name: auth,
-                    };
-                    if (jsonOut.authors[0]?.url) {
-                        authOut.url = jsonOut.authors[0].url;
-                    }
-                    return authOut;
-                }
-            }),
+            authors: authOut,
             keywords: globalKWs,
             publish_date: date?.toString(),
             pages: argv.pages ? argv.pages : "unpaginated",
