@@ -88,7 +88,6 @@ const argv = require("minimist")(process.argv.slice(2), {
     }
 });
 
-let isbn = null;
 let globalKWLen = null;
 let boardStr = "VG IN X.";
 let isOldListing = false;
@@ -103,7 +102,11 @@ async function init() {
     }
     debugLog("argV: ", argv);
 
-    isbn = getIsbnFromArg(process.argv[2]);
+    let isbn = getIsbnFromArg(process.argv[2]);
+    if (!isbn) {
+        rl.close();
+        return;
+    }
 
     const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=data&format=json`;
 
@@ -149,7 +152,7 @@ async function init() {
     // If it couldn't find a match for the isbn, ask for the main fields to be filled in
     // Normally, when an isbn isn't found, it will just need title/ subtitle, author(s), date, and publisher/ location
     if (!jsonOut || !Object.keys(jsonOut).length) {
-        const newJson = await findInfo();
+        const newJson = await findInfo(isbn);
 
         // Stick it as an object with the isbn as it's key so it matches the api response
         jsonOut = {};
@@ -249,7 +252,7 @@ async function init() {
             if (globalKWLen < 5) {
                 // This should return `{titles: [], authUrl: ""}`, with those both filled up
                 let {titles: kwTitles, url} = await getFromAuthMap(authOut[0], rawTitle);
-                if (!authUrl) {
+                if (!authUrl && url) {
                     // Only use the stored url if there's nothing provided
                     authUrl = url;
                 }
@@ -497,8 +500,8 @@ function getIsbnFromArg(isbnIn) {
         outMsg = `"${isbnIn}" is not a valid ISBN. (${isbnIn.length} is an invalid isbn length)`;
     }
     if (outMsg?.length) {
-        rl.close();
-        return console.log(outMsg);
+        console.log(outMsg);
+        return null;
     }
     return isbnIn;
 }
@@ -1531,6 +1534,7 @@ async function getFromAuthMap(auth, titleIn) {
 
 // Function to grab the newset titles from an author's page if the link was provided
 async function getOpenLibTitles({titleIn, authName, authUrl}) {
+    debugLog(`[getOpenLibTitles] titleIn: ${titleIn}, authName: ${authName}, authUrl: ${authUrl}`);
 
     // If there are other titles already registered there, don't try getting more / overwriting em
     if (authMap[authName]?.titles?.length) return null;
@@ -1549,6 +1553,8 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
         return title;
     }).filter(a => !!a);
 
+    debugLog("[getOpenLibTitles] titleList: ", titleList);
+
     const titleFilter  = (bookTitle) => !bookTitle.toLowerCase().includes(titleIn.toLowerCase()) && !titleIn.toLowerCase().includes(bookTitle.toLowerCase());
     const lengthFilter = (bookTitle) => bookTitle.length <= MAX_KW_LEN;
     const commaFilter  = (bookTitle) => !bookTitle.includes(",");
@@ -1558,6 +1564,8 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
         .filter(lengthFilter)
         .filter(commaFilter)
         .map(bookTitle => bookTitle.toLowerCase().trim());
+
+    debugLog("[getOpenLibTitles] filteredTitleList: ", filteredTitleList);
 
     const noDupTitles = [...new Set(filteredTitleList)];
     if (!noDupTitles?.length) return null;
@@ -1645,7 +1653,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
 }
 
 // If a book is not found from the api or stored info, ask for the info manually
-async function findInfo() {
+async function findInfo(isbn) {
     console.log("\nNo info was found for this book.\n");
 
     const newJsonOut = {
