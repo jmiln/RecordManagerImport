@@ -1039,27 +1039,6 @@
         ]
     },
     {
-        "isbn": "9781455563920",
-        "title": "Pachinko",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Min Jin Lee"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780593318317",
         "title": "Whereabouts",
         "subtitle": "A novel",
@@ -23152,27 +23131,6 @@
         ]
     },
     {
-        "isbn": "9780765386694",
-        "title": "Dark Forest",
-        "subtitle": "The Three-Body Trilogy, Book 2",
-        "authors": [
-            {
-                "name": "Cixin Liu"
-            }
-        ],
-        "publish_date": "2016",
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0525947299",
         "title": "No Second Chance",
         "subtitle": "",
@@ -26375,27 +26333,6 @@
         ]
     },
     {
-        "isbn": "9780800722319",
-        "title": "Light In The Wilderness",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Jane Kirkpatrick"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Revell / Baker Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Grand Rapids, Mi."
-            }
-        ]
-    },
-    {
         "isbn": "9781609455392",
         "title": "After The War",
         "subtitle": "",
@@ -27593,27 +27530,6 @@
         "publishers": [
             {
                 "name": "Plume Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250207111",
-        "title": "Hideaway",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Nora Roberts"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
             }
         ],
         "publish_places": [
@@ -37325,32 +37241,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780778312253",
-        "title": "Virgin River",
-        "subtitle": "Book 1 Of The Virgin River Series",
-        "authors": [
-            {
-                "name": "Robyn Carr"
-            }
-        ],
-        "publish_date": "2007",
-        "pages": 396,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Mira Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -49068,37 +48958,6 @@
         ]
     },
     {
-        "isbn": "9780778311577",
-        "title": "Winter Guest",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Pam Jenoff"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "hfi"
-        ],
-        "publish_date": "2021",
-        "pages": 346,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "Park Row Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
-            }
-        ]
-    },
-    {
         "isbn": "9780425282076",
         "title": "Lady Maybe",
         "subtitle": "A Novel",
@@ -60788,37 +60647,6 @@
         ]
     },
     {
-        "isbn": "9781609450786",
-        "title": "My Brilliant Friend",
-        "subtitle": "Book One Of The Naepolitan Novels",
-        "authors": [
-            {
-                "name": "Elena Ferrante"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2012",
-        "pages": 331,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "Europa Editions"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780571349371",
         "title": "Discomfort Of Evening",
         "subtitle": "",
@@ -71644,36 +71472,6 @@
         ],
         "publish_date": "2017",
         "pages": 301,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780525435723",
-        "title": "Body In The Castle Well",
-        "subtitle": "A Mystery Of The French Countryside",
-        "authors": [
-            {
-                "name": "Martin Walker"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2020",
-        "pages": "328+",
         "price": 9,
         "binding": [
             "pb"
@@ -84383,41 +84181,6 @@
         ]
     },
     {
-        "isbn": "9780593191224",
-        "title": "Saboteurs",
-        "subtitle": "An Isaac Bell Adventure",
-        "authors": [
-            {
-                "name": "Clive Cussler",
-                "url": "https://openlibrary.org/authors/OL29079A/Clive_Cussler"
-            },
-            {
-                "name": "Jack Du Brul"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 385,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780399592300",
         "title": "Under Occupation",
         "subtitle": "A Novel",
@@ -86057,6 +85820,1384 @@
         "publish_places": [
             {
                 "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781617295027",
+        "title": "Elixir In Action",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sasa Juric"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2019",
+        "pages": 360,
+        "price": 26,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Manning Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Shelter Island, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781680502008",
+        "title": "Programming Elixir 1.3: Functional |> Concurrent |> Pragmatic |> Fun",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dave Thomas"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2016",
+        "pages": 341,
+        "price": 20,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pragmatic Bookshelf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Raleigh, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781617293726",
+        "title": "Kubernetes In Action",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marko Luksa"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2018",
+        "pages": 594,
+        "price": 31,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Manning Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Shelter Island, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781521823637",
+        "title": "Kubernetes Book, Version 2.2",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nigel Poulton"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2017",
+        "pages": 141,
+        "price": 12,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781537713946",
+        "title": "Elements of Programming Interviews In Python",
+        "subtitle": "The Insiders' Guide",
+        "authors": [
+            {
+                "name": "Adnan Aziz"
+            },
+            {
+                "name": "Tsung-Hsien Lee"
+            },
+            {
+                "name": "Amit Prakash"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2017",
+        "pages": 414,
+        "price": 26,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Epi"
+            }
+        ]
+    },
+    {
+        "isbn": "9780471778646",
+        "title": "Python for Dummies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stef Maruch"
+            },
+            {
+                "name": "Aahz Maruch"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2006",
+        "pages": 410,
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wiley Publishing, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hoboken, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "9780262033848",
+        "title": "Introduction To Algorithms",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Thomas H. Cormen"
+            },
+            {
+                "name": "Charles E. Leiserson"
+            },
+            {
+                "name": "Ronald L. Rivest"
+            },
+            {
+                "name": "Clifford Stein"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2009",
+        "pages": 1292,
+        "price": 40,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Mit Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Cambridge, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780345514141",
+        "title": "Funeral In Blue",
+        "subtitle": "A William Monk Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 344,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345514127",
+        "title": "Slaves of Obsession",
+        "subtitle": "A William Monk Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 343,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345513557",
+        "title": "Face of a Stranger",
+        "subtitle": "The First William Monk Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": "345+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307454713",
+        "title": "Dark Vineyard",
+        "subtitle": "A Mystery of the French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": "303+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345804792",
+        "title": "Devil's Cave",
+        "subtitle": "A Mystery of the French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 334,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307744647",
+        "title": "Crowded Grave",
+        "subtitle": "A Mystery of the French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 314,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525435723",
+        "title": "Body In the Castle Well",
+        "subtitle": "A Mystery of the French Countryside",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 334,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593355862",
+        "title": "Tell No One",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 386,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735224674",
+        "title": "Searcher",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tana French"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 451,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593187333",
+        "title": "Missing You",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harlan Coben"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 399,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385343497",
+        "title": "Sweetness At the Bottom of the Pie",
+        "subtitle": "A Flavia De Luce Novel",
+        "authors": [
+            {
+                "name": "Alan Bradley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 385,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307454690",
+        "title": "Bruno, Chief of Police (Vintage)",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": "273+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781785654237",
+        "title": "Forever and a Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Donald E. Westlake"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 463,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hard Case Crime / Titan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780440000211",
+        "title": "Book of Cold Cases",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Simone St. James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 344,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593419649",
+        "title": "Devil's Sea",
+        "subtitle": "A Dirk Pitt Novel",
+        "authors": [
+            {
+                "name": "Dirk Cussler"
+            },
+            {
+                "name": "Clive Cussler",
+                "contribution": "Based on the series by"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 416,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593191224",
+        "title": "Saboteurs",
+        "subtitle": "An Isaac Bell Adventure",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Jack Du Brul"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 385,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063092785",
+        "title": "These Precious Days",
+        "subtitle": "Essays",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            },
+            {
+                "name": "Ann  Patchett"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 322,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525429760",
+        "title": "Book of Longings",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sue Monk Kidd"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 418,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250137661",
+        "title": "Daughter of Moloka'i",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Brennert"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 308,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062430991",
+        "title": "Forest Dark",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nicole Krauss"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 290,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400095568",
+        "title": "How We Are Hungry",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Dave Eggers"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 218,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400030606",
+        "title": "Queen's Gambit",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Walter S. Tevis"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 243,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307476463",
+        "title": "1q84",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Haruki Murakami"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 1157,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250265692",
+        "title": "Cilka's Journey",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Heather Morris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "343+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0771047088",
+        "title": "Stone Angel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Laurence"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 336,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcclelland & Stewart"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455563920",
+        "title": "Pachinko",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Min Jin Lee"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 500,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781609450786",
+        "title": "My Brilliant Friend",
+        "subtitle": "Book One of the Naepolitan Novels",
+        "authors": [
+            {
+                "name": "Elena Ferrante"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 331,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142437964",
+        "title": "Swann's Way",
+        "subtitle": "In Search of Lost Time, Vol. 1 (Penguin Classics Deluxe Edition)",
+        "authors": [
+            {
+                "name": "Marcel Proust"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 468,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Penguin Classics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780800722319",
+        "title": "Light In the Wilderness",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2014",
+        "pages": 314,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780765386694",
+        "title": "Dark Forest",
+        "subtitle": "The Three-Body Trilogy, Book 2",
+        "authors": [
+            {
+                "name": "Cixin Liu"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2016",
+        "pages": 512,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063144514",
+        "title": "Hidden Sins",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Selena Montgomery"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic",
+            "mys"
+        ],
+        "publish_date": "2021",
+        "pages": 368,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250207111",
+        "title": "Hideaway",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 468,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778312253",
+        "title": "Virgin River",
+        "subtitle": "Book 1 of the Virgin River Series",
+        "authors": [
+            {
+                "name": "Robyn Carr"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 396,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311577",
+        "title": "Winter Guest",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2021",
+        "pages": 346,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780517580516",
+        "title": "Land of Painted Caves",
+        "subtitle": "Earth's Children, Book 6",
+        "authors": [
+            {
+                "name": "Jean M. Auel"
+            }
+        ],
+        "keywords": [
+            "pre"
+        ],
+        "publish_date": "2011",
+        "pages": 757,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781639100446",
+        "title": "Everything We Didn't Say",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nicole Baart"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 350,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375755194",
+        "title": "Sailing Alone Around the Room",
+        "subtitle": "New and Selected Poems",
+        "authors": [
+            {
+                "name": "Billy Collins"
+            }
+        ],
+        "keywords": [
+            "poe"
+        ],
+        "publish_date": "2001",
+        "pages": 171,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358359913",
+        "title": "Best American Essays 2020",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Andre Aciman"
+            },
+            {
+                "name": "Robert Atwan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 291,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
             }
         ]
     }

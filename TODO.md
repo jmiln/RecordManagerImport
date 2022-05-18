@@ -30,8 +30,6 @@
 
 ## Conditions update
 
-- Should stick in vg/vg-/g etc as extra options
-
 - Work out how to make conditions more variable
     * Possibly seperate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
     * Doing this ends up with it needing to be sorted by the group, then within each group, as well as whatever isn't
@@ -67,3 +65,4 @@
 - Eventually, work out a way to put this into a gui/ local html so it's more user friendly?
   Not sure how that will/ would work, but whatever
     * If this ever happens, it should just ask for the isbn to start, then load up everything from the api or stored info
+

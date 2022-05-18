@@ -3376,5 +3376,37 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Pragmatic Bookshelf"
+        ],
+        "locations": [
+            "Raleigh, Nc."
+        ]
+    },
+    {
+        "name": [
+            "Wiley Publishing, Inc."
+        ],
+        "locations": [
+            "Hoboken, Nj."
+        ]
+    },
+    {
+        "name": [
+            "Mit Press"
+        ],
+        "locations": [
+            "Cambridge, Ma."
+        ]
+    },
+    {
+        "name": [
+            "Penguin Classics"
+        ],
+        "locations": [
+            "New York"
+        ]
     }
 ]

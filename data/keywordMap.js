@@ -13,6 +13,7 @@ module.exports = {
     env: "Environment",
     eph: "Ephemera",
     esp: "Espionage",
+    ess: "essays",
     fan: "Fantasy",
     fic: "Fiction",
     gam: "Games",
