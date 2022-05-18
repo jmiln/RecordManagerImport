@@ -88,7 +88,7 @@ const argv = require("minimist")(process.argv.slice(2), {
     }
 });
 
-let isbn = process.argv[2];
+let isbn = null;
 let globalKWLen = null;
 let boardStr = "VG IN X.";
 let isOldListing = false;
@@ -103,16 +103,9 @@ async function init() {
     }
     debugLog("argV: ", argv);
 
-    if (!isbn) {
-        rl.close();
-        return console.log("Missing ISBN.");
-    } else if (isbn.length !== 10 && isbn.length !== 13) {
-        rl.close();
-        return console.log(`"${isbn}" is not a valid ISBN. (${isbn.length} is an invalid isbn length)`);
-    } else {
-        isbn = isbn.toString().toUpperCase();
-    }
-    const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn.toString().toUpperCase()}&jscmd=data&format=json`;
+    isbn = getIsbnFromArg(process.argv[2]);
+
+    const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=data&format=json`;
 
     argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
     debugLog("Conditions: ", argv.conditions);
@@ -492,6 +485,23 @@ async function init() {
 }
 init();
 
+
+// Check the ISBN that was input, making sure that it's only numbers and a valid length (10 or 13)
+function getIsbnFromArg(isbnIn) {
+    let outMsg = null;
+    if (!isbnIn) outMsg = "Missing ISBN.";
+
+    isbnIn = isbnIn.toString().toUpperCase().replace(/\D/g, "");
+
+    if (isbnIn.length !== 10 && isbnIn.length !== 13) {
+        outMsg = `"${isbnIn}" is not a valid ISBN. (${isbnIn.length} is an invalid isbn length)`;
+    }
+    if (outMsg?.length) {
+        rl.close();
+        return console.log(outMsg);
+    }
+    return isbnIn;
+}
 
 // Process any flags/ arguments that were used to add extra data
 async function processArgv() {
