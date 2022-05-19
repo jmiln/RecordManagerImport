@@ -1393,5 +1393,23 @@
             "Kindred Spirits"
         ],
         "url": "https://openlibrary.org/authors/OL30884A/Alan_Brennert"
+    },
+    "Susan Meissner": {
+        "titles": [
+            "Fall of Marigolds",
+            "Lady in Waiting",
+            "Shape of Mercy"
+        ]
+    },
+    "Donna Tartt": {
+        "url": "https://openlibrary.org/authors/OL841112A/Donna_Tartt"
+    },
+    "Phillips, Arthur": {
+        "titles": [
+            "Tragedy of Arthur",
+            "Song is You",
+            "Prague"
+        ],
+        "url": "https://openlibrary.org/authors/OL1518254A/Phillips_Arthur?sort=new"
     }
 }

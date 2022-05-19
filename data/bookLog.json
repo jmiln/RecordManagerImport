@@ -47174,36 +47174,6 @@
         ]
     },
     {
-        "isbn": "9780802148506",
-        "title": "Shuggie Bain",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Douglas Stuart"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": 430,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grove Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062088239",
         "title": "Land More Kind Than Home",
         "subtitle": "A Novel",
@@ -49524,37 +49494,6 @@
         "publishers": [
             {
                 "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780399176623",
-        "title": "Disappeared",
-        "subtitle": "A Joe Pickett Novel",
-        "authors": [
-            {
-                "name": "C. J. Box"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2018",
-        "pages": 390,
-        "price": 10,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
             }
         ],
         "publish_places": [
@@ -77435,37 +77374,6 @@
         ]
     },
     {
-        "isbn": "9781501173219",
-        "title": "All the Light We Cannot See",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Anthony Doerr"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic",
-            "pul"
-        ],
-        "publish_date": "2017",
-        "pages": 531,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781492666899",
         "title": "Only Woman In the Room",
         "subtitle": "A Novel",
@@ -87198,6 +87106,459 @@
         "publish_places": [
             {
                 "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316547604",
+        "title": "Power",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Naomi Alderman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 385,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812979213",
+        "title": "Wonder Boys",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Michael Chabon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 368,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250204035",
+        "title": "Migrations",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Charlotte Mcconaghy"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 276,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501173219",
+        "title": "All the Light We Cannot See",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2017",
+        "pages": 531,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802148506",
+        "title": "Shuggie Bain",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Douglas Stuart"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "bp"
+        ],
+        "publish_date": "2020",
+        "pages": "430+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553385601",
+        "title": "Peach Keeper",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Addison Allen"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 282,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553384840",
+        "title": "Sugar Queen",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Addison Allen"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 294,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250190307",
+        "title": "First Frost",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Addison Allen"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "294+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060987527",
+        "title": "Confessions of an Ugly Stepsister",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gregory Maguire"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": "372+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hc / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345469373",
+        "title": "Distant Shores",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 355,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451419927",
+        "title": "Secrets of a Charmed Life",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Susan Meissner"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": "386+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780544001121",
+        "title": "Room Full of Bones",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 346,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "0812972597",
+        "title": "Egyptologist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Phillips, Arthur"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 396,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316387842",
+        "title": "Chemist",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 518,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399176623",
+        "title": "Disappeared",
+        "subtitle": "A Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 390,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

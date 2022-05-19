@@ -2859,7 +2859,7 @@
     },
     {
         "name": [
-            "Reagan Arthur/Back Bay Books"
+            "Reagan Arthur/Back Bay"
         ],
         "locations": [
             "New York"
@@ -3404,6 +3404,14 @@
     {
         "name": [
             "Penguin Classics"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Hc / Harper-Collins"
         ],
         "locations": [
             "New York"
