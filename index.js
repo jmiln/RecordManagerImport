@@ -2,6 +2,7 @@ const fs = require("fs");
 const cheerio = require("cheerio");
 const { inspect } = require("util");
 const { exec } = require("child_process");
+const fetch = require("node-fetch");
 
 const readline = require("readline");
 
@@ -252,12 +253,13 @@ async function init() {
             if (globalKWLen < 5) {
                 // This should return `{titles: [], authUrl: ""}`, with those both filled up
                 let {titles: kwTitles, url} = await getFromAuthMap(authOut[0], rawTitle);
+                debugLog(`From getFromAuthMap, kwTitles: ${kwTitles}, url: ${url}`);
                 if (!authUrl && url) {
                     // Only use the stored url if there's nothing provided
                     authUrl = url;
                 }
                 debugLog(`kwTitles: ${inspect(kwTitles)}, globalKWLen: ${globalKWLen}, authUrl: ${authUrl}`);
-                if ((!kwTitles?.length || (5 - (kwTitles?.length ? kwTitles.length : 0) - globalKWLen) > 0) && authUrl?.length) {
+                if ((!kwTitles?.length || (5 - (kwTitles?.length || 0) - globalKWLen) > 0) && authUrl?.length) {
                     // If it still cannot find any, AND there's a link, try pulling more titles from openlibrary
                     // Or, if it found some, but needs more, go ahead and check too
                     const openLibTitles = await getOpenLibTitles({titleIn: rawTitle, authName: toProperCase(authOut[0]), authUrl: authUrl});
@@ -1539,7 +1541,9 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
     // If there are other titles already registered there, don't try getting more / overwriting em
     if (authMap[authName]?.titles?.length) return null;
 
-    const pageHTML = await fetch(authUrl + "?sort=new").then(res => res.text());
+    authUrl = authUrl + "?sort=new";
+    debugLog("Checking: ", authUrl);
+    const pageHTML = await fetch(authUrl).then(async res => await res.text());
     const $ = cheerio.load(pageHTML);
 
     const titleList = $(".list-books > .searchResultItem").toArray().map((elem) => {
