@@ -1411,5 +1411,69 @@
             "Prague"
         ],
         "url": "https://openlibrary.org/authors/OL1518254A/Phillips_Arthur?sort=new"
+    },
+    "Harold Davis": {
+        "titles": [
+            "Creative Lighting",
+            "Creative Portraits",
+            "Creative Landscapes",
+            "Creative Night"
+        ],
+        "url": "https://openlibrary.org/authors/OL7906214A/Harold_Davis?sort=new"
+    },
+    "Joel Sartore": {
+        "titles": [
+            "Fragiles",
+            "Photo Ark",
+            "Let's Be Reasonable",
+            "Rare",
+            "Nebraska"
+        ],
+        "url": "https://openlibrary.org/authors/OL2783166A/Joel_Sartore?sort=new"
+    },
+    "Georg Trakl": {
+        "titles": [
+            "Song of Departed",
+            "Dark Seasons",
+            "Poems and Prose"
+        ],
+        "url": "https://openlibrary.org/authors/OL125451A/Georg_Trakl?sort=new"
+    },
+    "Joyce Carol Oates": {
+        "titles": [
+            "Americmelancholy",
+            "You",
+            "Pursuit",
+            "New Kitten",
+            "My Life As a Rat",
+            "What I Lived for",
+            "Solstice",
+            "Cutting Edge"
+        ],
+        "url": "https://openlibrary.org/authors/OL32981A/Joyce_Carol_Oates?sort=new"
+    },
+    "Rebecca Serle": {
+        "titles": [
+            "One Italisummer",
+            "Dinner List",
+            "Edge of Falling",
+            "Famous In Love",
+            "When You Were Mine"
+        ],
+        "url": "https://openlibrary.org/authors/OL7027682A/Rebecca_Serle?sort=new"
+    },
+    "Elizabeth Mckenzie": {
+        "titles": [
+            "Stop That Girl"
+        ],
+        "url": "https://openlibrary.org/authors/OL1393386A/Elizabeth_McKenzie?sort=new"
+    },
+    "Hal Leonard Corp.": {
+        "titles": [
+            "Songs for Beginners",
+            "Christichart Hits",
+            "Today&apos;s Hits"
+        ],
+        "url": "https://openlibrary.org/authors/OL2741414A/Hal_Leonard_Corp.?sort=new"
     }
 }

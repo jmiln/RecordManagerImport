@@ -87561,5 +87561,243 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781681984964",
+        "title": "Creative Black and White",
+        "subtitle": "Digital Photography Tips and Techniques, 2nd Edition",
+        "authors": [
+            {
+                "name": "Harold Davis"
+            }
+        ],
+        "keywords": [
+            "pho"
+        ],
+        "publish_date": "2019",
+        "pages": 319,
+        "price": 21,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Rocky Nook, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Rafael, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781426219702",
+        "title": "National Geographic Photo Basics",
+        "subtitle": "The Ultimate Beginner's Guide To Great Photography",
+        "authors": [
+            {
+                "name": "Joel Sartore"
+            }
+        ],
+        "keywords": [
+            "pho"
+        ],
+        "publish_date": "2019",
+        "pages": 254,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "National Geographic Partners"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Washington, D.c."
+            }
+        ]
+    },
+    {
+        "isbn": "9781933952703",
+        "title": "Why Photographs Work",
+        "subtitle": "51 Great Images - Who Made Them, What Makes Them Special and Why",
+        "authors": [
+            {
+                "name": "George Barr"
+            }
+        ],
+        "keywords": [
+            "pho"
+        ],
+        "publish_date": "2011",
+        "pages": 220,
+        "price": 14,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Rocky Nook, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Santa Barbara, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780982185452",
+        "title": "Last Gold of Expired Stars",
+        "subtitle": "Complete Poems 1908 - 1914",
+        "authors": [
+            {
+                "name": "Georg Trakl"
+            }
+        ],
+        "keywords": [
+            "poe"
+        ],
+        "publish_date": "2011",
+        "pages": 513,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Loch Raven Press, Llc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sykesville, Md."
+            }
+        ]
+    },
+    {
+        "isbn": "006093493X",
+        "title": "Blonde",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joyce Carol Oates"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 738,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982137441",
+        "title": "In Five Years",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rebecca Serle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 255,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594206856",
+        "title": "Portable Veblen",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Mckenzie"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 430,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780634006814",
+        "title": "Big Book of Classical Music, Piano Solo",
+        "subtitle": "100 of the World's Favorite Pieces",
+        "authors": [
+            {
+                "name": "Hal Leonard Corp."
+            }
+        ],
+        "keywords": [
+            "mus"
+        ],
+        "publish_date": "1999",
+        "pages": 349,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hal Leonard Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Milwaukee, Wi."
+            }
+        ]
     }
 ]

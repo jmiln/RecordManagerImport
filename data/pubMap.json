@@ -3416,5 +3416,29 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Rocky Nook, Inc."
+        ],
+        "locations": [
+            "San Rafael, Ca."
+        ]
+    },
+    {
+        "name": [
+            "National Geographic Partners"
+        ],
+        "locations": [
+            "Washington, D.c."
+        ]
+    },
+    {
+        "name": [
+            "Loch Raven Press, Llc"
+        ],
+        "locations": [
+            "Sykesville, Md."
+        ]
     }
 ]
