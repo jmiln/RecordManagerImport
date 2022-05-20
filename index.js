@@ -495,17 +495,22 @@ init();
 function getIsbnFromArg(isbnIn) {
     let outMsg = null;
 
+    // If there's no ISBN
+    if (!isbnIn) outMsg = "Invalid ISBN.";
 
-    if (!isbnIn || typeof isbnIn !== "string") outMsg = "Missing or Invalid ISBN.";
-
-    // Match 10 digit isbn with or without an x at the end, or 13 digit ones
-    if (!isbnIn.match(/^(\d{9}x|\d{10,13})$/)) outMsg = "Invalid ISBN";
-
+    // Clean the string up to make sure there's no improper characters
     isbnIn = isbnIn.toString().toUpperCase().replace(/[^X\d]/g, "");
 
+    // Make sure it's a valid ISBN format
+    // Match 10 digit isbn with or without an x at the end, or 13 digit ones
+    if (!isbnIn.match(/^(\d{9}x|\d{10}|\d{13})$/)) outMsg = `Invalid ISBN format (${isbnIn}).`;
+
+    // Make sure it's the correct length
     if (isbnIn.length !== 10 && isbnIn.length !== 13) {
         outMsg = `"${isbnIn}" is not a valid ISBN. (${isbnIn.length} is an invalid isbn length)`;
     }
+
+    // If it's found any issues, go ahead and tell us
     if (outMsg?.length) {
         console.log(outMsg);
         return null;
