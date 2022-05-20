@@ -7850,27 +7850,6 @@
         ]
     },
     {
-        "isbn": "9781982112301",
-        "title": "Winemaker's Wife",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kristin Harmel"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525557647",
         "title": "An Unwanted Guest",
         "subtitle": "A Novel",
@@ -87797,6 +87776,66 @@
         "publish_places": [
             {
                 "name": "Milwaukee, Wi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250829436",
+        "title": "Badlands",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 278,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982112301",
+        "title": "Winemaker's Wife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 385,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
