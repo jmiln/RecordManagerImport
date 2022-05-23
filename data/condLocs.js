@@ -138,6 +138,7 @@ module.exports.condLocs = {
     ldjs: "lower dj spine",
     lfw:  "lower front wrap",
     lp:   "later pages",
+    lpe:  "lower page edges",
     lsp:  "lower spine",
     p:    "pages",
     pe:   "page edges",

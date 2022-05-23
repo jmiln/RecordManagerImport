@@ -7,6 +7,9 @@
       scraping https://openlibrary.org/authors/OL6812710A/James_Patterson?sort=new
     * One way that it can sorta filter out other languages would be to clean the titles and see if there's any difference before & after (Check for accented characters)
     * We can probably try and grab categories from there too, listed under subjects?
+    * Also, when grabbing new ones, have a way to veto ones we don't want kept (Titles in other languages normally)
+        - Maybe when listing which ones to keep, only keep those?
+        - Or, #x instead of # if we want to remove an entry?
 
 - If there's no subtitle, check against other subtitles from a given author, and see if I want to use one
 

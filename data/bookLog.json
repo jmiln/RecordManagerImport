@@ -87838,5 +87838,654 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781501163401",
+        "title": "Sleeping Beauties",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            },
+            {
+                "name": "Owen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2017",
+        "pages": 702,
+        "price": 17.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780684830513",
+        "title": "Sun Also Rises",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1986",
+        "pages": 222,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679750533",
+        "title": "Elephant Vanishes",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Haruki Murakami"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1994",
+        "pages": 327,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400078776",
+        "title": "Never Let Me Go",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kazuo Ishiguro"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 288,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781454911647",
+        "title": "Awkward Human Survival Guide",
+        "subtitle": "How To Handle Life's Most Uncomfortable Situations",
+        "authors": [
+            {
+                "name": "Adam Dachis"
+            },
+            {
+                "name": "Erica Elson"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2014",
+        "pages": 159,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sterling Children's Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062905086",
+        "title": "Woman In the Window",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "A. J. Finn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 427,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455558056",
+        "title": "Mistress",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "David Ellis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 454,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062466389",
+        "title": "When the Music's Over",
+        "subtitle": "An Inspector Banks Novel",
+        "authors": [
+            {
+                "name": "Peter Robinson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 692,
+        "price": 14,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Harper-Luxe / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780486409160",
+        "title": "Mathematics",
+        "subtitle": "Its Content, Methods and Meaning",
+        "authors": [
+            {
+                "name": "Andrei Nikolaevich Kolmogorov"
+            },
+            {
+                "name": "M. A. Lavrentʹev"
+            },
+            {
+                "name": "A.d Alexsandrov"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "1999",
+        "pages": 372,
+        "price": 22.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dover Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mineola, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781496717689",
+        "title": "Act of Terror",
+        "subtitle": "A Jericho Quinn Thriller",
+        "authors": [
+            {
+                "name": "Marc Cameron"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 376,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780241277485",
+        "title": "Maigret is Afraid",
+        "subtitle": "An Inspector Maigret Novel",
+        "authors": [
+            {
+                "name": "Georges Simenon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 169,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Classics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781529411690",
+        "title": "Lockdown",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peter May"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 339,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780571346561",
+        "title": "Long Count",
+        "subtitle": "A John Q Mystery",
+        "authors": [
+            {
+                "name": "J. M. Gulvin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 329,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Faber & Faber Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781602607606",
+        "title": "Rugged Relentless",
+        "subtitle": "Husbands for Hire, Book 1",
+        "authors": [
+            {
+                "name": "Kelly Eileen Hake"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2011",
+        "pages": 317,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Barbour Publishing, Inc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9781602607613",
+        "title": "Tall, Dark, and Determined",
+        "subtitle": "Husbands for Hire, Book 2",
+        "authors": [
+            {
+                "name": "Kelly Eileen Hake"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2011",
+        "pages": 319,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Barbour Publishing, Inc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Uhrichsville, Oh."
+            }
+        ]
+    },
+    {
+        "isbn": "9780385665353",
+        "title": "Awakening",
+        "subtitle": "The Darkest Powers Series, Book 2",
+        "authors": [
+            {
+                "name": "Kelley Armstrong"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan",
+            "par"
+        ],
+        "publish_date": "2009",
+        "pages": 360,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Doubleday Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525541905",
+        "title": "Such a Fun Age",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kiley Reid"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 310,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805023771",
+        "title": "Whatchagot Stew",
+        "subtitle": "A Memoir of an Idaho Childhood, With Recipes and Commentaries",
+        "authors": [
+            {
+                "name": "Patrick F. Mcmanus"
+            },
+            {
+                "name": "Patricia Mcmanus Gass"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "1992",
+        "pages": 270,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781421571515",
+        "title": "Seraph of the End",
+        "subtitle": "Vampire Reign, Vol. 2",
+        "authors": [
+            {
+                "name": "Takaya Kagami"
+            }
+        ],
+        "keywords": [
+            "com",
+            "man"
+        ],
+        "publish_date": "2014",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Viz Media"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781421571508",
+        "title": "Seraph of the End",
+        "subtitle": "Vampire Reign, Vol. 1",
+        "authors": [
+            {
+                "name": "Takaya Kagami"
+            },
+            {
+                "name": "Daisuke Furuya"
+            }
+        ],
+        "keywords": [
+            "com",
+            "man"
+        ],
+        "publish_date": "2014",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Viz Media"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781421571522",
+        "title": "Seraph of the End",
+        "subtitle": "Vampire Reign, Vol. 3",
+        "authors": [
+            {
+                "name": "Takaya Kagami"
+            }
+        ],
+        "keywords": [
+            "com",
+            "man"
+        ],
+        "publish_date": "2014",
+        "pages": "u",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Viz Media"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
     }
 ]

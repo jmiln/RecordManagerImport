@@ -1073,7 +1073,7 @@
         ],
         "url": "https://openlibrary.org/authors/OL8301822A/Stephen_Spotswood"
     },
-    "Robinson, Peter": {
+    "Peter Robinson": {
         "titles": [
             "Not Dark Yet",
             "Flying Blind",
@@ -1413,12 +1413,6 @@
         "url": "https://openlibrary.org/authors/OL1518254A/Phillips_Arthur?sort=new"
     },
     "Harold Davis": {
-        "titles": [
-            "Creative Lighting",
-            "Creative Portraits",
-            "Creative Landscapes",
-            "Creative Night"
-        ],
         "url": "https://openlibrary.org/authors/OL7906214A/Harold_Davis?sort=new"
     },
     "Joel Sartore": {
@@ -1441,8 +1435,6 @@
     },
     "Joyce Carol Oates": {
         "titles": [
-            "Americmelancholy",
-            "You",
             "Pursuit",
             "New Kitten",
             "My Life As a Rat",
@@ -1454,7 +1446,6 @@
     },
     "Rebecca Serle": {
         "titles": [
-            "One Italisummer",
             "Dinner List",
             "Edge of Falling",
             "Famous In Love",
@@ -1469,11 +1460,78 @@
         "url": "https://openlibrary.org/authors/OL1393386A/Elizabeth_McKenzie?sort=new"
     },
     "Hal Leonard Corp.": {
-        "titles": [
-            "Songs for Beginners",
-            "Christichart Hits",
-            "Today&apos;s Hits"
-        ],
         "url": "https://openlibrary.org/authors/OL2741414A/Hal_Leonard_Corp.?sort=new"
+    },
+    "Kazuo Ishiguro": {
+        "titles": [
+            "Klara and Sun",
+            "Remains of the Day",
+            "Pale View of Hills"
+        ],
+        "url": "https://openlibrary.org/authors/OL28493A/Kazuo_Ishiguro?sort=new"
+    },
+    "A. J. Finn": {
+        "url": "https://openlibrary.org/authors/OL7442916A/A._J._Finn?sort=new"
+    },
+    "Andrei Nikolaevich Kolmogorov": {
+        "url": "https://openlibrary.org/authors/OL349766A/Andrei_Nikolaevich_Kolmogorov?sort=new"
+    },
+    "Marc Cameron": {
+        "titles": [
+            "Open Carry",
+            "Stone Cross",
+            "Cold Snap",
+            "Bone Rattle",
+            "Active Measures",
+            "Oath of Office",
+            "Power and Empire",
+            "Field of Fire"
+        ],
+        "url": "https://openlibrary.org/authors/OL7149665A/Marc_Cameron?sort=new"
+    },
+    "Georges Simenon": {
+        "titles": [
+            "La Fuite",
+            "Yellow Dog",
+            "Crime In Holland"
+        ],
+        "url": "https://openlibrary.org/authors/OL125391A/Georges_Simenon?sort=new"
+    },
+    "J. M. Gulvin": {
+        "titles": [
+            "Contract"
+        ],
+        "url": "https://openlibrary.org/authors/OL8095098A/J._M._Gulvin?sort=new"
+    },
+    "Kelly Eileen Hake": {
+        "titles": [
+            "Plots and Pans",
+            "Trails and Targets",
+            "Prairie Promises",
+            "Under Big Sky"
+        ],
+        "url": "https://openlibrary.org/authors/OL1452347A/Kelly_Eileen_Hake?sort=new"
+    },
+    "Patrick F. Mcmanus": {
+        "titles": [
+            "Circles In Snow",
+            "Tamarack Murders",
+            "Huckleberry Murders",
+            "Double-Jack Murders",
+            "Double Jack Murders",
+            "Kerplunk!",
+            "Avalanche",
+            "Blight Way",
+            "Bear In the Attic",
+            "Deer On a Bicycle",
+            "Ultimate Bull"
+        ],
+        "url": "https://openlibrary.org/authors/OL39645A/Patrick_F._McManus?sort=new"
+    },
+    "Takaya Kagami": {
+        "titles": [
+            "Seraph of End"
+        ],
+        "url": "https://openlibrary.org/authors/OL7502024A/Takaya_Kagami?sort=new"
     }
 }
