@@ -1,9 +1,8 @@
 const fs = require("fs");
 const cheerio = require("cheerio");
-const { inspect } = require("util");
 const { exec } = require("child_process");
 const fetch = require("node-fetch");
-
+const { inspect } = require("util");
 const readline = require("readline");
 
 const {condMap, condLocs} = require(__dirname + "/data/condLocs.js");
@@ -75,7 +74,7 @@ const argv = require("minimist")(process.argv.slice(2), {
 
         // Other
         cond:  "condition",   // Flag for condition strings
-        debug: "debug",       // Don't actually run the ahk script, just print the output
+        debug: "debug",       // Don't actually run the ahk script or save files, just print the output
         fill:  "fill",        // Fill in the extra keyword slots with previous entries (ctrl+f) if available
         help:  "help",        // Print out the help info, don't do anything else
         ill:   "illustrated", // If it has illustrations, pop up the menu to ask what kind
@@ -116,7 +115,7 @@ async function init() {
     const extraArgs = { bc: "bc", lp: "lp", fr: "french" };
     for (const arg of Object.keys(extraArgs)) {
         if (argv.conditions.includes(arg)) {
-            debugLog(`Removing "${arg}" from conditions / settings it's own flag`);
+            debugLog(`Removing "${arg}" from conditions / setting it's own flag`);
             argv[extraArgs[arg]] = true;     // Book Club
             argv.conditions.splice(argv.conditions.indexOf(arg), 1);
         }
@@ -153,7 +152,7 @@ async function init() {
     // If it couldn't find a match for the isbn, ask for the main fields to be filled in
     // Normally, when an isbn isn't found, it will just need title/ subtitle, author(s), date, and publisher/ location
     if (!jsonOut || !Object.keys(jsonOut).length) {
-        const newJson = await findInfo(isbn);
+        const newJson = await findInfoForBlank(isbn);
 
         // Stick it as an object with the isbn as it's key so it matches the api response
         jsonOut = {};
@@ -351,6 +350,7 @@ async function init() {
         }
 
         // If the illustrations flag is given, ask which one it should put, based on the options in data/illustrations.js
+        let illNum = null;
         if (argv.illustrated) {
             if (typeof argv.illustrated === "boolean") {
                 const illRes = await askQuestionV2({
@@ -359,10 +359,12 @@ async function init() {
                     cancel: true
                 });
                 if (Number.isInteger(parseInt(illRes)) && illusOptions[illRes]) {
+                    illNum = parseInt(illRes, 10);
                     bookInfoArr.push(`ILLUS=${illusOptions[illRes]}`);
                 }
             } else if (Number.isInteger(parseInt(argv.illustrated)) && illusOptions[argv.illustrated]) {
                 bookInfoArr.push(`ILLUS=${illusOptions[argv.illustrated]}`);
+                illNum = parseInt(argv.illustrated, 10);
             }
         }
 
@@ -397,6 +399,7 @@ async function init() {
         if (argv.french) jsonToSave.french = true;
         if (argv.lp)     jsonToSave.lp     = true;
         if (argv.bc)     jsonToSave.bc     = true;
+        if (illNum)      jsonToSave.ill    = illNum;
 
         if (chosenPub) {
             jsonToSave.publishers = [{name: toProperCase(chosenPub)}];
@@ -623,18 +626,11 @@ async function processArgv() {
 }
 
 // Work out all the conditions
-// - Work out how to make conditions more variable
-//     * Somehow parse out each option, so it can be "creasing to rear wrap" vs front wrap, etc
-//         - Possibly something along the lines of condition_type:location (ex: few:rw  (Faint edgewear to rear wrap))?
-//         - If going this route, it would likely be worth trying to bunch em by location too, like if there are multiple for rear wrap (Creasing & small tear, etc)
-//             * Possibly separate by dashes, so few-cre-stear:rw for "faint edgewear, creasing, and a small tear to rear wrap"?
-//     * Should stick in vg/vg-/g etc as extra options
-
+//
 // Just a condition will put the given string in.
 // A condition:location string will replace the ${} in a string with the given location.
 //  - If there's an empty ${} in the string, and no location is given, it should prompt for one
 //  - If there's no ${} and a location is given, it should warn about it, and offer to have one typed in
-
 async function parseCond() {
     const condOut = {1: "", 2: ""};
     const mainCond = "VG";
@@ -1667,7 +1663,7 @@ function parseTitle(titleIn, subtitleIn, isBookClub, isLargePrint, manualSub) {
 }
 
 // If a book is not found from the api or stored info, ask for the info manually
-async function findInfo(isbn) {
+async function findInfoForBlank(isbn) {
     console.log("\nNo info was found for this book.\n");
 
     const newJsonOut = {
