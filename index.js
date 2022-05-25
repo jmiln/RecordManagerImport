@@ -683,7 +683,7 @@ async function parseCond() {
                 const foundCond = argv.conditions.find(cond => cond.str === condition);
                 if (foundCond) {
                     const condStr = condMap[foundCond.str];
-                    const match = condStr.match(/\${(.*)}/);
+                    const match = condStr.match(/\${([^}]*)}/);
                     debugLog("CondStr: " + condStr + ", Match: ", match);
                     if (typeof foundCond?.loc === "string" && !foundCond.loc.length) {
                         // This should trigger if there's a condition with a `:` (cond:)
@@ -725,16 +725,16 @@ async function parseCond() {
                         debugLog("thisLoc: ", thisLoc);
                         conds.push(condStr
                             // Replace the placeholder with the specified location
-                            .replace(/\${(.*)}/, thisLoc)
+                            .replace(/\${([^}]*)}/, thisLoc)
                             // Use any "in" / "on" strings that're given
-                            .replace(/\{(.*)\}/, "$1"));
+                            .replace(/\{([^}]*)\}/, "$1"));
                     } else {
                         // Just replace any location stuff with the given default chunk
                         conds.push(condStr
                             // Use the placeholder, if any
-                            .replace(/\${(.*)}/, "$1")
+                            .replace(/\${([^}]*)}/, "$1")
                             // Get rid of any extra strings
-                            .replace(/\{.*\}/, ""));
+                            .replace(/\{[^}]*\}/, ""));
                     }
                 }
             }
