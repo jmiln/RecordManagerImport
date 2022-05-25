@@ -1518,7 +1518,6 @@
             "Tamarack Murders",
             "Huckleberry Murders",
             "Double-Jack Murders",
-            "Double Jack Murders",
             "Kerplunk!",
             "Avalanche",
             "Blight Way",
@@ -1533,5 +1532,132 @@
             "Seraph of End"
         ],
         "url": "https://openlibrary.org/authors/OL7502024A/Takaya_Kagami?sort=new"
+    },
+    "Kate Atkinson": {
+        "titles": [
+            "Big Sky",
+            "Festive Spirits",
+            "Transcription",
+            "God In Ruins"
+        ],
+        "url": "https://openlibrary.org/authors/OL381568A/Kate_Atkinson?sort=new"
+    },
+    "Philip Kaplan": {
+        "titles": [
+            "Skytrain",
+            "High Fliers",
+            "Spitfire",
+            "Lone Eagle",
+            "Building for Battle",
+            "Tank",
+            "Few"
+        ],
+        "url": "https://openlibrary.org/authors/OL408386A/Philip_Kaplan?sort=new"
+    },
+    "David Klass": {
+        "titles": [
+            "Losers Take All",
+            "Grandmaster",
+            "Timelock",
+            "Stuck On Earth",
+            "Planet Earth",
+            "Whirlwind",
+            "You Don't Know Me",
+            "Firestorm",
+            "Dark Angel"
+        ],
+        "url": "https://openlibrary.org/authors/OL544012A/David_Klass?sort=new"
+    },
+    "Meg Waite Clayton": {
+        "titles": [
+            "Beautiful Exiles",
+            "Race for Paris",
+            "Wednesday Daughters",
+            "Four Ms. Bradwells",
+            "Language of Light",
+            "Xing Qi Szi Mei",
+            "Wednesday Sisters"
+        ],
+        "url": "https://openlibrary.org/authors/OL1516798A/Meg_Waite_Clayton?sort=new"
+    },
+    "Laura Esquivel": {
+        "titles": [
+            "Swift As Desire"
+        ],
+        "url": "https://openlibrary.org/authors/OL85306A/Laura_Esquivel?sort=new"
+    },
+    "T. Coraghessan Boyle": {
+        "titles": [
+            "Outside Looking In",
+            "Harder They Come",
+            "Tortilla Curtain",
+            "When Killing's Done",
+            "Wild Child",
+            "Talk Talk"
+        ],
+        "url": "https://openlibrary.org/authors/OL78930A/T._Coraghessan_Boyle?sort=new"
+    },
+    "Laline Paull": {
+        "titles": [
+            "Pod",
+            "Ice"
+        ],
+        "url": "https://openlibrary.org/authors/OL7459360A/Laline_Paull?sort=new"
+    },
+    "Tom Rachman": {
+        "titles": [
+            "Italian Teacher"
+        ],
+        "url": "https://openlibrary.org/authors/OL6720509A/Tom_Rachman?sort=new"
+    },
+    "Ruth Ozeki": {
+        "titles": [
+            "Timecode of a Face",
+            "All Over Creation",
+            "My Year of Meats"
+        ],
+        "url": "https://openlibrary.org/authors/OL6466122A/Ruth_Ozeki?sort=new"
+    },
+    "Patrick Ness": {
+        "titles": [
+            "Ask and the Answer",
+            "Monsters of Men"
+        ],
+        "url": "https://openlibrary.org/authors/OL1538986A/Patrick_Ness?sort=new"
+    },
+    "Anita Abriel": {
+        "titles": [
+            "Girl During War",
+            "Lana's War",
+            "Light After War"
+        ],
+        "url": "https://openlibrary.org/authors/OL8354298A/Anita_Abriel?sort=new"
+    },
+    "Barbara Trapido": {
+        "titles": [
+            "Sex and Stravinsky",
+            "Frankie and Stankie",
+            "Malabarismos",
+            "Juggling",
+            "Temples of Delight",
+            "Noah's Ark"
+        ],
+        "url": "https://openlibrary.org/authors/OL235206A/Barbara_Trapido?sort=new"
+    },
+    "Laurie Notaro": {
+        "titles": [
+            "Housebroken",
+            "Crossing Horizon",
+            "Spooky Little Girl"
+        ],
+        "url": "https://openlibrary.org/authors/OL1436982A/Laurie_Notaro?sort=new"
+    },
+    "Cormac Mccarthy": {
+        "titles": [
+            "Passenger",
+            "Gardener's Son",
+            "Sunset Limited"
+        ],
+        "url": "https://openlibrary.org/authors/OL28104A/Cormac_McCarthy?sort=new"
     }
 }

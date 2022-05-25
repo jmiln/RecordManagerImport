@@ -1856,27 +1856,6 @@
         ]
     },
     {
-        "isbn": "9780316154703",
-        "title": "Let's Explore Diabetes with Owls",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Sedaris"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Back Bay/Little, Brown & Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780425291009",
         "title": "I Am Still Alive",
         "subtitle": "",
@@ -13221,27 +13200,6 @@
         ]
     },
     {
-        "isbn": "9780593156926",
-        "title": "Hollywood Spy",
-        "subtitle": "A Maggie Hope Mystery",
-        "authors": [
-            {
-                "name": "Susan Elia Macneal"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Bantam Dell / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780345500670",
         "title": "Fire",
         "subtitle": "A Novel",
@@ -18742,27 +18700,6 @@
         "publishers": [
             {
                 "name": "Bloomsbury"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316420235",
-        "title": "Dear Evan Hansen",
-        "subtitle": "The Novel",
-        "authors": [
-            {
-                "name": "Val Emmich"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Poppy"
             }
         ],
         "publish_places": [
@@ -68892,36 +68829,6 @@
         ]
     },
     {
-        "isbn": "9781501154607",
-        "title": "I Found You",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lisa Jewell"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2017",
-        "pages": 342,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780743449205",
         "title": "Neon Rain",
         "subtitle": "A Dave Robicheaux Novel",
@@ -88402,6 +88309,10 @@
         "authors": [
             {
                 "name": "Takaya Kagami"
+            },
+            {
+                "name": "Daisuke Furuya",
+                "contribution": "art by"
             }
         ],
         "keywords": [
@@ -88409,7 +88320,7 @@
             "man"
         ],
         "publish_date": "2014",
-        "pages": "u",
+        "pages": "174+",
         "price": 6,
         "binding": [
             "pb"
@@ -88434,7 +88345,8 @@
                 "name": "Takaya Kagami"
             },
             {
-                "name": "Daisuke Furuya"
+                "name": "Daisuke Furuya",
+                "contribution": "art by"
             }
         ],
         "keywords": [
@@ -88442,7 +88354,7 @@
             "man"
         ],
         "publish_date": "2014",
-        "pages": "u",
+        "pages": "197",
         "price": 6,
         "binding": [
             "pb"
@@ -88465,6 +88377,10 @@
         "authors": [
             {
                 "name": "Takaya Kagami"
+            },
+            {
+                "name": "Daisuke Furuya",
+                "contribution": "art by"
             }
         ],
         "keywords": [
@@ -88472,7 +88388,7 @@
             "man"
         ],
         "publish_date": "2014",
-        "pages": "u",
+        "pages": "172+",
         "price": 6,
         "binding": [
             "pb"
@@ -88485,6 +88401,795 @@
         "publish_places": [
             {
                 "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780345536884",
+        "title": "Litigators",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 402,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316176491",
+        "title": "Life After Life",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Atkinson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": "525+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101964873",
+        "title": "Gray Mountain",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 374,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101967669",
+        "title": "Rogue Lawyer",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Grisham"
+            },
+            {
+                "name": "Mark Deakins"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 344,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501154607",
+        "title": "I Found You",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Jewell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 344,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781612198507",
+        "title": "Night In Tehran",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Philip Kaplan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 309,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Melville House Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Brooklyn, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781524746162",
+        "title": "Out of Time",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "David Klass"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 372,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593156926",
+        "title": "Hollywood Spy",
+        "subtitle": "A Maggie Hope Mystery",
+        "authors": [
+            {
+                "name": "Susan Elia Macneal"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 349,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062946980",
+        "title": "Postmistress of Paris",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Meg Waite Clayton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 402,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385420161",
+        "title": "Like Water for Chocolate",
+        "subtitle": "A Novel In Monthly Installments With Recipes, Romances and Home Remedies",
+        "authors": [
+            {
+                "name": "Laura Esquivel"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1992",
+        "pages": 246,
+        "price": 8.75,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140178139",
+        "title": "Leviathan (Contemporary American Fiction)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Paul Auster"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1993",
+        "pages": 273,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670891770",
+        "title": "Friend of the Earth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. Coraghessan Boyle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 271,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062331175",
+        "title": "Bees",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laline Paull"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385343671",
+        "title": "Imperfectionists",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tom Rachman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 281,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804172448",
+        "title": "Station Eleven",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Emily St. John Mandel"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 333,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143124870",
+        "title": "Tale for the Time Being",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ruth Ozeki"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 422,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780763676186",
+        "title": "Knife of Never Letting Go",
+        "subtitle": "Chaos Walking, Book One",
+        "authors": [
+            {
+                "name": "Patrick Ness"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 512,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316154703",
+        "title": "Let's Explore Diabetes With Owls",
+        "subtitle": "Essays, Etc.",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2014",
+        "pages": 271,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982122980",
+        "title": "Light After the War",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anita Abriel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2020",
+        "pages": "311+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781620407226",
+        "title": "Brother of the More Famous Jack",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Barbara Trapido"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 239,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316420082",
+        "title": "Golden Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 389,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316420235",
+        "title": "Dear Evan Hansen",
+        "subtitle": "The Novel",
+        "authors": [
+            {
+                "name": "Val Emmich"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": 358,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Poppy/ Little, Brown and Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781449484590",
+        "title": "Whiskey Words & a Shovel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "R. H. Sin"
+            }
+        ],
+        "keywords": [
+            "poe"
+        ],
+        "publish_date": "2017",
+        "pages": 327,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Andrews Mcmeel Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Kansas City, Mo."
+            }
+        ]
+    },
+    {
+        "isbn": "0812969006",
+        "title": "I Love Everybody, and Other Atrocious Lies",
+        "subtitle": "True Tales of a Loudmouth Girl",
+        "authors": [
+            {
+                "name": "Laurie Notaro"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2004",
+        "pages": 228,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Villard / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679728726",
+        "title": "Orchard Keeper",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cormac Mccarthy"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 246,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781617295102",
+        "title": "Design of Web Apis",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Arnaud Lauret"
+            }
+        ],
+        "keywords": [
+            "cmp"
+        ],
+        "publish_date": "2019",
+        "pages": 364,
+        "price": 23.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Manning Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Shelter Island, Ny."
             }
         ]
     }
