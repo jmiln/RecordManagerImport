@@ -105,6 +105,7 @@ module.exports.condMap = {
 
     // DJ stuff
     dsun: "DJ Lightly Sunned at ${}.",
+    djpc: "DJ Price-Clipped.",
     fewd: "Faint Edgewear to DJ.",
     lewd: "Light Edgewear to DJ.",
     fwd:  "Faint Wear to DJ.",

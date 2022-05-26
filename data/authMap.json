@@ -1659,5 +1659,26 @@
             "Sunset Limited"
         ],
         "url": "https://openlibrary.org/authors/OL28104A/Cormac_McCarthy?sort=new"
+    },
+    "Michelle Richmond": {
+        "titles": [
+            "Dream of Blue Room",
+            "Year of Fog",
+            "No One You Know"
+        ],
+        "url": "https://openlibrary.org/authors/OL1482268A/Michelle_Richmond?sort=new"
+    },
+    "Charles Cumming": {
+        "titles": [
+            "Hidden Man",
+            "Colder War",
+            "Foreign Country",
+            "Trinity Six",
+            "Traitrises",
+            "Typhoon",
+            "Spy By Nature",
+            "Spanish Game"
+        ],
+        "url": "https://openlibrary.org/authors/OL4907382A/Charles_Cumming?sort=new"
     }
 }
