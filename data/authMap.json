@@ -1680,5 +1680,42 @@
             "Spanish Game"
         ],
         "url": "https://openlibrary.org/authors/OL4907382A/Charles_Cumming?sort=new"
+    },
+    "Diane Chamberlain": {
+        "titles": [
+            "Dream Daughter",
+            "Stolen Marriage",
+            "Pretending To Dance",
+            "Dance Begins",
+            "Broken String",
+            "Necessary Lies",
+            "First Lie",
+            "Good Father",
+            "Lies We Told",
+            "Shadow Wife",
+            "Lost Daughter",
+            "Before Storm"
+        ],
+        "url": "https://openlibrary.org/authors/OL367161A/Diane_Chamberlain?sort=new"
+    },
+    "Max Brooks": {
+        "titles": [
+            "World War Z"
+        ],
+        "url": "https://openlibrary.org/authors/OL1482402A/Max_Brooks?sort=new"
+    },
+    "Peter T. Deutermann": {
+        "titles": [
+            "Nugget",
+            "Iceman",
+            "Red Swan",
+            "Commodore",
+            "Sentinels of Fire",
+            "Last Man",
+            "Spider Mountain",
+            "Pacific Glory",
+            "Zero Option"
+        ],
+        "url": "https://openlibrary.org/authors/OL23879A/Peter_T._Deutermann?sort=new"
     }
 }

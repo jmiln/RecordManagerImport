@@ -89439,5 +89439,158 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781250074355",
+        "title": "Silent Sister",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Diane Chamberlain"
+            }
+        ],
+        "keywords": [
+            "lit"
+        ],
+        "publish_date": "2014",
+        "pages": 357,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984826787",
+        "title": "Devolution",
+        "subtitle": "A Firsthand Account of the Rainier Sasquatch Massacre",
+        "authors": [
+            {
+                "name": "Max Brooks"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 286,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312372415",
+        "title": "Nightwalkers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Peter T. Deutermann"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 311,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312371593",
+        "title": "Moonpool",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Peter T. Deutermann"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 292,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312599454",
+        "title": "Last Man",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Peter T. Deutermann"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 354,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
