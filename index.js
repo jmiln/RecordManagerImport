@@ -110,7 +110,7 @@ async function init() {
 
     const API_URL = `https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&jscmd=data&format=json`;
 
-    argv.conditions = argv.condition.split(",").map(c => c.toLowerCase());
+    argv.conditions = argv.condition?.length ? argv.condition.split(",").map(c => c.toLowerCase()) : [];
     debugLog("Conditions: ", argv.conditions);
     const extraArgs = { bc: "bc", lp: "lp", fr: "french" };
     for (const arg of Object.keys(extraArgs)) {
@@ -147,6 +147,7 @@ async function init() {
             .then((res) => res.json())
             .then((json) => jsonOut = json)
             .catch((err) => console.log(err));
+        debugLog("jsonOut: ", jsonOut);
     }
 
     // If it couldn't find a match for the isbn, ask for the main fields to be filled in
