@@ -1734,7 +1734,6 @@ function toProperCase(stringIn) {
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
     });
 
-
     // Make sure the 1st word is capitalized
     return stringIn.charAt(0).toUpperCase() + stringIn.substr(1);
 }

@@ -12981,27 +12981,6 @@
         ]
     },
     {
-        "isbn": "9780062073471",
-        "title": "And Then There Were None",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Agatha Christie"
-            }
-        ],
-        "publish_date": "2011",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781783291229",
         "title": "Venom Business",
         "subtitle": "",
@@ -53205,36 +53184,6 @@
         ]
     },
     {
-        "isbn": "9780307744432",
-        "title": "Night Circus",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Erin Morgenstern"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2011",
-        "pages": 512,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780375760389",
         "title": "Source",
         "subtitle": "A Novel",
@@ -89450,7 +89399,8 @@
             }
         ],
         "keywords": [
-            "lit"
+            "lit",
+            "fic"
         ],
         "publish_date": "2014",
         "pages": 357,
@@ -89585,6 +89535,98 @@
         "publishers": [
             {
                 "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307744432",
+        "title": "Night Circus",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Erin Morgenstern"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 516,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250248732",
+        "title": "Jane Austen Society",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Natalie Jenner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 309,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062073471",
+        "title": "And Then There Were None",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 247,
+        "price": 8.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
             }
         ],
         "publish_places": [
