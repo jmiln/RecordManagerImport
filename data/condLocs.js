@@ -143,6 +143,7 @@ module.exports.condLocs = {
     p:    "pages",
     pe:   "page edges",
     rb:   "rear board",
+    reps: "rear end papers.",
     rfep: "rfep",
     rp:   "rear pages",
     rw:   "rear wrap",

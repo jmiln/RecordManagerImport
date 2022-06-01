@@ -1689,11 +1689,6 @@
             "Dance Begins",
             "Broken String",
             "Necessary Lies",
-            "First Lie",
-            "Good Father",
-            "Lies We Told",
-            "Shadow Wife",
-            "Lost Daughter",
             "Before Storm"
         ],
         "url": "https://openlibrary.org/authors/OL367161A/Diane_Chamberlain?sort=new"
@@ -1723,5 +1718,77 @@
             "Bloomsbury Girls"
         ],
         "url": "https://openlibrary.org/authors/OL7924076A/Natalie_Jenner?sort=new"
+    },
+    "Lisa Wingate": {
+        "titles": [
+            "Drenched In Light",
+            "Tending Roses",
+            "Dandelion Summer",
+            "Month of Summer",
+            "Word Gets Around",
+            "Wildwood Creek",
+            "Story Keeper"
+        ],
+        "url": "https://openlibrary.org/authors/OL1387677A/Lisa_Wingate?sort=new"
+    },
+    "Alice Hoffman": {
+        "titles": [
+            "World That We Knew",
+            "Rules of Magic",
+            "Faithful",
+            "Dovekeepers",
+            "Nightbird"
+        ],
+        "url": "https://openlibrary.org/authors/OL25149A/Alice_Hoffman?sort=new"
+    },
+    "Mary Daheim": {
+        "titles": [
+            "Lady Macdeath",
+            "Bitter Alpine",
+            "Case of Bier",
+            "Alpha Alpine",
+            "Gone With Win"
+        ],
+        "url": "https://openlibrary.org/authors/OL27755A/Mary_Daheim?sort=new"
+    },
+    "Lisa Gardner": {
+        "titles": [
+            "Other Daughter",
+            "One Step Too Far",
+            "Right Behind You",
+            "Mom's Many Moods",
+            "Guy Who Died Twice"
+        ],
+        "url": "https://openlibrary.org/authors/OL32780A/Lisa_Gardner?sort=new"
+    },
+    "Nancy Thayer": {
+        "titles": [
+            "Summer Love",
+            "Family Reunion",
+            "Surfside Sisters",
+            "Island Girls",
+            "Hot Flash Club",
+            "Custody"
+        ],
+        "url": "https://openlibrary.org/authors/OL6076015A/Nancy_Thayer?sort=new"
+    },
+    "Santa Montefiore": {
+        "titles": [
+            "Butterfly Box",
+            "Summer House",
+            "Woman From Paris",
+            "Mermaid Garden"
+        ],
+        "url": "https://openlibrary.org/authors/OL4951570A/Santa_Montefiore?sort=new"
+    },
+    "Deborah E. Harkness": {
+        "titles": [
+            "World of All Souls",
+            "Time's Convert",
+            "Book of Life",
+            "Shadow of Night",
+            "Jewel House"
+        ],
+        "url": "https://openlibrary.org/authors/OL236272A/Deborah_E._Harkness?sort=new"
     }
 }

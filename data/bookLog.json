@@ -5423,27 +5423,6 @@
         ]
     },
     {
-        "isbn": "9781524746094",
-        "title": "Girl With The Louding Voice",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Abi Daré"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780857525666",
         "title": "Once Upon A River",
         "subtitle": "A Novel",
@@ -16257,27 +16236,6 @@
         ]
     },
     {
-        "isbn": "9781250272614",
-        "title": "Awakening",
-        "subtitle": "The Dragon Heart Legacy, Book 1",
-        "authors": [
-            {
-                "name": "Nora Roberts"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0786863137",
         "title": "Brain Droppings",
         "subtitle": "",
@@ -26996,27 +26954,6 @@
         "publishers": [
             {
                 "name": "Dial Press / Penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316392426",
-        "title": "Calypso",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Sedaris"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Back Bay/little, Brown & Co."
             }
         ],
         "publish_places": [
@@ -38387,32 +38324,6 @@
         "publish_date": "2021",
         "pages": 378,
         "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538719688",
-        "title": "Gambling Man",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Baldacci"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 459,
-        "price": 9.5,
         "binding": [
             "pb"
         ],
@@ -56303,36 +56214,6 @@
         ]
     },
     {
-        "isbn": "9780345804341",
-        "title": "Nickel Boys",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Colson Whitehead"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": 210,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316556323",
         "title": "Circe",
         "subtitle": "",
@@ -69602,37 +69483,6 @@
         "publishers": [
             {
                 "name": "Ecco / Harper-Collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062797155",
-        "title": "Tattooist Of Auschwitz",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Heather Morris"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "hfi"
-        ],
-        "publish_date": "2018",
-        "pages": "262+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "Harper / Harper-Collins"
             }
         ],
         "publish_places": [
@@ -89627,6 +89477,490 @@
         "publishers": [
             {
                 "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984819901",
+        "title": "Book of Lost Friends",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Wingate"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 401,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316392426",
+        "title": "Calypso",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2019",
+        "pages": 259,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425184943",
+        "title": "Blue Diary",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alice Hoffman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 288,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345804341",
+        "title": "Nickel Boys",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colson Whitehead"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2020",
+        "pages": 213,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062797155",
+        "title": "Tattooist of Auschwitz",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Heather Morris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2018",
+        "pages": "262+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719688",
+        "title": "Gambling Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 459,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062851765",
+        "title": "Magpie Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anthony Horowitz"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 500,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345468161",
+        "title": "Alpine Scandal",
+        "subtitle": "An Emma Lord Mystery",
+        "authors": [
+            {
+                "name": "Mary Daheim"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 325,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524746094",
+        "title": "Girl With the Louding Voice",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Abi Dare"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 382,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501160806",
+        "title": "Us Against You",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 434,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593419700",
+        "title": "Ocean Prey",
+        "subtitle": "A Lucas Davenport and Virgil Flowers Novel",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 438,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524744328",
+        "title": "Look for Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Gardner"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 401,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524798772",
+        "title": "Girls of Summer",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nancy Thayer"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 329,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062456854",
+        "title": "Girl In the Castle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Santa Montefiore"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2016",
+        "pages": 532,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250272614",
+        "title": "Awakening",
+        "subtitle": "The Dragon Heart Legacy, Book 1",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 435,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780670022410",
+        "title": "Discovery of Witches",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Deborah E. Harkness"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 579,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
             }
         ],
         "publish_places": [
