@@ -70,21 +70,21 @@ else {
 ; be trusted to fill properly
 
 ; From the starting point, CATEGORY
-sleep, 100
+sleep, 50
 ; Go up to stop it from looping all over like it does when tabbed in/ focused
 send, {up}
-sleep, 150
+sleep, 50
 
 ; Move to the correct spot for the catalog#, then click there a few times to try and make sure the cursor is there
 loop 4 {
     DosBoxMouseMove(195, 24)
     sleep, 50
     MouseClick, Left
-    sleep, 70
+    sleep, 50
 }
 
 ; 3 to author
-SetKeyDelay, 10
+SetKeyDelay, 1
 goDown(3)
 if (strLen(AUTHOR)) {
     sendRaw, %AUTHOR%
