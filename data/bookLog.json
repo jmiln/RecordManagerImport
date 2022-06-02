@@ -8654,27 +8654,6 @@
         ]
     },
     {
-        "isbn": "9780062914118",
-        "title": "Lost And Found Bookshop",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Susan Wiggs"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780752865751",
         "title": "Old House On The Corner",
         "subtitle": "",
@@ -70196,36 +70175,6 @@
         ]
     },
     {
-        "isbn": "9781501115073",
-        "title": "My Grandmother Asked Me To Tell You She's Sorry",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Fredrik Backman"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2016",
-        "pages": "372+",
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Washington Square Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780345534200",
         "title": "Circling The Sun",
         "subtitle": "",
@@ -77377,36 +77326,6 @@
         "publish_places": [
             {
                 "name": "Nashville, Tn."
-            }
-        ]
-    },
-    {
-        "isbn": "9781250217318",
-        "title": "House In the Cerulean Sea",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "T. J. Klune"
-            }
-        ],
-        "keywords": [
-            "sfi",
-            "fan"
-        ],
-        "publish_date": "2021",
-        "pages": "398+",
-        "price": 10.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -90607,6 +90526,409 @@
         "publishers": [
             {
                 "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062286932",
+        "title": "Snow Like Ashes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sara Raasch"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": "422+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Balzer + Bray/harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062915665",
+        "title": "Color of Dragons",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "R. A. Salvatore"
+            },
+            {
+                "name": "Erika Lewis"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 402,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Teen"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335418661",
+        "title": "Forgery of Roses",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jessica S. Olson"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2022",
+        "pages": 377,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Inkyard Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781547603794",
+        "title": "Havenfall",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sara Holland"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 305,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250618849",
+        "title": "Gilded",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marissa Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 502,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Feiwel & Friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778369356",
+        "title": "Library of Lost and Found",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Phaedra Patrick"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 348,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501115073",
+        "title": "My Grandmother Asked Me To Tell You She's Sorry",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": "372+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982121297",
+        "title": "Things In Jars",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jess Kidd"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 369,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250217318",
+        "title": "House In the Cerulean Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. J. Klune"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 398,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062467256",
+        "title": "Bookshop On the Corner",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jenny Colgan"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 370,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062914118",
+        "title": "Lost and Found Bookshop",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Susan Wiggs"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "355+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062562647",
+        "title": "Other Mother",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Carol Goodman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": "321+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345450890",
+        "title": "Lake of Dead Languages",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Carol Goodman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": "402+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
             }
         ],
         "publish_places": [
