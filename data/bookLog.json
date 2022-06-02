@@ -12055,27 +12055,6 @@
         ]
     },
     {
-        "isbn": "9780062995261",
-        "title": "When We Were Young And Brave",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Hazel Gaynor"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316154895",
         "title": "House Of Broken Angels",
         "subtitle": "",
@@ -89961,6 +89940,673 @@
         "publishers": [
             {
                 "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778325918",
+        "title": "Cedar Cove Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 280,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101990186",
+        "title": "Great Pretenders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Laura Kalpakian"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 376,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062568991",
+        "title": "End of Men",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Rinaldi"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 327,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451208613",
+        "title": "Good Hope Road",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Wingate"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 294,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062257840",
+        "title": "Perfume Collector",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kathleen Tessaro"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2014",
+        "pages": 456,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062456908",
+        "title": "Secret of the Irish Castle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Santa Montefiore"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2018",
+        "pages": "464+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781447265375",
+        "title": "Winter Garden",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 410,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pan Books / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "1573223328",
+        "title": "Across the Nightingale Floor",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lian Hearn"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2003",
+        "pages": 305,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765376466",
+        "title": "Darker Shade of Magic",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Victoria Schwab"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2015",
+        "pages": 413,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765331120",
+        "title": "Magic of Recluce",
+        "subtitle": "The Saga of Recluse, Book One - Special 20th Anniversary Edition",
+        "authors": [
+            {
+                "name": "L. E. Modesitt, Jr."
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 443,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399180989",
+        "title": "Spinning Silver",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Naomi Novik"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2018",
+        "pages": 466,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735216723",
+        "title": "Deacon King Kong",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Mcbride"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 370,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140282033",
+        "title": "Chocolat",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joanne Harris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 306,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781844083169",
+        "title": "Land of Spices",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kate O'brien"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 306,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Virago Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101985212",
+        "title": "Enchantress of Numbers",
+        "subtitle": "A Novel of Ada Lovelace",
+        "authors": [
+            {
+                "name": "Jennifer Chiaverini"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 432,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062995261",
+        "title": "When We Were Young and Brave",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hazel Gaynor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "unpaginated",
+        "price": null,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446543538",
+        "title": "First Counsel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brad Meltzer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 490,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101974117",
+        "title": "Inferno",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dan Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 560,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101984239",
+        "title": "Scarred Woman",
+        "subtitle": "A Department Q Novel",
+        "authors": [
+            {
+                "name": "Jussi Adler-Olsen"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 472,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684842386",
+        "title": "Shilling for Candles",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Josephine Tey"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1998",
+        "pages": 238,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547807683",
+        "title": "Dark Monk",
+        "subtitle": "A Hangman's Daughter Tale",
+        "authors": [
+            {
+                "name": "Oliver Potzsch"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": "463+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062886064",
+        "title": "American Traitor: a Pike Logan Novel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Taylor, Brad"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 449,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
             }
         ],
         "publish_places": [

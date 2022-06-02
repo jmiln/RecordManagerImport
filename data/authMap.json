@@ -8,9 +8,6 @@
     "Robert Hans Van Gulik": {
         "format": "Van Gulick, Robert Hans"
     },
-    "L. E. Modesitt Jr.": {
-        "format": "Modesitt, L. E., Jr."
-    },
     "Frank Ayres Jr.": {
         "format": "Ayres, Frank, Jr."
     },
@@ -1790,5 +1787,161 @@
             "Jewel House"
         ],
         "url": "https://openlibrary.org/authors/OL236272A/Deborah_E._Harkness?sort=new"
+    },
+    "Laura Kalpakian": {
+        "titles": [
+            "Unruly Past",
+            "Dark Continent",
+            "Memory Into Memoir",
+            "Unspoken Truths",
+            "Memoir Club",
+            "Stone Stories"
+        ],
+        "url": "https://openlibrary.org/authors/OL23112A/Laura_Kalpakian?sort=new"
+    },
+    "Kathleen Tessaro": {
+        "titles": [
+            "Rare Objects",
+            "My Sin",
+            "Debutante",
+            "Flirt",
+            "Innocence",
+            "Elegance"
+        ],
+        "url": "https://openlibrary.org/authors/OL1477918A/Kathleen_Tessaro?sort=new"
+    },
+    "Lian Hearn": {
+        "url": "https://openlibrary.org/authors/OL1415040A/Lian_Hearn?sort=new"
+    },
+    "Victoria Schwab": {
+        "titles": [
+            "Tunnel of Bones",
+            "Shades of Magic",
+            "Monsters of Verity",
+            "City of Ghosts",
+            "Dark Vault",
+            "Our Dark Duet",
+            "This Savage Song"
+        ],
+        "url": "https://openlibrary.org/authors/OL6979295A/Victoria_Schwab?sort=new"
+    },
+    "L. E. Modesitt, Jr.": {
+        "format": "Modesitt, L. E., Jr.",
+        "titles": [
+            "Councilor",
+            "Isolate",
+            "Fairhaven Rising",
+            "Quantum Shadows",
+            "Endgames",
+            "Saga of Recluce",
+            "Outcasts of Order",
+            "Mongrel Mage",
+            "Recluce Tales"
+        ],
+        "url": "https://openlibrary.org/authors/OL7024126A/L._E._Modesitt_Jr.?sort=new"
+    },
+    "L. E. Modesitt Jr.": {
+        "format": "Modesitt, L. E., Jr."
+    },
+    "Naomi Novik": {
+        "titles": [
+            "Victory of Eagles",
+            "Golden Enclaves",
+            "Last Graduate",
+            "Black Powder War",
+            "Deadly Education"
+        ],
+        "url": "https://openlibrary.org/authors/OL1434553A/Naomi_Novik?sort=new"
+    },
+    "Joanne Harris": {
+        "titles": [
+            "Different Class",
+            "Pocketful of Crows",
+            "Evangelie Ot Loki",
+            "Gospel of Loki",
+            "Runelight",
+            "Blueeyedboy",
+            "Chai S Ptit łSami"
+        ],
+        "url": "https://openlibrary.org/authors/OL25453A/Joanne_Harris?sort=new"
+    },
+    "Kate O'brien": {
+        "titles": [
+            "Balancing Senses",
+            "My Ireland",
+            "Flower of May"
+        ],
+        "url": "https://openlibrary.org/authors/OL187190A/Kate_O'Brien?sort=new"
+    },
+    "Jennifer Chiaverini": {
+        "titles": [
+            "Women's March",
+            "Christmas Boutique",
+            "Resistance Women",
+            "Fates and Traitors",
+            "Christmas Bells"
+        ],
+        "url": "https://openlibrary.org/authors/OL30575A/Jennifer_Chiaverini?sort=new"
+    },
+    "Brad Meltzer": {
+        "titles": [
+            "Inner Circle",
+            "Tenth Justice"
+        ],
+        "url": "https://openlibrary.org/authors/OL10367033A/Brad_Meltzer?sort=new"
+    },
+    "Dan Brown": {
+        "titles": [
+            "Angels & Demons",
+            "Meteor",
+            "Da Vinci Code"
+        ],
+        "url": "https://openlibrary.org/authors/OL39307A/Dan_Brown?sort=new"
+    },
+    "Jussi Adler-Olsen": {
+        "titles": [
+            "Shadow Murders",
+            "Alphabet House",
+            "Washington Decree",
+            "Absent One",
+            "Conspiracy Of Earth"
+        ],
+        "url": "https://openlibrary.org/authors/OL6941838A/Jussi_Adler-Olsen?sort=new"
+    },
+    "Josephine Tey": {
+        "titles": [
+            "Expensive Halo",
+            "Dickon",
+            "Three By Tey",
+            "Privateer",
+            "Daughter of Time",
+            "Brat Farrar",
+            "Miss Pym Disposes",
+            "Stars Bow Down",
+            "Claverhouse",
+            "Queen of Scots",
+            "Laughing Woman"
+        ],
+        "url": "https://openlibrary.org/authors/OL2625174A/Josephine_Tey?sort=new"
+    },
+    "Oliver Potzsch": {
+        "titles": [
+            "Council of Twelve",
+            "Play of Death",
+            "Castle of Kings",
+            "Werewolf of Bamberg",
+            "Die Burg Der Konige",
+            "Beggar King"
+        ],
+        "url": "https://openlibrary.org/authors/OL6957405A/Oliver_Pötzsch?sort=new"
+    },
+    "Taylor, Brad": {
+        "titles": [
+            "Hunter Killer",
+            "Daughter Of War",
+            "Operator Down",
+            "Ring Of Fire"
+        ],
+        "url": "https://openlibrary.org/authors/OL9041674A/Taylor_brad?sort=new"
     }
 }
