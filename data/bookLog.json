@@ -27089,27 +27089,6 @@
         ]
     },
     {
-        "isbn": "9781250301697",
-        "title": "Silent Patient",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Alex Michaelides"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Celadon Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316420389",
         "title": "Russian",
         "subtitle": "A Detective Michael Bennett Thriller",
@@ -33476,32 +33455,6 @@
         ]
     },
     {
-        "isbn": "9781477825570",
-        "title": "My Sister's Grave",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Robert Dugoni"
-            }
-        ],
-        "publish_date": "2014",
-        "pages": 410,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Thomas & Mercer"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Seattle, Wa."
-            }
-        ]
-    },
-    {
         "isbn": "9780375719233",
         "title": "Leather Maiden",
         "subtitle": "",
@@ -36257,32 +36210,6 @@
         "publishers": [
             {
                 "name": "Wednesday Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316015844",
-        "title": "Twilight",
-        "subtitle": "The Twilight Saga, Book 1",
-        "authors": [
-            {
-                "name": "Stephenie Meyer"
-            }
-        ],
-        "publish_date": "2006",
-        "pages": 498,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [
@@ -39354,32 +39281,6 @@
         "publishers": [
             {
                 "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781501190117",
-        "title": "Family Upstairs",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lisa Jewell"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": "342+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
             }
         ],
         "publish_places": [
@@ -44797,36 +44698,6 @@
         ],
         "publish_date": "2021",
         "pages": 342,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Berkley Books/penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593333037",
-        "title": "Dial A For Aunties",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Jesse Q. Sutanto"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 309,
         "price": 9,
         "binding": [
             "pb"
@@ -66742,35 +66613,6 @@
         ]
     },
     {
-        "isbn": "9781400074303",
-        "title": "Where Lilacs Still Bloom",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jane Kirkpatrick"
-            }
-        ],
-        "keywords": [
-            "xfi"
-        ],
-        "publish_date": "2012",
-        "pages": 371,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Waterbrook Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Colorado Springs, Co."
-            }
-        ]
-    },
-    {
         "isbn": "9780778389378",
         "title": "Diplomat's Wife",
         "subtitle": "A Novel",
@@ -83359,42 +83201,6 @@
         ]
     },
     {
-        "isbn": "9780062473271",
-        "title": "Andromeda Evolution",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Daniel H. Wilson",
-                "url": "https://openlibrary.org/authors/OL1426968A/Daniel_H._Wilson"
-            },
-            {
-                "name": "Michael Crichton",
-                "contribution": "based on the series by"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2019",
-        "pages": 266,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Harper / Harper-Collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780060890681",
         "title": "Last Anniversary",
         "subtitle": "A Novel",
@@ -90934,6 +90740,1501 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476783734",
+        "title": "Brother",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ania Ahlborn"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2015",
+        "pages": 322,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316015844",
+        "title": "Twilight",
+        "subtitle": "The Twilight Saga, Book 1",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2006",
+        "pages": "498+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593333037",
+        "title": "Dial a for Aunties",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jesse Q. Sutanto"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 309,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062748331",
+        "title": "American Duchess",
+        "subtitle": "A Novel of Consuelo Vanderbilt",
+        "authors": [
+            {
+                "name": "Karen Harper"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 350,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400074303",
+        "title": "Where Lilacs Still Bloom",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "keywords": [
+            "xfi"
+        ],
+        "publish_date": "2012",
+        "pages": 371,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Waterbrook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Colorado Springs, Co."
+            }
+        ]
+    },
+    {
+        "isbn": "9781400032716",
+        "title": "Curious Incident of the Dog In the Night-Time",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mark Haddon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 226,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781789541823",
+        "title": "Jewel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Neil Hegarty"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 355,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Head of Zeus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250774422",
+        "title": "Last Book Party",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Dukess"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 244,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061340642",
+        "title": "Run",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ann Patchett"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": "295+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781786816405",
+        "title": "Bones She Buried",
+        "subtitle": "Detective Josie Quinn, Book 5",
+        "authors": [
+            {
+                "name": "Lisa Regan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 310,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bookouture"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728234298",
+        "title": "Devil and the Dark Water",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stuart Turton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 494,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780063257115",
+        "title": "When No One is Watching",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Alyssa Cole"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 352,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143123774",
+        "title": "Game of Mirrors",
+        "subtitle": "An Inspector Montalbano Mystery",
+        "authors": [
+            {
+                "name": "Andrea Camilleri"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 277,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780241305317",
+        "title": "Secret Guests",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Benjamin Black"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 272,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781633881778",
+        "title": "Paris Librarian",
+        "subtitle": "A Hugo Marston Novel",
+        "authors": [
+            {
+                "name": "Mark Pryor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 263,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Seventh Street Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501190117",
+        "title": "Family Upstairs",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Jewell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "342+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781478945185",
+        "title": "Instinct",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Howard Roughan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 340,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715413",
+        "title": "Revenge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Andrew Holmes"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 336,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781612184753",
+        "title": "Midnight Exposure",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melinda Leigh"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 306,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Montlake Romance"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Las Vegas, Nv."
+            }
+        ]
+    },
+    {
+        "isbn": "9781503942998",
+        "title": "Losing Leah Holloway",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Regan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 369,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas & Mercer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781611098846",
+        "title": "Midnight Sacrifice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melinda Leigh"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 305,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Montlake Romance"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Las Vegas, Nv."
+            }
+        ]
+    },
+    {
+        "isbn": "9781542007047",
+        "title": "Right Behind Her",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melinda Leigh"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 303,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Montlake"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781477825570",
+        "title": "My Sister's Grave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Dugoni"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 410,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas & Mercer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781542092838",
+        "title": "Save Your Breath",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melinda Leigh"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 307,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Montlake Romance"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781455577583",
+        "title": "Robert Ludlum's the Geneva Strategy",
+        "subtitle": "A Covert-One Novel",
+        "authors": [
+            {
+                "name": "Jamie Freveletti"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 403,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781783294862",
+        "title": "Search and Destroy",
+        "subtitle": "A Gunn Brothers Thriller",
+        "authors": [
+            {
+                "name": "James Hilton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 397,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781838880149",
+        "title": "Cold Heart Creek",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Regan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 332,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bookouture"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781838880040",
+        "title": "Her Silent Cry",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Regan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 343,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bookouture"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781477818305",
+        "title": "Thin Air",
+        "subtitle": "A Jessica Shaw Thriller",
+        "authors": [
+            {
+                "name": "Lisa Gray"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 278,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas & Mercer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781503903050",
+        "title": "What I've Done",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melinda Leigh"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 326,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Montlake Romance"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780802129239",
+        "title": "Bomb Maker",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Thomas Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "372+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mysterious Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399585005",
+        "title": "Back Blast",
+        "subtitle": "A Gray Man Novel",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 517,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250306555",
+        "title": "Death of No Importance",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mariah Fredericks"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 298,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781771511988",
+        "title": "Killer In King's Cove",
+        "subtitle": "A Lane Winslow Mystery",
+        "authors": [
+            {
+                "name": "Iona Whishaw"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 408,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Touchwood Editions"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062473271",
+        "title": "Andromeda Evolution",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniel H. Wilson",
+                "url": "https://openlibrary.org/authors/OL1426968A/Daniel_H._Wilson"
+            },
+            {
+                "name": "Michael Crichton",
+                "contribution": "based on the series by"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 366,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250301697",
+        "title": "Silent Patient",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Michaelides"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 325,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250121288",
+        "title": "Down a Dark Road",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Linda Castillo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 292,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316342353",
+        "title": "Take",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christopher Reich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 393,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250075871",
+        "title": "Vendetta",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Iris Johansen"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 404,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525425892",
+        "title": "We Are Okay",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nina Lacour"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": 234,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250145444",
+        "title": "Grace Year",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kim Liggett"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 408,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593565056",
+        "title": "Skin of the Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Natasha Bowen"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 309,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484778203",
+        "title": "Lore",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexandra Bracken"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 466,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316125581",
+        "title": "Short Second Life of Bree Tanner",
+        "subtitle": "An Eclipse Novella",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2010",
+        "pages": 178,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442471818",
+        "title": "Crank",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ellen Hopkins"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 537,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316038386",
+        "title": "Twilight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2008",
+        "pages": "498+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Megan Tingley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781452128771",
+        "title": "Falconer: Book One of the Falconer Trilogy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth May"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 378,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Chronicle Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781728215167",
+        "title": "Obsession",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jesse Sutanto"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 307,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Fire"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781496437853",
+        "title": "Jerusalem Assassin",
+        "subtitle": "A Marcus Ryker Novel",
+        "authors": [
+            {
+                "name": "Joel C. Rosenberg"
+            }
+        ],
+        "keywords": [
+            "xfi"
+        ],
+        "publish_date": "2021",
+        "pages": 466,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
             }
         ]
     }
