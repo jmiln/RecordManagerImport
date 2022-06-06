@@ -102,6 +102,11 @@ async function init() {
     }
     debugLog("argV: ", argv);
 
+    if (!process.argv[2]) {
+        rl.close();
+        return console.log("[ERROR] Missing ISBN!");
+    }
+
     let isbn = getIsbnFromArg(process.argv[2]);
     if (!isbn) {
         rl.close();
