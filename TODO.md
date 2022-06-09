@@ -17,6 +17,8 @@
 
 - Add in a qty flag in case there end up being multiple copies of something
 
+- Should maybe add in saving the illustrations string
+
 
 ## New Fields
 

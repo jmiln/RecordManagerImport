@@ -47,6 +47,7 @@ module.exports.condMap = {
     pono:  "Prev. Owner note{ on} ${inside}.",
     pobp:  "Prev. Owner bookplate{ on} ${inside}.",
     post:  "Prev. Owner stamp{ on} ${inside}.",
+    poem:  "Prev. Owner Embossed stamp{ on} ${inside}.",
 
     // Toning
     fton: "Faint toning to ${page edges}.",

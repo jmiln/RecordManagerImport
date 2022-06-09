@@ -58992,9 +58992,6 @@
         "authors": [
             {
                 "name": "W.E.B. Griffin"
-            },
-            {
-                "name": "William E. Butterworth Iv"
             }
         ],
         "keywords": [
@@ -78285,10 +78282,7 @@
         "subtitle": "A Clandestine Operations Novel",
         "authors": [
             {
-                "name": "W. E. B. Griffin"
-            },
-            {
-                "name": "William E. Butterworth IV"
+                "name": "W.E.B. Griffin"
             }
         ],
         "keywords": [
@@ -78319,10 +78313,7 @@
         "subtitle": "A Clandestine Operations Novel, Book 4",
         "authors": [
             {
-                "name": "W. E. B. Griffin"
-            },
-            {
-                "name": "William E. Butterworth Iv"
+                "name": "W.E.B. Griffin"
             }
         ],
         "keywords": [
@@ -83338,37 +83329,6 @@
         ],
         "publish_date": "2010",
         "pages": "303+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Mariner/houghton Mifflin Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Boston"
-            }
-        ]
-    },
-    {
-        "isbn": "9780544227804",
-        "title": "Dying Fall",
-        "subtitle": "A Ruth Galloway Mystery",
-        "authors": [
-            {
-                "name": "Elly Griffiths",
-                "url": "https://openlibrary.org/authors/OL6605313A/Elly_Griffiths"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2014",
-        "pages": 392,
         "price": 9.5,
         "binding": [
             "pb"
@@ -92235,6 +92195,1194 @@
         "publish_places": [
             {
                 "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781455528233",
+        "title": "Dead Lands",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Benjamin Percy"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2016",
+        "pages": 407,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781788546416",
+        "title": "Room of the Dead",
+        "subtitle": "A Betty Church Mystery",
+        "authors": [
+            {
+                "name": "M. R. C. Kasasian"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 426,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Head of Zeus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538752487",
+        "title": "Till Murder Do Us Part",
+        "subtitle": "True-Crime Thrillers",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "tcr",
+            "mys"
+        ],
+        "publish_date": "2021",
+        "pages": 325,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781536213010",
+        "title": "Great Gatsby",
+        "subtitle": "A Graphic Novel Adaptation",
+        "authors": [
+            {
+                "name": "Francis Scott Key Fitzgerald"
+            },
+            {
+                "name": "Francis Scott Fitzgerald"
+            },
+            {
+                "name": "F Scott Fitzgerald"
+            },
+            {
+                "name": "F. Scott Fitzgerald"
+            },
+            {
+                "name": "F. Fitzgerald"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra",
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "u",
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9781617737169",
+        "title": "Smoke Jensen, the Beginning",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William W. Johnstone"
+            }
+        ],
+        "keywords": [
+            "wes",
+            "hfi"
+        ],
+        "publish_date": "2015",
+        "pages": 313,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496734495",
+        "title": "Go West, Young Man",
+        "subtitle": "A Novel of the American",
+        "authors": [
+            {
+                "name": "William W. Johnstone"
+            },
+            {
+                "name": "J.a. Johnstone"
+            }
+        ],
+        "keywords": [
+            "wes",
+            "hfi"
+        ],
+        "publish_date": "2021",
+        "pages": 316,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780544227804",
+        "title": "Dying Fall",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths",
+                "url": "https://openlibrary.org/authors/OL6605313A/Elly_Griffiths"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 392,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143132042",
+        "title": "Eye of the Needle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 320,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060932295",
+        "title": "Sharpe's Devil",
+        "subtitle": "Richard Sharpe and the Emperor, 1820-1821",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "hfi"
+        ],
+        "publish_date": "1999",
+        "pages": 322,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781620905951",
+        "title": "Buffalo Bill's Dead Now",
+        "subtitle": "A Wind River Mystery",
+        "authors": [
+            {
+                "name": "Margaret Coel"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 291,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982166458",
+        "title": "When You Are Mine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Michael Robotham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 358,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062895363",
+        "title": "Chestnut Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Soren Sveistrup"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 516,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399142894",
+        "title": "Last Heroes",
+        "subtitle": "Volume One of Men At War",
+        "authors": [
+            {
+                "name": "W.e.b. Griffin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1997",
+        "pages": 342,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399143815",
+        "title": "Secret Warriors",
+        "subtitle": "A Men At War Novel",
+        "authors": [
+            {
+                "name": "W.e.b. Griffin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1998",
+        "pages": 321,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399156632",
+        "title": "Vigilantes",
+        "subtitle": "A Badge of Honor Novel",
+        "authors": [
+            {
+                "name": "William E. Butterworth (W.e.b.) Griffin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 342,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399134409",
+        "title": "Clear and Present Danger",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tom Clancy"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1989",
+        "pages": 656,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399153144",
+        "title": "Hostage",
+        "subtitle": "A Presidential Agent Novel",
+        "authors": [
+            {
+                "name": "William E. Butterworth (W.e.b.) Griffin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 465,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425264638",
+        "title": "Killing Custer",
+        "subtitle": "A Wind River Mystery",
+        "authors": [
+            {
+                "name": "Margaret Coel"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 309,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781414386904",
+        "title": "Sea Keeper's Daughters",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Wingate"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 432,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781492654599",
+        "title": "Highland Captive",
+        "subtitle": "The Sons of Gregor Macleod",
+        "authors": [
+            {
+                "name": "Alyson Mclayne"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 355,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Casablanca"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781524740979",
+        "title": "Downstairs Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stacey Lee"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 372,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101937679",
+        "title": "Words In Deep Blue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cath Crowley"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": 269,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0842356290",
+        "title": "Remember",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "keywords": [
+            "xfi"
+        ],
+        "publish_date": "2003",
+        "pages": 409,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Wheaton, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781578562596",
+        "title": "Grace In Thine Eyes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liz Curtis Higgs"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2006",
+        "pages": 447,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Waterbrook Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Colorado Springs, Co."
+            }
+        ]
+    },
+    {
+        "isbn": "0805210555",
+        "title": "Complete Stories",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Franz Kafka"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 486,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Schocken Books / Pantheon"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805210393",
+        "title": "Castle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Franz Kafka"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 481,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Schocken Books / Pantheon"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061177583",
+        "title": "Ham On Rye",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Charles Bukowski"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 283,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451231444",
+        "title": "Falling Home",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen White"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 437,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451626100",
+        "title": "White Princess",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Philippa Gregory"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 528,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425278185",
+        "title": "Come Rain Or Come Shine",
+        "subtitle": "A Mitford Novel",
+        "authors": [
+            {
+                "name": "Jan Karon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 287,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143114390",
+        "title": "Home To Holly Springs",
+        "subtitle": "A Mitford Novel",
+        "authors": [
+            {
+                "name": "Jan Karon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 373,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142002582",
+        "title": "In This Mountain",
+        "subtitle": "A Mitford Novel",
+        "authors": [
+            {
+                "name": "Jan Karon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 393,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142000342",
+        "title": "Common Life",
+        "subtitle": "The Wedding Story - the Sixth Novel In the Mitford Series",
+        "authors": [
+            {
+                "name": "Jan Karon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 205,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250259042",
+        "title": "Crossings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alex Landragin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 359,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399151761",
+        "title": "Battle Ready",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tom Clancy"
+            },
+            {
+                "name": "General Tony Zinni (Ret.)"
+            },
+            {
+                "name": "Tony Koltz"
+            }
+        ],
+        "keywords": [
+            "mil"
+        ],
+        "publish_date": "2004",
+        "pages": 450,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0525948619",
+        "title": "By Duty Bound",
+        "subtitle": "Survival and Redemption In a Time of War",
+        "authors": [
+            {
+                "name": "Ezell Ware"
+            },
+            {
+                "name": "Jr. (Ca. Ret.), Brig. Gen. Ezell Ware"
+            },
+            {
+                "name": "Joel Engel"
+            }
+        ],
+        "keywords": [
+            "mil"
+        ],
+        "publish_date": "2005",
+        "pages": 321,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780874863444",
+        "title": "Freiheit!",
+        "subtitle": "The White Rose Graphic Novel",
+        "authors": [
+            {
+                "name": "Andrea Grosso Ciponte"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2021",
+        "pages": 111,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Plough Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Walden, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781582408101",
+        "title": "Michael Allred's Madman, Volume 1",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mike Allred"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2007",
+        "pages": "272+",
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
             }
         ]
     }
