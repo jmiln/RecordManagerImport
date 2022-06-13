@@ -12,7 +12,14 @@
         "format": "Ayres, Frank, Jr."
     },
     "Simone St. James": {
-        "format": "St. James, Simone"
+        "format": "St. James, Simone",
+        "titles": [
+            "Book of Cold Cases",
+            "Sun Down Motel",
+            "Lost Among Living",
+            "Silence for Dead"
+        ],
+        "url": "https://openlibrary.org/authors/OL6992104A/Simone_St._James?sort=new"
     },
     "Simone Van Der Vlugt": {
         "format": "Van Der Vlugt, Simone"
@@ -1399,7 +1406,18 @@
         ]
     },
     "Donna Tartt": {
-        "url": "https://openlibrary.org/authors/OL841112A/Donna_Tartt"
+        "url": "https://openlibrary.org/authors/OL841112A/Donna_Tartt",
+        "titles": [
+            "Jin Chi Que",
+            "Szczygieł",
+            "Un Juego De Ninos",
+            "Il Cardellino",
+            "El Jilguero",
+            "Le Chardonneret",
+            "Het Puttertje",
+            "Goldfinch",
+            "Le Petit Copain"
+        ]
     },
     "Phillips, Arthur": {
         "titles": [
@@ -2369,38 +2387,23 @@
     },
     "Liz Curtis Higgs": {
         "titles": [
-            "Parabolas De Vida",
             "Women of Easter",
             "Parable Treasury",
             "Bad Girls of Bible",
-            "Les Femmes De Noel",
-            "La Nuit Est a Moi",
             "Women of Christmas",
             "Girl's Still Got It",
-            "Wreath of Snow",
-            "La Grace a Tes Yeux"
+            "Wreath of Snow"
         ],
         "url": "https://openlibrary.org/authors/OL23195A/Liz_Curtis_Higgs?sort=new"
     },
     "Franz Kafka": {
-        "titles": [
-            "Bau (Illustriert)",
-            "Um Artista Da Fome",
-            "Landarzt",
-            "In Der Strafkolonie",
-            "Dava - Sert Kapak"
-        ],
         "url": "https://openlibrary.org/authors/OL33146A/Franz_Kafka?sort=new"
     },
     "Charles Bukowski": {
         "titles": [
-            "Chinaski",
-            "Postane",
-            "Factotum",
             "Absence of Hero",
             "Come On In",
-            "Continual Condition",
-            "Factotum Tie-In"
+            "Continual Condition"
         ],
         "url": "https://openlibrary.org/authors/OL31084A/Charles_Bukowski?sort=new"
     },
@@ -2416,5 +2419,253 @@
             "Madmatomica"
         ],
         "url": "https://openlibrary.org/authors/OL2864368A/Mike_Allred?sort=new"
+    },
+    "Richard Paul Evans": {
+        "titles": [
+            "Christmas Memory",
+            "Noel Letters",
+            "Christmas Promise",
+            "Noel Street",
+            "Noel Collection",
+            "Noel Stranger",
+            "Road Home",
+            "Forgotten Road",
+            "Noel Diary"
+        ],
+        "url": "https://openlibrary.org/authors/OL7667493A/Richard_Paul_Evans?sort=new"
+    },
+    "Kelly Bowen": {
+        "titles": [
+            "Rogue By Night",
+            "Duke In the Night",
+            "Lady In Red",
+            "Duke of My Heart",
+            "Duke To Remember"
+        ],
+        "url": "https://openlibrary.org/authors/OL7412785A/Kelly_Bowen?sort=new"
+    },
+    "Frank Herbert": {
+        "titles": [
+            "Operation Haystack"
+        ],
+        "url": "https://openlibrary.org/authors/OL79034A/Frank_Herbert?sort=new"
+    },
+    "Patrick Rothfuss": {
+        "titles": [
+            "Wise Man’s Fear",
+            "Der Name Des Windes"
+        ],
+        "url": "https://openlibrary.org/authors/OL2830895A/Patrick_Rothfuss?sort=new"
+    },
+    "Fonda Lee": {
+        "titles": [
+            "Untethered Sky",
+            "Jade Legacy",
+            "Jade War",
+            "Cross Fire",
+            "Exo",
+            "Where Stars Rise",
+            "Zeroboxer"
+        ],
+        "url": "https://openlibrary.org/authors/OL7469465A/Fonda_Lee?sort=new"
+    },
+    "Seishi Yokomizo": {
+        "titles": [
+            "Nu Wang Feng",
+            "Qushen Jia Yi Zu",
+            "Aeginaku Shibijin",
+            "Noroi No To",
+            "Soseiji Wa Sasayaku",
+            "Bai Yu Hei",
+            "Kubi",
+            "Yoru Aruku",
+            "Yatsuhaka-Mura",
+            "Jinmenso",
+            "Gokumonto"
+        ],
+        "url": "https://openlibrary.org/authors/OL4283362A/Seishi_Yokomizo?sort=new"
+    },
+    "Carola Dunn": {
+        "titles": [
+            "Lady In Briars",
+            "Polly and Prince",
+            "Buried In Country",
+            "Heirs of Body",
+            "Superfluous Women",
+            "Damsel In Distress",
+            "Manna From Hades"
+        ],
+        "url": "https://openlibrary.org/authors/OL7938414A/Carola_Dunn?sort=new"
+    },
+    "A. J Finn": {
+        "titles": [
+            "Mulher Na Janela"
+        ],
+        "url": "https://openlibrary.org/authors/OL7634050A/A._J_Finn?sort=new"
+    },
+    "Joe Ide": {
+        "titles": [
+            "Goodbye Coast",
+            "Hi Five",
+            "Wrecked",
+            "Righteous",
+            "Iq"
+        ],
+        "url": "https://openlibrary.org/authors/OL7524824A/Joe_Ide?sort=new"
+    },
+    "Robert Wilson": {
+        "titles": [
+            "Rasplata",
+            "Stealing People",
+            "Capital Punishment",
+            "Ignorance of Blood",
+            "Hidden Assassins",
+            "Meurtres a Seville",
+            "Silent and Damned",
+            "Darkening Stain",
+            "Big Killing"
+        ],
+        "url": "https://openlibrary.org/authors/OL1390066A/Robert_Wilson?sort=new"
+    },
+    "Teresa Solana": {
+        "titles": [
+            "L'hora Zen",
+            "Negras Tormentas",
+            "Atajo Al Paraiso",
+            "Drecera Al Paradis",
+            "Un Crim Imperfecte"
+        ],
+        "url": "https://openlibrary.org/authors/OL5106421A/Teresa_Solana?sort=new"
+    },
+    "Stephen Mack Jones": {
+        "titles": [
+            "Lives Laid Away",
+            "August Snow"
+        ],
+        "url": "https://openlibrary.org/authors/OL7613501A/Stephen_Mack_Jones?sort=new"
+    },
+    "Monica Ferris": {
+        "titles": [
+            "Stitch In Time",
+            "Darned if You Do",
+            "Drowning Spool",
+            "And Then You Dye",
+            "Threadbare",
+            "Buttons and Bones",
+            "Blackwork"
+        ],
+        "url": "https://openlibrary.org/authors/OL1385453A/Monica_Ferris?sort=new"
+    },
+    "B. A. Paris": {
+        "titles": [
+            "Prisoner",
+            "Therapist",
+            "B a Paris Book 4",
+            "Pozwol Mi Wrocic",
+            "SuPhe",
+            "Dilemma",
+            "Na Skraju Załamania",
+            "Breakdown",
+            "Beng Kui =",
+            "Gushang Men Yi Hou",
+            "Behind Closed Doors"
+        ],
+        "url": "https://openlibrary.org/authors/OL7461926A/B._A._Paris?sort=new"
+    },
+    "Marianne Wiggins": {
+        "titles": [
+            "Almost Heaven",
+            "Eveless Eden",
+            "John Dollar",
+            "Separate Checks",
+            "Went South",
+            "Babe"
+        ],
+        "url": "https://openlibrary.org/authors/OL218991A/Marianne_Wiggins?sort=new"
+    },
+    "Lauren Fox": {
+        "titles": [
+            "Days of Awe",
+            "Friends Like Us",
+            "Alices Tea Cup",
+            "Sam's Nightmare",
+            "Storm and Starlight",
+            "Passion's Dance",
+            "Clash of Wills",
+            "Country Pleasures"
+        ],
+        "url": "https://openlibrary.org/authors/OL3283033A/Lauren_Fox?sort=new"
+    },
+    "Hannah Tinti": {
+        "titles": [
+            "El Buen Ladron",
+            "Good Thief"
+        ],
+        "url": "https://openlibrary.org/authors/OL7752013A/Hannah_Tinti?sort=new"
+    },
+    "Christina Baker Kline": {
+        "titles": [
+            "Exiles",
+            "Rincon Del Mundo",
+            "Orphtrain Girl",
+            "Vivian's Choice",
+            "Bird In Hand",
+            "OKsuzler Treni",
+            "Orphtrain",
+            "Desire Lines",
+            "Way Life Should Be",
+            "Sweet Water"
+        ],
+        "url": "https://openlibrary.org/authors/OL6543986A/Christina_Baker_Kline?sort=new"
+    },
+    "John Kennedy Toole": {
+        "titles": [
+            "Neon Bible"
+        ],
+        "url": "https://openlibrary.org/authors/OL585131A/John_Kennedy_Toole?sort=new"
+    },
+    "Glendon Swarthout": {
+        "titles": [
+            "Where Boys Are",
+            "Shootist",
+            "Loveland",
+            "Welcome To Thebes"
+        ],
+        "url": "https://openlibrary.org/authors/OL7015402A/Glendon_Swarthout?sort=new"
+    },
+    "David Mitchell": {
+        "titles": [
+            "Relojes De Hueso",
+            "Slade House",
+            "Bone Clocks",
+            "Der Wolkenatlas",
+            "Mil Otonos",
+            "Boy From Nowhere",
+            "Poor Man\\'s Justice",
+            "To Chase Wind",
+            "East Cornwall",
+            "Black Swgreen",
+            "Dimsum"
+        ],
+        "url": "https://openlibrary.org/authors/OL2628433A/David_Mitchell?sort=new"
+    },
+    "Gabrielle Zevin": {
+        "titles": [
+            "Young Jane Young",
+            "Extradunkel",
+            "Edelherb",
+            "Dao Shang Shu Di=",
+            "Bitterzart",
+            "Krew Z Krwi"
+        ],
+        "url": "https://openlibrary.org/authors/OL1394023A/Gabrielle_Zevin?sort=new"
+    },
+    "Matt Haig": {
+        "titles": [
+            "Papa Noel Y Yo",
+            "Wrozka Prawdomowka",
+            "How To Stop Time"
+        ],
+        "url": "https://openlibrary.org/authors/OL1416857A/Matt_Haig?sort=new"
     }
 }

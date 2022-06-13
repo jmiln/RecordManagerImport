@@ -1964,7 +1964,8 @@
     },
     {
         "name": [
-            "Pushkin Press"
+            "Pushkin Press",
+            "Pushkin Vertigo"
         ],
         "locations": [
             "London"
@@ -3474,6 +3475,14 @@
         ],
         "locations": [
             "Walden, Ny."
+        ]
+    },
+    {
+        "name": [
+            "Bitter Lemon Press"
+        ],
+        "locations": [
+            "London"
         ]
     }
 ]

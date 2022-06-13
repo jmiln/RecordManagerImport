@@ -8210,27 +8210,6 @@
         ]
     },
     {
-        "isbn": "9780141392738",
-        "title": "Pietr The Latvian",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Georges Simenon"
-            }
-        ],
-        "publish_date": "2013",
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781783297146",
         "title": "Sherlock Holmes",
         "subtitle": "The Patchwork Devil",
@@ -10086,27 +10065,6 @@
         "publishers": [
             {
                 "name": "Washington Square Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062654199",
-        "title": "Alice Network",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kate Quinn"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "William Morrow"
             }
         ],
         "publish_places": [
@@ -14685,27 +14643,6 @@
         "publishers": [
             {
                 "name": "Broadway Books / Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780525435006",
-        "title": "Handmaid's Tale",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Margaret Atwood"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
             }
         ],
         "publish_places": [
@@ -37327,32 +37264,6 @@
         ]
     },
     {
-        "isbn": "9781683690399",
-        "title": "Hope Never Dies",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Andrew Shaffer"
-            }
-        ],
-        "publish_date": "2018",
-        "pages": 301,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Quirk Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Philadelphia, Pa."
-            }
-        ]
-    },
-    {
         "isbn": "9781250311368",
         "title": "Vanishing Man",
         "subtitle": "A Charles Lenox Mystery",
@@ -40948,32 +40859,6 @@
         "publishers": [
             {
                 "name": "Blue Sky Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593098462",
-        "title": "Our Italian Summer",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Jennifer Probst"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 362,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Berkley Books/penguin Random"
             }
         ],
         "publish_places": [
@@ -58683,36 +58568,6 @@
         ]
     },
     {
-        "isbn": "9781250080400",
-        "title": "Nightingale",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": "567+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781569478516",
         "title": "Evil For Evil",
         "subtitle": "A Billy Boyle World War Ii Mystery",
@@ -69008,36 +68863,6 @@
         "publishers": [
             {
                 "name": "Alfred A. Knopf"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780312537074",
-        "title": "Firefly Lane",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2009",
-        "pages": "479+",
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
             }
         ],
         "publish_places": [
@@ -79407,36 +79232,6 @@
         ]
     },
     {
-        "isbn": "9781501110368",
-        "title": "It Ends With Us",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Colleen Hoover"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2016",
-        "pages": 376,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780735217690",
         "title": "Home Fire",
         "subtitle": "A Novel",
@@ -87274,36 +87069,6 @@
         ]
     },
     {
-        "isbn": "9781400078776",
-        "title": "Never Let Me Go",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kazuo Ishiguro"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2006",
-        "pages": 288,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Vintage International"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781454911647",
         "title": "Awkward Human Survival Guide",
         "subtitle": "How To Handle Life's Most Uncomfortable Situations",
@@ -93383,6 +93148,1692 @@
         "publish_places": [
             {
                 "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0684867621",
+        "title": "Girl Who Loved Tom Gordon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "1999",
+        "pages": 224,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594744761",
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ransom Riggs"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": 352,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Quirk Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250031815",
+        "title": "Fly Away",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": "400+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501110368",
+        "title": "It Ends With Us",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colleen Hoover"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 376,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250080400",
+        "title": "Nightingale",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "570+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312537074",
+        "title": "Firefly Lane",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": "479+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593098462",
+        "title": "Our Italian Summer",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Probst"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "362+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501111778",
+        "title": "Broken Road",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Richard Paul Evans"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 296,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538718155",
+        "title": "Paris Apartment",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kelly Bowen"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2021",
+        "pages": 406,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780441013593",
+        "title": "Dune",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Frank Herbert"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2005",
+        "pages": 687,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ace / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780756411329",
+        "title": "Slow Regard of Silent Things",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick Rothfuss"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2015",
+        "pages": 159,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Daw Books, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316440882",
+        "title": "Jade City",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fonda Lee"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2018",
+        "pages": 540,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345513953",
+        "title": "Callander Square",
+        "subtitle": "A Charlotte and Thomas Pitt Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 263,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781782275008",
+        "title": "Honjin Murders",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Seishi Yokomizo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 189,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pushkin Vertigo"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643960210",
+        "title": "Madman On a Drum",
+        "subtitle": "A Mckenzie Novel",
+        "authors": [
+            {
+                "name": "David Housewright"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 267,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Down & Out Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Lutz, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250209047",
+        "title": "Corpse At the Crystal Palace",
+        "subtitle": "A Daisy Dalrymple Mystery",
+        "authors": [
+            {
+                "name": "Carola Dunn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 276,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062678423",
+        "title": "Woman In the Window",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "A. J Finn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 427,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683690399",
+        "title": "Hope Never Dies",
+        "subtitle": "An Obama Biden Mystery",
+        "authors": [
+            {
+                "name": "Andrew Shaffer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 301,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quirk Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "0449908453",
+        "title": "Brunswick Gardens",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1998",
+        "pages": 389,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Fawcett Columbine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525539742",
+        "title": "Someone Knows",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 387,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780141392738",
+        "title": "Pietr the Latvian",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Georges Simenon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 161,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780241304280",
+        "title": "Maigret and the Wine Merchant",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Georges Simenon"
+            },
+            {
+                "name": "Ros Schwartz"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 165,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780241304266",
+        "title": "Maigret and the Killer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Georges Simenon"
+            },
+            {
+                "name": "Shaun Whiteside"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 182,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780241258552",
+        "title": "Man Who Watched the Trains Go By",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Georges Simenon"
+            },
+            {
+                "name": "Sian Reynolds"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 250,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316531078",
+        "title": "Smoke",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joe Ide"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 320,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780156011259",
+        "title": "Blood is Dirt",
+        "subtitle": "A Bruce Medway Mystery",
+        "authors": [
+            {
+                "name": "Robert Wilson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2004",
+        "pages": 298,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Orlando, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9781904738558",
+        "title": "Shortcut To Paradise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Teresa Solana"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 284,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bitter Lemon Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425274309",
+        "title": "Death On the High Lonesome",
+        "subtitle": "A Sherrif Virgil Dalton Mystery",
+        "authors": [
+            {
+                "name": "Frank Hayes"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 293,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641293488",
+        "title": "Dead of Winter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Mack Jones"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 294,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616958688",
+        "title": "August Snow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Mack Jones"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 300,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641290951",
+        "title": "Lives Laid Away",
+        "subtitle": "An August Snow Novel",
+        "authors": [
+            {
+                "name": "Stephen Mack Jones"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 296,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425217528",
+        "title": "Knitting Bones",
+        "subtitle": "A Needlecraft Mystery",
+        "authors": [
+            {
+                "name": "Monica Ferris"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 245,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425203018",
+        "title": "Embroidered Truths",
+        "subtitle": "A Needlecraft Mystery",
+        "authors": [
+            {
+                "name": "Monica Ferris"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 273,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425210030",
+        "title": "Sins and Needles",
+        "subtitle": "A Needlecraft Mystery",
+        "authors": [
+            {
+                "name": "Monica Ferris"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 314,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312379469",
+        "title": "Colourful Death",
+        "subtitle": "A Cornish Mystery",
+        "authors": [
+            {
+                "name": "Carola Dunn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 337,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781607518983",
+        "title": "8th Confession",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 472,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250151339",
+        "title": "Bring Me Back",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "B. A. Paris"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 291,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501188770",
+        "title": "Turn of the Key",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruth Ware"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 336,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451476203",
+        "title": "Broken Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Simone St. James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 326,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780440000174",
+        "title": "Sun Down Motel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Simone St. James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 327,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501187186",
+        "title": "Dark Tides",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Philippa Gregory"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 452,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743265201",
+        "title": "Shadow Catcher",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marianne Wiggins"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 323,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101947807",
+        "title": "Send for Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lauren Fox"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 259,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812989908",
+        "title": "Twelve Lives of Samuel Hawley",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hannah Tinti"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 387,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062356277",
+        "title": "Piece of the World",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Christina Baker Kline"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "309+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400031696",
+        "title": "Little Friend",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Donna Tartt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 621,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802130204",
+        "title": "Confederacy of Dunces",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Kennedy Toole"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2006",
+        "pages": 394,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476754260",
+        "title": "Homesman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Glendon Swarthout"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 248,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400078776",
+        "title": "Never Let Me Go",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kazuo Ishiguro"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "2006",
+        "pages": 288,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062654199",
+        "title": "Alice Network",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Quinn"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 527,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375507250",
+        "title": "Cloud Atlas",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "David Mitchell"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 509,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616204518",
+        "title": "Storied Life of A. J. Fikry",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gabrielle Zevin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 270,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780525435006",
+        "title": "Handmaid's Tale",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 311,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781786892720",
+        "title": "Midnight Library",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Matt Haig"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "pages": 288,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Canongate"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Edinburgh, U.K."
+            }
+        ]
+    },
+    {
+        "isbn": "0140259198",
+        "title": "Island of the Day Before",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Umberto Eco"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 514,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
