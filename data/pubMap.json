@@ -1331,7 +1331,8 @@
     {
         "name": [
             "Quercus",
-            "Riverrun / Quercus"
+            "Riverrun / Quercus",
+            "Maclehose Press / Quercus"
         ],
         "aliases": [
             "Quercus"
@@ -3483,6 +3484,14 @@
         ],
         "locations": [
             "London"
+        ]
+    },
+    {
+        "name": [
+            "Regan Books / Harper"
+        ],
+        "locations": [
+            "New York"
         ]
     }
 ]

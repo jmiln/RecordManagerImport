@@ -4122,27 +4122,6 @@
         ]
     },
     {
-        "isbn": "9781538711903",
-        "title": "Simple Truth",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Baldacci"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781455586431",
         "title": "Guilty",
         "subtitle": "",
@@ -12767,27 +12746,6 @@
         "publishers": [
             {
                 "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780060935467",
-        "title": "To Kill A Mockingbird",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Harper Lee"
-            }
-        ],
-        "publish_date": "2003",
-        "publishers": [
-            {
-                "name": "Perennial / Harper-Collins"
             }
         ],
         "publish_places": [
@@ -54592,38 +54550,6 @@
         ]
     },
     {
-        "isbn": "9781338635171",
-        "title": "Ballad Of Songbirds And Snakes",
-        "subtitle": "A Hunger Games Novel",
-        "authors": [
-            {
-                "name": "Suzanne Collins"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2020",
-        "pages": 517,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Scholastic Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781934813072",
         "title": "Listen",
         "subtitle": "",
@@ -67534,37 +67460,6 @@
         "publishers": [
             {
                 "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593331262",
-        "title": "Shadows Reel",
-        "subtitle": "A Joe Pickett Novel",
-        "authors": [
-            {
-                "name": "C. J. Box"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2022",
-        "pages": 358,
-        "price": 16.8,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
             }
         ],
         "publish_places": [
@@ -83431,36 +83326,6 @@
         ]
     },
     {
-        "isbn": "9780062268358",
-        "title": "Yes Please",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Amy Poehler",
-                "url": "https://openlibrary.org/authors/OL8117705A/Amy_Poehler"
-            }
-        ],
-        "keywords": [
-            "hum"
-        ],
-        "publish_date": "2015",
-        "pages": 329,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Dey Street Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781449484835",
         "title": "Neon Soul",
         "subtitle": "A Collection of Poetry & Prose",
@@ -88814,36 +88679,6 @@
         "publishers": [
             {
                 "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780307744432",
-        "title": "Night Circus",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Erin Morgenstern"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2011",
-        "pages": 516,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
             }
         ],
         "publish_places": [
@@ -94829,6 +94664,1468 @@
         "publishers": [
             {
                 "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307744432",
+        "title": "Night Circus",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Erin Morgenstern"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 516,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781948226943",
+        "title": "Celestial Bodies",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jokha Alharthi"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 243,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Catapult"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060988649",
+        "title": "Lost",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gregory Maguire"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": "340+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Regan Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593101537",
+        "title": "Personal Librarian",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marie Benedict"
+            },
+            {
+                "name": "Victoria Christopher Murray"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 341,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781509840137",
+        "title": "Sun Sister",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lucinda Riley"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 837,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982110611",
+        "title": "Moon Sister",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lucinda Riley"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 531,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312364434",
+        "title": "Night Road",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 420,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062268358",
+        "title": "Yes Please",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Poehler"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2015",
+        "pages": 329,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dey Street Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250077028",
+        "title": "Furiously Happy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenny Lawson"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2015",
+        "pages": 329,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984806758",
+        "title": "People We Meet On Vacation",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emily Henry"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 388,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781974420803",
+        "title": "Caballero",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Pablo Poveda"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 129,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496703262",
+        "title": "Murder At Rough Point",
+        "subtitle": "A Gilded Newport Mystery",
+        "authors": [
+            {
+                "name": "Alyssa Maxwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 314,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345510655",
+        "title": "Sunless Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 340,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781623654382",
+        "title": "Second Deadly Sin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Asa Larsson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 374,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Maclehose Press / Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781557049674",
+        "title": "Cezanne Chase",
+        "subtitle": "An Inspector Jack Oxby Novel",
+        "authors": [
+            {
+                "name": "Thomas Swan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 304,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683314530",
+        "title": "Many a Twist",
+        "subtitle": "A County Cork Mysery",
+        "authors": [
+            {
+                "name": "Sheila Connolly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 330,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643852393",
+        "title": "Fatal Roots",
+        "subtitle": "A County Cork Mystery",
+        "authors": [
+            {
+                "name": "Sheila Connolly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 281,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250057495",
+        "title": "Of Books and Bagpipes",
+        "subtitle": "A Scottish Bookshop Mystery",
+        "authors": [
+            {
+                "name": "Paige Shelton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 304,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060591809",
+        "title": "Tomb of the Golden Bird (Amelia Peabody Mysteries)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Peters"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 317,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593098950",
+        "title": "Relentless",
+        "subtitle": "A Gray Man Novel",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 512,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765320322",
+        "title": "Rithmatist",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brandon Sanderson"
+            },
+            {
+                "name": "Ben Mcsweeney",
+                "contribution": "Illstrations by"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 378,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338635171",
+        "title": "Ballad of Songbirds and Snakes",
+        "subtitle": "A Hunger Games Novel",
+        "authors": [
+            {
+                "name": "Suzanne Collins"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 517,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785153290",
+        "title": "Castle: Richard Castle's Deadly Storm",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Richard Castle"
+            },
+            {
+                "name": "Brian Michael Bendis"
+            },
+            {
+                "name": "Kelly Sue Deconnick"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2013",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785164838",
+        "title": "Castle: Richard Castle's Storm Season",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brian Michael Bendis"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2014",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780091951719",
+        "title": "Globe",
+        "subtitle": "The Science of Discworld Ii",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            },
+            {
+                "name": "Ian Stewart"
+            },
+            {
+                "name": "Jack Cohen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": 368,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ebury Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804168946",
+        "title": "Science of Discworld",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            },
+            {
+                "name": "Ian Stewart"
+            },
+            {
+                "name": "Jack Cohen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2014",
+        "pages": 414,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780575091207",
+        "title": "Turtle Recall",
+        "subtitle": "The Discworld Companion So Far",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            },
+            {
+                "name": "Stephen Briggs"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": 451,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gollancz / Orion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804169202",
+        "title": "Raising Steam",
+        "subtitle": "A Discworld Novel",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2014",
+        "pages": 365,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804169004",
+        "title": "Judgment Day",
+        "subtitle": "The Science of Discworld IV",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            },
+            {
+                "name": "Ian Stewart"
+            },
+            {
+                "name": "Jack Cohen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2015",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780091951726",
+        "title": "Darwin's Watch",
+        "subtitle": "The Science of Discworld III",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            },
+            {
+                "name": "Ian Stewart"
+            },
+            {
+                "name": "Jack Cohen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": 344,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ebury Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804169035",
+        "title": "Folklore of Discworld",
+        "subtitle": "Legends, Myths, and Customs From the Discworld With Helpful Hints From Planet Earth",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2014",
+        "pages": 518,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780857522436",
+        "title": "Mrs Bradshaw's Handbook: To Travelling Upon the Ankh-Morpork & Sto Plains Hygienic Railway (Discworld)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2014",
+        "pages": 141,
+        "price": 10,
+        "binding": [
+            "hc"
+        ],
+        "ill": 10,
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0060094931",
+        "title": "Bromeliad Trilogy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terry Pratchett"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2003",
+        "pages": 502,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781473227781",
+        "title": "Left-Handed Booksellers of London",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Garth Nix"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 393,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gollancz / Orion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781529054576",
+        "title": "Four Winds",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "pages": 451,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0752864491",
+        "title": "Valdez is Coming",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elmore Leonard"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 200,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orion Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476749273",
+        "title": "Manitou Canyon",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 328,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538711903",
+        "title": "Simple Truth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 462,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593331262",
+        "title": "Shadows Reel",
+        "subtitle": "A Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 354,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781596916975",
+        "title": "Pearl of China",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anchee Min"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 278,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060935467",
+        "title": "To Kill a Mockingbird",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Harper Lee"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 323,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781799956464",
+        "title": "All Things Left Wild",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Wade"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 321,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Blackstone Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ashland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780802151827",
+        "title": "Tropic of Capricorn",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Henry Miller"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1987",
+        "pages": 348,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802131782",
+        "title": "Tropic of Cancer",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Henry Miller"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1980",
+        "pages": 318,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765327451",
+        "title": "Wake of the Bloody Angel",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alex Bledsoe"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2012",
+        "pages": 350,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765302588",
+        "title": "Wild Wood",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Charles De Lint"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2004",
+        "pages": 205,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orb / Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345535139",
+        "title": "Annotated Sword of Shannara",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Terry Brooks"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2012",
+        "pages": 523,
+        "price": 18.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
             }
         ],
         "publish_places": [

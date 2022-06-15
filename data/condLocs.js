@@ -98,7 +98,7 @@ module.exports.condMap = {
     ttea: "Tiny Tear to ${}.",
 
     // Sticker Issues
-    tmstsc: "tiny sticker scar at ${}.",
+    tstsc: "tiny sticker scar at ${}.",
     smstsc: "small sticker scar at ${}.",
     stsc:   "sticker scar at ${}.",
     ssha:   "sticker shadow at ${}.",
