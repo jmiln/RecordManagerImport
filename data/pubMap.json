@@ -3493,5 +3493,29 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Countryman Press"
+        ],
+        "locations": [
+            "Woodstock, Vt."
+        ]
+    },
+    {
+        "name": [
+            "Cinco Puntos Press"
+        ],
+        "locations": [
+            "El Paso, Tx."
+        ]
+    },
+    {
+        "name": [
+            "Rue Morgue Press"
+        ],
+        "locations": [
+            "Lyons, Co."
+        ]
     }
 ]

@@ -14229,27 +14229,6 @@
         ]
     },
     {
-        "isbn": "9780063045453",
-        "title": "All The Children Are Home",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Patry Francis"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780307947727",
         "title": "Sense Of An Ending",
         "subtitle": "",
@@ -28277,32 +28256,6 @@
         ]
     },
     {
-        "isbn": "9781984898876",
-        "title": "Hamnet",
-        "subtitle": "A Novel Of The Plague",
-        "authors": [
-            {
-                "name": "Maggie O'farrell"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 305,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780142427309",
         "title": "All The Truth That's In Me",
         "subtitle": "",
@@ -36529,32 +36482,6 @@
         "binding": [
             "hc",
             "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Soho Crime / Soho Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781641292580",
-        "title": "Three Hours In Paris",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Cara Black"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 348,
-        "price": 9.5,
-        "binding": [
-            "pb"
         ],
         "publishers": [
             {
@@ -50960,36 +50887,6 @@
         ]
     },
     {
-        "isbn": "9780593128176",
-        "title": "Beekeeper Of Aleppo",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Christy Lefteri"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": 327,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780785218098",
         "title": "Becoming Mrs. Lewis",
         "subtitle": "The Expanded Edition - A Novel",
@@ -63931,36 +63828,6 @@
         "publishers": [
             {
                 "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781455542154",
-        "title": "Secret Diary Of Hendrik Groen",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Hendrik Groen"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2018",
-        "pages": 386,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
@@ -96126,6 +95993,820 @@
         "publishers": [
             {
                 "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781542046107",
+        "title": "Finding Claire Fletcher",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Regan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 383,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas & Mercer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781542040181",
+        "title": "Secrets Never Die",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melinda Leigh"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 318,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Montlake Romance"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982177270",
+        "title": "All I Want",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Darcey Bell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 257,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062388957",
+        "title": "Dragon Springs Road",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janie Chang"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 367,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780739481226",
+        "title": "Damsels In Distress",
+        "subtitle": "A Claire Malloy Mystery",
+        "authors": [
+            {
+                "name": "Joan Hess"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 526,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400034208",
+        "title": "Razor's Edge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "W. Somerset Maugham"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 314,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802119285",
+        "title": "Matterhorn",
+        "subtitle": "A Novel of the Vietnam War",
+        "authors": [
+            {
+                "name": "Karl Marlantes"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 598,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atlantic Monthly Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781680507249",
+        "title": "Become an Effective Software Engineering Manager",
+        "subtitle": "How To Be the Leader Your Development Team Needs",
+        "authors": [
+            {
+                "name": "James Stanier"
+            }
+        ],
+        "keywords": [
+            "bus"
+        ],
+        "publish_date": "2020",
+        "pages": 371,
+        "price": 21,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pragmatic Bookshelf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Raleigh, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780008479411",
+        "title": "Daughters of War",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dinah Jefferies"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 538,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538727355",
+        "title": "Archer's Voice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mia Sheridan"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 388,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250023278",
+        "title": "Home Front",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 388,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250069832",
+        "title": "Nine Perfect Strangers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liane Moriarty"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 453,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316435574",
+        "title": "What Happens In Paradise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 323,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063045453",
+        "title": "All the Children Are Home",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patry Francis"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 370,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728243146",
+        "title": "Next Ship Home",
+        "subtitle": "A Novel of Ellis Island",
+        "authors": [
+            {
+                "name": "Heather Webb"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 421,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593128176",
+        "title": "Beekeeper of Aleppo",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Christy Lefteri"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 327,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984898876",
+        "title": "Hamnet",
+        "subtitle": "A Novel of the Plague",
+        "authors": [
+            {
+                "name": "Maggie O'farrell"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 305,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250037756",
+        "title": "Mr. Penumbra's 24-Hour Bookstore",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robin Sloan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 288,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780452296725",
+        "title": "Remarkable Creatures",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tracy Chevalier"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 312,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455542154",
+        "title": "Secret Diary of Hendrik Groen",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Hendrik Groen"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 386,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780881508048",
+        "title": "You'd Better Believe It",
+        "subtitle": "A Detective Colin Harpur Novel",
+        "authors": [
+            {
+                "name": "Bill James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 157,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Countryman Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Woodstock, Vt."
+            }
+        ]
+    },
+    {
+        "isbn": "9781941026526",
+        "title": "Murder On the Red River",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marcie R. Rendon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 199,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Cinco Puntos Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "El Paso, Tx."
+            }
+        ]
+    },
+    {
+        "isbn": "9781501147470",
+        "title": "Desolation Mountain",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 320,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641292580",
+        "title": "Three Hours In Paris",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cara Black"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 348,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781601870100",
+        "title": "Come Away, Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gladys Mitchell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 191,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Rue Morgue Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Lyons, Co."
+            }
+        ]
+    },
+    {
+        "isbn": "9780451492821",
+        "title": "Song of Flight",
+        "subtitle": "A Warrior Bards Novel",
+        "authors": [
+            {
+                "name": "Juliet Marillier"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 446,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ace / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316383431",
+        "title": "Stranger Than Fanfiction",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Chris Colfer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": "295+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [
