@@ -392,7 +392,7 @@
     },
     {
         "name": [
-            "Daw Books, inc."
+            "Daw Books, Inc."
         ],
         "aliases": [
             "DAW"
@@ -1355,7 +1355,8 @@
     },
     {
         "name": [
-            "Random House"
+            "Random House",
+            "Random House Large Print"
         ],
         "aliases": [
             "Random"
@@ -3516,6 +3517,38 @@
         ],
         "locations": [
             "Lyons, Co."
+        ]
+    },
+    {
+        "name": [
+            "Tupelo Press"
+        ],
+        "locations": [
+            "North Adams, Ma."
+        ]
+    },
+    {
+        "name": [
+            "Egmont Usa"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Flux"
+        ],
+        "locations": [
+            "Woodbury, MN."
+        ]
+    },
+    {
+        "name": [
+            "Cross Dove Publishing"
+        ],
+        "locations": [
+            "Redondo Beach, Ca."
         ]
     }
 ]

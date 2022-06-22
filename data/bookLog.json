@@ -12206,27 +12206,6 @@
         ]
     },
     {
-        "isbn": "9780358237051",
-        "title": "Night Hawk",
-        "subtitle": "A Ruth Galloway Mystery",
-        "authors": [
-            {
-                "name": "Elly Griffiths"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Houghton Mifflin Harcourt"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Boston"
-            }
-        ]
-    },
-    {
         "isbn": "9780358237044",
         "title": "Lantern Men",
         "subtitle": "A Ruth Galloway Mystery",
@@ -51534,37 +51513,6 @@
         "publish_places": [
             {
                 "name": "Lubbock, Te."
-            }
-        ]
-    },
-    {
-        "isbn": "9781423123682",
-        "title": "Darlings Are Forever",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Melissa Kantor"
-            }
-        ],
-        "keywords": [
-            "jfi",
-            "chi"
-        ],
-        "publish_date": "2011",
-        "pages": "328+",
-        "price": 10.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Hyperion / Disney"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -93427,36 +93375,6 @@
         ]
     },
     {
-        "isbn": "9780525539742",
-        "title": "Someone Knows",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Lisa Scottoline"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2019",
-        "pages": 387,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780141392738",
         "title": "Pietr the Latvian",
         "subtitle": "",
@@ -96812,6 +96730,864 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316610896",
+        "title": "Power of the Dog",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Thomas Savage"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 293,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812981926",
+        "title": "Transatlantic",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colum Mccann"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 319,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0743218035",
+        "title": "Keepers of Truth",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Michael Collins"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 310,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781936797059",
+        "title": "Cream of Kohlrabi",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Floyd Skloot"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 222,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tupelo Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "North Adams, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593505021",
+        "title": "Dear Santa",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 356,
+        "price": 12.5,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Random House Large Print"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735222311",
+        "title": "Night Music",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 362,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451490841",
+        "title": "Heart Principle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Helen Hoang"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143119531",
+        "title": "Junkyard Dogs",
+        "subtitle": "A Walt Longmire Mystery",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": "306+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593159354",
+        "title": "Death With a Double Edge",
+        "subtitle": "A Daniel Pitt Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 304,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525539742",
+        "title": "Someone Knows",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 391,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501107979",
+        "title": "All the Missing Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Megan Miranda"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 369,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464206191",
+        "title": "Flying Too High",
+        "subtitle": "A Phryne Fisher Mystery",
+        "authors": [
+            {
+                "name": "Kerry Greenwood"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 156,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "0786862327",
+        "title": "Margin of Error",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edna Buchanan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1997",
+        "pages": 290,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061827648",
+        "title": "Mission Unstoppable",
+        "subtitle": "The Genius Files, Book 1",
+        "authors": [
+            {
+                "name": "Dan Gutman"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": 293,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481444804",
+        "title": "This is Not a Werewolf Story",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandra Evans"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 336,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atheneum Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781606843758",
+        "title": "Odd, Weird and Little",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick Jennings"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 149,
+        "price": 9,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Egmont Usa"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781599904351",
+        "title": "Whole Nother Story",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cuthbert Soup"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2010",
+        "pages": 264,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury Children's Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423123682",
+        "title": "Darlings Are Forever",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melissa Kantor"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": "328+",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion / Disney"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780738736372",
+        "title": "Skyship Academy",
+        "subtitle": "Strikeforce",
+        "authors": [
+            {
+                "name": "Nick James"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 353,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Woodbury, MN."
+            }
+        ]
+    },
+    {
+        "isbn": "1556610068",
+        "title": "Gentle Rebel",
+        "subtitle": "The House of Winslow #4",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "1988",
+        "pages": 285,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "155661635X",
+        "title": "Braxtons of Miracle Springs",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michael R. Phillips"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "1996",
+        "pages": 269,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "155661098X",
+        "title": "Man From Shadow Ridge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brock Thoene"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "1990",
+        "pages": 239,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780965651356",
+        "title": "Mary's Son",
+        "subtitle": "A Tale of Christmas",
+        "authors": [
+            {
+                "name": "Darryl Nyznyk"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2010",
+        "pages": 174,
+        "price": 9,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Cross Dove Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Redondo Beach, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780358237051",
+        "title": "Night Hawk",
+        "subtitle": "A Ruth Galloway Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 350,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Harcourt"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "1556611900",
+        "title": "Thousand Shall Fall",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brock Thoene"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 428,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0871239787",
+        "title": "Captive Bride",
+        "subtitle": "The House of Winslow #2",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "1987",
+        "pages": 238,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556610033",
+        "title": "Indentured Heart",
+        "subtitle": "The House of Winslow #3",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "1988",
+        "pages": 288,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "1556610548",
+        "title": "Holy Warrior",
+        "subtitle": "The House of Winslow #6",
+        "authors": [
+            {
+                "name": "Gilbert Morris"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "1989",
+        "pages": 284,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
             }
         ]
     }
