@@ -512,7 +512,7 @@ function getIsbnFromArg(isbnIn) {
 
     // Make sure it's a valid ISBN format
     // Match 10 digit isbn with or without an x at the end, or 13 digit ones
-    if (!isbnIn.match(/^(\d{9}x|\d{10}|\d{13})$/)) outMsg = `Invalid ISBN format (${isbnIn}).`;
+    if (!isbnIn.match(/^(\d{9}[xX]|\d{10}|\d{13})$/)) outMsg = `Invalid ISBN format (${isbnIn}).`;
 
     // Make sure it's the correct length
     if (isbnIn.length !== 10 && isbnIn.length !== 13) {
