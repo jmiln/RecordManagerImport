@@ -1486,7 +1486,10 @@
         "url": "https://openlibrary.org/authors/OL28493A/Kazuo_Ishiguro?sort=new"
     },
     "A. J. Finn": {
-        "url": "https://openlibrary.org/authors/OL7442916A/A._J._Finn?sort=new"
+        "url": "https://openlibrary.org/authors/OL7442916A/A._J._Finn?sort=new",
+        "titles": [
+            "Unti Finn Novel #2"
+        ]
     },
     "Andrei Nikolaevich Kolmogorov": {
         "url": "https://openlibrary.org/authors/OL349766A/Andrei_Nikolaevich_Kolmogorov?sort=new"
@@ -3148,5 +3151,90 @@
             "Third Term"
         ],
         "url": "https://openlibrary.org/authors/OL405740A/Darryl_Nyznyk?sort=new"
+    },
+    "David Guterson": {
+        "titles": [
+            "Final Case",
+            "OStlich Der Berge",
+            "Songs for a Summons",
+            "Ed King a Novel",
+            "Other",
+            "Ed King",
+            "Our Lady of Forest",
+            "Apsnigti Kedrai"
+        ],
+        "url": "https://openlibrary.org/authors/OL20966A/David_Guterson?sort=new"
+    },
+    "Ransom Riggs": {
+        "titles": [
+            "Arcanum",
+            "Untitled Book 2",
+            "Konferencja Ptakow",
+            "Mapa Dni",
+            "Map of Days"
+        ],
+        "url": "https://openlibrary.org/authors/OL5372995A/Ransom_Riggs?sort=new"
+    },
+    "Brittney Morris": {
+        "titles": [
+            "Skrzydła Furii",
+            "Marvel’s Spider-Man",
+            "Slay"
+        ],
+        "url": "https://openlibrary.org/authors/OL7630320A/Brittney_Morris?sort=new"
+    },
+    "Neal Stephenson": {
+        "titles": [
+            "Polostan",
+            "El Codigo Enigma",
+            "Termination Shock",
+            "Dunyanın Sistemi",
+            "Karısıklık",
+            "Parazit",
+            "Seveneves"
+        ],
+        "url": "https://openlibrary.org/authors/OL19430A/Neal_Stephenson?sort=new"
+    },
+    "Lauraine Snelling": {
+        "titles": [
+            "Fields of Bounty",
+            "Time To Bloom",
+            "Untamed Land",
+            "Seeds of Change",
+            "Blessing To Cherish",
+            "Song of Joy",
+            "Half Finished",
+            "Gift",
+            "Beginning Again",
+            "Dakota Destiny",
+            "Dakota Dawn",
+            "Breath of Hope",
+            "Dakota Dream",
+            "Promise of Dawn"
+        ],
+        "url": "https://openlibrary.org/authors/OL317697A/Lauraine_Snelling?sort=new"
+    },
+    "B.j. Hoff": {
+        "titles": [
+            "River of Mercy",
+            "Americanthem",
+            "Melodie In De Verte",
+            "Rachel's Secret",
+            "Song Weaver",
+            "Distant Music",
+            "Jubilee",
+            "Cadence",
+            "Prelude"
+        ],
+        "url": "https://openlibrary.org/authors/OL27028A/B.J._Hoff?sort=new"
+    },
+    "Amy Tan": {
+        "titles": [
+            "Where Past Begins",
+            "Valley of Amazement",
+            "Princess Sheegwa",
+            "Opposite of Fate"
+        ],
+        "url": "https://openlibrary.org/authors/OL220796A/Amy_Tan?sort=new"
     }
 }

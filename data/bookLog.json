@@ -14040,27 +14040,6 @@
         ]
     },
     {
-        "isbn": "9780316334686",
-        "title": "Cibola Burn",
-        "subtitle": "The Expanse, Book Four",
-        "authors": [
-            {
-                "name": "James S. A. Corey"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Orbit / Hachette"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780575098077",
         "title": "Iron Jackal",
         "subtitle": "A Tale Of The Ketty Jay",
@@ -14643,27 +14622,6 @@
         "publishers": [
             {
                 "name": "Quill Tree / Harper"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780735220690",
-        "title": "Eleanor Oliphant Is Completely Fine",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Gail Honeyman"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Penguin Books"
             }
         ],
         "publish_places": [
@@ -38716,33 +38674,6 @@
         "publishers": [
             {
                 "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780063112193",
-        "title": "Autopsy",
-        "subtitle": "A Scarpetta Novel, Book 25",
-        "authors": [
-            {
-                "name": "Patricia Daniels Cornwell"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 398,
-        "price": 17.4,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "William Morrow"
             }
         ],
         "publish_places": [
@@ -86781,36 +86712,6 @@
         ]
     },
     {
-        "isbn": "9780062905086",
-        "title": "Woman In the Window",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "A. J. Finn"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2019",
-        "pages": 427,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781455558056",
         "title": "Mistress",
         "subtitle": "",
@@ -97588,6 +97489,458 @@
         "publish_places": [
             {
                 "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0679767185",
+        "title": "Country Ahead of Us, the Country Behind",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "David Guterson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1989",
+        "pages": 164,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812979510",
+        "title": "Burgess Boys",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Strout"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 332,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594747359",
+        "title": "Hollow City",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ransom Riggs"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 428,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quirk Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781534445451",
+        "title": "Cost of Knowing",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brittney Morris"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 327,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335773227",
+        "title": "Wildest Ride",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Marcella Bell"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "396+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hqn"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063112193",
+        "title": "Autopsy",
+        "subtitle": "A Scarpetta Novel, Book 25",
+        "authors": [
+            {
+                "name": "Patricia Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 398,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316334686",
+        "title": "Cibola Burn",
+        "subtitle": "The Expanse, Book Four",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2015",
+        "pages": 611,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553380958",
+        "title": "Snow Crash",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Neal Stephenson"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2000",
+        "pages": 468,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062905086",
+        "title": "Woman In the Window",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "A. J. Finn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "427+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764206092",
+        "title": "Measure of Mercy",
+        "subtitle": "Home To Blessing, Book One",
+        "authors": [
+            {
+                "name": "Lauraine Snelling"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2009",
+        "pages": 367,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780736924191",
+        "title": "Where Grace Abides",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "B.j. Hoff"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2009",
+        "pages": 262,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvest House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Eugene, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9781451687552",
+        "title": "Brush of Wings",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "keywords": [
+            "xfi"
+        ],
+        "publish_date": "2016",
+        "pages": 326,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Howard Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735220690",
+        "title": "Eleanor Oliphant is Completely Fine",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gail Honeyman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "325+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345457374",
+        "title": "Bonesetter's Daughter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Tan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 368,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307277480",
+        "title": "Double Comfort Safari Club",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 211,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
