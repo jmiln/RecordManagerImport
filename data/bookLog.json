@@ -36183,33 +36183,6 @@
         ]
     },
     {
-        "isbn": "9780316420259",
-        "title": "Deadly Cross",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "James Patterson"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 403,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780063015043",
         "title": "Arctic Storm Rising",
         "subtitle": "A Nick Flynn Novel",
@@ -85436,36 +85409,6 @@
         ]
     },
     {
-        "isbn": "9781455563920",
-        "title": "Pachinko",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Min Jin Lee"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": 500,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781609450786",
         "title": "My Brilliant Friend",
         "subtitle": "Book One of the Naepolitan Novels",
@@ -86546,36 +86489,6 @@
         "publishers": [
             {
                 "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781982112301",
-        "title": "Winemaker's Wife",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Harmel"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": 385,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Gallery Books / S&s"
             }
         ],
         "publish_places": [
@@ -97936,6 +97849,368 @@
         "publishers": [
             {
                 "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401310899",
+        "title": "Dog Gone Back Soon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nick Trout"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2014",
+        "pages": 324,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316555562",
+        "title": "Revenger",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alastair Reynolds"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 425,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250108890",
+        "title": "Fka Usa",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Reed King"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 463,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735222359",
+        "title": "Lincoln Highway",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amor Towles"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2021",
+        "pages": 576,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455563920",
+        "title": "Pachinko",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Min Jin Lee"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 527,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250024176",
+        "title": "Bring Up the Bodies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hilary Mantel"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2013",
+        "pages": 406,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101971918",
+        "title": "Revolving Door of Life",
+        "subtitle": "A 44 Scotland Street Novel",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 282,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982112301",
+        "title": "Winemaker's Wife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2020",
+        "pages": "389+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781595548764",
+        "title": "Reluctant Queen",
+        "subtitle": "The Love Story of Esther",
+        "authors": [
+            {
+                "name": "Joan Wolf"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2011",
+        "pages": 378,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250760166",
+        "title": "Murder Most Fowl",
+        "subtitle": "A Meg Langslow Mystery",
+        "authors": [
+            {
+                "name": "Donna Andrews"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 310,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316420259",
+        "title": "Deadly Cross",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 403,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062856845",
+        "title": "Insomnia",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Pinborough"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 322,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
             }
         ],
         "publish_places": [
