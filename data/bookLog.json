@@ -4227,27 +4227,6 @@
         ]
     },
     {
-        "isbn": "9781250199331",
-        "title": "Back Of Beyond",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "C. J. Box"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780593130025",
         "title": "Scarlet Fever",
         "subtitle": "A Novel",
@@ -7787,27 +7766,6 @@
         ]
     },
     {
-        "isbn": "9780525557647",
-        "title": "An Unwanted Guest",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Shari Lapena"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525621096",
         "title": "Prisoner In The Castle",
         "subtitle": "A Maggie Hope Mystery",
@@ -10023,27 +9981,6 @@
         "publishers": [
             {
                 "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781501160844",
-        "title": "Anxious People",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Fredrik Backman"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Washington Square Press"
             }
         ],
         "publish_places": [
@@ -14267,27 +14204,6 @@
         "publish_places": [
             {
                 "name": "Orlando, Fl."
-            }
-        ]
-    },
-    {
-        "isbn": "9780553394399",
-        "title": "Spool Of Blue Thread",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Anne Tyler"
-            }
-        ],
-        "publish_date": "2016",
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -37368,33 +37284,6 @@
         "publishers": [
             {
                 "name": "Vintage International"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062315007",
-        "title": "Alchemist",
-        "subtitle": "25th Anniversary Edition",
-        "authors": [
-            {
-                "name": "Paulo Coelho"
-            }
-        ],
-        "publish_date": "2014",
-        "pages": 149,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "Harper-One"
             }
         ],
         "publish_places": [
@@ -60962,36 +60851,6 @@
         "publish_places": [
             {
                 "name": "Minneapolis, Mn."
-            }
-        ]
-    },
-    {
-        "isbn": "9780778332046",
-        "title": "Radar Girls",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Sara Ackerman"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": "352+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Mira Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -98211,6 +98070,903 @@
         "publishers": [
             {
                 "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250818409",
+        "title": "Nine Perfect Strangers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liane Moriarty"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 453,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525539308",
+        "title": "Light It Up",
+        "subtitle": "A Peter Ash Novel",
+        "authors": [
+            {
+                "name": "Nicholas Petrie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 414,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312207727",
+        "title": "Skeleton In the Closet",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "M. C. Beaton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2001",
+        "pages": 218,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0892966777",
+        "title": "Death of a Village",
+        "subtitle": "A Hamish Macbeth Mystery",
+        "authors": [
+            {
+                "name": "M. C. Beaton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 245,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mysterious Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425208079",
+        "title": "Blood Orange Brewing",
+        "subtitle": "A Tea Shop Mystery",
+        "authors": [
+            {
+                "name": "Laura Childs"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 292,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425212041",
+        "title": "Motif for Murder",
+        "subtitle": "a Scrapbooking Mystery",
+        "authors": [
+            {
+                "name": "Laura Childs"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 275,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312334850",
+        "title": "To Darkness and To Death",
+        "subtitle": "A Clare Fergusson / Russ Van Alstyne Mystery",
+        "authors": [
+            {
+                "name": "Julia Spencer-Fleming"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 311,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250157690",
+        "title": "Dead Ringer",
+        "subtitle": "An Agatha Raisin Mystery",
+        "authors": [
+            {
+                "name": "M. C. Beaton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 258,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312312640",
+        "title": "All Mortal Flesh",
+        "subtitle": "A Clare Fergusson / Russ Van Alstyne Mystery",
+        "authors": [
+            {
+                "name": "Julia Spencer-Fleming"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 322,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345511287",
+        "title": "Star Wars: Darth Plagueis",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Luceno"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2012",
+        "pages": 379,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345804389",
+        "title": "Robogenesis",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniel H. Wilson"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2015",
+        "pages": 440,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594746031",
+        "title": "Miss Peregrine’s Home for Peculiar Children",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ransom Riggs"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 382,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quirk Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Philadelphia, Pa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062315007",
+        "title": "Alchemist",
+        "subtitle": "25th Anniversary Edition",
+        "authors": [
+            {
+                "name": "Paulo Coelho"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 182,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-One"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594634659",
+        "title": "Gingerbread",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Helen Oyeyemi"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 258,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525656289",
+        "title": "Topics of Conversation",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Miranda Popkey"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 215,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062659064",
+        "title": "Child Finder",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rene Denfeld"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 273,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501160844",
+        "title": "Anxious People",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Fredrik Backman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 340,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553394399",
+        "title": "Spool of Blue Thread",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Tyler"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 371,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778332046",
+        "title": "Radar Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sara Ackerman"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "352+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818492",
+        "title": "Sentinel",
+        "subtitle": "A Jack Reacher Novel - a Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            },
+            {
+                "name": "Andrew Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 370,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250199331",
+        "title": "Back of Beyond",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 397,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250140258",
+        "title": "Bishop's Pawn",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Steve Berry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 340,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250091932",
+        "title": "Those Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chevy Stevens"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 388,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525557647",
+        "title": "An Unwanted Guest",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Shari Lapena"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "290+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385549325",
+        "title": "Sparring Partners",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 306,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545790352",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "subtitle": "Year 1",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            },
+            {
+                "name": "Jim Kay",
+                "contribution": "Illustrated By"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 246,
+        "price": 21,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728225210",
+        "title": "Girl In the Headlines",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Hannah Jayne"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 332,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Fire"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780385737661",
+        "title": "These Shallow Graves",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jennifer Donnelly"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": "484+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ember / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250135025",
+        "title": "Carry On",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rainbow Rowell"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": 521,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
             }
         ],
         "publish_places": [

@@ -1265,7 +1265,10 @@
         "url": "https://openlibrary.org/authors/OL19482A/Louis_L'Amour"
     },
     "J. K. Rowling": {
-        "url": "https://openlibrary.org/authors/OL23919A/J._K._Rowling"
+        "url": "https://openlibrary.org/authors/OL23919A/J._K._Rowling",
+        "titles": [
+            "Strike Collection"
+        ]
     },
     "Robert Galbraith": {
         "titles": [
@@ -3255,5 +3258,128 @@
             "Language of Dying"
         ],
         "url": "https://openlibrary.org/authors/OL7482281A/Sarah_Pinborough?sort=new"
+    },
+    "Nicholas Petrie": {
+        "titles": [
+            "Burning Bright",
+            "Drifter"
+        ],
+        "url": "https://openlibrary.org/authors/OL7528965A/Nicholas_Petrie?sort=new"
+    },
+    "Laura Childs": {
+        "titles": [
+            "Haunted Hibiscus",
+            "Egg Shooters",
+            "Mumbo Gumbo Murder",
+            "Broken Bone China",
+            "Eggs On Ice",
+            "Plum Tea Crazy",
+            "Glitter Bomb",
+            "Pekoe Most Poison"
+        ],
+        "url": "https://openlibrary.org/authors/OL1386034A/Laura_Childs?sort=new"
+    },
+    "Julia Spencer-Fleming": {
+        "titles": [
+            "Hid From Our Eyes",
+            "Through Evil Days",
+            "One Was a Soldier",
+            "I Shall Not Want",
+            "All Mortal Flesh",
+            "In Bleak",
+            "Out of Deep I Cry"
+        ],
+        "url": "https://openlibrary.org/authors/OL1393229A/Julia_Spencer-Fleming?sort=new"
+    },
+    "James Luceno": {
+        "titles": [
+            "Indiana Jones",
+            "Star Wars Episode 3"
+        ],
+        "url": "https://openlibrary.org/authors/OL958919A/James_Luceno?sort=new"
+    },
+    "Helen Oyeyemi": {
+        "titles": [
+            "Peaces",
+            "Juniper's Whitening",
+            "El Senor Fox",
+            "Icarus Girl",
+            "Mr. Fox",
+            "Opposite House",
+            "Icarus Girl Poster",
+            "Das Ikarus Madchen"
+        ],
+        "url": "https://openlibrary.org/authors/OL1393954A/Helen_Oyeyemi?sort=new"
+    },
+    "Rene Denfeld": {
+        "titles": [
+            "Fire and Water",
+            "Butterfly Museum",
+            "Butterfly Girl",
+            "Izci",
+            "Enchanted",
+            "All God's Children",
+            "New Victorians"
+        ],
+        "url": "https://openlibrary.org/authors/OL537015A/Rene_Denfeld?sort=new"
+    },
+    "Steve Berry": {
+        "titles": [
+            "Last Kingdom",
+            "Omega Factor",
+            "Kaiser's Web",
+            "Warsaw Protocol",
+            "Malta Exchange"
+        ],
+        "url": "https://openlibrary.org/authors/OL4777673A/Steve_Berry?sort=new"
+    },
+    "Chevy Stevens": {
+        "titles": [
+            "Dark Roads",
+            "Ich Beobachte Dich",
+            "Never Let You Go",
+            "Obsesif",
+            "That Night",
+            "Blick In Die Angst",
+            "Always Watching",
+            "Other Side",
+            "Nadie Te Encontrara",
+            "Never Knowing"
+        ],
+        "url": "https://openlibrary.org/authors/OL6750109A/Chevy_Stevens?sort=new"
+    },
+    "Hannah Jayne": {
+        "titles": [
+            "Revenge",
+            "Copycat",
+            "Twisted",
+            "Escape",
+            "Under Final Moon",
+            "See Jane Run",
+            "Dare",
+            "Under a Spell",
+            "Under Gun",
+            "Under Suspicion",
+            "Under Attack",
+            "Under Wraps"
+        ],
+        "url": "https://openlibrary.org/authors/OL7069666A/Hannah_Jayne?sort=new"
+    },
+    "Jennifer Donnelly": {
+        "titles": [
+            "Poisoned",
+            "Przyrodnia Siostra",
+            "Stepsister",
+            "Beauty and Beast",
+            "Hermanastra",
+            "Waterfire Saga",
+            "De Winterroos",
+            "Sea Spell",
+            "Sea Spell",
+            "Dark Tide",
+            "Rogue Wave",
+            "Das Blut Der Lilie"
+        ],
+        "url": "https://openlibrary.org/authors/OL7633053A/Jennifer_Donnelly?sort=new"
     }
 }
