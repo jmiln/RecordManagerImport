@@ -98974,5 +98974,412 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781982158941",
+        "title": "Forest of Vanishing Stars",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2022",
+        "pages": "376+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307740809",
+        "title": "Robopocalypse",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel H. Wilson"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2012",
+        "pages": 396,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765392077",
+        "title": "Autonomous",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Annalee Newitz"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 301,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780394747231",
+        "title": "Maus I, My Father Bleeds History",
+        "subtitle": "A Survivor's Tale",
+        "authors": [
+            {
+                "name": "Art Spiegelman"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "1986",
+        "pages": 159,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "ill": 10,
+        "publishers": [
+            {
+                "name": "Pantheon Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451230515",
+        "title": "Dracula the Un-Dead",
+        "subtitle": "The Sequel To the Original Classic",
+        "authors": [
+            {
+                "name": "Dacre Stoker"
+            },
+            {
+                "name": "Ian Holt"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2010",
+        "pages": 424,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385736008",
+        "title": "Alchemyst",
+        "subtitle": "The Secrets of the Immortal Nicholas Flamel",
+        "authors": [
+            {
+                "name": "Michael Scott"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2007",
+        "pages": "375+",
+        "price": 5.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385737289",
+        "title": "Magician",
+        "subtitle": "The Secrets of the Immortal Nicholas Flamel",
+        "authors": [
+            {
+                "name": "Michael Scott"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": 464,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385735308",
+        "title": "Sorceress",
+        "subtitle": "The Secrets of the Immortal Nicholas Flamel",
+        "authors": [
+            {
+                "name": "Michael Scott"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2010",
+        "pages": "488+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416975892",
+        "title": "Clockwork Prince",
+        "subtitle": "The Infernal Devices, Book Two",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": "502+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385735353",
+        "title": "Enchantress",
+        "subtitle": "The Secrets of the Immortal Nicholas Flamel",
+        "authors": [
+            {
+                "name": "Michael Scott"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 517,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385735315",
+        "title": "Necromancer",
+        "subtitle": "The Secrets of the Immortal Nicholas Flamel",
+        "authors": [
+            {
+                "name": "Michael Scott"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2010",
+        "pages": 403,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385735339",
+        "title": "Warlock",
+        "subtitle": "The Secrets of the Immortal Nicholas Flamel",
+        "authors": [
+            {
+                "name": "Michael Scott"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": 385,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416975908",
+        "title": "Clockwork Princess",
+        "subtitle": "The Infernal Devices, Book Three - Collector's First Edition",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 570,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

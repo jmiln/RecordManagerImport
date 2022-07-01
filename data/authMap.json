@@ -3292,22 +3292,14 @@
         "url": "https://openlibrary.org/authors/OL1393229A/Julia_Spencer-Fleming?sort=new"
     },
     "James Luceno": {
-        "titles": [
-            "Indiana Jones",
-            "Star Wars Episode 3"
-        ],
         "url": "https://openlibrary.org/authors/OL958919A/James_Luceno?sort=new"
     },
     "Helen Oyeyemi": {
         "titles": [
             "Peaces",
             "Juniper's Whitening",
-            "El Senor Fox",
-            "Icarus Girl",
-            "Mr. Fox",
             "Opposite House",
-            "Icarus Girl Poster",
-            "Das Ikarus Madchen"
+            "Icarus Girl Poster"
         ],
         "url": "https://openlibrary.org/authors/OL1393954A/Helen_Oyeyemi?sort=new"
     },
@@ -3316,7 +3308,6 @@
             "Fire and Water",
             "Butterfly Museum",
             "Butterfly Girl",
-            "Izci",
             "Enchanted",
             "All God's Children",
             "New Victorians"
@@ -3336,14 +3327,10 @@
     "Chevy Stevens": {
         "titles": [
             "Dark Roads",
-            "Ich Beobachte Dich",
             "Never Let You Go",
-            "Obsesif",
             "That Night",
-            "Blick In Die Angst",
             "Always Watching",
             "Other Side",
-            "Nadie Te Encontrara",
             "Never Knowing"
         ],
         "url": "https://openlibrary.org/authors/OL6750109A/Chevy_Stevens?sort=new"
@@ -3368,18 +3355,42 @@
     "Jennifer Donnelly": {
         "titles": [
             "Poisoned",
-            "Przyrodnia Siostra",
             "Stepsister",
             "Beauty and Beast",
-            "Hermanastra",
             "Waterfire Saga",
-            "De Winterroos",
             "Sea Spell",
             "Sea Spell",
             "Dark Tide",
-            "Rogue Wave",
-            "Das Blut Der Lilie"
+            "Rogue Wave"
         ],
         "url": "https://openlibrary.org/authors/OL7633053A/Jennifer_Donnelly?sort=new"
+    },
+    "Annalee Newitz": {
+        "titles": [
+            "Terraformers",
+            "Four Lost Cities",
+            "Pretend We're Dead",
+            "She's Such a Geek!",
+            "White Trash"
+        ],
+        "url": "https://openlibrary.org/authors/OL2699570A/Annalee_Newitz?sort=new"
+    },
+    "Art Spiegelman": {
+        "titles": [
+            "Wild Party",
+            "Jack and Box"
+        ],
+        "url": "https://openlibrary.org/authors/OL250856A/Art_Spiegelman?sort=new"
+    },
+    "Michael Scott": {
+        "titles": [
+            "Mirror Image",
+            "Enchantress",
+            "Thirteen Hallows",
+            "Warlock",
+            "Necromancer",
+            "Sorceress"
+        ],
+        "url": "https://openlibrary.org/authors/OL473891A/Michael_Scott?sort=new"
     }
 }
