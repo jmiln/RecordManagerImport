@@ -3392,5 +3392,175 @@
             "Sorceress"
         ],
         "url": "https://openlibrary.org/authors/OL473891A/Michael_Scott?sort=new"
+    },
+    "Stephen Jones": {
+        "titles": [
+            "Criminology",
+            "Art of Pulp Horror"
+        ],
+        "url": "https://openlibrary.org/authors/OL92514A/Stephen_Jones?sort=new"
+    },
+    "Jenna Evans Welch": {
+        "titles": [
+            "Love and Olives",
+            "Love and Collection",
+            "Love & Luck",
+            "Love & Gelato",
+            "Love and Gelato"
+        ],
+        "url": "https://openlibrary.org/authors/OL7513122A/Jenna_Evans_Welch?sort=new"
+    },
+    "Robyn Carr": {
+        "titles": [
+            "Forbidden Falls",
+            "Moonlight Road",
+            "Angel's Peak",
+            "Just Over Mountain",
+            "Down By River",
+            "Deep In Valley",
+            "Blue Skies",
+            "Wedding Party",
+            "Virgin River",
+            "Second Chance Pass"
+        ],
+        "url": "https://openlibrary.org/authors/OL829823A/Robyn_Carr?sort=new"
+    },
+    "Jillian Cantor": {
+        "titles": [
+            "Half Life",
+            "Lost Letter",
+            "Hours Count",
+            "Margot",
+            "Searching for Sky",
+            "Life of Glass",
+            "September Sisters"
+        ],
+        "url": "https://openlibrary.org/authors/OL5124084A/Jillian_Cantor?sort=new"
+    },
+    "Christopher Moore": {
+        "titles": [
+            "Noir",
+            "Serpent of Venice",
+            "Sacre Bleu",
+            "Griff",
+            "Bite Me",
+            "Paying Back Jack",
+            "Fool",
+            "You Suck",
+            "Stupidest Angel"
+        ],
+        "url": "https://openlibrary.org/authors/OL2629911A/Christopher_Moore?sort=new"
+    },
+    "Stephen R. Lawhead": {
+        "titles": [
+            "King Raven Trilogy"
+        ],
+        "url": "https://openlibrary.org/authors/OL2628655A/Stephen_R._Lawhead?sort=new"
+    },
+    "John Walkenbach": {
+        "titles": [
+            "Excel-Vba",
+            "Excel 2016 Bible",
+            "Excel 2013 Formulas",
+            "Excel 2013 Bible"
+        ],
+        "url": "https://openlibrary.org/authors/OL28550A/John_Walkenbach?sort=new"
+    },
+    "John Le Carre": {
+        "format": "Le Carre, John",
+        "titles": [
+            "Private Spy",
+            "Our Kind of Traitor"
+        ],
+        "url": "https://openlibrary.org/authors/OL10142935A/John_le_Carré?sort=new"
+    },
+    "Peter Abrahams": {
+        "titles": [
+            "Bark To Future",
+            "Tender is Bite",
+            "Of Mutts and Men",
+            "Bark Vs. Snark",
+            "Ruff Vs. Fluff",
+            "Paws Vs. Claws",
+            "Heart of Barkness",
+            "Right Side",
+            "Bow Wow",
+            "Arf",
+            "Santa 365",
+            "Paw and Order",
+            "Tail of Vengeance",
+            "Woof"
+        ],
+        "url": "https://openlibrary.org/authors/OL29531A/Peter_Abrahams?sort=new"
+    },
+    "Victor Del Arbol": {
+        "format": "Del Arbol, Victor",
+        "titles": [
+            "Million Drops"
+        ],
+        "url": "https://openlibrary.org/authors/OL7010398A/Víctor_del_Árbol?sort=new"
+    },
+    "Susan Wiggs": {
+        "titles": [
+            "Summer By Sea",
+            "Sugar and Salt",
+            "Charm School",
+            "Dockside",
+            "Embrace Day",
+            "At King's Command"
+        ],
+        "url": "https://openlibrary.org/authors/OL7094147A/Susan_Wiggs?sort=new"
+    },
+    "Stephanie Laurens": {
+        "titles": [
+            "Unwilling Conquest",
+            "Meaning of Love",
+            "By Winter's Light"
+        ],
+        "url": "https://openlibrary.org/authors/OL7087924A/Stephanie_Laurens?sort=new"
+    },
+    "Cory Doctorow": {
+        "titles": [
+            "Unauthorised Bread",
+            "Force Multiplier",
+            "Attack Surface",
+            "Radicalized",
+            "Party Discipline",
+            "Walkaway"
+        ],
+        "url": "https://openlibrary.org/authors/OL1394244A/Cory_Doctorow?sort=new"
+    },
+    "Christie Golden": {
+        "titles": [
+            "World of Warcraft",
+            "Starcraft",
+            "Warcraft",
+            "Assassin's Creed",
+            "War Crimes"
+        ],
+        "url": "https://openlibrary.org/authors/OL1386288A/Christie_Golden?sort=new"
+    },
+    "Alexander Freed": {
+        "titles": [
+            "Victory's Price",
+            "Shadow Fall",
+            "Rogue One",
+            "Lost Suns"
+        ],
+        "url": "https://openlibrary.org/authors/OL3110575A/Alexander_Freed?sort=new"
+    },
+    "Antony Beevor": {
+        "titles": [
+            "Battle of Arnhem",
+            "Second World War",
+            "D-Day",
+            "Stalingrad",
+            "Crete",
+            "Inside British Army",
+            "Faustian Pact",
+            "Spanish Civil War",
+            "Violent Brink"
+        ],
+        "url": "https://openlibrary.org/authors/OL225243A/Antony_Beevor?sort=new"
     }
 }

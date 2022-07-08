@@ -3559,5 +3559,45 @@
         "locations": [
             "Toronto, Ontario"
         ]
+    },
+    {
+        "name": [
+            "Microsoft Press"
+        ],
+        "locations": [
+            "Redmond, Wa."
+        ]
+    },
+    {
+        "name": [
+            "Savdek Management Pty, Ltd."
+        ],
+        "locations": [
+            "Melbourne, Australia"
+        ]
+    },
+    {
+        "name": [
+            "Yen On / Yen Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Guffaw Press"
+        ],
+        "locations": [
+            "Valencia, Ca."
+        ]
+    },
+    {
+        "name": [
+            "Tanglewood Press"
+        ],
+        "locations": [
+            "Indianapolis, IN."
+        ]
     }
 ]

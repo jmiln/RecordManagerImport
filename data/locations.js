@@ -46,7 +46,7 @@ module.exports = [
     "HAUPPAUGE, N.Y.",
     "HILLSBORO, OR.",
     "HONOLULU, HI.",
-    "INDIANAPOLIS",
+    "INDIANAPOLIS, IN.",
     "ITHACA, NY.",
     "JACKSON, MS.",
     "KANSAS CITY, MO.",

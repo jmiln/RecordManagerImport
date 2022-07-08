@@ -29045,32 +29045,6 @@
         ]
     },
     {
-        "isbn": "9781402294150",
-        "title": "Paris Architect",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Charles Belfoure"
-            }
-        ],
-        "publish_date": "2014",
-        "pages": 374,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Sourcebooks Landmark"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
         "isbn": "0060932759",
         "title": "Daughter Of Fortune",
         "subtitle": "A Novel",
@@ -59275,37 +59249,6 @@
         ]
     },
     {
-        "isbn": "9780316024969",
-        "title": "New Moon",
-        "subtitle": "The Twilight Saga, Book 2",
-        "authors": [
-            {
-                "name": "Stephenie Meyer"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2008",
-        "pages": 563,
-        "price": 6.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Megan Tingley Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781595141880",
         "title": "Thirteen Reasons Why",
         "subtitle": "",
@@ -64853,38 +64796,6 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780375856112",
-        "title": "Inheritance : Or, The Vault Of Souls",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Christopher Paolini"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2011",
-        "pages": 860,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
@@ -78006,37 +77917,6 @@
         ]
     },
     {
-        "isbn": "9780802124944",
-        "title": "Sympathizer",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Viet Thanh Nguyen"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic",
-            "pul"
-        ],
-        "publish_date": "2016",
-        "pages": "393+",
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grove Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780812985443",
         "title": "Tell the Wolves I'm Home",
         "subtitle": "A Novel",
@@ -89822,37 +89702,6 @@
         ]
     },
     {
-        "isbn": "9780316015844",
-        "title": "Twilight",
-        "subtitle": "The Twilight Saga, Book 1",
-        "authors": [
-            {
-                "name": "Stephenie Meyer"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2006",
-        "pages": "498+",
-        "price": 6.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780593333037",
         "title": "Dial a for Aunties",
         "subtitle": "A Novel",
@@ -92589,36 +92438,6 @@
         "publishers": [
             {
                 "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250080400",
-        "title": "Nightingale",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": "570+",
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
             }
         ],
         "publish_places": [
@@ -99379,6 +99198,1079 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781781165294",
+        "title": "Weird Shadows Over Innsmouth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "H. P. Lovecraft"
+            },
+            {
+                "name": "Stephen Jones"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2013",
+        "pages": 349,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Titan Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534401013",
+        "title": "Love and Luck",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenna Evans Welch"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": "304+",
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon Pulse/simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316027656",
+        "title": "Eclipse",
+        "subtitle": "The Twilight Saga, Book 3",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": 329,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Megan Tingley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316024969",
+        "title": "New Moon",
+        "subtitle": "The Twilight Saga, Book 2",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2008",
+        "pages": "563+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Megan Tingley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316015844",
+        "title": "Twilight",
+        "subtitle": "The Twilight Saga, Book 1",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2006",
+        "pages": "498+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Megan Tingley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316067935",
+        "title": "Breaking Dawn",
+        "subtitle": "The Twilight Saga, Book 4",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2010",
+        "pages": 754,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Megan Tingley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538715451",
+        "title": "Three Women Disappear",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Shan Serafin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 368,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250080400",
+        "title": "Nightingale",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 570,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778331742",
+        "title": "Family Affair",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Robyn Carr"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 328,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781402294150",
+        "title": "Paris Architect",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Charles Belfoure"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2014",
+        "pages": 388,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062863324",
+        "title": "In Another Time",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jillian Cantor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 325,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780380813810",
+        "title": "Lamb",
+        "subtitle": "The Gospel According To Biff, Christ's Childhood Pal",
+        "authors": [
+            {
+                "name": "Christopher Moore"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 444,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375409440",
+        "title": "Love",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 202,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765383464",
+        "title": "In the Land of the Everliving",
+        "subtitle": "Eirlandia, Book Two",
+        "authors": [
+            {
+                "name": "Stephen R. Lawhead"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 316,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781119077398",
+        "title": "Excel Vba Programming for Dummies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Walkenbach"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2015",
+        "pages": 391,
+        "price": 14,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "John Wiley & Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hoboken, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "9781509304219",
+        "title": "Microsoft Excel Data Analysis and Business Modeling (5th Edition)",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wayne Winston"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2016",
+        "pages": 837,
+        "price": 17,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Microsoft Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Redmond, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316353588",
+        "title": "Absolute Friends",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Le Carre"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 453,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399576614",
+        "title": "Open Season",
+        "subtitle": "The First Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 323,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476703244",
+        "title": "Sound and the Furry",
+        "subtitle": "A Chet and Bernie Mystery",
+        "authors": [
+            {
+                "name": "Peter Abrahams"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 311,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066312",
+        "title": "Better Man",
+        "subtitle": "A Chief Inspector Gamache Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 455,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780805094756",
+        "title": "Sadness of the Samurai",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Victor Del Arbol"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 388,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250060631",
+        "title": "Pleasure and a Calling",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Phil Hogan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 281,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802124944",
+        "title": "Sympathizer",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Viet Thanh Nguyen"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2016",
+        "pages": "393+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062425553",
+        "title": "Between You and Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Susan Wiggs"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 356,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781925559347",
+        "title": "Beguilement of Lady Eustacia Cavanaugh",
+        "subtitle": "The Cavanaughs, Volume Three",
+        "authors": [
+            {
+                "name": "Stephanie Laurens"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 332,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Savdek Management Pty, Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Melbourne, Australia"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250775016",
+        "title": "Legacy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 449,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250196446",
+        "title": "Rapture of the Nerds",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cory Doctorow"
+            },
+            {
+                "name": "Charles Stross"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2018",
+        "pages": 349,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316397599",
+        "title": "Overlord, Volume 4",
+        "subtitle": "The Lizardman Heroes",
+        "authors": [
+            {
+                "name": "Kugane Maruyama"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "pages": "268+",
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Yen On / Yen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524797348",
+        "title": "Inferno Squad",
+        "subtitle": "Star Wars Battlefront II",
+        "authors": [
+            {
+                "name": "Christie Golden"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 307,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345511218",
+        "title": "Twilight Company",
+        "subtitle": "Star Wars Battlefront",
+        "authors": [
+            {
+                "name": "Alexander Freed"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2015",
+        "pages": 397,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375856112",
+        "title": "Inheritance, or, the Vault of Souls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christopher Paolini"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": 860,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781554841684",
+        "title": "Government Issued Zombie Survival Handbook Everything You Need To Know To Survive the Outbreak",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gerald Kielpinski"
+            }
+        ],
+        "keywords": [
+            "hum",
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2011",
+        "pages": 267,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Guffaw Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Valencia, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780425271612",
+        "title": "Silent Night",
+        "subtitle": "A Spenser Holiday Novel",
+        "authors": [
+            {
+                "name": "Robert B. Parker"
+            },
+            {
+                "name": "Helen Brann"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 229,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781939100412",
+        "title": "Bookweaver's Daughter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Malavika Kannan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 246,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tanglewood Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Indianapolis"
+            }
+        ]
+    },
+    {
+        "isbn": "9780241975152",
+        "title": "Ardennes 1944",
+        "subtitle": "Hitler's Last Gamble",
+        "authors": [
+            {
+                "name": "Antony Beevor"
+            }
+        ],
+        "keywords": [
+            "mil",
+            "ww2"
+        ],
+        "publish_date": "2016",
+        "pages": 453,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
             }
         ]
     }
