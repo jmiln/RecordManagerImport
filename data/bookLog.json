@@ -7829,27 +7829,6 @@
         ]
     },
     {
-        "isbn": "9780451478016",
-        "title": "Evening And The Morning",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Ken Follett"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780765331595",
         "title": "Forest Laird",
         "subtitle": "A Tale Of William Wallace",
@@ -15092,48 +15071,6 @@
         "publish_places": [
             {
                 "name": "Sisters, Or."
-            }
-        ]
-    },
-    {
-        "isbn": "9780345803504",
-        "title": "Fifty Shades Freed",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "E. L. James"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780345803498",
-        "title": "Fifty Shades Darker",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "E. L. James"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -43158,37 +43095,6 @@
         ]
     },
     {
-        "isbn": "9781250145260",
-        "title": "Madness Of Crowds",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Louise Penny"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 436,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062910455",
         "title": "Lost Boys",
         "subtitle": "A Decker / Lazarus Novel",
@@ -55791,37 +55697,6 @@
         "publishers": [
             {
                 "name": "Pegasus Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250312204",
-        "title": "Last Passenger",
-        "subtitle": "A Charles Lenox Mystery",
-        "authors": [
-            {
-                "name": "Charles Finch"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2020",
-        "pages": 292,
-        "price": 10,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
             }
         ],
         "publish_places": [
@@ -100271,6 +100146,854 @@
         "publish_places": [
             {
                 "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982132545",
+        "title": "Piece of My Heart",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Higgins Clark"
+            },
+            {
+                "name": "Alafair Burke"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 319,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593199466",
+        "title": "What the Cat Dragged In",
+        "subtitle": "A Cat In The Stacks Mystery",
+        "authors": [
+            {
+                "name": "Miranda James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 289,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451491152",
+        "title": "Careless Whiskers",
+        "subtitle": "A Cat In the Stacks Mystery",
+        "authors": [
+            {
+                "name": "Miranda James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 289,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451491183",
+        "title": "Cat Me if You Can",
+        "subtitle": "A Cat In the Stacks Mystery",
+        "authors": [
+            {
+                "name": "Miranda James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 289,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062435927",
+        "title": "Dead Land",
+        "subtitle": "A V.I. Warshawski Novel",
+        "authors": [
+            {
+                "name": "Sara Paretsky"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 405,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780670026197",
+        "title": "Gentleman In Moscow",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amor Towles"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2016",
+        "pages": 462,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062563668",
+        "title": "Women In the Castle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jessica Shattuck"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2017",
+        "pages": 326,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553382632",
+        "title": "Dancing Naked At the Edge of Dawn",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kris Radish"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 328,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399562464",
+        "title": "Still Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 390,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803498",
+        "title": "Fifty Shades Darker",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E. L. James"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 532,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345803504",
+        "title": "Fifty Shades Freed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "E. L. James"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 578,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553391886",
+        "title": "Last One Home",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 320,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764206542",
+        "title": "Centurion's Wife",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. Davis Bunn"
+            },
+            {
+                "name": "Janette Oke"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2009",
+        "pages": 378,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780553496642",
+        "title": "Everything, Everything",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicola Yoon"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": "310+",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780147517654",
+        "title": "Paper Towns",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Green"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 305,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780763660659",
+        "title": "Monster Calls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick Ness"
+            },
+            {
+                "name": "Jim Kay",
+                "contribution": "Illustrated By"
+            },
+            {
+                "name": "Siobhan Dowd",
+                "contribution": "Inspired By"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 204,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "ill": 10,
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9781524781132",
+        "title": "Dangerous Minds",
+        "subtitle": "A Knight and Moon Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 339,
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Random House Large Print"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616952938",
+        "title": "Not My Blood",
+        "subtitle": "A Joe Sandilands Investigation",
+        "authors": [
+            {
+                "name": "Barbara Cleverly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 345,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062092656",
+        "title": "Stormchild",
+        "subtitle": "A Novel of Suspense",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 469,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451478016",
+        "title": "Evening and the Morning",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 913,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781590585160",
+        "title": "Raisins and Almonds",
+        "subtitle": "A Phryne Fisher Mystery",
+        "authors": [
+            {
+                "name": "Kerry Greenwood"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 207,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781728234564",
+        "title": "Death In Daylesford",
+        "subtitle": "A Phryne Fisher Mystery, Book 21",
+        "authors": [
+            {
+                "name": "Kerry Greenwood"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 322,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250312204",
+        "title": "Last Passenger",
+        "subtitle": "A Charles Lenox Mystery",
+        "authors": [
+            {
+                "name": "Charles Finch"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 292,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593296844",
+        "title": "Something To Hide",
+        "subtitle": "A Lynley Novel",
+        "authors": [
+            {
+                "name": "Elizabeth George"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 691,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780759554344",
+        "title": "Run, Rose, Run",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Dolly Parton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 439,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250145260",
+        "title": "Madness of Crowds",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 436,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553801507",
+        "title": "Feast for Crows",
+        "subtitle": "A Song of Ice and Fire, Book 4",
+        "authors": [
+            {
+                "name": "George R. R. Martin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 753,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

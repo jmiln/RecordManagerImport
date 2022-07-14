@@ -1293,7 +1293,6 @@
     "Miranda James": {
         "titles": [
             "Hiss Me Deadly",
-            "What Cat Dragged In",
             "Pawful Truth",
             "Cat Me if You Can",
             "Careless Whiskers",
@@ -3556,11 +3555,98 @@
             "D-Day",
             "Stalingrad",
             "Crete",
-            "Inside British Army",
             "Faustian Pact",
             "Spanish Civil War",
             "Violent Brink"
         ],
         "url": "https://openlibrary.org/authors/OL225243A/Antony_Beevor?sort=new"
+    },
+    "Mary Higgins Clark": {
+        "titles": [
+            "Where Are Children?"
+        ],
+        "url": "https://openlibrary.org/authors/OL22586A/Mary_Higgins_Clark?sort=new"
+    },
+    "Sara Paretsky": {
+        "titles": [
+            "Overboard",
+            "Love & Other Crimes",
+            "Shell Game",
+            "Fallout"
+        ],
+        "url": "https://openlibrary.org/authors/OL7505592A/Sara_Paretsky?sort=new"
+    },
+    "Jessica Shattuck": {
+        "titles": [
+            "Perfect Life"
+        ],
+        "url": "https://openlibrary.org/authors/OL1477132A/Jessica_Shattuck?sort=new"
+    },
+    "Kris Radish": {
+        "titles": [
+            "Hearts On a String",
+            "De Weg Vvriendschap"
+        ],
+        "url": "https://openlibrary.org/authors/OL773306A/Kris_Radish?sort=new"
+    },
+    "T. Davis Bunn": {
+        "titles": [
+            "Island of Time",
+            "Emerald Tide",
+            "Prime Directive",
+            "Tranquility Falls",
+            "Burden of Proof",
+            "Unscripted",
+            "Outbreak",
+            "Firefly Cove",
+            "Recruits",
+            "Miramar Bay",
+            "Fault Lines",
+            "Renegades",
+            "Domino Effect",
+            "Fragment",
+            "Merchant of Alyss",
+            "Emissary"
+        ],
+        "url": "https://openlibrary.org/authors/OL38899A/T._Davis_Bunn?sort=new"
+    },
+    "Barbara Cleverly": {
+        "titles": [
+            "Invitation To Die",
+            "Fall of Angels",
+            "Diana's Altar",
+            "Enter Pale Death",
+            "Spider In the Cup",
+            "Cambridge Mysteries",
+            "Blood Royal",
+            "Darker God",
+            "Tomb of Zeus",
+            "Last Kashmiri Rose"
+        ],
+        "url": "https://openlibrary.org/authors/OL1400291A/Barbara_Cleverly?sort=new"
+    },
+    "Elizabeth George": {
+        "titles": [
+            "Mastering Process",
+            "Filipenses",
+            "Careless In Red"
+        ],
+        "url": "https://openlibrary.org/authors/OL6812569A/Elizabeth_George?sort=new"
+    },
+    "George R. R. Martin": {
+        "titles": [
+            "Full House",
+            "Three Kings",
+            "Fire & Blood",
+            "Clash of Kings",
+            "Joker Moon",
+            "Death Draws Five",
+            "Wild Cards Xii",
+            "Karabasan",
+            "Puerto Estelar",
+            "Haviland Tuff",
+            "Starport"
+        ],
+        "url": "https://openlibrary.org/authors/OL234664A/George_R._R._Martin?sort=new"
     }
 }
