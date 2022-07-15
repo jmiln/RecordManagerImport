@@ -3661,5 +3661,37 @@
             "Gifts of Christmas"
         ],
         "url": "https://openlibrary.org/authors/OL2100245A/Rachel_Hartman?sort=new"
+    },
+    "George Saunders": {
+        "titles": [
+            "Fox 8",
+            "Lincoln In Bardo",
+            "Pastoralia",
+            "Zehnter Dezember",
+            "Shi Er Yue Shi Ri",
+            "Tenth of December",
+            "Braindead Megaphone"
+        ],
+        "url": "https://openlibrary.org/authors/OL537475A/George_Saunders?sort=new"
+    },
+    "Natasha Solomons": {
+        "titles": [
+            "Das Goldene Palais",
+            "Song Collector",
+            "House At Tyneford",
+            "Novel In the Viola",
+            "Mr Rosenblums List"
+        ],
+        "url": "https://openlibrary.org/authors/OL6792606A/Natasha_Solomons?sort=new"
+    },
+    "Colm Toibin": {
+        "titles": [
+            "Vinegar Hill",
+            "Magician",
+            "Isimler Evi",
+            "Madres E Hijos",
+            "Casa De Los Nombres"
+        ],
+        "url": "https://openlibrary.org/authors/OL82249A/Colm_Tóibín?sort=new"
     }
 }

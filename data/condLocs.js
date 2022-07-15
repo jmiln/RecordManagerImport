@@ -59,6 +59,7 @@ module.exports.condMap = {
     lmoi: "Light Moisture Ripple to ${}.",
 
     sds: "Small Dampstain to ${}.",
+    tds: "Tiny Dampstain to ${}.",
 
     // Foxing to page edges
     ffox: "Faint Foxing to ${page edges}.",
