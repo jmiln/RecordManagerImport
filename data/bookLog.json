@@ -12774,30 +12774,6 @@
         ]
     },
     {
-        "isbn": "9781538731598",
-        "title": "18th Abduction",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "James Patterson"
-            },
-            {
-                "name": "Maxine Paetro"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316123518",
         "title": "Beautiful Chaos",
         "subtitle": "",
@@ -23542,27 +23518,6 @@
         "publish_date": "2013"
     },
     {
-        "isbn": "9781250060952",
-        "title": "Dead Water",
-        "subtitle": "A Shetland Mystery",
-        "authors": [
-            {
-                "name": "Ann Cleeves"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062085504",
         "title": "Shatter Me",
         "subtitle": "",
@@ -25286,27 +25241,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780778389385",
-        "title": "Woman With The Blue Star",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Pam Jenoff"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Park Row Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -100989,6 +100923,313 @@
         "publishers": [
             {
                 "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501124389",
+        "title": "Everyone Brave is Forgiven",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Chris Cleave"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 424,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538731598",
+        "title": "18th Abduction",
+        "subtitle": "A Women's Murder Club Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Maxine Paetro"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 386,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250182135",
+        "title": "Cold Earth",
+        "subtitle": "The Shetland Island Mysteries, Book 7",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 392,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250226235",
+        "title": "Wild Fire",
+        "subtitle": "The Shetland Island Mysteries, Book 8",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 415,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312384449",
+        "title": "Blue Lightning",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 359,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250060952",
+        "title": "Dead Water",
+        "subtitle": "The Shetland Island Mysteries, Book 5",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 400,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250091079",
+        "title": "Thin Air",
+        "subtitle": "The Shetland Island Mysteries, Book 6",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 388,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778389385",
+        "title": "Woman With the Blue Star",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 324,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316258678",
+        "title": "Hotel Nantucket",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": "368+",
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown and Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101931288",
+        "title": "Tess of the Road",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rachel Hartman"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": 536,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
             }
         ],
         "publish_places": [

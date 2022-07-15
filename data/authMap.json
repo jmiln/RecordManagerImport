@@ -3584,8 +3584,7 @@
     },
     "Kris Radish": {
         "titles": [
-            "Hearts On a String",
-            "De Weg Vvriendschap"
+            "Hearts On a String"
         ],
         "url": "https://openlibrary.org/authors/OL773306A/Kris_Radish?sort=new"
     },
@@ -3628,7 +3627,6 @@
     "Elizabeth George": {
         "titles": [
             "Mastering Process",
-            "Filipenses",
             "Careless In Red"
         ],
         "url": "https://openlibrary.org/authors/OL6812569A/Elizabeth_George?sort=new"
@@ -3641,12 +3639,27 @@
             "Clash of Kings",
             "Joker Moon",
             "Death Draws Five",
-            "Wild Cards Xii",
-            "Karabasan",
-            "Puerto Estelar",
-            "Haviland Tuff",
             "Starport"
         ],
         "url": "https://openlibrary.org/authors/OL234664A/George_R._R._Martin?sort=new"
+    },
+    "Chris Cleave": {
+        "titles": [
+            "Gold",
+            "Little Bee",
+            "Other Hand",
+            "Incendiary"
+        ],
+        "url": "https://openlibrary.org/authors/OL7654449A/Chris_Cleave?sort=new"
+    },
+    "Rachel Hartman": {
+        "titles": [
+            "Tess of the Road",
+            "In Serpent's Wake",
+            "Seraphina",
+            "Shadow Scale",
+            "Gifts of Christmas"
+        ],
+        "url": "https://openlibrary.org/authors/OL2100245A/Rachel_Hartman?sort=new"
     }
 }
