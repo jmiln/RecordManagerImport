@@ -102853,5 +102853,162 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780385548229",
+        "title": "When Women Were Dragons",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kelly Regan Barnhill"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2022",
+        "pages": 336,
+        "price": 16.8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0880295961",
+        "title": "Collected Jack London",
+        "subtitle": "Thirty-Six Stories, Four Complete Novels, a Memoir",
+        "authors": [
+            {
+                "name": "Jack London"
+            },
+            {
+                "name": "Steven J. Kasdin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1992",
+        "pages": 1061,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dorset Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250151162",
+        "title": "Lillian Boxfish Takes a Walk",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kathleen Rooney"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 284,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684847515",
+        "title": "Miss Pym Disposes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Josephine Tey"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1998",
+        "pages": 235,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316523097",
+        "title": "Big Sky",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Atkinson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 391,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
