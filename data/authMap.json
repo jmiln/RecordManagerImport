@@ -42,7 +42,14 @@
         ]
     },
     "Ursula K. Le Guin": {
-        "format": "Le Guin, Ursula K."
+        "format": "Le Guin, Ursula K.",
+        "titles": [
+            "Searoad",
+            "Disoissessed",
+            "Eye of the Heron",
+            "Lathe of Heaven"
+        ],
+        "url": "https://openlibrary.org/authors/OL31353A/Ursula_K._Le_Guin?sort=new"
     },
     "Leonard Pitts, Jr.": {
         "format": "Pitts, Leonard, Jr."
@@ -541,13 +548,10 @@
     },
     "Viet Thanh Nguyen": {
         "titles": [
+            "Sympathizer",
             "Committed",
-            "Multeciler",
-            "Tong Qing Zhe",
             "Displaced",
-            "El Simpatizante",
-            "Refugees",
-            "Sempatizan"
+            "Refugees"
         ]
     },
     "James Mcbride": {
@@ -3667,8 +3671,6 @@
             "Fox 8",
             "Lincoln In Bardo",
             "Pastoralia",
-            "Zehnter Dezember",
-            "Shi Er Yue Shi Ri",
             "Tenth of December",
             "Braindead Megaphone"
         ],
@@ -3676,22 +3678,249 @@
     },
     "Natasha Solomons": {
         "titles": [
-            "Das Goldene Palais",
             "Song Collector",
             "House At Tyneford",
-            "Novel In the Viola",
-            "Mr Rosenblums List"
+            "Novel In the Viola"
         ],
         "url": "https://openlibrary.org/authors/OL6792606A/Natasha_Solomons?sort=new"
     },
     "Colm Toibin": {
         "titles": [
             "Vinegar Hill",
-            "Magician",
-            "Isimler Evi",
-            "Madres E Hijos",
-            "Casa De Los Nombres"
+            "Magician"
         ],
         "url": "https://openlibrary.org/authors/OL82249A/Colm_Tóibín?sort=new"
+    },
+    "William F. Gibson": {
+        "titles": [
+            "Agency",
+            "Burning Chrome"
+        ],
+        "url": "https://openlibrary.org/authors/OL26283A/William_F._Gibson?sort=new"
+    },
+    "Ruth Rendell": {
+        "titles": [
+            "Spot of Folly",
+            "Dark Corners",
+            "Girl Next Door",
+            "No Mans Nightingale",
+            "Archie and Archie",
+            "Interactions",
+            "Child's Child",
+            "Vault",
+            "Monster In the Box",
+            "Portobello"
+        ],
+        "url": "https://openlibrary.org/authors/OL22672A/Ruth_Rendell?sort=new"
+    },
+    "Rosalie Knecht": {
+        "titles": [
+            "Relief Map"
+        ],
+        "url": "https://openlibrary.org/authors/OL7607436A/Rosalie_Knecht?sort=new"
+    },
+    "Karin Fossum": {
+        "titles": [
+            "Don't Look Back",
+            "He Who Fears The Wolf",
+            "Black Seconds",
+            "Hell Fire",
+            "Drowned Boy",
+            "In Darkness",
+            "Caller",
+            "Broken",
+            "Bad Intentions"
+        ],
+        "url": "https://openlibrary.org/authors/OL41672A/Karin_Fossum?sort=new"
+    },
+    "David Rosenfelt": {
+        "titles": [
+            "Citizen K-9",
+            "Holy Chow",
+            "Dog Eat Dog",
+            "Muzzled",
+            "Silent Bite",
+            "Bark of Night",
+            "Black and Blue"
+        ],
+        "url": "https://openlibrary.org/authors/OL1387980A/David_Rosenfelt?sort=new"
+    },
+    "Julia Alvarez": {
+        "titles": [
+            "Afterlife",
+            "Finding Miracles",
+            "Before We Were Free",
+            "Where Do They Go?",
+            "Wedding In Haiti"
+        ],
+        "url": "https://openlibrary.org/authors/OL29751A/Julia_Alvarez?sort=new"
+    },
+    "Imbolo Mbue": {
+        "titles": [
+            "Behold Dreamers"
+        ],
+        "url": "https://openlibrary.org/authors/OL7487208A/Imbolo_Mbue?sort=new"
+    },
+    "Jeanine Cummins": {
+        "titles": [
+            "American Dirt",
+            "Crooked Branch",
+            "Outside Boy",
+            "Rip In Heaven"
+        ],
+        "url": "https://openlibrary.org/authors/OL2725904A/Jeanine_Cummins?sort=new"
+    },
+    "Laurie R. King": {
+        "titles": [
+            "Island of Mad",
+            "Lockdown",
+            "Mary Russell's War",
+            "Dreaming Spies",
+            "With Child",
+            "Bones of Paris"
+        ],
+        "url": "https://openlibrary.org/authors/OL20985A/Laurie_R._King?sort=new"
+    },
+    "Jack Finney": {
+        "titles": [
+            "About Time",
+            "From Time To Time",
+            "Three By Finney"
+        ],
+        "url": "https://openlibrary.org/authors/OL266298A/Jack_Finney?sort=new"
+    },
+    "Ake Edwardson": {
+        "titles": [
+            "Frozen Tracks",
+            "Never End",
+            "Sun and Shadow"
+        ],
+        "url": "https://openlibrary.org/authors/OL57824A/Åke_Edwardson?sort=new"
+    },
+    "Wilbur Smith": {
+        "titles": [
+            "Thunderbolt",
+            "Cloudburst",
+            "Legacy of War",
+            "New Kingdom",
+            "Golden Lion",
+            "Call of Raven",
+            "Ghost Fire",
+            "King of Kings"
+        ],
+        "url": "https://openlibrary.org/authors/OL24095A/Wilbur_Smith?sort=new"
+    },
+    "Junot Diaz": {
+        "titles": [
+            "Bogul",
+            "Adali",
+            "Lola",
+            "Islandborn",
+            "Global Dystopias"
+        ],
+        "url": "https://openlibrary.org/authors/OL2660370A/Junot_Díaz?sort=new"
+    },
+    "Lois Lowry": {
+        "titles": [
+            "Gooney Fabulous",
+            "Stay!",
+            "Posłaniec",
+            "Syn",
+            "Anastasia Krupnik",
+            "Anastasia Again!",
+            "Bless This Mouse",
+            "Gathering Blue",
+            "Autumn Street",
+            "Skrawki Błekitu",
+            "Ji Yi Chushou Ren"
+        ],
+        "url": "https://openlibrary.org/authors/OL221009A/Lois_Lowry?sort=new"
+    },
+    "Madeleine L'engle": {
+        "titles": [
+            "Madeleine L'engle",
+            "Sphinx At Dawn",
+            "Crosswicks Journals",
+            "Other Side of Sun"
+        ],
+        "url": "https://openlibrary.org/authors/OL28188A/Madeleine_L'Engle?sort=new"
+    },
+    "Ruta Sepetys": {
+        "titles": [
+            "Ashes In Snow",
+            "Salt To Sea",
+            "Big Easy"
+        ],
+        "url": "https://openlibrary.org/authors/OL6776575A/Ruta_Sepetys?sort=new"
+    },
+    "Ira Levin": {
+        "titles": [
+            "Sliver",
+            "Semilla Del Diablo",
+            "Trampa Mortal",
+            "This Perfect Day",
+            "Son of Rosemary",
+            "Cantorial",
+            "Break a Leg",
+            "Deathtrap",
+            "Boys From Brazil"
+        ],
+        "url": "https://openlibrary.org/authors/OL26435A/Ira_Levin?sort=new"
+    },
+    "Stephen Graham Jones": {
+        "titles": [
+            "Wait for Night",
+            "Night of Mannequins",
+            "Mapping Interior",
+            "Mongrels",
+            "Gospel of Z"
+        ],
+        "url": "https://openlibrary.org/authors/OL6474536A/Stephen_Graham_Jones?sort=new"
+    },
+    "Barbara Davis": {
+        "titles": [
+            "Last of Moon Girls",
+            "Lost In Transition",
+            "New Rochelle",
+            "Peer Support",
+            "Remaking Cities"
+        ],
+        "url": "https://openlibrary.org/authors/OL544010A/Barbara_Davis?sort=new"
+    },
+    "Weina Dai Randel": {
+        "titles": [
+            "Night Angels",
+            "Moon In the Palace"
+        ],
+        "url": "https://openlibrary.org/authors/OL7606115A/Weina_Dai_Randel?sort=new"
+    },
+    "Shana Abe": {
+        "titles": [
+            "Deepest Night"
+        ],
+        "url": "https://openlibrary.org/authors/OL9160702A/Shana_Abe?sort=new"
+    },
+    "Elizabeth Mcgregor": {
+        "titles": [
+            "Learning By Heart",
+            "Wrong House",
+            "Ice Child"
+        ],
+        "url": "https://openlibrary.org/authors/OL1394943A/Elizabeth_McGregor?sort=new"
+    },
+    "Kirsty Manning": {
+        "titles": [
+            "French Gift",
+            "Lost Jewels"
+        ],
+        "url": "https://openlibrary.org/authors/OL7634107A/Kirsty_Manning?sort=new"
+    },
+    "Emma Straub": {
+        "titles": [
+            "This Time Tomorrow",
+            "All Adults Here",
+            "Vacationers"
+        ],
+        "url": "https://openlibrary.org/authors/OL7027813A/Emma_Straub?sort=new"
     }
 }

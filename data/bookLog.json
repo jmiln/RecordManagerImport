@@ -6131,27 +6131,6 @@
         ]
     },
     {
-        "isbn": "9781101971062",
-        "title": "Homegoing",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Yaa Gyasi"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062499844",
         "title": "Cottingley Secret",
         "subtitle": "A Novel",
@@ -11878,27 +11857,6 @@
         "publishers": [
             {
                 "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316154895",
-        "title": "House Of Broken Angels",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Luis Alberto Urrea"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Back Bay/little, Brown & Co."
             }
         ],
         "publish_places": [
@@ -21858,30 +21816,6 @@
         ]
     },
     {
-        "isbn": "9780593331859",
-        "title": "Marauder",
-        "subtitle": "A Novel Of The Oregon Files",
-        "authors": [
-            {
-                "name": "Clive Cussler"
-            },
-            {
-                "name": "Boyd Morrison"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0679753117",
         "title": "Dead Lagoon",
         "subtitle": "An Aurelio Zen Mystery",
@@ -22510,27 +22444,6 @@
         "publishers": [
             {
                 "name": "Berkley Books/penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250266101",
-        "title": "Rock Paper Scissors",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Alice Feeney"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Flatiron Books"
             }
         ],
         "publish_places": [
@@ -59359,36 +59272,6 @@
         ]
     },
     {
-        "isbn": "9780593157497",
-        "title": "Long Petal Of The Sea",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Isabel Allende"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 339,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780307476302",
         "title": "Road",
         "subtitle": "",
@@ -73781,36 +73664,6 @@
         ]
     },
     {
-        "isbn": "9781400095827",
-        "title": "Pyramid",
-        "subtitle": "The First Wallander Cases",
-        "authors": [
-            {
-                "name": "Henning Mankell"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2009",
-        "pages": 392,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781643859316",
         "title": "Arsenic And Adobo",
         "subtitle": "A Tita Rosie's Kitchen Mystery",
@@ -75823,7 +75676,7 @@
         ],
         "keywords": [
             "lit",
-            "fic"
+            "hfi"
         ],
         "publish_date": "2019",
         "pages": 315,
@@ -89331,36 +89184,6 @@
         ]
     },
     {
-        "isbn": "9781250217318",
-        "title": "House In the Cerulean Sea",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "T. J. Klune"
-            }
-        ],
-        "keywords": [
-            "sfi",
-            "fan"
-        ],
-        "publish_date": "2021",
-        "pages": 398,
-        "price": 10.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062467256",
         "title": "Bookshop On the Corner",
         "subtitle": "A Novel",
@@ -93841,40 +93664,6 @@
         "publishers": [
             {
                 "name": "Regan Books / Harper"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593101537",
-        "title": "Personal Librarian",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Marie Benedict"
-            },
-            {
-                "name": "Victoria Christopher Murray"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 341,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Berkley Books/penguin Random"
             }
         ],
         "publish_places": [
@@ -99137,37 +98926,6 @@
         ]
     },
     {
-        "isbn": "9780316015844",
-        "title": "Twilight",
-        "subtitle": "The Twilight Saga, Book 1",
-        "authors": [
-            {
-                "name": "Stephenie Meyer"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2006",
-        "pages": "498+",
-        "price": 6.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Megan Tingley Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316067935",
         "title": "Breaking Dawn",
         "subtitle": "The Twilight Saga, Book 4",
@@ -101475,6 +101233,1624 @@
         "publish_places": [
             {
                 "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "0441007554",
+        "title": "All Tomorrow's Parties",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William F. Gibson"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2000",
+        "pages": 277,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ace / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446580281",
+        "title": "Wheel of Darkness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 388,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "038565880X",
+        "title": "Adam and Eve and Pinch Me",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ruth Rendell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2001",
+        "pages": 356,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday Canada"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250266101",
+        "title": "Rock Paper Scissors",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alice Feeney"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 294,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062905598",
+        "title": "Game of Fear",
+        "subtitle": "An Inspector Ian Rutledge Mystery",
+        "authors": [
+            {
+                "name": "Charles Todd"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 307,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250800190",
+        "title": "Nightworkers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brian Selfon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 308,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593331859",
+        "title": "Marauder",
+        "subtitle": "A Novel of the Oregon Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Boyd Morrison"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 384,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781947793019",
+        "title": "Who is Vera Kelly?",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rosalie Knecht"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 266,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tin House Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062049582",
+        "title": "Elegy for Eddie",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 334,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061727719",
+        "title": "Lesson In Secrets",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": "323+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780156033367",
+        "title": "Indian Bride",
+        "subtitle": "An Inspector Sejer Mystery",
+        "authors": [
+            {
+                "name": "Karin Fossum"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 310,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Orlando, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9780312429256",
+        "title": "Among the Mad",
+        "subtitle": "A Maisie Dobbs Novel, Book 6",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": "318+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312426859",
+        "title": "Messenger of Truth",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 322,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312428181",
+        "title": "Incomplete Revenge",
+        "subtitle": "A Maisie Dobbs Novel, Book 5",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 323,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400095827",
+        "title": "Pyramid",
+        "subtitle": "The First Wallander Cases",
+        "authors": [
+            {
+                "name": "Henning Mankell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 392,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250779656",
+        "title": "K Team",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Rosenfelt"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 296,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593157497",
+        "title": "Long Petal of the Sea",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Isabel Allende"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 339,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101971062",
+        "title": "Homegoing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Yaa Gyasi"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 305,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743250412",
+        "title": "Master",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colm Toibin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": "338+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804176774",
+        "title": "Love and Other Consolation Prizes",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jamie Ford"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 313,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062065254",
+        "title": "Round House",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Erdrich"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": "321+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061374234",
+        "title": "Story of Edgar Sawtelle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "David Wroblewski"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": "562+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385721677",
+        "title": "Oryx and Crake",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 376,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425190371",
+        "title": "Practical Magic",
+        "subtitle": "25th Anniversary Edition",
+        "authors": [
+            {
+                "name": "Alice Hoffman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 299,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0452274427",
+        "title": "In the Time of the Butterflies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julia Alvarez"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 325,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593132449",
+        "title": "How Beautiful We Were",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Imbolo Mbue"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 364,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250209788",
+        "title": "American Dirt",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jeanine Cummins"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 380,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316154895",
+        "title": "House of Broken Angels",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Luis Alberto Urrea"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 326,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312427368",
+        "title": "Beekeeper's Apprentice",
+        "subtitle": "Or On the Segregation of the Queen - a Novel of Suspense Featuring Mary Russell and Sherlock Holmes",
+        "authors": [
+            {
+                "name": "Laurie R. King"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": "346+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780684801056",
+        "title": "Time and Again",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jack Finney"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 399,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Touchstone/ Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143116097",
+        "title": "Death Angels",
+        "subtitle": "A Chief Inspector Erik Winter Novel",
+        "authors": [
+            {
+                "name": "Ake Edwardson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 297,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312287559",
+        "title": "River God",
+        "subtitle": "A Novel of Ancient Egypt",
+        "authors": [
+            {
+                "name": "Wilbur Smith"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2001",
+        "pages": 530,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594489587",
+        "title": "Brief Wondrous Life of Oscar Wao",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Junot Diaz"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2007",
+        "pages": 339,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593101537",
+        "title": "Personal Librarian",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marie Benedict"
+            },
+            {
+                "name": "Victoria Christopher Murray"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 341,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547424774",
+        "title": "Giver",
+        "subtitle": "Gift Edition",
+        "authors": [
+            {
+                "name": "Lois Lowry"
+            },
+            {
+                "name": "Bagram Ibatoulline",
+                "contribution": "illustrated by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi",
+            "new"
+        ],
+        "publish_date": "2011",
+        "pages": 197,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250056948",
+        "title": "Wrinkle In Time",
+        "subtitle": "The Graphic Novel",
+        "authors": [
+            {
+                "name": "Madeleine L'engle"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "ya",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 415,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316015844",
+        "title": "Twilight",
+        "subtitle": "The Twilight Saga, Book 1",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2006",
+        "pages": 498,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Megan Tingley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142423639",
+        "title": "Fountains of Silence",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruta Sepetys"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": "494+",
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781595540898",
+        "title": "Scarlet",
+        "subtitle": "The King Raven Trilogy, Book 2",
+        "authors": [
+            {
+                "name": "Stephen R. Lawhead"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2008",
+        "pages": 449,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781595540881",
+        "title": "Hood",
+        "subtitle": "The King Raven Trilogy, Book 1",
+        "authors": [
+            {
+                "name": "Stephen R. Lawhead"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2007",
+        "pages": 489,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250217318",
+        "title": "House In the Cerulean Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. J. Klune"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": "398+",
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416556961",
+        "title": "Lathe of Heaven",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ursula K. Le Guin"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2008",
+        "pages": 184,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553386790",
+        "title": "Game of Thrones",
+        "subtitle": "Book One of a Song of Ice and Fire",
+        "authors": [
+            {
+                "name": "George R. R. Martin"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 694,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0451210514",
+        "title": "Rosemary's Baby",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ira Levin"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2003",
+        "pages": 308,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982136468",
+        "title": "Only Good Indians",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen Graham Jones"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2021",
+        "pages": "310+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Saga Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425284704",
+        "title": "Before We Were Yours",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Wingate"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 356,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781542006491",
+        "title": "Last of the Moon Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Barbara Davis"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 382,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781542032872",
+        "title": "Last Rose of Shanghai",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Weina Dai Randel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 412,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250122964",
+        "title": "Year One",
+        "subtitle": "Chronicles of the One, Book 1",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 435,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496732040",
+        "title": "Second Mrs. Astor",
+        "subtitle": "A Novel of the Titanic",
+        "authors": [
+            {
+                "name": "Shana Abe"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 323,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553586718",
+        "title": "Road Through the Mountains",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Mcgregor"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 323,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Dell / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062882011",
+        "title": "Song of the Jade Lily",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kirsty Manning"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": "450+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594634673",
+        "title": "Modern Lovers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emma Straub"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 356,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
