@@ -103010,5 +103010,246 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780825445897",
+        "title": "Hero for Miss Hatherleigh",
+        "subtitle": "Regency Brides, Daughters of Aynsley, Book 1",
+        "authors": [
+            {
+                "name": "Carolyn Miller"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2019",
+        "pages": 328,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kregel Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780825445903",
+        "title": "Underestimating Miss Cecilia",
+        "subtitle": "Regency Brides, Daughters of Aynsley, Book 2",
+        "authors": [
+            {
+                "name": "Carolyn Miller"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2019",
+        "pages": 340,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kregel Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780825445910",
+        "title": "Misleading Miss Verity",
+        "subtitle": "Regency Brides, Daughters of Aynsley, Book 3",
+        "authors": [
+            {
+                "name": "Carolyn Miller"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2019",
+        "pages": 342,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kregel Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780825446542",
+        "title": "Midnight's Budding Morrow",
+        "subtitle": "Regency Wallflowers",
+        "authors": [
+            {
+                "name": "Carolyn Miller"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2022",
+        "pages": 308,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kregel Publications"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764236402",
+        "title": "Heart of a Cowboy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jody Hedlund"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2021",
+        "pages": 359,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0812968972",
+        "title": "Birth of Venus",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Dunant"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2004",
+        "pages": 394,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1569473706",
+        "title": "Detective Inspector Huss",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Helene Tursten"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2004",
+        "pages": 371,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802158765",
+        "title": "Five Tuesdays In Winter",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Lily King"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 321,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]

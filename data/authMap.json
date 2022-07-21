@@ -3939,11 +3939,6 @@
             "Iron Heel Annotated",
             "Road",
             "Night-Born",
-            "Red One Annotated",
-            "Burning Daylight",
-            "Abysmal Brute",
-            "Road Annotated",
-            "Children of Frost",
             "South Sea Tales"
         ],
         "url": "https://openlibrary.org/authors/OL44633A/Jack_London?sort=new"
@@ -3956,5 +3951,47 @@
             "Sisters"
         ],
         "url": "https://openlibrary.org/authors/OL2890913A/Kathleen_Rooney?sort=new"
+    },
+    "Carolyn Miller": {
+        "titles": [
+            "Hearts and Goals",
+            "Making of Mrs. Hale"
+        ],
+        "url": "https://openlibrary.org/authors/OL7534624A/Carolyn_Miller?sort=new"
+    },
+    "Jody Hedlund": {
+        "titles": [
+            "Last Chance Cowboy",
+            "Never Leave Me",
+            "Falling for Cowgirl",
+            "To Tame a Cowboy",
+            "Beholden"
+        ],
+        "url": "https://openlibrary.org/authors/OL6934955A/Jody_Hedlund?sort=new"
+    },
+    "Sarah Dunant": {
+        "titles": [
+            "Blood and Beauty",
+            "Fatlands",
+            "Sacred Hearts"
+        ],
+        "url": "https://openlibrary.org/authors/OL76982A/Sarah_Dunant?sort=new"
+    },
+    "Helene Tursten": {
+        "titles": [
+            "Torso",
+            "Glass Devil"
+        ],
+        "url": "https://openlibrary.org/authors/OL7205266A/Helene_Tursten?sort=new"
+    },
+    "Lily King": {
+        "titles": [
+            "Writers & Lovers",
+            "Euphoria",
+            "Father of Rain",
+            "English Teacher",
+            "Pleasing Hour"
+        ],
+        "url": "https://openlibrary.org/authors/OL24473A/Lily_King?sort=new"
     }
 }
