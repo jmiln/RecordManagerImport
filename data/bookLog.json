@@ -34335,33 +34335,6 @@
         ]
     },
     {
-        "isbn": "0670855030",
-        "title": "Insomnia",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Stephen King"
-            }
-        ],
-        "publish_date": "1994",
-        "pages": 787,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Viking / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0670844527",
         "title": "Dolores Claiborne",
         "subtitle": "",
@@ -103244,6 +103217,502 @@
         "publishers": [
             {
                 "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670855030",
+        "title": "Insomnia",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "1994",
+        "pages": 787,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501144523",
+        "title": "Thinner",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            },
+            {
+                "name": "Richard Bachman"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2016",
+        "pages": 342,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062689665",
+        "title": "Murder On the Orient Express",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 265,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423101468",
+        "title": "Battle of the Labyrinth",
+        "subtitle": "Percy Jackson and the Olympians, Book 4",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 361,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion / Disney"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316123563",
+        "title": "Beautiful Redemption",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kami Garcia"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": "451+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785183884",
+        "title": "Emerald City of Oz",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "L. Frank Baum"
+            },
+            {
+                "name": "Skottie Young"
+            },
+            {
+                "name": "Eric Shanower"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2014",
+        "pages": "u",
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785164043",
+        "title": "Oz: Road To Oz",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Eric Shanower"
+            }
+        ],
+        "keywords": [
+            "com",
+            "gra"
+        ],
+        "publish_date": "2013",
+        "pages": "u",
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619024366",
+        "title": "This Day",
+        "subtitle": "Collected and New Sabbath Poems",
+        "authors": [
+            {
+                "name": "Wendell Berry"
+            }
+        ],
+        "keywords": [
+            "poe"
+        ],
+        "publish_date": "2014",
+        "pages": 404,
+        "price": 11.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Counterpoint Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0140188592",
+        "title": "Gravity's Rainbow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Thomas Pynchon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 760,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1400079497",
+        "title": "Plot Against America",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Philip Roth"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 391,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0739455419",
+        "title": "Kafka On the Shore",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Haruki Murakami"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 408,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684801469",
+        "title": "Farewell To Arms",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 332,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781607514244",
+        "title": "When You Are Engulfed In Flames",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Sedaris"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2008",
+        "pages": 323,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545836883",
+        "title": "Den of Forever Frost",
+        "subtitle": "Bears of the Ice, Book 2",
+        "authors": [
+            {
+                "name": "Kathryn Lasky"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": 244,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780763660512",
+        "title": "Timmy Failure",
+        "subtitle": "Now Look What You've Done",
+        "authors": [
+            {
+                "name": "Stephan Pastis"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 275,
+        "price": 8.5,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593468074",
+        "title": "Station Eleven",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emily St. John Mandel"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 333,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
             }
         ],
         "publish_places": [
