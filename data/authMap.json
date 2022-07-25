@@ -4088,5 +4088,64 @@
             "Stephan's Web"
         ],
         "url": "https://openlibrary.org/authors/OL1396229A/Stephan_Pastis?sort=new"
+    },
+    "Ralph Ellison": {
+        "titles": [
+            "Black Ball",
+            "Gorulmeyen Adam",
+            "Living With Music",
+            "Trading Twelves",
+            "Juneteenth"
+        ],
+        "url": "https://openlibrary.org/authors/OL32983A/Ralph_Ellison?sort=new"
+    },
+    "Orhan Pamuk": {
+        "titles": [
+            "My Name is Red",
+            "White Castle",
+            "New Life",
+            "Red-Haired Woman",
+            "Black Book"
+        ],
+        "url": "https://openlibrary.org/authors/OL96984A/Orhan_Pamuk?sort=new"
+    },
+    "Patterson, James": {
+        "titles": [
+            "Countdown",
+            "Roses Are Red",
+            "3 Days To Live",
+            "Americcops",
+            "House of Wolves",
+            "Runaway's Diary",
+            "Private Beijing",
+            "Castles In Sky",
+            "School for Killers"
+        ],
+        "url": "https://openlibrary.org/authors/OL7370091A/Patterson_James?sort=new"
+    },
+    "Tucker": {
+        "titles": [
+            "Private Royals 2",
+            "Angel Experiment",
+            "Middle School",
+            "Steal",
+            "Power of Attorney",
+            "21st Birthday",
+            "22 Seconds",
+            "Red Book"
+        ],
+        "url": "https://openlibrary.org/authors/OL6812710A/tucker?sort=new"
+    },
+    "Brian Jacques": {
+        "titles": [
+            "Sable Quean",
+            "Doomwyte",
+            "Eulalia!",
+            "Squirrels",
+            "Ribbajack",
+            "Hares",
+            "Redwall Cookbook"
+        ],
+        "url": "https://openlibrary.org/authors/OL27229A/Brian_Jacques?sort=new"
     }
 }

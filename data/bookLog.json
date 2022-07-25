@@ -1585,8 +1585,8 @@
     },
     {
         "isbn": "0553063030",
-        "title": "Jubal Sackett Louis Lamour Collection",
-        "subtitle": "",
+        "title": "Jubal Sackett",
+        "subtitle": "The Louis Lamour Collection",
         "authors": [
             {
                 "name": "Louis L'Amour"
@@ -22012,27 +22012,6 @@
         ]
     },
     {
-        "isbn": "9780743296441",
-        "title": "House Rules",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jodi Picoult"
-            }
-        ],
-        "publish_date": "2010",
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "1591451132",
         "title": "Yellow Rose",
         "subtitle": "Lone Star Legacy, Book 2",
@@ -38139,32 +38118,6 @@
         "publish_places": [
             {
                 "name": "Colorado Springs, Co."
-            }
-        ]
-    },
-    {
-        "isbn": "9781501143519",
-        "title": "Gunslinger",
-        "subtitle": "The Dark Tower, Book 1",
-        "authors": [
-            {
-                "name": "Stephen King"
-            }
-        ],
-        "publish_date": "2016",
-        "pages": 253,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -70514,36 +70467,6 @@
         "publishers": [
             {
                 "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316454933",
-        "title": "Queen Of The Conquered",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kacen Callender"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2019",
-        "pages": 391,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Orbit / Hachette"
             }
         ],
         "publish_places": [
@@ -103713,6 +103636,493 @@
         "publishers": [
             {
                 "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525566182",
+        "title": "Paul Takes the Form of a Mortal Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Andrea Lawlor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 341,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743431019",
+        "title": "Songs of the Humpback Whale",
+        "subtitle": "A Novel In Five Voices",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2001",
+        "pages": 346,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743296441",
+        "title": "House Rules",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 532,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679732764",
+        "title": "Invisible Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ralph Ellison"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 581,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385722222",
+        "title": "Stranger Than Fiction",
+        "subtitle": "True Stories",
+        "authors": [
+            {
+                "name": "Chuck Palahniuk"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 233,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400078653",
+        "title": "Black Book",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Orhan Pamuk"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "2006",
+        "pages": 466,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375706868",
+        "title": "Snow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Orhan Pamuk"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "2005",
+        "pages": 463,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501143519",
+        "title": "Gunslinger",
+        "subtitle": "The Dark Tower, Book 1",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2016",
+        "pages": 253,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316454933",
+        "title": "Queen of the Conquered",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kacen Callender"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 391,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476749303",
+        "title": "This Tender Land",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 450,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538703526",
+        "title": "Steal",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patterson, James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 378,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316499149",
+        "title": "Fear No Evil",
+        "subtitle": "An Alex Cross Thriller",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 392,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743270366",
+        "title": "Consent To Kill",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Vince Flynn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 465,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399254161",
+        "title": "Rogue Crew",
+        "subtitle": "A Tale of Redwall",
+        "authors": [
+            {
+                "name": "Brian Jacques"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 387,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Philomel Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399251641",
+        "title": "Sable Quean",
+        "subtitle": "A Tale of Redwall",
+        "authors": [
+            {
+                "name": "Brian Jacques"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2009",
+        "pages": 408,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Philomel Books/ Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553063057",
+        "title": "Riding for the Brand",
+        "subtitle": "The Louis Lamour Collection",
+        "authors": [
+            {
+                "name": "Louis L'Amour"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "1987",
+        "pages": 229,
+        "price": 8,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
             }
         ],
         "publish_places": [
