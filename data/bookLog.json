@@ -10848,27 +10848,6 @@
         ]
     },
     {
-        "isbn": "9780593191200",
-        "title": "This Time Next Year",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Sophie Cousens"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780452296299",
         "title": "Magicians",
         "subtitle": "A Novel",
@@ -32601,7 +32580,7 @@
     },
     {
         "isbn": "9781250014085",
-        "title": "Murphys Law",
+        "title": "Murphy's Law",
         "subtitle": "The First Molly Murphy Mystery",
         "authors": [
             {
@@ -47030,37 +47009,6 @@
         ]
     },
     {
-        "isbn": "9781476754161",
-        "title": "When We Meet Again",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kristin Harmel"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "hfi",
-            "ww2"
-        ],
-        "publish_date": "2016",
-        "pages": "365+",
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781590202555",
         "title": "When Autumn Leaves",
         "subtitle": "A Novel",
@@ -47785,36 +47733,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780764229893",
-        "title": "Gods And Kings",
-        "subtitle": "Chronicles Of The Kings, Book 1 - A Novel",
-        "authors": [
-            {
-                "name": "Lynn Austin"
-            }
-        ],
-        "keywords": [
-            "xfi",
-            "hfi"
-        ],
-        "publish_date": "2005",
-        "pages": 315,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Bethany House Publishers"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Minneapolis, Mn."
             }
         ]
     },
@@ -99006,36 +98924,6 @@
         ]
     },
     {
-        "isbn": "9780380813810",
-        "title": "Lamb",
-        "subtitle": "The Gospel According To Biff, Christ's Childhood Pal",
-        "authors": [
-            {
-                "name": "Christopher Moore"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2003",
-        "pages": 444,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0375409440",
         "title": "Love",
         "subtitle": "",
@@ -104123,6 +104011,791 @@
         "publishers": [
             {
                 "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525574361",
+        "title": "Women In Sunlight",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Frances Mayes"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 432,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780380813810",
+        "title": "Lamb",
+        "subtitle": "The Gospel According To Biff, Christ's Childhood Pal",
+        "authors": [
+            {
+                "name": "Christopher Moore"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 444,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250099778",
+        "title": "Fortune Teller",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gwendolyn Womack"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 357,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501116995",
+        "title": "Japanese Lover",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Isabel Allende"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 321,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060596996",
+        "title": "Lit",
+        "subtitle": "A Memoir",
+        "authors": [
+            {
+                "name": "Mary Karr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": "386+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781471181528",
+        "title": "Japanese Lover",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Isabel Allende"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "321+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060883287",
+        "title": "One Hundred Years of Solitude",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gabriel Garcia Marquez"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "2006",
+        "pages": "417+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061161544",
+        "title": "Ines of My Soul",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Isabel Allende"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 321,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764229893",
+        "title": "Gods and Kings",
+        "subtitle": "Chronicles of the Kings, Book 1 - a Novel",
+        "authors": [
+            {
+                "name": "Lynn Austin"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2005",
+        "pages": 316,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593101353",
+        "title": "Paris is Always a Good Idea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenn Mckinlay"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 334,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593191200",
+        "title": "This Time Next Year",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sophie Cousens"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 344,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501161933",
+        "title": "Seven Husbands of Evelyn Hugo",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Taylor Jenkins Reid"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 389,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476754161",
+        "title": "When We Meet Again",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2016",
+        "pages": "365+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250297778",
+        "title": "Murphy's Law",
+        "subtitle": "A Molly Murphy Mystery",
+        "authors": [
+            {
+                "name": "Rhys Bowen"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi",
+            "hfi"
+        ],
+        "publish_date": "2018",
+        "pages": 239,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524796761",
+        "title": "Perfect Wife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jp Delaney"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 424,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496731357",
+        "title": "Be My Ghost",
+        "subtitle": "A Haunted Haven Mystery",
+        "authors": [
+            {
+                "name": "Carol J. Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 280,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683317555",
+        "title": "Cajun Christmas Killing",
+        "subtitle": "A Cajun Country Mystery",
+        "authors": [
+            {
+                "name": "Ellen Byron"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 312,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781940801650",
+        "title": "Murderous Misconception",
+        "subtitle": "A Victoria Square Mystery",
+        "authors": [
+            {
+                "name": "Lorraine Bartlett"
+            },
+            {
+                "name": "Gayle Leeson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 286,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Polaris Press"
+            }
+        ]
+    },
+    {
+        "isbn": "9781077360488",
+        "title": "Fated for Felony",
+        "subtitle": "A Psychic Eye Mystery",
+        "authors": [
+            {
+                "name": "Victoria Laurie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 267,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496716408",
+        "title": "Color Me Murder",
+        "subtitle": "A Pen & Ink Mystery novel",
+        "authors": [
+            {
+                "name": "Krista Davis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 289,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496724632",
+        "title": "Murder Outside the Lines",
+        "subtitle": "A Pen & Ink Mystery Novel",
+        "authors": [
+            {
+                "name": "Krista Davis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 340,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496716422",
+        "title": "Coloring Crook",
+        "subtitle": "A Pen & Ink Mystery Novel",
+        "authors": [
+            {
+                "name": "Krista Davis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 288,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451489661",
+        "title": "Lavender Blue Murder",
+        "subtitle": "A Tea Shop Mystery",
+        "authors": [
+            {
+                "name": "Laura Childs"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "322",
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496710390",
+        "title": "Irish Parade Murder",
+        "subtitle": "A Lucy Stone Mystery",
+        "authors": [
+            {
+                "name": "Leslie Meier"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 278,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683310761",
+        "title": "Body On the Bayou",
+        "subtitle": "A Cajun Country Mystery",
+        "authors": [
+            {
+                "name": "Ellen Byron"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 424,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316494373",
+        "title": "Defense Lawyer",
+        "subtitle": "The Barry Slotnick Story",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Benjamin Wallace"
+            }
+        ],
+        "keywords": [
+            "true crime",
+            "biographies",
+            "layers & judges"
+        ],
+        "publish_date": "2021",
+        "pages": 408,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [
