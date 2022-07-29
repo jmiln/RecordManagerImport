@@ -19667,30 +19667,6 @@
         ]
     },
     {
-        "isbn": "9780593087916",
-        "title": "Marauder",
-        "subtitle": "A Novel Of The Oregon Files",
-        "authors": [
-            {
-                "name": "Clive Cussler"
-            },
-            {
-                "name": "Boyd Morrison"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781439165195",
         "title": "Whisperers",
         "subtitle": "A Charlie Parker Thriller",
@@ -86951,38 +86927,6 @@
         ]
     },
     {
-        "isbn": "9780316420235",
-        "title": "Dear Evan Hansen",
-        "subtitle": "The Novel",
-        "authors": [
-            {
-                "name": "Val Emmich"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2018",
-        "pages": 358,
-        "price": 10.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Poppy/ Little, Brown and Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781449484590",
         "title": "Whiskey Words & a Shovel",
         "subtitle": "",
@@ -104796,6 +104740,589 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062297211",
+        "title": "Monogram Murders",
+        "subtitle": "The New Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Sophie Hannah"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 302,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316420235",
+        "title": "Dear Evan Hansen",
+        "subtitle": "The Novel",
+        "authors": [
+            {
+                "name": "Val Emmich"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": 358,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Poppy/ Little, Brown and Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250195678",
+        "title": "Wicked Saints",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Emily A. Duncan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 404,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wednesday Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0471775819",
+        "title": "Algebra Ii for Dummies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Jane Sterling"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2006",
+        "pages": 370,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wiley Publishing, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hoboken, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "076458782X",
+        "title": "Calculus Workbook for Dummies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ryan, Mark"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2005",
+        "pages": 282,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wiley Publishing, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hoboken, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "0764524984",
+        "title": "Calculus for Dummies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mark Ryan"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2003",
+        "pages": 364,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wiley Publishing, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hoboken, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "0764553259",
+        "title": "Algebra for Dummies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Jane Sterling"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2001",
+        "pages": 358,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wiley Publishing, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Indianapolis, IL."
+            }
+        ]
+    },
+    {
+        "isbn": "0764569031",
+        "title": "Trigonometry for Dummies",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Jane Sterling"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2005",
+        "pages": 368,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Wiley Publishing, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hoboken, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "0071393080",
+        "title": "Calculus Demystified",
+        "subtitle": "A Self-Teaching Guide",
+        "authors": [
+            {
+                "name": "Steven G. Krantz"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2003",
+        "pages": 342,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0071439277",
+        "title": "Pre-Calculus Demystified",
+        "subtitle": "A Self-Teaching Guide",
+        "authors": [
+            {
+                "name": "Rhonda Huettenmueller"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2005",
+        "pages": 467,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0071439285",
+        "title": "College Algebra Demystified",
+        "subtitle": "A Self-Teaching Guide",
+        "authors": [
+            {
+                "name": "Rhonda Huettenmueller"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2004",
+        "pages": 446,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0071389938",
+        "title": "Algebra Demystified",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rhonda Huettenmueller"
+            }
+        ],
+        "keywords": [
+            "mat"
+        ],
+        "publish_date": "2003",
+        "pages": 439,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcgraw-Hill"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781328710345",
+        "title": "Marrow Island",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexis M. Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 252,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984855121",
+        "title": "Our Country Friends",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gary Shteyngart"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 317,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399563058",
+        "title": "Lager Queen of Minnesota",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "J. Ryan Stradal"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 353,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pamela Dorman / Viking"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399575600",
+        "title": "Cutthroat",
+        "subtitle": "An Isaac Bell Adventure",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Justin Scott"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 393,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399575518",
+        "title": "Odessa Sea",
+        "subtitle": "A Dirk Pitt Novel",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Dirk Cussler"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 486,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593087916",
+        "title": "Marauder",
+        "subtitle": "A Novel of the Oregon Files",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Boyd Morrison"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 370,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399172922",
+        "title": "Havana Storm",
+        "subtitle": "A Dirk Pitt Novel",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Dirk Cussler"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 452,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
             }
         ],
         "publish_places": [

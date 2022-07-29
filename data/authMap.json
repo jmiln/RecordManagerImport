@@ -4290,5 +4290,64 @@
             "'Tis Season Murder"
         ],
         "url": "https://openlibrary.org/authors/OL37359A/Leslie_Meier?sort=new"
+    },
+    "Sophie Hannah": {
+        "titles": [
+            "Keep Her Safe",
+            "Ataud Cerrado",
+            "Narrow Bed",
+            "Closed Casket",
+            "Warning",
+            "Visitors Book",
+            "Telling Error"
+        ],
+        "url": "https://openlibrary.org/authors/OL431450A/Sophie_Hannah?sort=new"
+    },
+    "Emily A. Duncan": {
+        "titles": [
+            "Blessed Monsters",
+            "Ruthless Gods"
+        ],
+        "url": "https://openlibrary.org/authors/OL7635857A/Emily_A._Duncan?sort=new"
+    },
+    "Mary Jane Sterling": {
+        "titles": [
+            "Algebra Fur Dummies",
+            "U Can",
+            "Pre-Calculus"
+        ],
+        "url": "https://openlibrary.org/authors/OL1387698A/Mary_Jane_Sterling?sort=new"
+    },
+    "Steven G. Krantz": {
+        "titles": [
+            "Convex Analysis",
+            "Integral",
+            "Guide To Topology",
+            "Complex Variables"
+        ],
+        "url": "https://openlibrary.org/authors/OL231712A/Steven_G._Krantz?sort=new"
+    },
+    "Rhonda Huettenmueller": {
+        "titles": [
+            "Algebra Demystified"
+        ],
+        "url": "https://openlibrary.org/authors/OL1422074A/Rhonda_Huettenmueller?sort=new"
+    },
+    "Alexis M. Smith": {
+        "titles": [
+            "Glaciers"
+        ],
+        "url": "https://openlibrary.org/authors/OL7019024A/Alexis_M._Smith?sort=new"
+    },
+    "Gary Shteyngart": {
+        "titles": [
+            "Lake Success",
+            "Absurdistan",
+            "Kleiner Versager",
+            "Little Failure",
+            "Absurdistan",
+            "Absurdistan"
+        ],
+        "url": "https://openlibrary.org/authors/OL7713915A/Gary_Shteyngart?sort=new"
     }
 }
