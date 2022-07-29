@@ -3757,7 +3757,7 @@
     },
     "Imbolo Mbue": {
         "titles": [
-            "Behold Dreamers"
+            "Behold the Dreamers"
         ],
         "url": "https://openlibrary.org/authors/OL7487208A/Imbolo_Mbue?sort=new"
     },
@@ -4349,5 +4349,100 @@
             "Absurdistan"
         ],
         "url": "https://openlibrary.org/authors/OL7713915A/Gary_Shteyngart?sort=new"
+    },
+    "Susan Elia Macneal": {
+        "titles": [
+            "Hollywood Spy",
+            "King's Justice",
+            "Queen's Accomplice",
+            "His Majesty's Hope",
+            "Infused",
+            "Wedding Zen"
+        ],
+        "url": "https://openlibrary.org/authors/OL2833379A/Susan_Elia_MacNeal?sort=new"
+    },
+    "Francis Duncan": {
+        "titles": [
+            "Murder Has a Motive"
+        ],
+        "url": "https://openlibrary.org/authors/OL7526600A/Francis_Duncan?sort=new"
+    },
+    "Herve Le Tellier": {
+        "titles": [
+            "L'anomalie",
+            "All Happy Families"
+        ],
+        "url": "https://openlibrary.org/authors/OL3157232A/Hervé_Le_Tellier?sort=new"
+    },
+    "Joseph Kanon": {
+        "titles": [
+            "Berlin Exchange",
+            "Accommplice",
+            "Defectors",
+            "Leaving Berlin",
+            "Istanbul Passage",
+            "Stardust",
+            "O Bom Alemao",
+            "Alibi"
+        ],
+        "url": "https://openlibrary.org/authors/OL22257A/Joseph_Kanon?sort=new"
+    },
+    "Barry Eisler": {
+        "titles": [
+            "Chaos Kind",
+            "All Devils",
+            "Killer Collective",
+            "Night Trade",
+            "Zero Sum",
+            "God's Eye View",
+            "Livia Lone",
+            "Lonely Resurrection",
+            "Clean Kill In Tokyo",
+            "Khmer Kill",
+            "London Twist",
+            "Killer Ascendant",
+            "Redemption Games",
+            "Detachment",
+            "Todescode",
+            "Inside Out",
+            "Letzte Vergeltung"
+        ],
+        "url": "https://openlibrary.org/authors/OL1392656A/Barry_Eisler?sort=new"
+    },
+    "Jessie Burton": {
+        "titles": [
+            "House of Fortune",
+            "Confession",
+            "Marzycielki",
+            "Restless Girls",
+            "La Musa",
+            "Belonging",
+            "Muza",
+            "Muse",
+            "Miniaturzysta"
+        ],
+        "url": "https://openlibrary.org/authors/OL7239202A/Jessie_Burton?sort=new"
+    },
+    "Carlos Ruiz Zafon": {
+        "format": "Ruiz Zafon, Carlos",
+        "titles": [
+            "City of Mist",
+            "Shadow of the Wind"
+        ],
+        "url": "https://openlibrary.org/authors/OL2632116A/Carlos_Ruiz_Zafón?sort=new"
+    },
+    "Jeffrey Archer": {
+        "titles": [
+            "Paths of Glory",
+            "Matter of Honour",
+            "False Impression",
+            "Fourth Estate",
+            "As Crow Flies",
+            "Next In Line",
+            "Over My Dead Body",
+            "Turn a Blind Eye",
+            "Nothing Ventured"
+        ],
+        "url": "https://openlibrary.org/authors/OL216755A/Jeffrey_Archer?sort=new"
     }
 }

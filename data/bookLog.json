@@ -4311,27 +4311,6 @@
         ]
     },
     {
-        "isbn": "9781416556770",
-        "title": "Heaven's Keep",
-        "subtitle": "a novel",
-        "authors": [
-            {
-                "name": "William Kent Krueger"
-            }
-        ],
-        "publish_date": "2009",
-        "publishers": [
-            {
-                "name": "Atria Books / S&S"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781492691563",
         "title": "How Leaders Decide",
         "subtitle": "A Timeless Guide To Making Tough Choices",
@@ -21465,27 +21444,6 @@
         "publishers": [
             {
                 "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780593098912",
-        "title": "One Minute Out",
-        "subtitle": "A Gray Man Novel",
-        "authors": [
-            {
-                "name": "Mark Greaney"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Berkley Books/penguin Random"
             }
         ],
         "publish_places": [
@@ -49627,36 +49585,6 @@
         "publishers": [
             {
                 "name": "Picador Usa"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062041289",
-        "title": "Sisters Brothers",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Patrick Dewitt"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2012",
-        "pages": 328,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Ecco / Harper-Collins"
             }
         ],
         "publish_places": [
@@ -80792,37 +80720,6 @@
         ]
     },
     {
-        "isbn": "9780778311973",
-        "title": "Lost Apothecary",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Sarah Penner",
-                "url": "https://openlibrary.org/authors/OL8374201A/Sarah_Penner"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2022",
-        "pages": 316,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Park Row Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
-            }
-        ]
-    },
-    {
         "isbn": "9781982137458",
         "title": "In Five Years",
         "subtitle": "A Novel",
@@ -105323,6 +105220,649 @@
         "publishers": [
             {
                 "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553496680",
+        "title": "Sun is Also a Star",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicola Yoon"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": "348+",
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501133510",
+        "title": "Big Summer",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Weiner"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 357,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399593802",
+        "title": "Paris Spy",
+        "subtitle": "A Maggie Hope Mystery",
+        "authors": [
+            {
+                "name": "Susan Elia Macneal"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 301,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593098912",
+        "title": "One Minute Out",
+        "subtitle": "A Gray Man Novel",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 493,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250140340",
+        "title": "Kaiser's Web",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Steve Berry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 415,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538761458",
+        "title": "Redemption",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 446,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492651765",
+        "title": "So Pretty a Problem",
+        "subtitle": "A Mordecai Tremaine Mystery",
+        "authors": [
+            {
+                "name": "Francis Duncan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 391,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781782276210",
+        "title": "Second Life of Inspector Canessa",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Roberto Perrone"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 413,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Pushkin Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416556770",
+        "title": "Heaven's Keep",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": "320+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&S"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635421699",
+        "title": "Anomaly",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Herve Le Tellier"
+            },
+            {
+                "name": "Adriana Hunter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 389,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Other Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501121432",
+        "title": "Accomplice",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joseph Kanon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 324,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781477820841",
+        "title": "Extremis",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Barry Eisler"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": "268+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas & Mercer"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250016041",
+        "title": "Out of the Deep I Cry",
+        "subtitle": "A Clare Fergusson and Russ Van Alstyne Novel",
+        "authors": [
+            {
+                "name": "Julia Spencer-Fleming"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": "331+",
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143115847",
+        "title": "Death In the Family",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Agee"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 310,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311973",
+        "title": "Lost Apothecary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Penner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 316,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062306845",
+        "title": "Miniaturist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jessie Burton"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 416,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062041289",
+        "title": "Sisters Brothers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patrick Dewitt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 328,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307948472",
+        "title": "Interior Chinatown",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Charles Yu"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 270,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1594200106",
+        "title": "Shadow of the Wind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carlos Ruiz Zafon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 486,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250200785",
+        "title": "Hidden In Plain Sight",
+        "subtitle": "A Detective William Warwick Novel",
+        "authors": [
+            {
+                "name": "Jeffrey Archer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 295,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525509714",
+        "title": "Behold the Dreamers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Imbolo Mbue"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 397,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
             }
         ],
         "publish_places": [
