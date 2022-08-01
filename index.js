@@ -1559,7 +1559,7 @@ async function getOpenLibTitles({titleIn, authName, authUrl}) {
     const $ = cheerio.load(pageHTML);
 
     const titleList = $(".list-books > .searchResultItem").toArray().map((elem) => {
-        let title = $(".resultTitle > h3 > a", elem).text().trim().replace(/^a |an |the /i, "").trim().toLowerCase();
+        let title = $(".resultTitle > h3 > a", elem).text().trim().replace(/^(a |an |the )/i, "").trim().toLowerCase();
         title = title.split(":")[0]; // If there's a subtitle, don't keep itself
         const authors = $(".bookauthor > a", elem).toArray().map(a => $(a).text());
         if (authors.length > 1) {
