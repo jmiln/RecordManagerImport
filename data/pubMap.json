@@ -3624,5 +3624,61 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Cardoza Publishing"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Thinkers' Press, Inc. Books"
+        ],
+        "locations": [
+            "Davenport, Ia."
+        ]
+    },
+    {
+        "name": [
+            "New In Chess"
+        ],
+        "locations": [
+            "Alkmaar, Netherlands"
+        ]
+    },
+    {
+        "name": [
+            "Quality Chess"
+        ],
+        "locations": [
+            "Glasgow, Uk."
+        ]
+    },
+    {
+        "name": [
+            "Thinkers Publishing"
+        ],
+        "locations": [
+            "Landegem, Belgium"
+        ]
+    },
+    {
+        "name": [
+            "Everyman Chess"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Chess Stars"
+        ],
+        "locations": [
+            "Sofia, Bulgaria"
+        ]
     }
 ]

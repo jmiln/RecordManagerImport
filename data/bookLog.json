@@ -12903,27 +12903,6 @@
         ]
     },
     {
-        "isbn": "9781451661545",
-        "title": "Silver Star",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jeannette Walls"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780385340366",
         "title": "Dark Volume",
         "subtitle": "",
@@ -40148,36 +40127,6 @@
         ]
     },
     {
-        "isbn": "9781492671527",
-        "title": "Book Woman Of Troublesome Creek",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kim Michele Richardson"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2019",
-        "pages": 308,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Sourcebooks Landmark"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
         "isbn": "9780316375054",
         "title": "Book Of Lost And Found",
         "subtitle": "A Novel",
@@ -51179,36 +51128,6 @@
         ]
     },
     {
-        "isbn": "9781451686647",
-        "title": "Passenger",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lisa Lutz"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2016",
-        "pages": "302+",
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0743230051",
         "title": "He Sees You When You're Sleeping",
         "subtitle": "",
@@ -53899,37 +53818,6 @@
         "publishers": [
             {
                 "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780399562488",
-        "title": "Giver Of Stars",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jojo Moyes"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2019",
-        "pages": 390,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Viking / Penguin"
             }
         ],
         "publish_places": [
@@ -66759,37 +66647,6 @@
         "publish_places": [
             {
                 "name": "Nashville, Tn."
-            }
-        ]
-    },
-    {
-        "isbn": "9781984819888",
-        "title": "Book Of Lost Friends",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lisa Wingate"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": 385,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -84028,36 +83885,6 @@
         ]
     },
     {
-        "isbn": "9780385343497",
-        "title": "Sweetness At the Bottom of the Pie",
-        "subtitle": "A Flavia De Luce Novel",
-        "authors": [
-            {
-                "name": "Alan Bradley"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2010",
-        "pages": 385,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Bantam Books / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780307454690",
         "title": "Bruno, Chief of Police (Vintage)",
         "subtitle": "A Novel",
@@ -98645,36 +98472,6 @@
         ]
     },
     {
-        "isbn": "9781250080400",
-        "title": "Nightingale",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": 570,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780778331742",
         "title": "Family Affair",
         "subtitle": "A Novel",
@@ -105863,6 +105660,1098 @@
         "publishers": [
             {
                 "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781580422178",
+        "title": "Chess Opening Trap of the Day",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Bruce Alberston"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2007",
+        "pages": 231,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Cardoza Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "188871039X",
+        "title": "Zuke 'Em - the Colle-Zukertort Revolutionized",
+        "subtitle": "A Chess Opening for Everyone. Phoenix Attack Edition",
+        "authors": [
+            {
+                "name": "David I. Rudel"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2009",
+        "pages": 310,
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thinkers' Press, Inc. Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Davenport, Ia."
+            }
+        ]
+    },
+    {
+        "isbn": "0805035818",
+        "title": "Queen's Gambit for the Attacking Player",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Graham Burgess"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "1994",
+        "pages": 176,
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9789056912468",
+        "title": "Chebanenko Slav According To Bologan",
+        "subtitle": "A Popular Chess Opening Explained By a Top Player",
+        "authors": [
+            {
+                "name": "Victor Bologan"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2008",
+        "pages": 238,
+        "price": 19,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New In Chess"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Alkmaar, Netherlands"
+            }
+        ]
+    },
+    {
+        "isbn": "0609801627",
+        "title": "Abc's of Bridge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William S. Root"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "1998",
+        "pages": 281,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Three Rivers Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781907982156",
+        "title": "Playing 1.d4",
+        "subtitle": "The Queen's Gambit",
+        "authors": [
+            {
+                "name": "Lars Schandorff"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2012",
+        "pages": 320,
+        "price": 115,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quality Chess"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Glasgow, Uk."
+            }
+        ]
+    },
+    {
+        "isbn": "9781907982170",
+        "title": "Playing 1.d4",
+        "subtitle": "The Indian Defences",
+        "authors": [
+            {
+                "name": "Lars Schandorff"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2012",
+        "pages": 245,
+        "price": 24,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quality Chess"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Glasgow, Uk."
+            }
+        ]
+    },
+    {
+        "isbn": "9789492510761",
+        "title": "Caro-Kann Revisited - a Complete Repertoire for Black",
+        "subtitle": "A Complete Repertoire for Black",
+        "authors": [
+            {
+                "name": "Francesco Rambaldi Francesco"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2020",
+        "pages": 402,
+        "price": 21,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Thinkers Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Landegem, Belgium"
+            }
+        ]
+    },
+    {
+        "isbn": "9781781942109",
+        "title": "Opening Repertoire",
+        "subtitle": "The Caro-Kann",
+        "authors": [
+            {
+                "name": "Jovanka Houska"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2015",
+        "pages": 480,
+        "price": 17,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Everyman Chess"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9786197188141",
+        "title": "Practical Black Repertoire With D5, C6",
+        "subtitle": "The Slav and Other Defences - Vol. 1",
+        "authors": [
+            {
+                "name": "Alexei Kornev"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "2013",
+        "pages": 307,
+        "price": 21,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Chess Stars"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sofia, Bulgaria"
+            }
+        ]
+    },
+    {
+        "isbn": "0812922417",
+        "title": "99 Critical Shots In Pool",
+        "subtitle": "Everything You Need To Know, To Learn, and Master the Game",
+        "authors": [
+            {
+                "name": "Ray \"Cool Cat\" Martin"
+            },
+            {
+                "name": "Rosser Reeves"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "1993",
+        "pages": 220,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425284681",
+        "title": "Before We Were Yours",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Wingate"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 342,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250796226",
+        "title": "We Are the Brennans",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tracey Lange"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 274,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984819888",
+        "title": "Book of Lost Friends",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Wingate"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 388,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399562488",
+        "title": "Giver of Stars",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 390,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250838490",
+        "title": "Night Road",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 385,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143127505",
+        "title": "One Plus One",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jojo Moyes"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": "368+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250080400",
+        "title": "Nightingale",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "570+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593334836",
+        "title": "Book Lovers",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Emily Henry"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 377,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451686647",
+        "title": "Passenger",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Lutz"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": "302+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416516347",
+        "title": "Term Limits",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Vince Flynn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": "612+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pocket Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385343497",
+        "title": "Sweetness At the Bottom of the Pie",
+        "subtitle": "A Flavia De Luce Novel",
+        "authors": [
+            {
+                "name": "Alan Bradley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": "385+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250071903",
+        "title": "Fleur De Sel Murders",
+        "subtitle": "A Brittany Mystery",
+        "authors": [
+            {
+                "name": "Jean-Luc Bannalec"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 307,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545128285",
+        "title": "Tales of Beedle the Bard",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2008",
+        "pages": 111,
+        "price": 7.5,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316176040",
+        "title": "Red Riding Hood",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Blakley-Cartwright"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": "329+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Poppy/ Little, Brown and Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765379955",
+        "title": "All the Birds In the Sky",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Charlie Jane Anders"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2016",
+        "pages": 316,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393314804",
+        "title": "Trainspotting",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Irvine Welsh"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 348,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525558262",
+        "title": "Single Thread",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tracy Chevalier"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "321+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143111399",
+        "title": "Book of Longings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sue Monk Kidd"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "416+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060786502",
+        "title": "Poisonwood Bible",
+        "subtitle": "A Novel (Perennial Classics)",
+        "authors": [
+            {
+                "name": "Barbara Kingsolver"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 546,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492671527",
+        "title": "Book Woman of Troublesome Creek",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kim Michele Richardson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 308,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781451661545",
+        "title": "Silver Star",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jeannette Walls"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": "269+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780449912553",
+        "title": "Sparrow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Doria Russell"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 516,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316508582",
+        "title": "Secret History of Witches",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louisa Morgan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 511,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062369543",
+        "title": "Hummingbird",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen P. Kiernan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 310,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316419512",
+        "title": "Age of Witches",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louisa Morgan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 437,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455564224",
+        "title": "Excellent Lombards",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jane Hamilton"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 273,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
