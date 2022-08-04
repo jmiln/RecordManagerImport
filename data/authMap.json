@@ -4284,17 +4284,9 @@
         ],
         "url": "https://openlibrary.org/authors/OL6510079A/Krista_Davis?sort=new"
     },
-    "Leslie Meier": {
-        "titles": [
-            "Halloween Murder",
-            "'Tis Season Murder"
-        ],
-        "url": "https://openlibrary.org/authors/OL37359A/Leslie_Meier?sort=new"
-    },
     "Sophie Hannah": {
         "titles": [
             "Keep Her Safe",
-            "Ataud Cerrado",
             "Narrow Bed",
             "Closed Casket",
             "Warning",
@@ -4342,11 +4334,7 @@
     "Gary Shteyngart": {
         "titles": [
             "Lake Success",
-            "Absurdistan",
-            "Kleiner Versager",
-            "Little Failure",
-            "Absurdistan",
-            "Absurdistan"
+            "Little Failure"
         ],
         "url": "https://openlibrary.org/authors/OL7713915A/Gary_Shteyngart?sort=new"
     },
@@ -4369,7 +4357,6 @@
     },
     "Herve Le Tellier": {
         "titles": [
-            "L'anomalie",
             "All Happy Families"
         ],
         "url": "https://openlibrary.org/authors/OL3157232A/Hervé_Le_Tellier?sort=new"
@@ -4382,7 +4369,6 @@
             "Leaving Berlin",
             "Istanbul Passage",
             "Stardust",
-            "O Bom Alemao",
             "Alibi"
         ],
         "url": "https://openlibrary.org/authors/OL22257A/Joseph_Kanon?sort=new"
@@ -4395,17 +4381,13 @@
             "Night Trade",
             "Zero Sum",
             "God's Eye View",
-            "Livia Lone",
             "Lonely Resurrection",
             "Clean Kill In Tokyo",
-            "Khmer Kill",
             "London Twist",
             "Killer Ascendant",
             "Redemption Games",
             "Detachment",
-            "Todescode",
-            "Inside Out",
-            "Letzte Vergeltung"
+            "Inside Out"
         ],
         "url": "https://openlibrary.org/authors/OL1392656A/Barry_Eisler?sort=new"
     },
@@ -4413,13 +4395,8 @@
         "titles": [
             "House of Fortune",
             "Confession",
-            "Marzycielki",
             "Restless Girls",
-            "La Musa",
-            "Belonging",
-            "Muza",
-            "Muse",
-            "Miniaturzysta"
+            "Belonging"
         ],
         "url": "https://openlibrary.org/authors/OL7239202A/Jessie_Burton?sort=new"
     },
@@ -4501,8 +4478,6 @@
     "Irvine Welsh": {
         "titles": [
             "Dead Men's Trousers",
-            "Rave",
-            "Klei",
             "Blade Artist",
             "Decent Ride",
             "Skagboys",
@@ -4512,7 +4487,6 @@
     },
     "Sue Monk Kidd": {
         "titles": [
-            "Czarne Skrzydła",
             "Invention of Wings"
         ],
         "url": "https://openlibrary.org/authors/OL448584A/Sue_Monk_Kidd?sort=new"
@@ -4529,11 +4503,7 @@
     "Mary Doria Russell": {
         "titles": [
             "Epitaph",
-            "Doc",
             "Dreamers of the Day",
-            "Gottes Kinder",
-            "Le Moineau De Dieu",
-            "Sperling",
             "Children of God",
             "Thread of Grace"
         ],
@@ -4558,9 +4528,66 @@
     "Jane Hamilton": {
         "titles": [
             "Disobedience",
-            "La Carte Du Monde",
             "Map of the World"
         ],
         "url": "https://openlibrary.org/authors/OL2678121A/Jane_Hamilton?sort=new"
+    },
+    "Elizabeth Camden": {
+        "titles": [
+            "Hearts of Steel",
+            "Written On the Wind",
+            "Carved In Stone",
+            "Prince of Spies",
+            "Gilded Lady",
+            "Desperate Hope",
+            "Spice King",
+            "Summer of Dreams",
+            "With Every Breath",
+            "Daring Venture",
+            "Until the Dawn",
+            "From This Moment"
+        ],
+        "url": "https://openlibrary.org/authors/OL3582772A/Elizabeth_Camden?sort=new"
+    },
+    "Erin Hunter": {
+        "titles": [
+            "Tigerheart's Shadow",
+            "Darkest Night",
+            "Bravelands",
+            "Sky",
+            "River"
+        ],
+        "url": "https://openlibrary.org/authors/OL1389873A/Erin_Hunter?sort=new"
+    },
+    "Mary Balogh": {
+        "titles": [
+            "Someone Perfect",
+            "Someone To Cherish",
+            "Someone To Romance",
+            "Someone To Honor"
+        ],
+        "url": "https://openlibrary.org/authors/OL7146242A/Mary_Balogh?sort=new"
+    },
+    "Chris Bohjalian": {
+        "titles": [
+            "Lioness",
+            "Hour of the Witch",
+            "Flight Attendant",
+            "Sleepwalker",
+            "Guest Room",
+            "Light In the Ruins",
+            "Sandcastle Girls",
+            "Night Strangers",
+            "Water Witches",
+            "Secrets of Eden"
+        ],
+        "url": "https://openlibrary.org/authors/OL7473028A/Chris_Bohjalian?sort=new"
+    },
+    "Rachel Kadish": {
+        "titles": [
+            "Tolstoy Lied",
+            "From a Sealed Room"
+        ],
+        "url": "https://openlibrary.org/authors/OL226358A/Rachel_Kadish?sort=new"
     }
 }

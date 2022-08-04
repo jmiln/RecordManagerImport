@@ -11762,7 +11762,7 @@
     },
     {
         "isbn": "9781338125689",
-        "title": "Tales Of Beedle The Bard (Harry Potter)",
+        "title": "Tales Of Beedle The Bard",
         "subtitle": "",
         "authors": [
             {
@@ -20509,7 +20509,7 @@
     {
         "isbn": "9781338262186",
         "title": "Tales Of Beedle The Bard",
-        "subtitle": "",
+        "subtitle": "A wizarding classic from the world of harry potter",
         "authors": [
             {
                 "name": "J. K. Rowling"
@@ -52918,36 +52918,6 @@
         ],
         "publish_date": "2012",
         "pages": "354+",
-        "price": 8,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780143038382",
-        "title": "Death Without Company",
-        "subtitle": "A Longmire Mystery",
-        "authors": [
-            {
-                "name": "Craig Johnson"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2007",
-        "pages": "271+",
         "price": 8,
         "binding": [
             "pb"
@@ -101179,36 +101149,6 @@
         ]
     },
     {
-        "isbn": "9781101971062",
-        "title": "Homegoing",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Yaa Gyasi"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": 305,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780743250412",
         "title": "Master",
         "subtitle": "A Novel",
@@ -106334,37 +106274,6 @@
         ]
     },
     {
-        "isbn": "9780545128285",
-        "title": "Tales of Beedle the Bard",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "J. K. Rowling"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2008",
-        "pages": 111,
-        "price": 7.5,
-        "binding": [
-            "hc"
-        ],
-        "publishers": [
-            {
-                "name": "Arthur A. Levine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316176040",
         "title": "Red Riding Hood",
         "subtitle": "",
@@ -106757,6 +106666,535 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101971062",
+        "title": "Homegoing",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Yaa Gyasi"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 305,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764218811",
+        "title": "Dangerous Legacy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Camden"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2017",
+        "pages": 339,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250777904",
+        "title": "Six of Crows",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": "465+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Imprint/macmillan Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062693587",
+        "title": "Darkest Night",
+        "subtitle": "Warriors - a Vision of Shadows #4",
+        "authors": [
+            {
+                "name": "Erin Hunter"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": "303+",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062497720",
+        "title": "Tigerheart's Shadow",
+        "subtitle": "Warriors Super Edition",
+        "authors": [
+            {
+                "name": "Erin Hunter"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": "410+",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984835659",
+        "title": "Phoenix First Must Burn",
+        "subtitle": "Sixteen Stories of Black Girl Magic, Resistance, and Hope",
+        "authors": [
+            {
+                "name": "Patrice Caldwell",
+                "contribution": "editor"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 354,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593438121",
+        "title": "Remember Love",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary Balogh"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 360,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538744826",
+        "title": "Murder Beyond the Grave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "tcr",
+            "thr"
+        ],
+        "publish_date": "2018",
+        "pages": 295,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538718711",
+        "title": "Texas Outlaw",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Andrew Bourelle"
+            },
+            {
+                "name": "Peter Ganim"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 455,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143038382",
+        "title": "Death Without Company",
+        "subtitle": "A Longmire Mystery",
+        "authors": [
+            {
+                "name": "Craig Johnson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": "271+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451224996",
+        "title": "World Without End",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "NaN",
+        "pages": 1014,
+        "price": 12,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455559824",
+        "title": "Memory Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 405,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780545128285",
+        "title": "Tales of Beedle the Bard",
+        "subtitle": "A Wizarding Classic From the World of Harry Potter",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2008",
+        "pages": 111,
+        "price": 7.5,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385544825",
+        "title": "Lioness",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chris Bohjalian"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2022",
+        "pages": 313,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780684818986",
+        "title": "To Have and Have Not",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ernest Hemingway"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 262,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593329832",
+        "title": "Paper Palace",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Miranda Cowley Heller"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 389,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781328915788",
+        "title": "Weight of Ink",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rachel Kadish"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 575,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
             }
         ]
     }
