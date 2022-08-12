@@ -82101,38 +82101,6 @@
         ]
     },
     {
-        "isbn": "9780316206846",
-        "title": "Cuckoo's Calling",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Robert Galbraith",
-                "url": "https://openlibrary.org/authors/OL10012002A/Robert_Galbraith"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2013",
-        "pages": 455,
-        "price": 14,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Mulholland Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780399169458",
         "title": "Robert B. Parker's Blind Spot",
         "subtitle": "A Jesse Stone Novel",
@@ -109988,6 +109956,399 @@
         "publishers": [
             {
                 "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316206846",
+        "title": "Cuckoo's Calling",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Galbraith"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 455,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101981344",
+        "title": "Aunt Dimity and the Widow's Curse",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nancy Atherton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 225,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525522706",
+        "title": "Aunt Dimity and the Heart of Gold",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nancy Atherton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 228,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553385991",
+        "title": "Deception On His Mind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth George"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 615,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451489395",
+        "title": "Good Luck With That",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristan Higgins"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "456+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780373789252",
+        "title": "On Second Thought",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristan Higgins"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 470,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harlequin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982104320",
+        "title": "Someone You Love",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 306,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780800734572",
+        "title": "Deadly Pursuit",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Irene Hannon"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 340,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780842387446",
+        "title": "Forgiven",
+        "subtitle": "Book 2 in the Firstborn Series",
+        "authors": [
+            {
+                "name": "Karen Kingsbury"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 358,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780800733124",
+        "title": "In Harm's Way",
+        "subtitle": "Heroes of Quantico, Book 3",
+        "authors": [
+            {
+                "name": "Irene Hannon"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 326,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781416550556",
+        "title": "Forgotten Garden",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Morton"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 552,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Washington Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345544940",
+        "title": "Leaving Time",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 477,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250126962",
+        "title": "Hotel On Shadow Lake",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniela Tully"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic",
+            "thr"
+        ],
+        "publish_date": "2018",
+        "pages": 245,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
             }
         ],
         "publish_places": [
