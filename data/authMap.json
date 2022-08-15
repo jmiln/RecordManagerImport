@@ -4905,11 +4905,6 @@
             "Secretly Yours",
             "Too Hard To Forget",
             "Too Wild To Tame",
-            "My Killer Vacation",
-            "Too Hot To Handle",
-            "Window Shopping",
-            "Tools of Engagement",
-            "Reborn Yesterday",
             "Indecent Exposure"
         ],
         "url": "https://openlibrary.org/authors/OL7524585A/Tessa_Bailey?sort=new"
@@ -4938,17 +4933,96 @@
             "In Harm's Way",
             "Body of Evidence",
             "Sea Glass Cottage",
-            "Labyrinth of Lies",
-            "Blackberry Beach",
-            "Child of Grace",
-            "Starfish Pier",
-            "Point of Danger",
-            "Driftwood Bay",
-            "Dark Ambitions",
-            "Finding Home",
-            "Seaside Reunion",
             "Only You"
         ],
         "url": "https://openlibrary.org/authors/OL446191A/Irene_Hannon?sort=new"
+    },
+    "Richard Osman": {
+        "titles": [
+            "Bullet That Missed",
+            "Man Who Died Twice"
+        ],
+        "url": "https://openlibrary.org/authors/OL7985122A/Richard_Osman?sort=new"
+    },
+    "Flynn Berry": {
+        "titles": [
+            "Cellatın Nefesi",
+            "Double Life",
+            "Watchwoman",
+            "Under the Harrow"
+        ],
+        "url": "https://openlibrary.org/authors/OL7290288A/Flynn_Berry?sort=new"
+    },
+    "Heather Walter": {
+        "titles": [
+            "Misrule"
+        ],
+        "url": "https://openlibrary.org/authors/OL3793161A/Heather_Walter?sort=new"
+    },
+    "Mary E. Pearson": {
+        "titles": [
+            "Vow of Thieves",
+            "Beauty of Darkness",
+            "Heart of Betrayal",
+            "Morrighan",
+            "Kiss of Deception"
+        ],
+        "url": "https://openlibrary.org/authors/OL3237537A/Mary_E._Pearson?sort=new"
+    },
+    "Randy Singer": {
+        "titles": [
+            "Rule of Law",
+            "Adwokat",
+            "Die Klientin",
+            "Advocate",
+            "Last Plea Bargain",
+            "Judge",
+            "Fatal Convictions",
+            "Justice Game",
+            "Schaduwjury",
+            "False Witness"
+        ],
+        "url": "https://openlibrary.org/authors/OL1424385A/Randy_Singer?sort=new"
+    },
+    "Salman Rushdie": {
+        "titles": [
+            "Victory City",
+            "Languages of Truth",
+            "Soytarı sAlimar",
+            "Quixot",
+            "Quichotte",
+            "OFke",
+            "Golden House",
+            "Home"
+        ],
+        "url": "https://openlibrary.org/authors/OL26769A/Salman_Rushdie?sort=new"
+    },
+    "Aimie K. Runyan": {
+        "titles": [
+            "Girls On the Line",
+            "Newton and Polly",
+            "Duty To the Crown"
+        ],
+        "url": "https://openlibrary.org/authors/OL7645847A/Aimie_K._Runyan?sort=new"
+    },
+    "Maggie Shipstead": {
+        "titles": [
+            "Astonish Me",
+            "Plan De Table"
+        ],
+        "url": "https://openlibrary.org/authors/OL7087498A/Maggie_Shipstead?sort=new"
+    },
+    "Lauren Groff": {
+        "titles": [
+            "Junket",
+            "Florida",
+            "Yazgi Ve Gazap",
+            "Shtetl In the Sun",
+            "Fatum I Furia",
+            "Fates and Furies",
+            "Master's Review",
+            "Arcadia"
+        ],
+        "url": "https://openlibrary.org/authors/OL3675729A/Lauren_Groff?sort=new"
     }
 }

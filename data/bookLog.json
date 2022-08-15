@@ -606,49 +606,8 @@
         ]
     },
     {
-        "isbn": "0679732268",
-        "title": "Light in August",
-        "subtitle": "the corrected text",
-        "authors": [
-            {
-                "name": "William Faulkner"
-            }
-        ],
-        "publishers": [
-            {
-                "name": "Vintage International"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "067973225X",
         "title": "As I lay dying",
-        "subtitle": "the corrected text",
-        "authors": [
-            {
-                "name": "William Faulkner"
-            }
-        ],
-        "publish_date": "1990",
-        "publishers": [
-            {
-                "name": "Vintage International"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0679732241",
-        "title": "sound and the fury",
         "subtitle": "the corrected text",
         "authors": [
             {
@@ -23863,27 +23822,6 @@
         "publishers": [
             {
                 "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062666710",
-        "title": "Atomic City Girls",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Janet Beard"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "William Morrow"
             }
         ],
         "publish_places": [
@@ -65253,37 +65191,6 @@
         "publish_places": [
             {
                 "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
-        "isbn": "9781982168438",
-        "title": "Cloud Cuckoo Land",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Anthony Doerr"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 626,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -110349,6 +110256,593 @@
         "publishers": [
             {
                 "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984880987",
+        "title": "Thursday Murder Club",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Richard Osman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "370+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250056344",
+        "title": "Outfoxed",
+        "subtitle": "An Andy Carpenter Mystery",
+        "authors": [
+            {
+                "name": "David Rosenfelt"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 326,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735224995",
+        "title": "Northern Spy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Flynn Berry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 278,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250225856",
+        "title": "Start Without Me",
+        "subtitle": "(I'll Be There In a Minute)",
+        "authors": [
+            {
+                "name": "Gary Janetti"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2022",
+        "pages": 192,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781838888299",
+        "title": "Aunt Ivy's Cottage",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Harper"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "323+",
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bookouture"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316375214",
+        "title": "Identicals",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "423+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818676",
+        "title": "Malice",
+        "subtitle": "Book 1 of Malice",
+        "authors": [
+            {
+                "name": "Heather Walter"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2022",
+        "pages": 484,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250308979",
+        "title": "Dance of Thieves",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mary E. Pearson"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 508,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Square Fish/henry Holt & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780310352716",
+        "title": "Amish Reunion",
+        "subtitle": "Four Stories",
+        "authors": [
+            {
+                "name": "Amy Clipston"
+            },
+            {
+                "name": "Beth Wiseman"
+            },
+            {
+                "name": "Kathleen Fuller"
+            },
+            {
+                "name": "Kelly Irvin"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 380,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zondervan Publishing House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781414375588",
+        "title": "Dead Lawyers Tell No Tales",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Randy Singer"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 427,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tyndale House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Carol Stream, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062666710",
+        "title": "Atomic City Girls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janet Beard"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 353,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780679783480",
+        "title": "Shalimar the Clown",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Salman Rushdie"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 398,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679732241",
+        "title": "Sound and the Fury",
+        "subtitle": "The Corrected Text",
+        "authors": [
+            {
+                "name": "William Faulkner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1990",
+        "pages": 326,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679732268",
+        "title": "Light In August",
+        "subtitle": "The Corrected Text",
+        "authors": [
+            {
+                "name": "William Faulkner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "pages": 512,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063094208",
+        "title": "School for German Brides",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Aimie K. Runyan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2022",
+        "pages": 362,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525656975",
+        "title": "Great Circle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Maggie Shipstead"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 593,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594634499",
+        "title": "Matrix",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lauren Groff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 257,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982168438",
+        "title": "Cloud Cuckoo Land",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2021",
+        "pages": 626,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593321096",
+        "title": "French Braid",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Tyler"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2022",
+        "pages": 244,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [
