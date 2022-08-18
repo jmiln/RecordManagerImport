@@ -4972,14 +4972,10 @@
     "Randy Singer": {
         "titles": [
             "Rule of Law",
-            "Adwokat",
-            "Die Klientin",
-            "Advocate",
             "Last Plea Bargain",
             "Judge",
             "Fatal Convictions",
             "Justice Game",
-            "Schaduwjury",
             "False Witness"
         ],
         "url": "https://openlibrary.org/authors/OL1424385A/Randy_Singer?sort=new"
@@ -4988,10 +4984,6 @@
         "titles": [
             "Victory City",
             "Languages of Truth",
-            "Soytarı sAlimar",
-            "Quixot",
-            "Quichotte",
-            "OFke",
             "Golden House",
             "Home"
         ],
@@ -5014,15 +5006,153 @@
     },
     "Lauren Groff": {
         "titles": [
-            "Junket",
             "Florida",
-            "Yazgi Ve Gazap",
-            "Shtetl In the Sun",
-            "Fatum I Furia",
             "Fates and Furies",
             "Master's Review",
             "Arcadia"
         ],
         "url": "https://openlibrary.org/authors/OL3675729A/Lauren_Groff?sort=new"
+    },
+    "Lindsey Davis": {
+        "titles": [
+            "Comedy of Terrors",
+            "Invitation To Die",
+            "Capitol Death",
+            "Pandora's Boy",
+            "Third Nero"
+        ],
+        "url": "https://openlibrary.org/authors/OL7414065A/Lindsey_Davis?sort=new"
+    },
+    "N. K. Jemisin": {
+        "titles": [
+            "Awakened Kingdom",
+            "City Born Great",
+            "Emergency Skin",
+            "Broken Earth",
+            "Stone Sky"
+        ],
+        "url": "https://openlibrary.org/authors/OL6575473A/N._K._Jemisin?sort=new"
+    },
+    "Anna North": {
+        "titles": [
+            "America Pacifica"
+        ],
+        "url": "https://openlibrary.org/authors/OL6982808A/Anna_North?sort=new"
+    },
+    "Diana Palmer": {
+        "titles": [
+            "Taming a Texan",
+            "Notorious",
+            "Montana Protector",
+            "Rancher",
+            "Passion Flower",
+            "Texan Code",
+            "Desperado",
+            "Champagne Girl",
+            "Merciless",
+            "Texas Dare",
+            "Rancher's Kiss",
+            "Cowboy True",
+            "Wyoming Homecoming"
+        ],
+        "url": "https://openlibrary.org/authors/OL227751A/Diana_Palmer?sort=new"
+    },
+    "Jodi Thomas": {
+        "titles": [
+            "Strawberry Lane",
+            "Ransom Canyon",
+            "Rustler's Moon",
+            "Mistletoe Miracles"
+        ],
+        "url": "https://openlibrary.org/authors/OL611108A/Jodi_Thomas?sort=new"
+    },
+    "Raeanne Thayne": {
+        "titles": [
+            "Summer At the Cape",
+            "Sleigh Bells Ring",
+            "All is Bright",
+            "Place To Belong",
+            "Snow Angel Cove",
+            "Cold Creek Secret",
+            "Change of Fortune",
+            "Woodrose Mountain",
+            "Brambleberry Summer"
+        ],
+        "url": "https://openlibrary.org/authors/OL7794897A/Raeanne_Thayne?sort=new"
+    },
+    "Julie Garwood": {
+        "titles": [
+            "Ideal Man",
+            "Bride",
+            "Ransom",
+            "Oyunbozan",
+            "El Rescate",
+            "Hic Umudum Yokken",
+            "Fuego Lento",
+            "Kalp Hirsizi",
+            "Wired",
+            "Gift"
+        ],
+        "url": "https://openlibrary.org/authors/OL7276077A/Julie_Garwood?sort=new"
+    },
+    "Dave Barry": {
+        "titles": [
+            "Insane City",
+            "Dave Barry On Dads",
+            "Classic Dave Barry"
+        ],
+        "url": "https://openlibrary.org/authors/OL24453A/Dave_Barry?sort=new"
+    },
+    "Kate Dicamillo": {
+        "titles": [
+            "Beatryce Prophecy",
+            "Kate Dicamillo"
+        ],
+        "url": "https://openlibrary.org/authors/OL27358A/Kate_DiCamillo?sort=new"
+    },
+    "Nina George": {
+        "titles": [
+            "Die Mondspielerin"
+        ],
+        "url": "https://openlibrary.org/authors/OL7600995A/Nina_George?sort=new"
+    },
+    "Sarah Blake": {
+        "titles": [
+            "Clean Air",
+            "Naamah",
+            "Mr. West",
+            "Postaci Kadin",
+            "Postmistress"
+        ],
+        "url": "https://openlibrary.org/authors/OL7637582A/Sarah_Blake?sort=new"
+    },
+    "Annie Hartnett": {
+        "titles": [
+            "Unlikely Animals"
+        ],
+        "url": "https://openlibrary.org/authors/OL7613513A/Annie_Hartnett?sort=new"
+    },
+    "Zack Jordan": {
+        "titles": [
+            "Untitled Jordan 2",
+            "Follow Me To 100"
+        ],
+        "url": "https://openlibrary.org/authors/OL7829036A/Zack_Jordan?sort=new"
+    },
+    "Laura Shepherd-Robinson": {
+        "titles": [
+            "Daughters of Night"
+        ],
+        "url": "https://openlibrary.org/authors/OL7896268A/Laura_Shepherd-Robinson?sort=new"
+    },
+    "Rebecca Taylor": {
+        "titles": [
+            "Her Perfect Life",
+            "Descendant",
+            "Affective Needs",
+            "Midheaven",
+            "Ascendant"
+        ],
+        "url": "https://openlibrary.org/authors/OL2904801A/Rebecca_Taylor?sort=new"
     }
 }

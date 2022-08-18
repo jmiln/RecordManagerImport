@@ -45,6 +45,7 @@ module.exports = {
     mys: "Mystery & Suspense",
     myt: "Mythology",
     nau: "Nautical Fiction",
+    nba: "National Book Award",
     ner: "Nero Award",
     new: "Newbery Honor Book",
     nob: "Nobel Prize Author",

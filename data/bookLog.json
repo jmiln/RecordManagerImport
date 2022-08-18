@@ -33746,32 +33746,6 @@
         ]
     },
     {
-        "isbn": "9781492608332",
-        "title": "Girl Who Wrote In Silk",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kelli Estes"
-            }
-        ],
-        "publish_date": "2015",
-        "pages": 390,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Sourcebooks Landmark"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
         "isbn": "0679735771",
         "title": "American Psycho",
         "subtitle": "A Novel",
@@ -36171,32 +36145,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781401225759",
-        "title": "Sandman",
-        "subtitle": "Volume 1, Preludes & Nocturnes",
-        "authors": [
-            {
-                "name": "Neil Gaiman"
-            }
-        ],
-        "publish_date": "2010",
-        "pages": "u",
-        "price": 11,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Dc Comics"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Burbank, Ca."
             }
         ]
     },
@@ -94370,36 +94318,6 @@
         ]
     },
     {
-        "isbn": "9781250037756",
-        "title": "Mr. Penumbra's 24-Hour Bookstore",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Robin Sloan"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2013",
-        "pages": 288,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Picador"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780452296725",
         "title": "Remarkable Creatures",
         "subtitle": "",
@@ -99342,40 +99260,6 @@
         "publishers": [
             {
                 "name": "Viking / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780759554344",
-        "title": "Run, Rose, Run",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "James Patterson"
-            },
-            {
-                "name": "Dolly Parton"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2022",
-        "pages": 439,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [
@@ -110848,6 +110732,994 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765380982",
+        "title": "Last Harvest",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kim Liggett"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": 350,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780759554344",
+        "title": "Run, Rose, Run",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Dolly Parton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 439,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728247595",
+        "title": "Lies I Tell",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Julie Clark"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": "290+",
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250078902",
+        "title": "Graveyard of the Hesperides",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lindsey Davis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 325,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1569473765",
+        "title": "Coroner's Lunch",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colin Cotterill"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2004",
+        "pages": 257,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062964175",
+        "title": "Careless In Red",
+        "subtitle": "A Lynley Novel",
+        "authors": [
+            {
+                "name": "Elizabeth George"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 623,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316187282",
+        "title": "Killing Moon",
+        "subtitle": "Book One of the Dreamblood",
+        "authors": [
+            {
+                "name": "N. K. Jemisin"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2012",
+        "pages": 440,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635578249",
+        "title": "Outlawed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Anna North"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "wes"
+        ],
+        "publish_date": "2022",
+        "pages": 261,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492608332",
+        "title": "Girl Who Wrote In Silk",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kelli Estes"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 390,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780008523763",
+        "title": "Resistance Girl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Mandy Robotham"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 410,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778327547",
+        "title": "Midnight Sons Volume 3",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 455,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9780373772612",
+        "title": "Hard To Handle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Diana Palmer"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 377,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harlequin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "0373770669",
+        "title": "Men of Medicine Ridge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Diana Palmer"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 313,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hqn"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9781420151312",
+        "title": "Picnic In Someday Valley",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jodi Thomas"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 327,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Zebra / Kensington"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335081285",
+        "title": "Happily This Christmas",
+        "subtitle": "Happily Inc. - 6",
+        "authors": [
+            {
+                "name": "Susan Mallery"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 352,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hqn"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335080639",
+        "title": "Christmas At Holiday House",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Raeanne Thayne"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 335,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harlequin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778312697",
+        "title": "1225 Christmas Tree Lane",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 283,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778388340",
+        "title": "Return To Virgin River",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robyn Carr"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 317,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Don Mills, Ontario, Canada"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593546291",
+        "title": "Grace Under Fire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Garwood"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 433,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399158698",
+        "title": "Lunatics",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Dave Barry"
+            },
+            {
+                "name": "Alan Zweibel"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "2012",
+        "pages": 309,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "043970166X",
+        "title": "Tale of Despereaux, Being the Story of a Mouse, a Princess, Some Soup, and a Spool of Thread",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kate Dicamillo"
+            },
+            {
+                "name": "Timothy Basil Ering",
+                "contribution": "Illustrated By"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi",
+            "new"
+        ],
+        "publish_date": "2004",
+        "pages": 267,
+        "price": 7.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 10,
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451495587",
+        "title": "Little French Bistro",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nina George"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 311,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Crown Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250294050",
+        "title": "If Cats Disappeared From the World",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Genki Kawamura"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 168,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812973990",
+        "title": "Let the Great World Spin",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colum Mccann"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nba"
+        ],
+        "publish_date": "2009",
+        "pages": 375,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250037756",
+        "title": "Mr. Penumbra's 24-Hour Bookstore",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robin Sloan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 288,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812982855",
+        "title": "Tell the Wolves I'm Home",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carol Rifka Brunt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 372,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250760470",
+        "title": "Guest Book",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sarah Blake"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 499,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781941040560",
+        "title": "Rabbit Cake",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Annie Hartnett"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 331,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tin House Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780451499820",
+        "title": "Last Human",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Zack Jordan"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 433,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401225759",
+        "title": "Sandman",
+        "subtitle": "Volume 1, Preludes & Nocturnes",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "com"
+        ],
+        "publish_date": "2010",
+        "pages": "u",
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781509880799",
+        "title": "Blood and Sugar",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Laura Shepherd-Robinson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 452,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pan Books / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728206684",
+        "title": "Secret Next Door",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rebecca Taylor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 334,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
             }
         ]
     }
