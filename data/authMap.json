@@ -5085,11 +5085,6 @@
             "Ideal Man",
             "Bride",
             "Ransom",
-            "Oyunbozan",
-            "El Rescate",
-            "Hic Umudum Yokken",
-            "Fuego Lento",
-            "Kalp Hirsizi",
             "Wired",
             "Gift"
         ],
@@ -5105,23 +5100,17 @@
     },
     "Kate Dicamillo": {
         "titles": [
-            "Beatryce Prophecy",
-            "Kate Dicamillo"
+            "Beatryce Prophecy"
         ],
         "url": "https://openlibrary.org/authors/OL27358A/Kate_DiCamillo?sort=new"
     },
     "Nina George": {
-        "titles": [
-            "Die Mondspielerin"
-        ],
         "url": "https://openlibrary.org/authors/OL7600995A/Nina_George?sort=new"
     },
     "Sarah Blake": {
         "titles": [
             "Clean Air",
-            "Naamah",
             "Mr. West",
-            "Postaci Kadin",
             "Postmistress"
         ],
         "url": "https://openlibrary.org/authors/OL7637582A/Sarah_Blake?sort=new"
@@ -5134,7 +5123,6 @@
     },
     "Zack Jordan": {
         "titles": [
-            "Untitled Jordan 2",
             "Follow Me To 100"
         ],
         "url": "https://openlibrary.org/authors/OL7829036A/Zack_Jordan?sort=new"
@@ -5154,5 +5142,80 @@
             "Ascendant"
         ],
         "url": "https://openlibrary.org/authors/OL2904801A/Rebecca_Taylor?sort=new"
+    },
+    "Emily Elgar": {
+        "titles": [
+            "If You Knew Her"
+        ],
+        "url": "https://openlibrary.org/authors/OL7532470A/Emily_Elgar?sort=new"
+    },
+    "Cleveland Amory": {
+        "titles": [
+            "Ranch of Dreams",
+            "Best Cat Ever"
+        ],
+        "url": "https://openlibrary.org/authors/OL217667A/Cleveland_Amory?sort=new"
+    },
+    "Alexis Schaitkin": {
+        "titles": [
+            "Elsewhere"
+        ],
+        "url": "https://openlibrary.org/authors/OL7823726A/Alexis_Schaitkin?sort=new"
+    },
+    "Ivan Doig": {
+        "titles": [
+            "Last Bus To Wisdom",
+            "Sweet Thunder",
+            "Bucking the Sun",
+            "Prairie Nocturne",
+            "Mountain Time",
+            "English Creek",
+            "Bartender's Tale",
+            "Eleventh Man",
+            "Whistling Season",
+            "Heart Earth",
+            "Sea Runners"
+        ],
+        "url": "https://openlibrary.org/authors/OL9291893A/Ivan_Doig?sort=new"
+    },
+    "Joanne Fluke": {
+        "titles": [
+            "Stepchild",
+            "Eyes",
+            "Deadly Memories",
+            "Wicked",
+            "Plum Pudding Murder"
+        ],
+        "url": "https://openlibrary.org/authors/OL6594358A/Joanne_Fluke?sort=new"
+    },
+    "Victoria Thompson": {
+        "titles": [
+            "City of Scoundrels",
+            "Murder In Chinatown"
+        ],
+        "url": "https://openlibrary.org/authors/OL608543A/Victoria_Thompson?sort=new"
+    },
+    "Kathy Reichs": {
+        "titles": [
+            "Bone Code",
+            "Conspiracy of Bones",
+            "Two Nights",
+            "206 Bones",
+            "Trace Evidence"
+        ],
+        "url": "https://openlibrary.org/authors/OL24769A/Kathy_Reichs?sort=new"
+    },
+    "Chase Novak": {
+        "titles": [
+            "Conception",
+            "Brood"
+        ],
+        "url": "https://openlibrary.org/authors/OL7115396A/Chase_Novak?sort=new"
+    },
+    "Sandhya Menon": {
+        "titles": [
+            "Love At First Fight"
+        ],
+        "url": "https://openlibrary.org/authors/OL7521402A/Sandhya_Menon?sort=new"
     }
 }

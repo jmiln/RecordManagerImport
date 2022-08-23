@@ -2013,27 +2013,6 @@
         ]
     },
     {
-        "isbn": "9780804171472",
-        "title": "Narrow Road to the Deep North",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Richard Flanagan"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Vintage International"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780804170123",
         "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
         "subtitle": "",
@@ -6485,27 +6464,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781525823565",
-        "title": "Things We Cannot Say",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kelly Rimmer"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Graydon House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -22644,30 +22602,6 @@
         ]
     },
     {
-        "isbn": "9780358098232",
-        "title": "Ravens",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kass Morgan"
-            },
-            {
-                "name": "Danielle Paige"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Houghton Mifflin Harcourt"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Boston"
-            }
-        ]
-    },
-    {
         "isbn": "9781524720926",
         "title": "Aurora Burning",
         "subtitle": "The Aurora Cycle, Book 2",
@@ -24485,26 +24419,6 @@
         ]
     },
     {
-        "isbn": "9780307277466",
-        "title": "Miracle At Speedy Motors",
-        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 9",
-        "authors": [
-            {
-                "name": "Alexander Mccall Smith"
-            }
-        ],
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781400075720",
         "title": "Good Husband Of Zebra Drive",
         "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 8",
@@ -24589,27 +24503,6 @@
         ]
     },
     {
-        "isbn": "9781101972816",
-        "title": "Precious And Grace",
-        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 17",
-        "authors": [
-            {
-                "name": "Alexander Mccall Smith"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525564263",
         "title": "Colors Of All The Cattle",
         "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 19",
@@ -24619,27 +24512,6 @@
             }
         ],
         "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780307472991",
-        "title": "Limpopo Academy Of Private Detection",
-        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 13",
-        "authors": [
-            {
-                "name": "Alexander Mccall Smith"
-            }
-        ],
-        "publish_date": "2013",
         "publishers": [
             {
                 "name": "Anchor / Random House"
@@ -24774,27 +24646,6 @@
         "publish_places": [
             {
                 "name": "London"
-            }
-        ]
-    },
-    {
-        "isbn": "9781982131906",
-        "title": "Book Of Lost Names",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kristin Harmel"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -32088,33 +31939,6 @@
         ]
     },
     {
-        "isbn": "9780062024046",
-        "title": "Insurgent",
-        "subtitle": "Book Two Of The Divergent Series",
-        "authors": [
-            {
-                "name": "Veronica Roth"
-            }
-        ],
-        "publish_date": "2012",
-        "pages": 525,
-        "price": 10,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Katherine Tegen Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781601422477",
         "title": "Gathering Of Finches",
         "subtitle": "A Novel",
@@ -33422,33 +33246,6 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062049575",
-        "title": "Elegy For Eddie",
-        "subtitle": "A Maisie Dobbs Novel",
-        "authors": [
-            {
-                "name": "Jacqueline Winspear"
-            }
-        ],
-        "publish_date": "2012",
-        "pages": 335,
-        "price": 14,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Harper-Collins Publishers"
             }
         ],
         "publish_places": [
@@ -42314,36 +42111,6 @@
         "publishers": [
             {
                 "name": "Harper Voyager"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781984819581",
-        "title": "Reckoning",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "John Grisham"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2019",
-        "pages": true,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Bantam Books / Random House"
             }
         ],
         "publish_places": [
@@ -65535,37 +65302,6 @@
         ]
     },
     {
-        "isbn": "9781455586561",
-        "title": "Fix",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Baldacci"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2017",
-        "pages": 436,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781455586455",
         "title": "Last Mile",
         "subtitle": "",
@@ -67344,36 +67080,6 @@
         "publishers": [
             {
                 "name": "Washington Square Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780385333849",
-        "title": "Slaughterhouse-Five, Or The Children's Crusade",
-        "subtitle": "A Duty-Dance With Death",
-        "authors": [
-            {
-                "name": "Kurt Vonnegut"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2005",
-        "pages": 275,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Dial Press / Penguin Random"
             }
         ],
         "publish_places": [
@@ -80979,37 +80685,6 @@
         "publish_places": [
             {
                 "name": "London"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250204455",
-        "title": "Long Call",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ann Cleeves",
-                "url": "https://openlibrary.org/authors/OL338750A/Ann_Cleeves"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2020",
-        "pages": 387,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -111720,6 +111395,1257 @@
         "publish_places": [
             {
                 "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062049575",
+        "title": "Elegy for Eddie",
+        "subtitle": "A Maisie Dobbs Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 335,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312541163",
+        "title": "Fatal Grace",
+        "subtitle": "A Chief Inspector Gamache Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 313,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446561808",
+        "title": "Alex Cross's Trial",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Richard Dilallo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "pages": 391,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802148544",
+        "title": "Writers & Lovers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lily King"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 342,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062945631",
+        "title": "Grace is Gone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Emily Elgar"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 322,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984818379",
+        "title": "Book of Two Ways",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jodi Picoult"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 444,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316037451",
+        "title": "Cat and the Curmudgeon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cleveland Amory"
+            }
+        ],
+        "keywords": [],
+        "publish_date": "1990",
+        "pages": 295,
+        "price": 5.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982131906",
+        "title": "Book of Lost Names",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "384+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781525823565",
+        "title": "Things We Cannot Say",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kelly Rimmer"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2019",
+        "pages": 416,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Graydon House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250219572",
+        "title": "Saint X",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alexis Schaitkin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 343,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385333849",
+        "title": "Slaughterhouse-Five, Or the Children's Crusade",
+        "subtitle": "A Duty-Dance With Death - a Novel",
+        "authors": [
+            {
+                "name": "Kurt Vonnegut"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 275,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062223388",
+        "title": "Valley of Amazement",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amy Tan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 913,
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Luxe / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804171472",
+        "title": "Narrow Road To the Deep North",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Richard Flanagan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "mbp"
+        ],
+        "publish_date": "2015",
+        "pages": 397,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780684831497",
+        "title": "Bucking the Sun",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ivan Doig"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": "412+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594485206",
+        "title": "Work Song",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ivan Doig"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 292,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307472991",
+        "title": "Limpopo Academy of Private Detection",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 13",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 257,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307277466",
+        "title": "Miracle At Speedy Motors",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 9",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "pages": 214,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101972816",
+        "title": "Precious and Grace",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 17",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 227,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307472984",
+        "title": "Saturday Big Tent Wedding Party",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 12",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 213,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0307275973",
+        "title": "Espresso Tales",
+        "subtitle": "Tales From 44 Scotland Street",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 345,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804169912",
+        "title": "Woman Who Walked In Sunshine",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 16",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 213,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307275981",
+        "title": "Love Over Scotland",
+        "subtitle": "A 44 Scotland Street Novel",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 357,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984819581",
+        "title": "Reckoning",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John Grisham"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 437,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781503951815",
+        "title": "Tuscan Child",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rhys Bowen"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 336,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250259950",
+        "title": "Kingdom of the Blind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 407,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496731951",
+        "title": "Key Lime Pie Murder",
+        "subtitle": "A Hannah Swensen Mystery With Recipes!",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 360,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982150037",
+        "title": "Takedown",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "314+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250204455",
+        "title": "Long Call",
+        "subtitle": "Introducing Detective Matthey Venn",
+        "authors": [
+            {
+                "name": "Ann Cleeves"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 387,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425247419",
+        "title": "Murder On Fifth Avenue",
+        "subtitle": "A Gaslight Mystery",
+        "authors": [
+            {
+                "name": "Victoria Thompson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 296,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385340588",
+        "title": "61 Hours",
+        "subtitle": "A Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 383,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684859726",
+        "title": "Fatal Voyage",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kathy Reichs"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2001",
+        "pages": 363,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385344333",
+        "title": "Wanted Man",
+        "subtitle": "A Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 405,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780804178747",
+        "title": "Personal",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 353,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062886026",
+        "title": "Hunter Killer",
+        "subtitle": "A Pike Logan Thriller",
+        "authors": [
+            {
+                "name": "Brad Taylor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 417,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0385336667",
+        "title": "Persuader",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 342,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455586561",
+        "title": "Fix",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 420,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316198561",
+        "title": "Breed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Chase Novak"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 310,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781534416819",
+        "title": "10 Things I Hate About Pinky",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandhya Menon"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 354,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon Pulse/simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0525476881",
+        "title": "Abundance of Katherines",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Green"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2006",
+        "pages": 229,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062024046",
+        "title": "Insurgent",
+        "subtitle": "Book Two of the Divergent Series",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 525,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358098232",
+        "title": "Ravens",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kass Morgan"
+            },
+            {
+                "name": "Danielle Paige"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 394,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Houghton Mifflin Harcourt"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
             }
         ]
     }
