@@ -42,6 +42,7 @@ module.exports.condMap = {
     poad:  "Prev. Owner's address label{ on} ${inside}.",
     poin:  "Prev. Owner's initials{ on} ${inside}.",
     poins: "Prev. Owner's inscription{ on} ${inside}.",
+    poma:  "Prev. Owner's mark{ on} ${inside}.",
     pona:  "Prev. Owner's name{ on} ${inside}.",
     poni:  "Prev. Owner's name{ on} ${inside}.",
     pono:  "Prev. Owner note{ on} ${inside}.",

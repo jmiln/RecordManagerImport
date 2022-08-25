@@ -1,6 +1,7 @@
 module.exports = {
     afr: "Africa",
     ani: "Animals",
+    ant: "Anthologies",
     bio: "Biographies",
     bp:  "Booker Prize",
     bus: "Business",

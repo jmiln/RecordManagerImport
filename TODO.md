@@ -1,8 +1,14 @@
 # Todo list
 
-## Next in line
+## Fixes
 
-- Using an alternate ISBN to get the info seems to be broken. It still put the alt one in last time I tried.
+- It's letting keywords through that are too long. Need to make sure those get filtered out
+    * Ex: Everything everything
+
+- After hitting `choose other` for a publisher location, then typing one in to search for, it just started typing without asking for confirmation
+
+
+## Next in line
 
 - When grabbing new titles from an author's works
     * Use the https://openlibrary.org/authors/OL6812710A/works.json link to get the json response instead of

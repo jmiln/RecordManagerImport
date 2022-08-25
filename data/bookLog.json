@@ -2499,27 +2499,6 @@
         ]
     },
     {
-        "isbn": "9780525620785",
-        "title": "Mexican Gothic",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Silvia Moreno-Garcia"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Del Rey / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781101966631",
         "title": "Katharine Parr, The Sixth Wife",
         "subtitle": "A Novel",
@@ -19374,27 +19353,6 @@
         ]
     },
     {
-        "isbn": "9781501154652",
-        "title": "Then She Was Gone",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Lisa Jewell"
-            }
-        ],
-        "publish_date": "2018",
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781439165195",
         "title": "Whisperers",
         "subtitle": "A Charlie Parker Thriller",
@@ -26449,27 +26407,6 @@
         "publishers": [
             {
                 "name": "Wednesday Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316707046",
-        "title": "Midnight Sun",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Stephenie Meyer"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
             }
         ],
         "publish_places": [
@@ -50184,36 +50121,6 @@
         ]
     },
     {
-        "isbn": "9781538724736",
-        "title": "Verity",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Colleen Hoover"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 321,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781728231730",
         "title": "Neon Gods",
         "subtitle": "",
@@ -51469,36 +51376,6 @@
         "publish_places": [
             {
                 "name": "Toronto, On."
-            }
-        ]
-    },
-    {
-        "isbn": "9781982110581",
-        "title": "Institute",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Stephen King"
-            }
-        ],
-        "keywords": [
-            "hor",
-            "thr"
-        ],
-        "publish_date": "2020",
-        "pages": 651,
-        "price": 11,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -66847,36 +66724,6 @@
         ]
     },
     {
-        "isbn": "9780425247440",
-        "title": "What Alice Forgot",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Liane Moriarty"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2012",
-        "pages": 486,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Berkley Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780425278314",
         "title": "Collector",
         "subtitle": "",
@@ -68706,37 +68553,6 @@
         "publishers": [
             {
                 "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250304452",
-        "title": "Maidens",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Alex Michaelides"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 337,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Celadon Books"
             }
         ],
         "publish_places": [
@@ -80879,38 +80695,6 @@
         ]
     },
     {
-        "isbn": "9780062834843",
-        "title": "Order",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Daniel Silva",
-                "url": "https://openlibrary.org/authors/OL217659A/Daniel_Silva"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2020",
-        "pages": 444,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Harper / Harper-Collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780399162428",
         "title": "Infinite Sea",
         "subtitle": "The Second Book of the 5th Wave",
@@ -86085,37 +85869,6 @@
         "publishers": [
             {
                 "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781984826787",
-        "title": "Devolution",
-        "subtitle": "A Firsthand Account of the Rainier Sasquatch Massacre",
-        "authors": [
-            {
-                "name": "Max Brooks"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2020",
-        "pages": 286,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Del Rey / Random House"
             }
         ],
         "publish_places": [
@@ -103890,39 +103643,6 @@
         ]
     },
     {
-        "isbn": "9780553496680",
-        "title": "Sun is Also a Star",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Nicola Yoon"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2016",
-        "pages": "348+",
-        "price": 10,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "bc": true,
-        "publishers": [
-            {
-                "name": "Delacorte Press/random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781501133510",
         "title": "Big Summer",
         "subtitle": "A Novel",
@@ -109824,36 +109544,6 @@
         ]
     },
     {
-        "isbn": "9781984880987",
-        "title": "Thursday Murder Club",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Richard Osman"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": "370+",
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250056344",
         "title": "Outfoxed",
         "subtitle": "An Andy Carpenter Mystery",
@@ -112646,6 +112336,1543 @@
         "publish_places": [
             {
                 "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250304452",
+        "title": "Maidens",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alex Michaelides"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 337,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Celadon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684865696",
+        "title": "Mountain Time ",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ivan Doig"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 316,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982110581",
+        "title": "Institute",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2020",
+        "pages": 561,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984826787",
+        "title": "Devolution",
+        "subtitle": "A Firsthand Account of the Rainier Sasquatch Massacre",
+        "authors": [
+            {
+                "name": "Max Brooks"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2020",
+        "pages": 286,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316707046",
+        "title": "Midnight Sun",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephenie Meyer"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 662,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553496680",
+        "title": "Sun is Also a Star",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nicola Yoon"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": "348+",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335209979",
+        "title": "Counting Down With You",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tashie Bhuiyan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": "455+",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Inkyard Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063135796",
+        "title": "Initial Insult",
+        "subtitle": "An Exclusive Edition of the Bookish Box",
+        "authors": [
+            {
+                "name": "Mindy Mcginnis"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 370,
+        "price": 24,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316487337",
+        "title": "Agnes At the End of the World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kelly Mcwilliams"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 417,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250147936",
+        "title": "Hazel Wood",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Melissa Albert"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 388,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062970831",
+        "title": "Dead Ringer",
+        "subtitle": "A Rosato and Associates Novel",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 401,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525538264",
+        "title": "Long Range",
+        "subtitle": "A Joe Pickett Novel",
+        "authors": [
+            {
+                "name": "C. J. Box"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 356,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250099600",
+        "title": "Feared",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "386+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316216814",
+        "title": "Broken Monsters",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lauren Beukes"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": "441+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250099648",
+        "title": "Damaged",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Scottoline"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 433,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101971864",
+        "title": "Invited",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Mcmahon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1920",
+        "pages": 399,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781683316077",
+        "title": "Murder for the Books",
+        "subtitle": "A Blue Ridge Library Mystery",
+        "authors": [
+            {
+                "name": "Victoria Gilbert"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 346,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0451208757",
+        "title": "Son of Holmes",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "John T. Lescroart"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 243,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312609276",
+        "title": "Dove of Death",
+        "subtitle": "A Mystery of Ancient Ireland",
+        "authors": [
+            {
+                "name": "Peter Tremayne"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 369,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250048561",
+        "title": "Seventh Trumpet",
+        "subtitle": "A Mystery of Ancient Ireland",
+        "authors": [
+            {
+                "name": "Peter Tremayne"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 336,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312362757",
+        "title": "Leper's Bell",
+        "subtitle": "A Mystery of Ancient Ireland",
+        "authors": [
+            {
+                "name": "Peter Tremayne"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 276,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501154652",
+        "title": "Then She Was Gone",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lisa Jewell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": "359+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984880987",
+        "title": "Thursday Murder Club",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Richard Osman"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 370,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765317179",
+        "title": "Earthway",
+        "subtitle": "An Ella Clah Novel",
+        "authors": [
+            {
+                "name": "Aimee Thurlo"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 336,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Forge/tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312658632",
+        "title": "Behold a Pale Horse",
+        "subtitle": "a Mystery of Ancient Ireland",
+        "authors": [
+            {
+                "name": "Peter Tremayne"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 370,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834843",
+        "title": "Order",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 444,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728215723",
+        "title": "Last Flight",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Clark"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 311,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593099056",
+        "title": "Vanished Bride",
+        "subtitle": "A Bronte Sisters Mystery",
+        "authors": [
+            {
+                "name": "Bella Ellis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 293,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385545136",
+        "title": "Harlem Shuffle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colson Whitehead"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 318,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525620785",
+        "title": "Mexican Gothic",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Silvia Moreno-Garcia"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 301,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "081296781X",
+        "title": "Rococo",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Adriana Trigiani"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2006",
+        "pages": 283,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525432692",
+        "title": "Hour of the Witch",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chris Bohjalian"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 482,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425268148",
+        "title": "Above All Things",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tanis Rideout"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 405,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594631481",
+        "title": "Bartender's Tale",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ivan Doig"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 414,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425179672",
+        "title": "River King",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alice Hoffman"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 344,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593310953",
+        "title": "How To Raise an Elephant",
+        "subtitle": "The No. 1 Ladies' Detective Agency Series, Book 21",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 242,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1841955876",
+        "title": "Heavenly Date and Other Flirtations",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 200,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Canongate"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780547247632",
+        "title": "Eleventh Man",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ivan Doig"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 406,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743201360",
+        "title": "Prairie Nocturne",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 371,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "081296814X",
+        "title": "Durable Goods",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Berg"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2003",
+        "pages": 200,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062405999",
+        "title": "Varina",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Charles Frazier"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 353,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778309901",
+        "title": "Together for Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            },
+            {
+                "name": "Brenda Novak"
+            },
+            {
+                "name": "Sheila Roberts"
+            },
+            {
+                "name": "Raeanne Thayne"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic",
+            "ant"
+        ],
+        "publish_date": "2020",
+        "pages": 376,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425247440",
+        "title": "What Alice Forgot",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liane Moriarty"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 488,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780440001454",
+        "title": "Break-Up Book Club",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wendy Wax"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 364,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538724736",
+        "title": "Verity",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Colleen Hoover"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "mys",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 321,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062363602",
+        "title": "Hidden Figures: the American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Margot Lee Shetterly"
+            }
+        ],
+        "keywords": [
+            "sci",
+            "his",
+            "mat",
+            "phy"
+        ],
+        "publish_date": "2016",
+        "pages": 349,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250767783",
+        "title": "Library of the Dead",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. L. Huchu"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2022",
+        "pages": 330,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060792787",
+        "title": "Flight of the Nighthawks",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Raymond E. Feist"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2006",
+        "pages": 347,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Eos / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0380977079",
+        "title": "Krondor, the Assassins",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Raymond E. Feist"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "1999",
+        "pages": 374,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "038097715X",
+        "title": "Krondor, the Betrayal",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Raymond E. Feist"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "1998",
+        "pages": 376,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
