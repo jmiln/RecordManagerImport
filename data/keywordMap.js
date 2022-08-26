@@ -32,7 +32,7 @@ module.exports = {
     jfi: "Juvenile Fiction",
     lp:  "Large Print",
     lit: "Literature",
-    mag: "Magick",
+    mag: "Magic",
     man: "Manga",
     mat: "Mathematics",
     mbp: "Man Booker Prize",
