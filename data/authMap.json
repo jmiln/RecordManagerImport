@@ -1271,7 +1271,9 @@
     "J. K. Rowling": {
         "url": "https://openlibrary.org/authors/OL23919A/J._K._Rowling",
         "titles": [
-            "Strike Collection"
+            "Harry Potter Series",
+            "Fantastic Beasts",
+            "Casual Vacancy"
         ]
     },
     "Robert Galbraith": {
@@ -5354,5 +5356,31 @@
             "Into a Dark Realm"
         ],
         "url": "https://openlibrary.org/authors/OL40784A/Raymond_E._Feist?sort=new"
+    },
+    "Miles Burton": {
+        "titles": [
+            "Death In the Tunnel",
+            "Look Alive",
+            "Corpse In the Car",
+            "Fatal Pool",
+            "Vanishing Diary",
+            "Twice Dead",
+            "Three Cousins Die",
+            "Legacy of Death",
+            "Licensed for Murder",
+            "Murder At Derivale",
+            "Moth-Watch Murder"
+        ],
+        "url": "https://openlibrary.org/authors/OL6001513A/Cecil_John_Charles_Street?sort=new"
+    },
+    "Jack Thorne": {
+        "titles": [
+            "End of History...",
+            "Hope",
+            "Bunny",
+            "2nd May 1997",
+            "Stacy"
+        ],
+        "url": "https://openlibrary.org/authors/OL5231739A/Jack_Thorne?sort=new"
     }
 }

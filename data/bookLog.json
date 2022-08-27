@@ -34719,32 +34719,6 @@
         ]
     },
     {
-        "isbn": "9781594483653",
-        "title": "Cellist Of Sarajevo",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Steven Galloway"
-            }
-        ],
-        "publish_date": "2009",
-        "pages": 235,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780425244135",
         "title": "Lost Wife",
         "subtitle": "",
@@ -108472,66 +108446,6 @@
         ]
     },
     {
-        "isbn": "9781616204518",
-        "title": "Storied Life of A. J. Fikry",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Gabrielle Zevin"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2014",
-        "pages": 270,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Algonquin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Chapel Hill, Nc."
-            }
-        ]
-    },
-    {
-        "isbn": "9780553394399",
-        "title": "Spool of Blue Thread",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Anne Tyler"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2016",
-        "pages": 371,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780143110439",
         "title": "Gentleman In Moscow",
         "subtitle": "A Novel",
@@ -113868,6 +113782,258 @@
         "publishers": [
             {
                 "name": "Avon Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464205835",
+        "title": "Secret of High Eldersham",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Miles Burton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 267,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062073976",
+        "title": "Mystery of the Blue Train",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 298,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345522184",
+        "title": "Magic Hour",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 416,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553394399",
+        "title": "Spool of Blue Thread",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Tyler"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 371,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616204518",
+        "title": "Storied Life of A. J. Fikry",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Gabrielle Zevin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 270,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "0140256369",
+        "title": "Of Love and Other Demons",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gabriel Garcia Marquez"
+            },
+            {
+                "name": "Edith Grossman",
+                "contribution": "translated by"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 147,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594483653",
+        "title": "Cellist of Sarajevo",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Steven Galloway"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 235,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338099133",
+        "title": "Harry Potter and the Cursed Child",
+        "subtitle": "Parts One and Two (Special Rehearsal Edition Script)",
+        "authors": [
+            {
+                "name": "J. K. Rowling"
+            },
+            {
+                "name": "Jack Thorne"
+            },
+            {
+                "name": "John Tiffany"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 327,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Arthur A. Levine Books"
             }
         ],
         "publish_places": [
