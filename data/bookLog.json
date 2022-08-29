@@ -13027,27 +13027,6 @@
         ]
     },
     {
-        "isbn": "067976402X",
-        "title": "Snow Falling On Cedars",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "David Guterson"
-            }
-        ],
-        "publish_date": "1995",
-        "publishers": [
-            {
-                "name": "Vintage Contemporaries"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780800735388",
         "title": "Yours Truly, Thomas",
         "subtitle": "",
@@ -14691,27 +14670,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781601420138",
-        "title": "Fatal Deduction",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Gayle G. Roper"
-            }
-        ],
-        "publish_date": "2008",
-        "publishers": [
-            {
-                "name": "Multnomah Publishers"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Sisters, Or."
             }
         ]
     },
@@ -27930,32 +27888,6 @@
         ]
     },
     {
-        "isbn": "9780764213502",
-        "title": "Lost Heiress",
-        "subtitle": "A Ladies Of The Manor Novel",
-        "authors": [
-            {
-                "name": "Roseanna M. White"
-            }
-        ],
-        "publish_date": "2015",
-        "pages": 439,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Bethany House Publishers"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Minneapolis, Mn."
-            }
-        ]
-    },
-    {
         "isbn": "9781595546814",
         "title": "Love By The Book",
         "subtitle": "A Ladies Of Summerhill Novel",
@@ -39649,36 +39581,6 @@
         "publishers": [
             {
                 "name": "Back Bay/little, Brown & Co."
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062997302",
-        "title": "Restoration Of Celia Fairchild",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Marie Bostwick"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 390,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "William Morrow"
             }
         ],
         "publish_places": [
@@ -66507,37 +66409,6 @@
         "publishers": [
             {
                 "name": "Henry Holt & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250027436",
-        "title": "Shadow And Bone",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Leigh Bardugo"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2013",
-        "pages": "356+",
-        "price": 6,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Square Fish / Macmillan"
             }
         ],
         "publish_places": [
@@ -114039,6 +113910,1397 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250027436",
+        "title": "Shadow and Bone",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": "358+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524719807",
+        "title": "Third Mushroom",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jennifer L. Holm"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": "217+",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781442427266",
+        "title": "Goblin Secrets",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "William Alexander"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 223,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101918357",
+        "title": "Skeleton Tree",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Iain Lawrence"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 278,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tundra Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375854811",
+        "title": "Brisingr, Or, the Seven Promises of Eragon Shadeslayer and Saphira Bjartskular",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christopher Paolini"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": "748+",
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062345219",
+        "title": "Four: a Divergent Collection",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 285,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062024022",
+        "title": "Divergent",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": 487,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062024060",
+        "title": "Allegiant",
+        "subtitle": "One Choice Will Define You",
+        "authors": [
+            {
+                "name": "Veronica Roth"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 526,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Katherine Tegen Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250170996",
+        "title": "Children of Virtue and Vengeance",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tomi Adeyemi"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 404,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781619633612",
+        "title": "Assassin's Blade",
+        "subtitle": "The Throne of Glass Novellas",
+        "authors": [
+            {
+                "name": "Sarah J. Maas"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 435,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury Children's Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399593512",
+        "title": "Past Tense",
+        "subtitle": "A Jack Reacher Novel",
+        "authors": [
+            {
+                "name": "Lee Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 382,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616953768",
+        "title": "Spider In the Cup",
+        "subtitle": "A Joe Sandilands Investigation",
+        "authors": [
+            {
+                "name": "Barbara Cleverly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": "346+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553391404",
+        "title": "Corridors of the Night",
+        "subtitle": "A William Monk Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 278,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780358418634",
+        "title": "Midnight Hour",
+        "subtitle": "A Brighton Mystery",
+        "authors": [
+            {
+                "name": "Elly Griffiths"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 337,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mariner/houghton Mifflin Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385341844",
+        "title": "Folly Du Jour",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Barbara Cleverly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 318,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Delta / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464211751",
+        "title": "Murder In the Mill-Race",
+        "subtitle": "A Devon Mystery",
+        "authors": [
+            {
+                "name": "E. C. R. Lorac"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 247,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593313817",
+        "title": "Murder of Mr. Wickham",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Claudia Gray"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 386,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982120665",
+        "title": "Devil's Punchbowl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Greg Iles"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 728,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781596914278",
+        "title": "Medicus",
+        "subtitle": "A Novel of the Roman Empire",
+        "authors": [
+            {
+                "name": "Ruth Downie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 386,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062792358",
+        "title": "Mystery of Three Quarters",
+        "subtitle": "The New Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Sophie Hannah"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 344,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679722319",
+        "title": "Where I'm Calling From",
+        "subtitle": "New and Selected Stories",
+        "authors": [
+            {
+                "name": "Raymond Carver"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1989",
+        "pages": 526,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538732182",
+        "title": "Parable of the Sower",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Octavia E. Butler"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 345,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345519832",
+        "title": "Blackout",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Connie Willis"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2010",
+        "pages": 491,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Spectra/ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765377197",
+        "title": "Time Salvager",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wesley Chu"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2016",
+        "pages": 390,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781601420138",
+        "title": "Fatal Deduction",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gayle G. Roper"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 336,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Multnomah Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sisters, Or."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764213502",
+        "title": "Lost Heiress",
+        "subtitle": "A Ladies of the Manor Novel",
+        "authors": [
+            {
+                "name": "Roseanna M. White"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2015",
+        "pages": 439,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9781503938687",
+        "title": "Enchanted Isle",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Melanie Dobson"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 296,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Waterfall Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Haven, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9781590131145",
+        "title": "Mutiny",
+        "subtitle": "A Kydd Sea Adventure",
+        "authors": [
+            {
+                "name": "Julian Stockwin"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "2005",
+        "pages": 352,
+        "price": 12,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781590131428",
+        "title": "Tenacious",
+        "subtitle": "A Kydd Sea Adventure",
+        "authors": [
+            {
+                "name": "Julian Stockwin"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "2007",
+        "pages": 333,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781590136546",
+        "title": "Conquest",
+        "subtitle": "A Kydd Sea Adventure",
+        "authors": [
+            {
+                "name": "Julian Stockwin"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "2012",
+        "pages": 319,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mcbooks Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Ithaca, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250830166",
+        "title": "Lost Manuscript",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cathy Bonidan"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 274,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062997302",
+        "title": "Restoration of Celia Fairchild",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marie Bostwick"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 390,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778369226",
+        "title": "Flight Girls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Noelle Salazar"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2019",
+        "pages": "368+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "067976402X",
+        "title": "Snow Falling On Cedars",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "David Guterson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 460,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143108399",
+        "title": "Danish Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "David Ebershoff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 270,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812996708",
+        "title": "Miss Benson's Beetle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rachel Joyce"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 353,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374530631",
+        "title": "Wise Blood",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Flannery O'connor"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 235,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Farrar, Straus and Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062124272",
+        "title": "Flight Behavior",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Barbara Kingsolver"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 436,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "1584856599",
+        "title": "Angelina's Halloween",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Katharine Holabird"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2002",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Pleasant Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Middleton, Wi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780375842719",
+        "title": "Oh, No!",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Candace Fleming"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic"
+        ],
+        "publish_date": "2011",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Schwartz & Wade Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781582406985",
+        "title": "Walking Dead, Book Two",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Kirkman"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2007",
+        "pages": "u",
+        "price": 18.5,
+        "binding": [
+            "hc"
+        ],
+        "ill": 7,
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781607060000",
+        "title": "Walking Dead, Book Four",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cliff Rathburn"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2008",
+        "pages": "u",
+        "price": 18.5,
+        "binding": [
+            "hc"
+        ],
+        "ill": 7,
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781582408255",
+        "title": "Walking Dead, Book Three",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Kirkman"
+            },
+            {
+                "name": "Charlie Adlard"
+            },
+            {
+                "name": "Cliff Rathburn"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2007",
+        "pages": "u",
+        "price": 18.5,
+        "binding": [
+            "hc"
+        ],
+        "ill": 7,
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781607063278",
+        "title": "Walking Dead, Book Six",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Kirkman"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2010",
+        "pages": "u",
+        "price": 18.5,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781582406190",
+        "title": "Walking Dead, Book One",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Robert Kirkman"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2006",
+        "pages": "u",
+        "price": 18.5,
+        "binding": [
+            "hc"
+        ],
+        "ill": 7,
+        "publishers": [
+            {
+                "name": "Image Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Berkeley, Ca."
             }
         ]
     }

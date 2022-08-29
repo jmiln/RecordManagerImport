@@ -3696,5 +3696,21 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Pleasant Company"
+        ],
+        "locations": [
+            "Middleton, Wi."
+        ]
+    },
+    {
+        "name": [
+            "Schwartz & Wade Books"
+        ],
+        "locations": [
+            "New York"
+        ]
     }
 ]
