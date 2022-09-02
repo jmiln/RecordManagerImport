@@ -1840,7 +1840,10 @@
         "url": "https://openlibrary.org/authors/OL1477918A/Kathleen_Tessaro?sort=new"
     },
     "Lian Hearn": {
-        "url": "https://openlibrary.org/authors/OL1415040A/Lian_Hearn?sort=new"
+        "url": "https://openlibrary.org/authors/OL1415040A/Lian_Hearn?sort=new",
+        "titles": [
+            "Tales of the Otori"
+        ]
     },
     "Victoria Schwab": {
         "titles": [
@@ -4913,7 +4916,6 @@
     },
     "Eileen Garvin": {
         "titles": [
-            "Bee Music",
             "How To Be a Sister"
         ],
         "url": "https://openlibrary.org/authors/OL6897054A/Eileen_Garvin?sort=new"
@@ -5531,5 +5533,150 @@
             "Bulldozer Helps Out"
         ],
         "url": "https://openlibrary.org/authors/OL24234A/Candace_Fleming?sort=new"
+    },
+    "Iona Grey": {
+        "titles": [
+            "Treasure Hunters",
+            "Letters To the Lost"
+        ],
+        "url": "https://openlibrary.org/authors/OL7287340A/Iona_Grey?sort=new"
+    },
+    "Michelle Sagara West": {
+        "titles": [
+            "Sword and Shadow",
+            "Cast In Eternity",
+            "Cast In Conflict",
+            "Queen of the Dead",
+            "Cast In Wisdom",
+            "Firstborn",
+            "War",
+            "Cast In Oblivion",
+            "Cast In Deceptiion",
+            "Cast In Fury",
+            "Cast In Ruin",
+            "Cast In Chaos",
+            "Cast In Sorrow",
+            "Cast In Deception"
+        ],
+        "url": "https://openlibrary.org/authors/OL1425008A/Michelle_Sagara_West?sort=new"
+    },
+    "S. M. Stirling": {
+        "titles": [
+            "Theater of Spies",
+            "Sky-Blue Wolves",
+            "Black Chamber",
+            "Sea Peoples",
+            "Peshawar Lancers",
+            "Prince of Outcasts",
+            "Change",
+            "Golden Princess"
+        ],
+        "url": "https://openlibrary.org/authors/OL21915A/S._M._Stirling?sort=new"
+    },
+    "Lucy Foley": {
+        "titles": [
+            "Guest List",
+            "Hunting Party",
+            "Invitation"
+        ],
+        "url": "https://openlibrary.org/authors/OL4565050A/Lucy_Foley?sort=new"
+    },
+    "Brown, Sandra": {
+        "titles": [
+            "Overkill",
+            "Low Pressure",
+            "Lethal",
+            "Demon Rumm",
+            "Tough Customer",
+            "Smash Cut",
+            "Unspeakable"
+        ],
+        "url": "https://openlibrary.org/authors/OL22261A/Brown_Sandra?sort=new"
+    },
+    "Judith Miller": {
+        "titles": [
+            "Chapel Car Bride",
+            "Potter's Lady",
+            "Brickmaker's Bride",
+            "Shining Light",
+            "Simple Change",
+            "Hidden Truth",
+            "Somewhere To Belong",
+            "Carousel Painter"
+        ],
+        "url": "https://openlibrary.org/authors/OL5014940A/Judith_Miller?sort=new"
+    },
+    "Kristi Ann Hunter": {
+        "titles": [
+            "Hurricane Child",
+            "Return of Devotion",
+            "Pursuit of Home",
+            "Lady of Esteem",
+            "Search for Refuge",
+            "Inconvenient Beauty",
+            "Uncommon Courtship",
+            "Elegant Facade",
+            "Noble Masquerade"
+        ],
+        "url": "https://openlibrary.org/authors/OL7538895A/Kristi_Ann_Hunter?sort=new"
+    },
+    "Sandra Dallas": {
+        "titles": [
+            "Where Coyotes Howl",
+            "Westering Women",
+            "Patchwork Bride",
+            "Last Midwife",
+            "Quilt for Christmas",
+            "Fallen Women",
+            "True Sisters"
+        ],
+        "url": "https://openlibrary.org/authors/OL402560A/Sandra_Dallas?sort=new"
+    },
+    "Jennifer Ryan": {
+        "titles": [
+            "Kitchen Front",
+            "Sisters and Secrets",
+            "One You Want",
+            "True Love Cowboy",
+            "Love of a Cowboy",
+            "Waiting On a Cowboy",
+            "Restless Rancher",
+            "Me I Used To Be"
+        ],
+        "url": "https://openlibrary.org/authors/OL7408958A/Jennifer_Ryan?sort=new"
+    },
+    "Sophie Campbell": {
+        "titles": [
+            "Wet Moon 7",
+            "Wet Moon 4",
+            "Wet Moon 5",
+            "Nelson's Spyglass",
+            "Season",
+            "Wet Moon 6",
+            "Wet Moon Volume 3",
+            "Wet Moon Volume 2",
+            "Wet Moon Volume 1"
+        ],
+        "url": "https://openlibrary.org/authors/OL7641477A/Sophie_Campbell?sort=new"
+    },
+    "Jeff Lemire": {
+        "titles": [
+            "Sweet Tooth"
+        ],
+        "url": "https://openlibrary.org/authors/OL3845859A/Jeff_Lemire?sort=new"
+    },
+    "Jerome Charyn": {
+        "titles": [
+            "Big Red - a Novel",
+            "Sergeant Salinger",
+            "Cesare",
+            "Singular Beauty",
+            "Jerzy",
+            "Winter Warning",
+            "Loaded Gun",
+            "Bitter Bronx",
+            "I Am Abraham"
+        ],
+        "url": "https://openlibrary.org/authors/OL6946240A/Jerome_Charyn?sort=new"
     }
 }

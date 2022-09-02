@@ -25672,27 +25672,6 @@
         ]
     },
     {
-        "isbn": "9781423146735",
-        "title": "Blood Of Olympus",
-        "subtitle": "The Heroes Of Olympus, Book Five",
-        "authors": [
-            {
-                "name": "Rick Riordan"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Disney / Hyperion"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781481418782",
         "title": "We All Looked Up",
         "subtitle": "",
@@ -25878,27 +25857,6 @@
         "publish_places": [
             {
                 "name": "Portland, Or."
-            }
-        ]
-    },
-    {
-        "isbn": "9781608196265",
-        "title": "Salvage The Bones",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jesmyn Ward"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Bloomsbury"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -44058,36 +44016,6 @@
         "publishers": [
             {
                 "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780802146021",
-        "title": "Death In A Strange Country",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Donna Leon"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2014",
-        "pages": 304,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grove Press"
             }
         ],
         "publish_places": [
@@ -67083,36 +67011,6 @@
         ]
     },
     {
-        "isbn": "9780316421973",
-        "title": "Ten Thousand Doors Of January",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Alix E. Harrow"
-            }
-        ],
-        "keywords": [
-            "sfi",
-            "fan"
-        ],
-        "publish_date": "2020",
-        "pages": 399,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Redhook Books / Orbit"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062676085",
         "title": "Gunpowder Moon",
         "subtitle": "",
@@ -79105,8 +79003,7 @@
         "subtitle": "A Novel",
         "authors": [
             {
-                "name": "Louise Penny",
-                "url": "https://openlibrary.org/authors/OL2829357A/Louise_Penny"
+                "name": "Louise Penny"
             }
         ],
         "keywords": [
@@ -95282,36 +95179,6 @@
         "publishers": [
             {
                 "name": "Viking / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781455563920",
-        "title": "Pachinko",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Min Jin Lee"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": 527,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
             }
         ],
         "publish_places": [
@@ -115301,6 +115168,1369 @@
         "publish_places": [
             {
                 "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066800",
+        "title": "Glittering Hour",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Iona Grey"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 471,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778309918",
+        "title": "Emperor's Wolves",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Michelle Sagara West"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 510,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316421973",
+        "title": "Ten Thousand Doors of January",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alix E. Harrow"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 399,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451463524",
+        "title": "High King of Montival",
+        "subtitle": "A Novel of the Change",
+        "authors": [
+            {
+                "name": "S. M. Stirling"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2010",
+        "pages": 481,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Roc/ New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780763694630",
+        "title": "Louisiana's Way Home",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kate Dicamillo"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "cha",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": 227,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9781423146728",
+        "title": "House of Hades",
+        "subtitle": "The Heroes of Olympus, Book Four",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 597,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781423146735",
+        "title": "Blood of Olympus",
+        "subtitle": "The Heroes of Olympus, Book Five",
+        "authors": [
+            {
+                "name": "Rick Riordan"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 516,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Disney / Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501100079",
+        "title": "Finders Keepers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2015",
+        "pages": 434,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375870514",
+        "title": "Skink - No Surrender",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carl Hiaasen"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 281,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063003057",
+        "title": "Paris Apartment",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lucy Foley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 360,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451665321",
+        "title": "Kings of Cool",
+        "subtitle": "Prequel To Savages",
+        "authors": [
+            {
+                "name": "Don Winslow"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 322,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439183366",
+        "title": "Savages",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Don Winslow"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 302,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316069359",
+        "title": "Fifth Witness",
+        "subtitle": "A Lincoln Lawyer Novel",
+        "authors": [
+            {
+                "name": "Michael Connelly"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 421,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335994677",
+        "title": "Exit Strategy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Charlton Pettus"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 406,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hanover Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062197757",
+        "title": "Live By Night",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dennis Lehane"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 401,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538751978",
+        "title": "Blind Tiger",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brown, Sandra"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 512,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250145246",
+        "title": "All the Devils Are Here",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 451,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400096930",
+        "title": "Power of the Dog",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Don Winslow"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": 539,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802146021",
+        "title": "Death In a Strange Country",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 304,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780764232206",
+        "title": "Perfect Silhouette",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Judith Miller"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 329,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764232138",
+        "title": "Prince of Spies",
+        "subtitle": "Hope and Glory, Book Three",
+        "authors": [
+            {
+                "name": "Elizabeth Camden"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2021",
+        "pages": 339,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764232121",
+        "title": "Gilded Lady",
+        "subtitle": "Hope and Glory, Book Two",
+        "authors": [
+            {
+                "name": "Elizabeth Camden"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2020",
+        "pages": 356,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764230752",
+        "title": "Defense of Honor",
+        "subtitle": "Haven Manor, Book 1",
+        "authors": [
+            {
+                "name": "Kristi Ann Hunter"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2018",
+        "pages": 376,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "076422218X",
+        "title": "Ancient Strife",
+        "subtitle": "Caledonia, the Sequel To Legend of the Celtic Stone",
+        "authors": [
+            {
+                "name": "Michael R. Phillips"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2000",
+        "pages": 542,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "0670030511",
+        "title": "Stones of Jerusalem",
+        "subtitle": "The Zion Legacy, Book 5 - a Novel",
+        "authors": [
+            {
+                "name": "Brock Thoene"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2002",
+        "pages": 266,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250277886",
+        "title": "Little Souls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sandra Dallas"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 294,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496736246",
+        "title": "Spanish Daughter",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lorena Hughes"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 292,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062207517",
+        "title": "House Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tara Conklin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 370,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781594634703",
+        "title": "All Adults Here",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Emma Straub"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 358,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781101906774",
+        "title": "Chilbury Ladies' Choir",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Ryan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2017",
+        "pages": 417,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593158814",
+        "title": "Kitchen Front",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Ryan"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 416,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345530769",
+        "title": "Paris",
+        "subtitle": "The Novel",
+        "authors": [
+            {
+                "name": "Edward Rutherfurd"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 805,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063090934",
+        "title": "Hidden Child",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Fein"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 457,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781608196265",
+        "title": "Salvage the Bones",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jesmyn Ward"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 271,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307278265",
+        "title": "Lowland",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jhumpa Lahiri"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2014",
+        "pages": 415,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455563920",
+        "title": "Pachinko",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Min Jin Lee"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 500,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780989020725",
+        "title": "Shadoweyes",
+        "subtitle": "Volume One",
+        "authors": [
+            {
+                "name": "Sophie Campbell"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2017",
+        "pages": 384,
+        "price": 16,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Iron Circus Comics"
+            }
+        ]
+    },
+    {
+        "isbn": "9781935002802",
+        "title": "Shipwreck",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2018",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Aftershock Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sherman Oaks, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781302914912",
+        "title": "Next of Kin",
+        "subtitle": "Marvel 2-In-One, Vol. 2",
+        "authors": [
+            {
+                "name": "Chip Zdarsky"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2019",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Marvel Worldwide, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781848636385",
+        "title": "Witches Tales",
+        "subtitle": "Harvey Horrors, Collected Works - Volume Three, Issues 11 - 16",
+        "authors": [],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2013",
+        "pages": "u",
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Ps Artbooks"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Hornsea, East Yorkshire"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401271534",
+        "title": "Teen Titans",
+        "subtitle": "Earth One, Volume Two",
+        "authors": [
+            {
+                "name": "Jeff Lemire"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2017",
+        "pages": "u",
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Burbank, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401222567",
+        "title": "Martian Manhunter",
+        "subtitle": "",
+        "authors": [],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2009",
+        "pages": 592,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 10,
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781606909010",
+        "title": "James Bond Volume 1",
+        "subtitle": "Vargr",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            },
+            {
+                "name": "Jason Masters"
+            },
+            {
+                "name": "Dom Reardon"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2016",
+        "pages": "u",
+        "price": 10.5,
+        "binding": [
+            "hc"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Dynamite Entertainment"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mt. Laurel, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "9781524102722",
+        "title": "Ian Fleming's James Bond 007 In",
+        "subtitle": "Eidolon",
+        "authors": [
+            {
+                "name": "Warren Ellis"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2018",
+        "pages": "u",
+        "price": 10.5,
+        "binding": [
+            "hc"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Dynamite Entertainment"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Mt. Laurel, Nj."
+            }
+        ]
+    },
+    {
+        "isbn": "9781684054527",
+        "title": "Family Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jerome Charyn"
+            },
+            {
+                "name": "Joe Staton"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2019",
+        "pages": 304,
+        "price": 15,
+        "binding": [
+            "hc"
+        ],
+        "ill": 7,
+        "publishers": [
+            {
+                "name": "Idea & Design Works, Llc"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Diego, Ca."
             }
         ]
     }

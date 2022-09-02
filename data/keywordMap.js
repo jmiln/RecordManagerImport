@@ -5,6 +5,7 @@ module.exports = {
     bio: "Biographies",
     bp:  "Booker Prize",
     bus: "Business",
+    cha: "Chapter Books",
     chi: "Children's Books",
     chr: "Christianity",
     cfi: "Crime Fiction",
