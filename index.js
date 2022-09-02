@@ -1482,6 +1482,7 @@ async function saveAndRun(infoArr) {
     const bookInfoOut = infoArr
         .map(e => e.toLowerCase())
         .join("\n")
+        .replace(/%/g, "`%")
         .replace(/’/g, "'");
     // Write to a file, then pass that to the ahk
     fs.writeFileSync(__dirname + "/bookInfo.txt", bookInfoOut);
