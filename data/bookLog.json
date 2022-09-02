@@ -11808,27 +11808,6 @@
         ]
     },
     {
-        "isbn": "9781250245496",
-        "title": "Wife Upstairs",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Rachel Hawkins"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780358237044",
         "title": "Lantern Men",
         "subtitle": "A Ruth Galloway Mystery",
@@ -22848,27 +22827,6 @@
         ]
     },
     {
-        "isbn": "9781451627299",
-        "title": "11/22/63",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Stephen King"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250257871",
         "title": "Independent Bones",
         "subtitle": "A Sarah Booth Delaney Mystery",
@@ -28895,33 +28853,6 @@
         "publishers": [
             {
                 "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062698162",
-        "title": "Butterfly Girl",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Rene Denfeld"
-            }
-        ],
-        "publish_date": "2019",
-        "pages": 264,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Harper / Harper-Collins"
             }
         ],
         "publish_places": [
@@ -69033,37 +68964,6 @@
         "publishers": [
             {
                 "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781982154912",
-        "title": "Recovery Agent",
-        "subtitle": "A Gabriela Rose Novel",
-        "authors": [
-            {
-                "name": "Janet Evanovich"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 297,
-        "price": 17.4,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
             }
         ],
         "publish_places": [
@@ -116357,7 +116257,11 @@
         "isbn": "9781848636385",
         "title": "Witches Tales",
         "subtitle": "Harvey Horrors, Collected Works - Volume Three, Issues 11 - 16",
-        "authors": [],
+        "authors": [
+            {
+                "name": "Peter Crowther"
+            }
+        ],
         "keywords": [
             "gra"
         ],
@@ -116406,32 +116310,6 @@
         "publish_places": [
             {
                 "name": "Burbank, Ca."
-            }
-        ]
-    },
-    {
-        "isbn": "9781401222567",
-        "title": "Martian Manhunter",
-        "subtitle": "",
-        "authors": [],
-        "keywords": [
-            "gra"
-        ],
-        "publish_date": "2009",
-        "pages": 592,
-        "price": 10.5,
-        "binding": [
-            "pb"
-        ],
-        "ill": 10,
-        "publishers": [
-            {
-                "name": "Dc Comics"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -116531,6 +116409,862 @@
         "publish_places": [
             {
                 "name": "San Diego, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781401222567",
+        "title": "Martian Manhunter",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jack Schiff"
+            },
+            {
+                "name": "George Kashdan",
+                "contribution": "editors"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2009",
+        "pages": 592,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 10,
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781645701767",
+        "title": "Good Fight",
+        "subtitle": "Taking a Stand Against Racism and Bigotry",
+        "authors": [
+            {
+                "name": "Adam L. Ferris"
+            },
+            {
+                "name": "Danny Lore"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2019",
+        "pages": "u",
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Published by Editors"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Portland, OR."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982154912",
+        "title": "Recovery Agent",
+        "subtitle": "A Gabriela Rose Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "297+",
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316034043",
+        "title": "Murder of King Tut",
+        "subtitle": "The Plot To Kill the Child King - A Nonfiction Thriller",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 332,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown and Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781416593409",
+        "title": "Spellmans Strike Again",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Lutz"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 388,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250245496",
+        "title": "Wife Upstairs",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rachel Hawkins"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 290,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492669616",
+        "title": "Death In the Stocks",
+        "subtitle": "A Country House Mystery",
+        "authors": [
+            {
+                "name": "Georgette Heyer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 378,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781982148584",
+        "title": "Backlash",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": "378+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451627299",
+        "title": "11/22/63",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2012",
+        "pages": 849,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593098837",
+        "title": "Who Rescued Who",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Victoria Schade"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "thr"
+        ],
+        "publish_date": "2020",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345418271",
+        "title": "Foucault's Pendulum",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Umberto Eco"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1997",
+        "pages": 641,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060852580",
+        "title": "Lacuna",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Barbara Kingsolver"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": "507+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781451682724",
+        "title": "Eight Girls Taking Pictures",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Whitney Otto"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": "341+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496713681",
+        "title": "Undertaker's Assistant",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amanda Skenandore"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 326,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670032670",
+        "title": "Forest Lover",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susan Vreeland"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 333,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0670835218",
+        "title": "Sailor Song",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Kesey"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1992",
+        "pages": 533,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Viking / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802147127",
+        "title": "Virgil Wander",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Leif Enger"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 308,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312866291",
+        "title": "Ariadne's Web",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fred Saberhagen"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2000",
+        "pages": 412,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "039608821X",
+        "title": "Twelve Days of Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jan Brett"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic",
+            "jfi"
+        ],
+        "publish_date": "1986",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Dodd, Mead & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0763619302",
+        "title": "Christmas Miracle of Jonathan Toomey",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Susan Wojciechowski"
+            },
+            {
+                "name": "P.j. Lynch",
+                "contribution": "Illustrated By"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic",
+            "jfi"
+        ],
+        "publish_date": "2002",
+        "pages": "u",
+        "price": 7.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Somerville, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "0399231900",
+        "title": "Night Before Christmas",
+        "subtitle": "Poem",
+        "authors": [
+            {
+                "name": "Clement Moore"
+            },
+            {
+                "name": "Jan Brett",
+                "contribution": "Illstrations by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic",
+            "jfi"
+        ],
+        "publish_date": "1998",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399256530",
+        "title": "Home for Christmas",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jan Brett"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": "u",
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0763600946",
+        "title": "When Jessie Came Across the Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Amy Hest"
+            },
+            {
+                "name": "P. J. Lynch",
+                "contribution": "Illstrations by"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic",
+            "jfi"
+        ],
+        "publish_date": "1997",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Candlewick Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Cambridge, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "0399238735",
+        "title": "Who's That Knocking On Christmas Eve",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jan Brett"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "pic",
+            "jfi"
+        ],
+        "publish_date": "2002",
+        "pages": "u",
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0425178242",
+        "title": "Kick Ass",
+        "subtitle": "Selected Columns of Carl Hiaasen",
+        "authors": [
+            {
+                "name": "Carl Hiaasen"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2001",
+        "pages": 447,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316591122",
+        "title": "Fear Itself",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Walter Mosley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 316,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062698162",
+        "title": "Butterfly Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Rene Denfeld"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 264,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

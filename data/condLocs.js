@@ -15,6 +15,7 @@ module.exports.condMap = {
 
     // CDs
     acd: "Audio CD.",
+    cd:  "CD in ${front pocket}.",
 
     // Remainders
     red:  "Remainder Dot.",
@@ -135,6 +136,7 @@ module.exports.condLocs = {
     fe:   "fore-edge",
     ffe:  "front fore-edge",
     fp:   "front page",
+    fpoc: "front pocket",
     fw:   "front wrap",
     hea:  "head",
     hee:  "heel",
