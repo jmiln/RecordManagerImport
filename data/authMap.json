@@ -6029,7 +6029,6 @@
             "First Shot",
             "Last To Know",
             "Last Time I Saw You",
-            "Son Raunt",
             "Last Mrs. Parrish"
         ],
         "url": "https://openlibrary.org/authors/OL7524009A/Liv_Constantine?sort=new"
@@ -6039,23 +6038,14 @@
             "Romantic Comedy",
             "Help Yourself",
             "Rodham",
-            "Dobra Prilika",
-            "Gozde Bekar",
-            "Sin Compromiso",
             "Eligible",
             "Sisterland",
             "American Wife",
-            "Campus",
-            "Colegio Privado"
+            "Campus"
         ],
         "url": "https://openlibrary.org/authors/OL1392897A/Curtis_Sittenfeld?sort=new"
     },
     "Harper Lee": {
-        "titles": [
-            "Matar Un Ruisenor",
-            "O Sol E Para Todos",
-            "Shou Wang Zhe"
-        ],
         "url": "https://openlibrary.org/authors/OL498120A/Harper_Lee?sort=new"
     },
     "Dolen Perkins-Valdez": {
@@ -6064,5 +6054,36 @@
             "Wench"
         ],
         "url": "https://openlibrary.org/authors/OL6816645A/Dolen_Perkins-Valdez?sort=new"
+    },
+    "Liz Braswell": {
+        "titles": [
+            "Once Upon a Dream",
+            "Fallen"
+        ],
+        "url": "https://openlibrary.org/authors/OL7347771A/Liz_Braswell?sort=new"
+    },
+    "Jessica Townsend": {
+        "titles": [
+            "Nevermoor"
+        ],
+        "url": "https://openlibrary.org/authors/OL3426290A/Jessica_Townsend?sort=new"
+    },
+    "Nathan Harris": {
+        "url": "https://openlibrary.org/authors/OL2759342A/Nathan_Harris?sort=new"
+    },
+    "Brit Bennett": {
+        "titles": [
+            "Mothers"
+        ],
+        "url": "https://openlibrary.org/authors/OL7487872A/Brit_Bennett?sort=new"
+    },
+    "Anthony Burgess": {
+        "titles": [
+            "Flame Into Being",
+            "Doktor Hastalandi",
+            "Shakespeare",
+            "Bir Elin Sesi Var"
+        ],
+        "url": "https://openlibrary.org/authors/OL2623074A/Anthony_Burgess?sort=new"
     }
 }
