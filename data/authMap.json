@@ -4714,7 +4714,7 @@
         "url": "https://openlibrary.org/authors/OL534935A/Chelsea_Cain?sort=new"
     },
     "Judith A. Jance": {
-        "format": "Jance, J.A.",
+        "format": "Jance, J. A.",
         "titles": [
             "Field of Bones",
             "Duel To the Death",
@@ -6085,5 +6085,82 @@
             "Bir Elin Sesi Var"
         ],
         "url": "https://openlibrary.org/authors/OL2623074A/Anthony_Burgess?sort=new"
+    },
+    "Jesse Bullington": {
+        "titles": [
+            "Folly of the World"
+        ],
+        "url": "https://openlibrary.org/authors/OL6613304A/Jesse_Bullington?sort=new"
+    },
+    "Lynda La Plante": {
+        "titles": [
+            "Unholy Murder",
+            "Killing Room",
+            "Vanished",
+            "Dark Rooms",
+            "Cold Heart",
+            "Judas Horse",
+            "Cold Blood",
+            "Blunt Force",
+            "Buried",
+            "Cold Shoulder",
+            "Dirty Dozen"
+        ],
+        "url": "https://openlibrary.org/authors/OL224343A/Lynda_La_Plante?sort=new"
+    },
+    "Wendy Mass": {
+        "titles": [
+            "Dodging Dinosaurs",
+            "Stealing the Sword",
+            "Escape From Egypt",
+            "Stealing the Sword!",
+            "Bob",
+            "Voyagers",
+            "Seventh Element",
+            "Graceful - Audio"
+        ],
+        "url": "https://openlibrary.org/authors/OL27132A/Wendy_Mass?sort=new"
+    },
+    "Shannon Hale": {
+        "titles": [
+            "Friends Forever"
+        ],
+        "url": "https://openlibrary.org/authors/OL1394989A/Shannon_Hale?sort=new"
+    },
+    "Laura Dave": {
+        "titles": [
+            "O Jedno Cie Prosze",
+            "Merhaba Gun Isigi",
+            "Sekiz Yuz uZum",
+            "Dom Z Moich Marzen",
+            "First Husband",
+            "Divorce Party"
+        ],
+        "url": "https://openlibrary.org/authors/OL2660286A/Laura_Dave?sort=new"
+    },
+    "Larry Watson": {
+        "titles": [
+            "As Good As Gone",
+            "Let Him Go",
+            "American Boy",
+            "Sonja a La Fenetre",
+            "Orchard",
+            "Laura",
+            "Montana-Melodie",
+            "White Crosses",
+            "Justice"
+        ],
+        "url": "https://openlibrary.org/authors/OL39613A/Larry_Watson?sort=new"
+    },
+    "Arthur C. Clarke": {
+        "titles": [
+            "Bifrost N102",
+            "Encontro Com Rama",
+            "Sands of Mars",
+            "Una Odisea Espacial",
+            "Sehir Ve Yildizlar",
+            "Cennetin Cesmeleri"
+        ],
+        "url": "https://openlibrary.org/authors/OL2623461A/Arthur_C._Clarke?sort=new"
     }
 }

@@ -119234,5 +119234,615 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9780375836671",
+        "title": "I Am the Messenger",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Markus Zusak"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2009",
+        "pages": 359,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781509871353",
+        "title": "Children of Blood and Bone",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tomi Adeyemi"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2018",
+        "pages": 531,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780007466696",
+        "title": "Selection",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kiera Cass"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 327,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780007580248",
+        "title": "Crown",
+        "subtitle": "Book 5 of the Selection Series",
+        "authors": [
+            {
+                "name": "Kiera Cass"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 279,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780007580224",
+        "title": "Heir",
+        "subtitle": "Book 4 of the Selection Series",
+        "authors": [
+            {
+                "name": "Kiera Cass"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 356,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780007466719",
+        "title": "One",
+        "subtitle": "A Selection Novel",
+        "authors": [
+            {
+                "name": "Kiera Cass"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": 2014,
+        "pages": 323,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780007466702",
+        "title": "Elite",
+        "subtitle": "A Selection Novel",
+        "authors": [
+            {
+                "name": "Kiera Cass"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 323,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805000305",
+        "title": "They Shoot Canoes, Don't They?",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick F. Mcmanus"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "1982",
+        "pages": 218,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0805000313",
+        "title": "Never Sniff a Gift Fish",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Patrick F. Mcmanus"
+            }
+        ],
+        "keywords": [
+            "hum"
+        ],
+        "publish_date": "1984",
+        "pages": 217,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Henry Holt & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316087346",
+        "title": "Enterprise of Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jesse Bullington"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 454,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316190350",
+        "title": "Folly of the World",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jesse Bullington"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2012",
+        "pages": 518,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451467850",
+        "title": "Banquet of Consequences",
+        "subtitle": "A Lynley Novel",
+        "authors": [
+            {
+                "name": "Elizabeth George"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": "576+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781499862041",
+        "title": "Widows' Revenge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lynda La Plante"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 293,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Zaffre Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062297662",
+        "title": "Dance of the Bones",
+        "subtitle": "A J.p. Beaumont and Brandon Walker Novel",
+        "authors": [
+            {
+                "name": "Judith A. Jance"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 355,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316089197",
+        "title": "Candymakers and the Great Chocolate Chase",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wendy Mass"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 533,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316258210",
+        "title": "Ever After High",
+        "subtitle": "Once Upon a Time - A Story Collection",
+        "authors": [
+            {
+                "name": "Shannon Hale"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "cha"
+        ],
+        "publish_date": "2014",
+        "pages": 241,
+        "price": 7.5,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476789286",
+        "title": "Eight Hundred Grapes",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Laura Dave"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 262,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781571310613",
+        "title": "Montana 1948",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Larry Watson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 169,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Milkweed Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062964588",
+        "title": "Sisters In Arms",
+        "subtitle": "A Novel of the Daring Black Women Who Served During World War Ii",
+        "authors": [
+            {
+                "name": "Kaia Alderson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "372+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345303059",
+        "title": "2010",
+        "subtitle": "Odyssey Two",
+        "authors": [
+            {
+                "name": "Arthur C. Clarke"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1982",
+        "pages": 291,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Ballantine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
     }
 ]
