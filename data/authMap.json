@@ -4733,7 +4733,6 @@
             "Perfect Alibi",
             "Third Victim",
             "Violent Crimes",
-            "Violent Crimes Cd",
             "Woman With a Gun",
             "Sleight of Hand",
             "Capitol Murder",
@@ -5438,7 +5437,6 @@
         "titles": [
             "Southern Man",
             "Cemetery Road",
-            "Cemetery Road Cd",
             "Mississippi Blood",
             "Bone Tree"
         ],
@@ -5547,14 +5545,6 @@
             "Cast In Eternity",
             "Cast In Conflict",
             "Queen of the Dead",
-            "Cast In Wisdom",
-            "Firstborn",
-            "War",
-            "Cast In Oblivion",
-            "Cast In Deceptiion",
-            "Cast In Fury",
-            "Cast In Ruin",
-            "Cast In Chaos",
             "Cast In Sorrow",
             "Cast In Deception"
         ],
@@ -5647,15 +5637,9 @@
     },
     "Sophie Campbell": {
         "titles": [
-            "Wet Moon 7",
-            "Wet Moon 4",
-            "Wet Moon 5",
+            "Wet Moon Series",
             "Nelson's Spyglass",
-            "Season",
-            "Wet Moon 6",
-            "Wet Moon Volume 3",
-            "Wet Moon Volume 2",
-            "Wet Moon Volume 1"
+            "Season"
         ],
         "url": "https://openlibrary.org/authors/OL7641477A/Sophie_Campbell?sort=new"
     },
@@ -5667,11 +5651,8 @@
     },
     "Jerome Charyn": {
         "titles": [
-            "Big Red - a Novel",
             "Sergeant Salinger",
-            "Cesare",
             "Singular Beauty",
-            "Jerzy",
             "Winter Warning",
             "Loaded Gun",
             "Bitter Bronx",
@@ -5712,12 +5693,7 @@
     "Umberto Eco": {
         "titles": [
             "Misreadings",
-            "Prague Cemetery",
-            "Baudolino",
-            "Antik Roma",
-            "Les Fiances",
-            "Felsefe Tarihi",
-            "Ertelenmis Kıyamet"
+            "Prague Cemetery"
         ],
         "url": "https://openlibrary.org/authors/OL20735A/Umberto_Eco?sort=new"
     },
@@ -5737,24 +5713,19 @@
     },
     "Susan Vreeland": {
         "titles": [
-            "La Lista De Lisette",
             "Lisette's List",
             "Orman Sevdalisi",
             "What Love Sees",
-            "Life Studies",
-            "Die Malerin"
+            "Life Studies"
         ],
         "url": "https://openlibrary.org/authors/OL25129A/Susan_Vreeland?sort=new"
     },
     "Ken Kesey": {
         "titles": [
             "Merry Pranksters",
-            "\"Idler\"",
             "Sea Lion",
             "Further Inquiry",
             "Demon Box",
-            "Kesey",
-            "Kesey's Garage Sale",
             "Sorcerers Edition"
         ],
         "url": "https://openlibrary.org/authors/OL449110A/Ken_Kesey?sort=new"
@@ -5819,9 +5790,7 @@
             "Assume the Worst",
             "Razor Girl",
             "Panther",
-            "Einaugige Echse",
             "Skinny Dip",
-            "Skink--No Surrender",
             "Bad Monkey",
             "Chomp",
             "Star Island"
@@ -5847,11 +5816,6 @@
             "Crimes and Covers",
             "Put Out To Pasture",
             "Lemon Drop Dead",
-            "Farm To Trouble",
-            "Dead-End Detective",
-            "Mums and Mayhem",
-            "Marshmallow Malice",
-            "Toxic Toffee",
             "Death and Daisies"
         ],
         "url": "https://openlibrary.org/authors/OL6792672A/Amanda_Flower?sort=new"
@@ -5880,8 +5844,7 @@
     "Alex North": {
         "titles": [
             "Half Burnt House",
-            "Shadow Friend",
-            "Szeptacz"
+            "Shadow Friend"
         ],
         "url": "https://openlibrary.org/authors/OL7892218A/Alex_North?sort=new"
     },
@@ -5908,9 +5871,7 @@
         "titles": [
             "Touch",
             "Sacrament",
-            "Geceye Yurumek",
             "Restoration",
-            "Der Weg Nach Hause",
             "Journey Home",
             "Absolution"
         ],
@@ -5950,7 +5911,6 @@
         "titles": [
             "Soulmate",
             "Younger Wife",
-            "Benim Icin Hatirla",
             "Mother-In-Law",
             "Family Next Door",
             "Mother's Promise",
@@ -5960,17 +5920,12 @@
         "url": "https://openlibrary.org/authors/OL7290095A/Sally_Hepworth?sort=new"
     },
     "Abbi Waxman": {
-        "titles": [
-            "Vorstadtgefluster"
-        ],
         "url": "https://openlibrary.org/authors/OL7534040A/Abbi_Waxman?sort=new"
     },
     "Jill Santopolo": {
         "titles": [
             "Everything After",
             "More Than Words",
-            "La Luz Que Perdimos",
-            "Kaybettigimiz Isik",
             "Wedding Bell Blues",
             "Fashion Disaster",
             "Bad News Nails",
@@ -5992,10 +5947,8 @@
     },
     "Garrison Keillor": {
         "titles": [
-            "Keillor Reader",
             "My Little Town",
             "Summer Love",
-            "77 Love Sonnets",
             "Pilgrims",
             "Christmas Companion",
             "Life In Comedy",
@@ -6014,12 +5967,10 @@
             "Three-Edged Sword",
             "Fool Me Twice",
             "Just Watch Me",
-            "La Muerte De Dexter",
             "Red Tide",
             "Tropical Depression",
             "Dexter is Dead",
-            "Dexters Debut",
-            "Dexter Por Dos",
+            "Dexter's Debut",
             "Dexter's Final Cut"
         ],
         "url": "https://openlibrary.org/authors/OL2678285A/Jeff_Lindsay?sort=new"
@@ -6080,9 +6031,7 @@
     "Anthony Burgess": {
         "titles": [
             "Flame Into Being",
-            "Doktor Hastalandi",
-            "Shakespeare",
-            "Bir Elin Sesi Var"
+            "Shakespeare"
         ],
         "url": "https://openlibrary.org/authors/OL2623074A/Anthony_Burgess?sort=new"
     },
@@ -6099,10 +6048,6 @@
             "Vanished",
             "Dark Rooms",
             "Cold Heart",
-            "Judas Horse",
-            "Cold Blood",
-            "Blunt Force",
-            "Buried",
             "Cold Shoulder",
             "Dirty Dozen"
         ],
@@ -6113,11 +6058,8 @@
             "Dodging Dinosaurs",
             "Stealing the Sword",
             "Escape From Egypt",
-            "Stealing the Sword!",
-            "Bob",
             "Voyagers",
-            "Seventh Element",
-            "Graceful - Audio"
+            "Seventh Element"
         ],
         "url": "https://openlibrary.org/authors/OL27132A/Wendy_Mass?sort=new"
     },
@@ -6129,10 +6071,6 @@
     },
     "Laura Dave": {
         "titles": [
-            "O Jedno Cie Prosze",
-            "Merhaba Gun Isigi",
-            "Sekiz Yuz uZum",
-            "Dom Z Moich Marzen",
             "First Husband",
             "Divorce Party"
         ],
@@ -6143,10 +6081,6 @@
             "As Good As Gone",
             "Let Him Go",
             "American Boy",
-            "Sonja a La Fenetre",
-            "Orchard",
-            "Laura",
-            "Montana-Melodie",
             "White Crosses",
             "Justice"
         ],
@@ -6154,13 +6088,27 @@
     },
     "Arthur C. Clarke": {
         "titles": [
-            "Bifrost N102",
-            "Encontro Com Rama",
-            "Sands of Mars",
-            "Una Odisea Espacial",
-            "Sehir Ve Yildizlar",
-            "Cennetin Cesmeleri"
+            "Sands of Mars"
         ],
         "url": "https://openlibrary.org/authors/OL2623461A/Arthur_C._Clarke?sort=new"
+    },
+    "Katherine A. Applegate": {
+        "titles": [
+            "Wishtree",
+            "Odder",
+            "One and Only Bob"
+        ],
+        "url": "https://openlibrary.org/authors/OL2703454A/Katherine_A._Applegate?sort=new"
+    },
+    "Lois Mcmaster Bujold": {
+        "titles": [
+            "Penric's Labors",
+            "Masquerade In Lodi",
+            "Penric's Travels",
+            "Orphans of Raspay",
+            "Penric's Progress",
+            "Penric's Demon"
+        ],
+        "url": "https://openlibrary.org/authors/OL21317A/Lois_McMaster_Bujold?sort=new"
     }
 }

@@ -54882,36 +54882,6 @@
         ]
     },
     {
-        "isbn": "0553350005",
-        "title": "And Then There Were None",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Agatha Christie"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "1984",
-        "pages": 194,
-        "price": 8,
-        "binding": [
-            "hc"
-        ],
-        "publishers": [
-            {
-                "name": "Bantam Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0151010854",
         "title": "Last Call For Blackford Oakes",
         "subtitle": "",
@@ -119837,6 +119807,371 @@
         "publishers": [
             {
                 "name": "Del Rey / Ballantine"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140110143",
+        "title": "Sharpe's Rifles",
+        "subtitle": "Richard Sharpe and the French Invasion of Galicia, January 1809",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "hfi"
+        ],
+        "publish_date": "1989",
+        "pages": 304,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140099212",
+        "title": "Sharpe's Eagle",
+        "subtitle": "Richard Sharpe and the Talavera Campaign July 1809",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "hfi"
+        ],
+        "publish_date": "1987",
+        "pages": 270,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140070230",
+        "title": "Sharpe's Company",
+        "subtitle": "The Siege of Badajoz",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "hfi"
+        ],
+        "publish_date": "1984",
+        "pages": 280,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140104305",
+        "title": "Sharpe's Enemy",
+        "subtitle": "Richard Sharpe and the Defense of Portugal, Christmas 1812",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "hfi"
+        ],
+        "publish_date": "1987",
+        "pages": 351,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140145974",
+        "title": "Sharpe's Honour",
+        "subtitle": "Richard Sharpe and the Vitoria Campaign, February To June 1813",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "hfi"
+        ],
+        "publish_date": "1990",
+        "pages": 320,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140144420",
+        "title": "Sharpe's Siege",
+        "subtitle": "Richard Sharpe & the Winter Campaign, 1814 (Richard Sharpe's Adventure Series #18)",
+        "authors": [
+            {
+                "name": "Bernard Cornwell"
+            },
+            {
+                "name": "Frederick Davidson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "hfi"
+        ],
+        "publish_date": "1990",
+        "pages": 319,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066305",
+        "title": "Kingdom of the Blind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 389,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496736611",
+        "title": "Third Grave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lisa Jackson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 360,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062357311",
+        "title": "After the Funeral",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 286,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0553350005",
+        "title": "And Then There Were None",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1984",
+        "pages": 194,
+        "price": 8.5,
+        "binding": [
+            "hc"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250043238",
+        "title": "Crenshaw",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Katherine A. Applegate"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 245,
+        "price": 9.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Feiwel & Friends"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061375330",
+        "title": "Passage",
+        "subtitle": "Sharing Knife, Volume 3",
+        "authors": [
+            {
+                "name": "Lois Mcmaster Bujold"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2008",
+        "pages": 437,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Eos / Harper-Collins"
             }
         ],
         "publish_places": [
