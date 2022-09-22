@@ -25882,30 +25882,6 @@
         ]
     },
     {
-        "isbn": "9781538747285",
-        "title": "Scorpion's Tail",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Douglas Preston"
-            },
-            {
-                "name": "Lincoln Child"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780451477996",
         "title": "Column Of Fire",
         "subtitle": "",
@@ -32779,32 +32755,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780008418632",
-        "title": "Berlin Girl",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Mandy Robotham"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": "373+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Avon Books / Harper"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "London"
             }
         ]
     },
@@ -44771,36 +44721,6 @@
         ]
     },
     {
-        "isbn": "9780812986471",
-        "title": "Olive, Again",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Elizabeth Strout"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2020",
-        "pages": "298+",
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781476717791",
         "title": "Inside The O'briens",
         "subtitle": "A Novel",
@@ -47615,36 +47535,6 @@
         "publish_places": [
             {
                 "name": "Salt Lake City, Ut."
-            }
-        ]
-    },
-    {
-        "isbn": "9781538736159",
-        "title": "Heiress's Guide To Deception And Desire",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Manda Collins"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 338,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Forever Books / Hachette"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -53756,36 +53646,6 @@
         ]
     },
     {
-        "isbn": "9780060740689",
-        "title": "Death At La Fenice",
-        "subtitle": "A Commissario Guido Brunetti Mystery",
-        "authors": [
-            {
-                "name": "Donna Leon"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2004",
-        "pages": 270,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0446520659",
         "title": "Lion's Game",
         "subtitle": "",
@@ -57865,37 +57725,6 @@
         "publishers": [
             {
                 "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781635574203",
-        "title": "This Is Happiness",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Niall Williams"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2019",
-        "pages": 380,
-        "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Bloomsbury"
             }
         ],
         "publish_places": [
@@ -63835,37 +63664,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780778389378",
-        "title": "Diplomat's Wife",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Pam Jenoff"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "hfi"
-        ],
-        "publish_date": "2020",
-        "pages": 380,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "Park Row Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -92898,36 +92696,6 @@
         ]
     },
     {
-        "isbn": "9781728243146",
-        "title": "Next Ship Home",
-        "subtitle": "A Novel of Ellis Island",
-        "authors": [
-            {
-                "name": "Heather Webb"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2022",
-        "pages": 421,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Sourcebooks Landmark"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
         "isbn": "9780593128176",
         "title": "Beekeeper of Aleppo",
         "subtitle": "A Novel",
@@ -98150,37 +97918,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780778389385",
-        "title": "Woman With the Blue Star",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Pam Jenoff"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 324,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "Park Row Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -110331,36 +110068,6 @@
         ]
     },
     {
-        "isbn": "9781982131906",
-        "title": "Book of Lost Names",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kristin Harmel"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": "384+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781525823565",
         "title": "Things We Cannot Say",
         "subtitle": "A Novel",
@@ -120172,6 +119879,1281 @@
         "publishers": [
             {
                 "name": "Eos / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063091290",
+        "title": "Do I Know You?",
+        "subtitle": "A Novel of Suspense",
+        "authors": [
+            {
+                "name": "Sarah Strohmeyer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 336,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982139971",
+        "title": "Bone Code",
+        "subtitle": "A Temoerance Brennan Novel",
+        "authors": [
+            {
+                "name": "Kathy Reichs"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "354+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425236901",
+        "title": "Mistletoe and Mayhem",
+        "subtitle": "A Special Pennyfoot Hotel Mystery",
+        "authors": [
+            {
+                "name": "Kate Kingsbury"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 292,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Prime Crime"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538747285",
+        "title": "Scorpion's Tail",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 434,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451236708",
+        "title": "Wedding Shawl",
+        "subtitle": "a Seaside Knitters Mystery",
+        "authors": [
+            {
+                "name": "Sally Goldenbaum"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 320,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Obsidian"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345484239",
+        "title": "No Graves As Yet",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 363,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802157782",
+        "title": "Eddie's Boy",
+        "subtitle": "A Butcher's Boy Novel",
+        "authors": [
+            {
+                "name": "Thomas Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 274,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496727817",
+        "title": "Fatal Glow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Valerie Wilson Wesley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 208,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643859514",
+        "title": "Key Lime Crime",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lucy Burdette"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 238,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Crooked Lane Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060740689",
+        "title": "Death At La Fenice",
+        "subtitle": "A Commissario Guido Brunetti Mystery",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2004",
+        "pages": 270,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781950461486",
+        "title": "Divide and Concord",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. C. Eaton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 245,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Beyond the Page"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062834850",
+        "title": "Portrait of an Unknown Woman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Daniel Silva"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 431,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593315415",
+        "title": "Violin Conspiracy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brendan Slocumb"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 342,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635574203",
+        "title": "This is Happiness",
+        "subtitle": "a novel",
+        "authors": [
+            {
+                "name": "Niall Williams"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 380,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316316996",
+        "title": "Reminders",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Val Emmich"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 310,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778389385",
+        "title": "Woman With the Blue Star",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "324+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778330271",
+        "title": "Lost Girls of Paris",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 377,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778389378",
+        "title": "Diplomat's Wife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 380,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778308799",
+        "title": "Kommandant's Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Pam Jenoff"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 362,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781565126145",
+        "title": "Arsonist's Guide To Writers' Homes In New England",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Brock Clarke"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": 317,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250179784",
+        "title": "Yellow Bird Sings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Rosner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "294+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0449911519",
+        "title": "Secret History",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Donna Tartt"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": "559+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307276681",
+        "title": "Swamplandia!",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karen Russell"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 400,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399182266",
+        "title": "Mistress of the Ritz",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Melanie Benjamin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 384,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780812986471",
+        "title": "Olive, Again",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elizabeth Strout"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 301,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063065406",
+        "title": "Thousand Ships",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Natalie Haynes"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "348+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780063226661",
+        "title": "Daughters of the Occupation",
+        "subtitle": "A Novel of Wwii",
+        "authors": [
+            {
+                "name": "Shelly Sanders"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2022",
+        "pages": "364+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728243146",
+        "title": "Next Ship Home",
+        "subtitle": "A Novel of Ellis Island",
+        "authors": [
+            {
+                "name": "Heather Webb"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2022",
+        "pages": 421,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593159040",
+        "title": "Lost Roses",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martha Hall Kelly"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2020",
+        "pages": "444+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250797377",
+        "title": "Orphan Witch",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Paige Crutcher"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan",
+            "par"
+        ],
+        "publish_date": "2021",
+        "pages": 345,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781645673378",
+        "title": "Forest of Souls",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lori M. Lee"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 402,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Page Street Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Salem, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780008418632",
+        "title": "Berlin Girl",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mandy Robotham"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2020",
+        "pages": "373+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062913494",
+        "title": "Nothing To See Here",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kevin Wilson"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 267,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ecco / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451490803",
+        "title": "Kiss Quotient",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Helen Hoang"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 340,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250295651",
+        "title": "Flatshare",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Beth O'leary"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 344,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316435628",
+        "title": "Troubles In Paradise",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elin Hilderbrand"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 342,
+        "price": 10.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736159",
+        "title": "Heiress's Guide To Deception and Desire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Manda Collins"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 338,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Forever Books / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311072",
+        "title": "Black Swan of Paris",
+        "subtitle": "A Wwii Novel",
+        "authors": [
+            {
+                "name": "Karen Robards"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 475,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982131906",
+        "title": "Book of Lost Names",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "388+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982131890",
+        "title": "Book of Lost Names",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kristin Harmel"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 388,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Gallery Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538736753",
+        "title": "Diablo Mesa",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            },
+            {
+                "name": "Lincoln Child"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 385,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0312313004",
+        "title": "For the Love of Mike",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Rhys Bowen"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2003",
+        "pages": 322,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Minotaur"
             }
         ],
         "publish_places": [
