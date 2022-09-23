@@ -9078,27 +9078,6 @@
         ]
     },
     {
-        "isbn": "9781616147082",
-        "title": "Bookseller",
-        "subtitle": "The First Hugo Marston Novel",
-        "authors": [
-            {
-                "name": "Mark Pryor"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Seventh Street Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Amherst, Ny."
-            }
-        ]
-    },
-    {
         "isbn": "9780312372835",
         "title": "Disciple",
         "subtitle": "",
@@ -64987,36 +64966,6 @@
         ]
     },
     {
-        "isbn": "9780307341570",
-        "title": "Dark Places",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Gillian Flynn"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2010",
-        "pages": 349,
-        "price": 8,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Three Rivers Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781455521180",
         "title": "Target",
         "subtitle": "",
@@ -118479,37 +118428,6 @@
         ]
     },
     {
-        "isbn": "9780062654199",
-        "title": "Alice Network",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kate Quinn"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": "532+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781501173219",
         "title": "All the Light We Cannot See",
         "subtitle": "A Novel",
@@ -121154,6 +121072,307 @@
         "publishers": [
             {
                 "name": "St. Martin's Minotaur"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781471160356",
+        "title": "Quicksand",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Malin Persson Giolito"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 406,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781845298654",
+        "title": "Death At Wentwater Court",
+        "subtitle": "A Daisy Dalrymple Mystery",
+        "authors": [
+            {
+                "name": "Carola Dunn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 266,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Robinson"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307341570",
+        "title": "Dark Places",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gillian Flynn"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 349,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Broadway Books / Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616147082",
+        "title": "Bookseller",
+        "subtitle": "The First Hugo Marston Novel",
+        "authors": [
+            {
+                "name": "Mark Pryor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 302,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Seventh Street Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Amherst, Ny."
+            }
+        ]
+    },
+    {
+        "isbn": "9780399575686",
+        "title": "Tear It Down",
+        "subtitle": "A Peter Ash Novel",
+        "authors": [
+            {
+                "name": "Nick Petrie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 373,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984819673",
+        "title": "Rabbits",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Terry Miles"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2022",
+        "pages": 419,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143108092",
+        "title": "Last Bookaneer",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Matthew Pearl"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 389,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0062513346",
+        "title": "Valkyries",
+        "subtitle": "An Encounter With Angels",
+        "authors": [
+            {
+                "name": "Paulo Coelho"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 245,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Francisco, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "0553375407",
+        "title": "Ishmael",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniel Quinn"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1995",
+        "pages": 263,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bantam Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062654199",
+        "title": "Alice Network",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Quinn"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "503+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
             }
         ],
         "publish_places": [
