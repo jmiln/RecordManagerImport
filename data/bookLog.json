@@ -8211,27 +8211,6 @@
         ]
     },
     {
-        "isbn": "9780062964052",
-        "title": "Daughter Of The Reich",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Louise Fein"
-            }
-        ],
-        "publish_date": "2020",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062946942",
         "title": "Last Train To London",
         "subtitle": "A Novel",
@@ -11501,27 +11480,6 @@
         "publishers": [
             {
                 "name": "Picador"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780143034902",
-        "title": "Shadow Of The Wind",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Carlos Ruiz Zafón"
-            }
-        ],
-        "publish_date": "2008",
-        "publishers": [
-            {
-                "name": "Penguin Books"
             }
         ],
         "publish_places": [
@@ -21265,27 +21223,6 @@
         ]
     },
     {
-        "isbn": "9780060558123",
-        "title": "American Gods",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Neil Gaiman"
-            }
-        ],
-        "publish_date": "2009",
-        "publishers": [
-            {
-                "name": "Harper-Perennial"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0679753117",
         "title": "Dead Lagoon",
         "subtitle": "An Aurelio Zen Mystery",
@@ -22135,27 +22072,6 @@
         "publish_places": [
             {
                 "name": "London"
-            }
-        ]
-    },
-    {
-        "isbn": "9781481455923",
-        "title": "City Of Bones",
-        "subtitle": "The Mortal Instruments, Book One - A Shadowhunters Novel",
-        "authors": [
-            {
-                "name": "Cassandra Clare"
-            }
-        ],
-        "publish_date": "2015",
-        "publishers": [
-            {
-                "name": "Margaret K. Mcelderry Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -24538,27 +24454,6 @@
         "publish_places": [
             {
                 "name": "Naperville, Il."
-            }
-        ]
-    },
-    {
-        "isbn": "9780778331476",
-        "title": "Henna Artist",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Alka Joshi"
-            }
-        ],
-        "publish_date": "2021",
-        "publishers": [
-            {
-                "name": "Mira Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -35197,32 +35092,6 @@
         ]
     },
     {
-        "isbn": "9781250796721",
-        "title": "Crossings",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Alex Landragin"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 359,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780307742216",
         "title": "Maine",
         "subtitle": "A Novel",
@@ -35606,33 +35475,6 @@
         "publishers": [
             {
                 "name": "Minotaur Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250217349",
-        "title": "Under The Whispering Door",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "T. J. Klune"
-            }
-        ],
-        "publish_date": "2021",
-        "pages": 376,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
             }
         ],
         "publish_places": [
@@ -44721,36 +44563,6 @@
         "publishers": [
             {
                 "name": "Gallery Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250088567",
-        "title": "This Is How It Always Is",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Laurie Frankel"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2018",
-        "pages": "323+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Flatiron Books"
             }
         ],
         "publish_places": [
@@ -76014,37 +75826,6 @@
         ]
     },
     {
-        "isbn": "0375411550",
-        "title": "Bluest Eye",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Toni Morrison"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2000",
-        "pages": 215,
-        "price": 8.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Borzoi / Alfred A. Knopf"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781476746586",
         "title": "All the Light We Cannot See",
         "subtitle": "",
@@ -77207,38 +76988,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780778311010",
-        "title": "Lost Apothecary",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Sarah Penner"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": "301+",
-        "price": 10,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "bc": true,
-        "publishers": [
-            {
-                "name": "Park Row Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
             }
         ]
     },
@@ -87845,38 +87594,6 @@
         "publishers": [
             {
                 "name": "Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781484778203",
-        "title": "Lore",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Alexandra Bracken"
-            }
-        ],
-        "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
-        ],
-        "publish_date": "2021",
-        "pages": 466,
-        "price": 10.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Hyperion"
             }
         ],
         "publish_places": [
@@ -100899,36 +100616,6 @@
         ]
     },
     {
-        "isbn": "9781538703526",
-        "title": "Steal",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Patterson, James"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2022",
-        "pages": 378,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316499149",
         "title": "Fear No Evil",
         "subtitle": "An Alex Cross Thriller",
@@ -112758,7 +112445,7 @@
     {
         "isbn": "9781250027436",
         "title": "Shadow and Bone",
-        "subtitle": "",
+        "subtitle": "The Shadow And Bone Trilogy, Book 1",
         "authors": [
             {
                 "name": "Leigh Bardugo"
@@ -121373,6 +121060,2097 @@
         "publishers": [
             {
                 "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781481455923",
+        "title": "City of Bones",
+        "subtitle": "The Mortal Instruments, Book One - a Shadowhunters Novel",
+        "authors": [
+            {
+                "name": "Cassandra Clare"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": 485,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Margaret K. Mcelderry Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250044433",
+        "title": "Siege and Storm",
+        "subtitle": "The Shadow and Bone Trilogy, Book 2",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": "435+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250063168",
+        "title": "Ruin and Rising",
+        "subtitle": "The Shadow and Bone Trilogy, Book 3",
+        "authors": [
+            {
+                "name": "Leigh Bardugo"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2015",
+        "pages": "402+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492618553",
+        "title": "Cabin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Natasha Preston"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2016",
+        "pages": 326,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Fire"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250762801",
+        "title": "All the Stars and Teeth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adalyn Grace"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": "373+",
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Square Fish / Macmillan"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781338355932",
+        "title": "Light In Hidden Places",
+        "subtitle": "A Novel Based On the True Story of Remarkable Heroism During World War Ii",
+        "authors": [
+            {
+                "name": "Sharon Cameron"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": "377+",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scholastic Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780785217244",
+        "title": "Romanov",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nadine Brandes"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2019",
+        "pages": 337,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Nelson, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Nashville, Tn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316551663",
+        "title": "Hunting Prince Dracula",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kerri Maniscalco"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2017",
+        "pages": 434,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Jimmy Patterson Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781484778203",
+        "title": "Lore",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alexandra Bracken"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": "466+",
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Hyperion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Los Angeles, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781984821553",
+        "title": "Flying Angels",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Danielle Steel"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 266,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Delacorte Press/random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778310174",
+        "title": "Last Story of Mina Lee",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nancy Jooyoun Kim"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2020",
+        "pages": 381,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719107",
+        "title": "Seven Days In June",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tia Williams"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 328,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616209155",
+        "title": "His Only Wife",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Peace Adzo Medie"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 278,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780751550337",
+        "title": "Christmas At the Cupcake Cafe",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenny Colgan"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 371,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sphere / Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728258478",
+        "title": "Touch of Malice",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Scarlett St. Clair"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 455,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloom Books/ Sourcebooks"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781728258461",
+        "title": "Touch of Ruin",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Scarlett St. Clair"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 44,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bloom Books/ Sourcebooks"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780593336229",
+        "title": "Ramon and Julieta",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alana Quintana Albertson"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": "289+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593085141",
+        "title": "Chicken Sisters",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "K J Dell'antonia"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 344,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501143106",
+        "title": "Misery",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2016",
+        "pages": 351,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684803860",
+        "title": "Daughter of Time",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Josephine Tey"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "pages": 206,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538703526",
+        "title": "Steal",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Patterson, James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": "378+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684842564",
+        "title": "Franchise Affair",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Josephine Tey"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1998",
+        "pages": 300,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525479178",
+        "title": "Pretty Things",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janelle Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 478,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525621690",
+        "title": "We Are All the Same In the Dark",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Julia Heaberlin"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 347,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538753095",
+        "title": "Death of the Black Widow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "J. D. Barker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": "520+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062857569",
+        "title": "Death On the Nile",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 334,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735225015",
+        "title": "Northern Spy",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Flynn Berry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 278,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501165382",
+        "title": "Last House Guest",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Megan Miranda"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "343+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982181659",
+        "title": "In the Blood",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Jack Carr"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 459,
+        "price": 17,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984820464",
+        "title": "We Were Never Here",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Andrea Bartz"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 305,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062855343",
+        "title": "Mother May I",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joshilyn Jackson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 324,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250274618",
+        "title": "Christie Affair",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nina De Gramont"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 311,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400066025",
+        "title": "Spies of Warsaw",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alan Furst"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 266,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062997425",
+        "title": "Club",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ellery Lloyd"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 308,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316421843",
+        "title": "Age of Ash",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Daniel Abraham"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2022",
+        "pages": 432,
+        "price": 17,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982125899",
+        "title": "Call To Insurrection",
+        "subtitle": "Book IV of Manticore Ascendant - A Novel of the Honorverse",
+        "authors": [
+            {
+                "name": "David Weber"
+            },
+            {
+                "name": "Timothy Zahn"
+            },
+            {
+                "name": "Thomas Pope"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2022",
+        "pages": 370,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Baen Publishing / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316421997",
+        "title": "Ten Thousand Doors of January",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Alix E. Harrow"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 374,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Redhook Books / Orbit"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250217288",
+        "title": "House In the Cerulean Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "TJ Klune"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 396,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250217349",
+        "title": "Under the Whispering Door",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. J. Klune"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 376,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780356507002",
+        "title": "Raven Tower",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ann Leckie"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "pages": 416,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060558123",
+        "title": "American Gods",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Neil Gaiman"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2009",
+        "pages": "592+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765323224",
+        "title": "Affinity Bridge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "George Mann"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2010",
+        "pages": 334,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250796721",
+        "title": "Crossings",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alex Landragin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 359,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778331476",
+        "title": "Henna Artist",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alka Joshi"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 393,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mira Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780140189704",
+        "title": "Age of Innocence",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edith Wharton"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1996",
+        "pages": 330,
+        "price": 6.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Classics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143034902",
+        "title": "Shadow of the Wind",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Carlos Ruiz Zafon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": "486+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525563051",
+        "title": "Everything Inside",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Edwidge Danticat"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 223,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250132352",
+        "title": "House I Loved",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Tatiana De Rosnay"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "222+",
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593237915",
+        "title": "When the Stars Go Dark",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Paula Mclain"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 384,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250088567",
+        "title": "This is How It Always is",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Laurie Frankel"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": "323+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062469830",
+        "title": "Dressmaker's Dowry",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Meredith Jaeger"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "347+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399586682",
+        "title": "Next Year In Havana",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chanel Cleeton"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 382,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143123279",
+        "title": "City of Lost Dreams",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Magnus Flyte"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 355,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143122685",
+        "title": "City of Dark Magic",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Magnus Flyte"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 448,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0142000698",
+        "title": "Pearl",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Steinbeck"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 87,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781933372600",
+        "title": "Elegance of the Hedgehog",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Muriel Barbery"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 325,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Europa Editions"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062964052",
+        "title": "Daughter of the Reich",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Fein"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "530+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492696827",
+        "title": "Only Woman In the Room",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marie Benedict"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 258,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781646220830",
+        "title": "Sankofa",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Chibundu Onuzo"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 296,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Catapult"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250802569",
+        "title": "L.a. Weather",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Maria Amparo Escandon"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 319,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984800862",
+        "title": "Lost Roses",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martha Hall Kelly"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": "432+",
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593241509",
+        "title": "True Biz",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sara Novic"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 386,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062312662",
+        "title": "When Ghosts Come Home",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Wiley Cash"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 290,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780778311010",
+        "title": "Lost Apothecary",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Sarah Penner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": "301+",
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Park Row Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781635578591",
+        "title": "Island of Missing Trees",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Elif Shafak"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 354,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Bloomsbury Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616209957",
+        "title": "Honor",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Thrity N. Umrigar"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 326,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
+            }
+        ]
+    },
+    {
+        "isbn": "9780399181894",
+        "title": "Jetsetters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Amanda Eyre Ward"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 338,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375411550",
+        "title": "Bluest Eye",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2000",
+        "pages": 216,
+        "price": 8.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
             }
         ],
         "publish_places": [

@@ -1,6 +1,17 @@
 {
     "Tatiana De Rosnay": {
-        "format": "De Rosnay, Tatiana"
+        "format": "De Rosnay, Tatiana",
+        "titles": [
+            "Flowers of Darkness",
+            "Rain Watcher",
+            "Manderley Forever",
+            "Llave De Sarah",
+            "Manderley for Ever",
+            "Other Story",
+            "Paris Affair",
+            "Tinta Rusa"
+        ],
+        "url": "https://openlibrary.org/authors/OL268666A/Tatiana_de_Rosnay?sort=new"
     },
     "Jack Du Brul": {
         "format": "Du Brul, Jack"
@@ -6250,10 +6261,7 @@
     "Beth O'leary": {
         "titles": [
             "No-Show",
-            "Rumbo a Ti",
             "Road Trip",
-            "Echange",
-            "Ev Arkadasi",
             "Switch"
         ],
         "url": "https://openlibrary.org/authors/OL7831498A/Beth_O'Leary?sort=new"
@@ -6265,15 +6273,11 @@
             "Hunted",
             "Bait",
             "Fifth Doctrine",
-            "Moscow Deception",
-            "Senuelo"
+            "Moscow Deception"
         ],
         "url": "https://openlibrary.org/authors/OL7246384A/Karen_Robards?sort=new"
     },
     "Malin Persson Giolito": {
-        "titles": [
-            "Arenas Movedizas"
-        ],
         "url": "https://openlibrary.org/authors/OL7632494A/Malin_Persson_Giolito?sort=new"
     },
     "Nick Petrie": {
@@ -6296,28 +6300,305 @@
     "Matthew Pearl": {
         "titles": [
             "Dante Chamber",
-            "Ginnifer",
-            "Los Tecnologos",
             "Technologists",
             "Dante Club",
             "Poe Shadow",
-            "Zui Hou De Digengsi",
-            "Last Dickens",
-            "El uLtimo Dickens"
+            "Last Dickens"
         ],
         "url": "https://openlibrary.org/authors/OL1436892A/Matthew_Pearl?sort=new"
     },
     "Daniel Quinn": {
         "titles": [
-            "Dachau'dan Sonra",
             "Teachings",
-            "B'nin Hikayesi",
             "Holy",
             "After Dachau",
-            "Adem In Oykuleri",
             "Tales of Adam",
             "Man Who Grew Young"
         ],
         "url": "https://openlibrary.org/authors/OL23535A/Daniel_Quinn?sort=new"
+    },
+    "Adalyn Grace": {
+        "titles": [
+            "Belladonna"
+        ],
+        "url": "https://openlibrary.org/authors/OL7823810A/Adalyn_Grace?sort=new"
+    },
+    "Sharon Cameron": {
+        "titles": [
+            "Knowing",
+            "Forgetting",
+            "Rook",
+            "Impersonality",
+            "Releasing Strategy",
+            "Writing Nature",
+            "Corporeal Self",
+            "Lyric Time"
+        ],
+        "url": "https://openlibrary.org/authors/OL34321A/Sharon_Cameron?sort=new"
+    },
+    "Nadine Brandes": {
+        "titles": [
+            "Wishtress",
+            "Fawkes",
+            "Time To Speak",
+            "Time To Die"
+        ],
+        "url": "https://openlibrary.org/authors/OL7539786A/Nadine_Brandes?sort=new"
+    },
+    "Kerri Maniscalco": {
+        "url": "https://openlibrary.org/authors/OL7524305A/Kerri_Maniscalco?sort=new"
+    },
+    "Tia Williams": {
+        "titles": [
+            "Perfect Find",
+            "Accidental Diva"
+        ],
+        "url": "https://openlibrary.org/authors/OL8010359A/Tia_Williams?sort=new"
+    },
+    "Scarlett St. Clair": {
+        "format": "St. Clair, Scarlett",
+        "titles": [
+            "Game of Retribution",
+            "Touch of Ruin",
+            "Game of Fate",
+            "Touch of Darkness",
+            "When Stars Come Out"
+        ],
+        "url": "https://openlibrary.org/authors/OL8187471A/Scarlett_St._Clair?sort=new"
+    },
+    "Alana Quintana Albertson": {
+        "titles": [
+            "Ramon and Julieta"
+        ],
+        "url": "https://openlibrary.org/authors/OL9759559A/Alana_Quintana_Albertson?sort=new"
+    },
+    "K J Dell'antonia": {
+        "titles": [
+            "In Her Boots"
+        ],
+        "url": "https://openlibrary.org/authors/OL7898439A/K_J_Dell'Antonia?sort=new"
+    },
+    "Janelle Brown": {
+        "titles": [
+            "I'll Be You",
+            "Watch Me Disappear"
+        ],
+        "url": "https://openlibrary.org/authors/OL3379623A/Janelle_Brown?sort=new"
+    },
+    "Julia Heaberlin": {
+        "titles": [
+            "Night Will Find You",
+            "Paper Ghosts",
+            "Black-Eyed Susans",
+            "Playing Dead"
+        ],
+        "url": "https://openlibrary.org/authors/OL7000555A/Julia_Heaberlin?sort=new"
+    },
+    "Jack Carr": {
+        "titles": [
+            "Devil's Hand",
+            "Savage Son",
+            "True Believer",
+            "Terminal List",
+            "Dance Band Days"
+        ],
+        "url": "https://openlibrary.org/authors/OL1706955A/Jack_Carr?sort=new"
+    },
+    "Andrea Bartz": {
+        "titles": [
+            "Herd",
+            "Lost Night"
+        ],
+        "url": "https://openlibrary.org/authors/OL7333522A/Andrea_Bartz?sort=new"
+    },
+    "Joshilyn Jackson": {
+        "titles": [
+            "With My Little Eye",
+            "Never Have I Ever",
+            "Almost Sisters",
+            "My Own Miraculous",
+            "Backseat Saints"
+        ],
+        "url": "https://openlibrary.org/authors/OL1393726A/Joshilyn_Jackson?sort=new"
+    },
+    "Nina De Gramont": {
+        "titles": [
+            "Last September",
+            "Boy I Love",
+            "Of Cats and Men"
+        ],
+        "url": "https://openlibrary.org/authors/OL2463210A/Nina_de_Gramont?sort=new"
+    },
+    "Ellery Lloyd": {
+        "titles": [
+            "People Like Her"
+        ],
+        "url": "https://openlibrary.org/authors/OL8303989A/Ellery_Lloyd?sort=new"
+    },
+    "Daniel Abraham": {
+        "titles": [
+            "Long Price Quartet",
+            "Spider's War",
+            "Widow's House",
+            "When We Were Heroes"
+        ],
+        "url": "https://openlibrary.org/authors/OL7389975A/Daniel_Abraham?sort=new"
+    },
+    "David Weber": {
+        "titles": [
+            "Apocalypse Troll",
+            "In Fury Born"
+        ],
+        "url": "https://openlibrary.org/authors/OL1550283A/David_Weber?sort=new"
+    },
+    "Alix E. Harrow": {
+        "titles": [
+            "Mirror Mended",
+            "Spindle Splintered",
+            "Mr. Death"
+        ],
+        "url": "https://openlibrary.org/authors/OL7617622A/Alix_E._Harrow?sort=new"
+    },
+    "George Mann": {
+        "titles": [
+            "Star Wars",
+            "Albion Initiative",
+            "Revenant Express"
+        ],
+        "url": "https://openlibrary.org/authors/OL974121A/George_Mann?sort=new"
+    },
+    "Edith Wharton": {
+        "titles": [
+            "Greater Inclination",
+            "Kerfol",
+            "Here and Beyond",
+            "Sanctuary",
+            "Reef Illustrated",
+            "House of Mirth",
+            "Ethan Frome"
+        ],
+        "url": "https://openlibrary.org/authors/OL20188A/Edith_Wharton?sort=new"
+    },
+    "Edwidge Danticat": {
+        "titles": [
+            "My Mommy Medicine",
+            "Untwine",
+            "Art of Death",
+            "After the Dance",
+            "Royal Diaries"
+        ],
+        "url": "https://openlibrary.org/authors/OL4828942A/Edwidge_Danticat?sort=new"
+    },
+    "Paula Mclain": {
+        "titles": [
+            "Love and Ruin",
+            "Gunesi Kusatmak",
+            "Circling the Sun",
+            "Nguoi Vo Paris",
+            "Like Family",
+            "Paris Wife",
+            "Madame Hemingway",
+            "Ticket To Ride"
+        ],
+        "url": "https://openlibrary.org/authors/OL2950778A/Paula_McLain?sort=new"
+    },
+    "Meredith Jaeger": {
+        "titles": [
+            "Pilot's Daughter",
+            "Boardwalk Summer"
+        ],
+        "url": "https://openlibrary.org/authors/OL7523195A/Meredith_Jaeger?sort=new"
+    },
+    "Chanel Cleeton": {
+        "titles": [
+            "Cuban Heiress",
+            "When We Left Cuba",
+            "On Broken Wings",
+            "Into the Blue",
+            "Fly With Me",
+            "I See London",
+            "London Falling"
+        ],
+        "url": "https://openlibrary.org/authors/OL7531234A/Chanel_Cleeton?sort=new"
+    },
+    "Magnus Flyte": {
+        "titles": [
+            "City of Dark Magic"
+        ],
+        "url": "https://openlibrary.org/authors/OL7162586A/Magnus_Flyte?sort=new"
+    },
+    "Muriel Barbery": {
+        "titles": [
+            "Une Rose Seule",
+            "Strange Country",
+            "Life of Elves the",
+            "Zhiznʹ eLʹfov",
+            "Life of Elves",
+            "Vita Degli Elfi",
+            "La Vie Des Elfes",
+            "SaNa Sahi Ki",
+            "Rapsodia Gourmet",
+            "ELegantnostʹ eZhika",
+            "Lakomstvo",
+            "Gourmet",
+            "Gourmet Rhapsody",
+            "Llgance Du Hrisson"
+        ],
+        "url": "https://openlibrary.org/authors/OL6245647A/Muriel_Barbery?sort=new"
+    },
+    "Chibundu Onuzo": {
+        "titles": [
+            "Union",
+            "Welcome To Lagos"
+        ],
+        "url": "https://openlibrary.org/authors/OL7343671A/Chibundu_Onuzo?sort=new"
+    },
+    "Maria Amparo Escandon": {
+        "titles": [
+            "Santitos"
+        ],
+        "url": "https://openlibrary.org/authors/OL4316124A/María_Amparo_Escandón?sort=new"
+    },
+    "Sara Novic": {
+        "titles": [
+            "True Business",
+            "Savastaki Kiz",
+            "Girl At War"
+        ],
+        "url": "https://openlibrary.org/authors/OL8180916A/Sara_Novic?sort=new"
+    },
+    "Elif Shafak": {
+        "titles": [
+            "Unerhorte Stimmen",
+            "Migrating Bird",
+            "Gaze",
+            "Honor"
+        ],
+        "url": "https://openlibrary.org/authors/OL7470625A/Elif_Shafak?sort=new"
+    },
+    "Thrity N. Umrigar": {
+        "titles": [
+            "Secrets Between Us",
+            "Everybody's Son",
+            "Space Between Us",
+            "Story Hour",
+            "Kesfettigimiz Dunya",
+            "World We Found",
+            "Nectar In a Sieve",
+            "Le Poids Du Paradis",
+            "Weight of Heaven"
+        ],
+        "url": "https://openlibrary.org/authors/OL1435314A/Thrity_N._Umrigar?sort=new"
+    },
+    "Amanda Eyre Ward": {
+        "titles": [
+            "Lifeguards",
+            "Same Sky",
+            "Close Your Eyes",
+            "Forgive Me",
+            "How To Be Lost",
+            "Sleep Toward Heaven"
+        ],
+        "url": "https://openlibrary.org/authors/OL6529036A/Amanda_Eyre_Ward?sort=new"
     }
 }
