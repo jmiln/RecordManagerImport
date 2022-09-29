@@ -122246,37 +122246,6 @@
         ]
     },
     {
-        "isbn": "9781250217349",
-        "title": "Under the Whispering Door",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "T. J. Klune"
-            }
-        ],
-        "keywords": [
-            "sfi",
-            "fan"
-        ],
-        "publish_date": "2021",
-        "pages": 376,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780356507002",
         "title": "Raven Tower",
         "subtitle": "",
@@ -123156,6 +123125,526 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496735980",
+        "title": "When the Apricots Bloom",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gina Wilkinson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2021",
+        "pages": 314,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142004333",
+        "title": "Maisie Dobbs",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2004",
+        "pages": "294+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781728249599",
+        "title": "Dark Things I Adore",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Katie Lattari"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 400,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316703512",
+        "title": "Stolen Hours",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Allen Eskens"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 310,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mulholland Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061246241",
+        "title": "Laughter of Dead Kings",
+        "subtitle": "A Vicky Bliss Novel of Suspense",
+        "authors": [
+            {
+                "name": "Elizabeth Peters"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "pages": 324,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496732088",
+        "title": "Bone Rattle",
+        "subtitle": "An Arliss Cutter Novel",
+        "authors": [
+            {
+                "name": "Marc Cameron"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 330,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250217349",
+        "title": "Under the Whispering Door",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. J. Klune"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": "376+",
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982188733",
+        "title": "Fortunes of Jaded Women",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Carolyn Huynh"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 255,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399152059",
+        "title": "Northern Lights",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 562,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399175169",
+        "title": "Obsession",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 453,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399155819",
+        "title": "Black Hills",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 472,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525953012",
+        "title": "Hotshot",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Julie Garwood"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 356,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345484277",
+        "title": "Angel Falls",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 414,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593437339",
+        "title": "Accidental Pinup",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Danielle Jackson"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": "304+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984802194",
+        "title": "Wedding Party",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jasmine Guillory"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 337,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735218871",
+        "title": "We Must Be Brave",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Frances Liardet"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 464,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781644450000",
+        "title": "Milkman",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anna Burns"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "mbp"
+        ],
+        "publish_date": "2018",
+        "pages": 352,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Graywolf Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
             }
         ]
     }
