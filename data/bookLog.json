@@ -123727,5 +123727,38 @@
                 "name": "New York"
             }
         ]
+    },
+    {
+        "isbn": "9781904738527",
+        "title": "Involuntary Witness",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Gianrico Carofiglio"
+            },
+            {
+                "name": "Patrick Creagh"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 274,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bitter Lemon Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
     }
 ]
