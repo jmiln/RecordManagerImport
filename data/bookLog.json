@@ -13426,27 +13426,6 @@
         ]
     },
     {
-        "isbn": "9780316129060",
-        "title": "Caliban's War",
-        "subtitle": "The Expanse, Book Two",
-        "authors": [
-            {
-                "name": "James S. A. Corey"
-            }
-        ],
-        "publish_date": "2012",
-        "publishers": [
-            {
-                "name": "Orbit / Hachette"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316129077",
         "title": "Abaddon's Gate",
         "subtitle": "The Expanse, Book Three",
@@ -16336,27 +16315,6 @@
         "publishers": [
             {
                 "name": "Vintage Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780143133698",
-        "title": "Scholar",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Dervla Mctiernan"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Penguin Books"
             }
         ],
         "publish_places": [
@@ -59496,37 +59454,6 @@
         "publish_places": [
             {
                 "name": "Don Mills, Ontario, Canada"
-            }
-        ]
-    },
-    {
-        "isbn": "9780553391961",
-        "title": "If Not For You",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Debbie Macomber"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": 364,
-        "price": 10,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -123645,6 +123572,159 @@
         "publish_places": [
             {
                 "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780553391961",
+        "title": "If Not for You",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 364,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0517219018",
+        "title": "Stand",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2001",
+        "pages": 1153,
+        "price": 12,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Gramercy Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143133698",
+        "title": "Scholar",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dervla Mctiernan"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "362+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316129060",
+        "title": "Caliban's War",
+        "subtitle": "The Expanse, Book Two",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2012",
+        "pages": 611,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250313195",
+        "title": "Gideon the Ninth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Tamsyn Muir"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 448,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor.com / Tom Doherty"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }

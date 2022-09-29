@@ -1641,7 +1641,8 @@
     },
     {
         "name": [
-            "Tor: Tom Doherty Associates"
+            "Tor: Tom Doherty Associates",
+            "Tor.com / Tom Doherty"
         ],
         "aliases": [
             "Tom Doherty",
@@ -3775,6 +3776,14 @@
         ],
         "locations": [
             "Minneapolis, Mn."
+        ]
+    },
+    {
+        "name": [
+            "Gramercy Books"
+        ],
+        "locations": [
+            "New York"
         ]
     }
 ]
