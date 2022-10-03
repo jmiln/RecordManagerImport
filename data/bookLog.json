@@ -3918,27 +3918,6 @@
         ]
     },
     {
-        "isbn": "9780807083697",
-        "title": "Kindred",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Octavia E. Butler"
-            }
-        ],
-        "publish_date": "2008",
-        "publishers": [
-            {
-                "name": "Beacon Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "boston"
-            }
-        ]
-    },
-    {
         "isbn": "9781633885547",
         "title": "Last Road",
         "subtitle": "",
@@ -7527,27 +7506,6 @@
         "publishers": [
             {
                 "name": "St. Martin's Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250123008",
-        "title": "Of Blood And Bone: Chronicles Of The One, Book 2",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Nora Roberts"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
             }
         ],
         "publish_places": [
@@ -12285,27 +12243,6 @@
         "publishers": [
             {
                 "name": "Mcguffin Ink"
-            }
-        ]
-    },
-    {
-        "isbn": "9780312318406",
-        "title": "Triumph Of The Sun",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Wilbur Smith"
-            }
-        ],
-        "publish_date": "2005",
-        "publishers": [
-            {
-                "name": "Thomas Dunne Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -68271,39 +68208,6 @@
         ]
     },
     {
-        "isbn": "9780451222640",
-        "title": "Light A Penny Candle",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Maeve Binchy"
-            },
-            {
-                "name": "Rh Value Publishing"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2007",
-        "pages": 582,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "New American Library"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780142180785",
         "title": "Mary Coin",
         "subtitle": "",
@@ -78598,36 +78502,6 @@
         "publishers": [
             {
                 "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780143119685",
-        "title": "Discovery of Witches",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Deborah E. Harkness"
-            }
-        ],
-        "keywords": [
-            "sfi",
-            "fan"
-        ],
-        "publish_date": "2011",
-        "pages": 579,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Penguin Books"
             }
         ],
         "publish_places": [
@@ -121320,9 +121194,8 @@
             }
         ],
         "keywords": [
-            "ya",
-            "tfi",
-            "jfi"
+            "rom",
+            "fic"
         ],
         "publish_date": "2020",
         "pages": 381,
@@ -123758,6 +123631,1381 @@
         "publish_places": [
             {
                 "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250122957",
+        "title": "Year One",
+        "subtitle": "Chronicles of the One, Book 1",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "NaN",
+        "pages": 419,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643853437",
+        "title": "Window On the Bay",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 402,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Random House Large Print"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250125163",
+        "title": "Before and Again",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Barbara Delinsky"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 408,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250123008",
+        "title": "Of Blood and Bone: Chronicles of the One, Book 2",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 468,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425243213",
+        "title": "Next Always",
+        "subtitle": "Book One of the Inn Boonsboro Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": 341,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0811201627",
+        "title": "Selected Poems",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ezra Pound"
+            }
+        ],
+        "keywords": [
+            "poe"
+        ],
+        "publish_date": "1957",
+        "pages": 184,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New Directions Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781402217944",
+        "title": "Footsteps In the Dark",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Georgette Heyer"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 347,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781476762074",
+        "title": "Faceoff",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci",
+                "contribution": "Editor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 367,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758293244",
+        "title": "Stolen Remains",
+        "subtitle": "A Lady of Ashes Mystery",
+        "authors": [
+            {
+                "name": "Christine Trent"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 287,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616956325",
+        "title": "Birds of a Feather",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jacqueline Winspear"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 306,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780758265913",
+        "title": "Lady of Ashes",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Christine Trent"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 420,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062458834",
+        "title": "Closed Casket",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Sophie Hannah"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 302,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061928178",
+        "title": "Beautiful Ruins",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jess Walter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": "337+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781478916871",
+        "title": "Outfox",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Brown, Sandra"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 437,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496725554",
+        "title": "Murder At Morrington Hall",
+        "subtitle": "A Stella and Lyndy Mystery",
+        "authors": [
+            {
+                "name": "Clara Mckenna"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1920",
+        "pages": 307,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385547123",
+        "title": "Murder Under Her Skin",
+        "subtitle": "A Pentecost and Parker Mystery",
+        "authors": [
+            {
+                "name": "Stephen Spotswood"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 352,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399147195",
+        "title": "P is for Peril",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sue Grafton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2001",
+        "pages": 352,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781455525836",
+        "title": "White Fire",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 368,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0446576972",
+        "title": "Dance of Death",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Douglas Preston"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 451,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399159268",
+        "title": "Tombs",
+        "subtitle": "A Fargo Adventure",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            },
+            {
+                "name": "Thomas Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 374,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0375413634",
+        "title": "Emperor of Ocean Park",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stephen L. Carter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2002",
+        "pages": 657,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0684196387",
+        "title": "Two for the Dough",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "1996",
+        "pages": 301,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0399147381",
+        "title": "Hemlock Bay.",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Catherine Coulter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2001",
+        "pages": 375,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399154386",
+        "title": "Chase",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Clive Cussler"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 404,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446580342",
+        "title": "Simple Genius",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 420,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312318406",
+        "title": "Triumph of the Sun",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Wilbur Smith"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2005",
+        "pages": 501,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Thomas Dunne Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781401225704",
+        "title": "Gotham City Sirens",
+        "subtitle": "Union",
+        "authors": [
+            {
+                "name": "Paul Dini"
+            }
+        ],
+        "keywords": [
+            "gra"
+        ],
+        "publish_date": "2010",
+        "pages": "u",
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Dc Comics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062946393",
+        "title": "Boy In the Field",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Margot Livesey"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 256,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061231407",
+        "title": "Doomsday Key",
+        "subtitle": "A Sigma Force Novel",
+        "authors": [
+            {
+                "name": "James Rollins"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 431,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060564780",
+        "title": "Kindness of Strangers",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Katrina Kittle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 393,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Perennial"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140131671",
+        "title": "East is East",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. Coraghessan Boyle"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1991",
+        "pages": 364,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451222640",
+        "title": "Light a Penny Candle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Maeve Binchy"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 582,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143106692",
+        "title": "Weep Not, Child",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ngugi Wa Thiong'o"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 147,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Classics"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "015670160X",
+        "title": "Orlando",
+        "subtitle": "A Biography",
+        "authors": [
+            {
+                "name": "Virginia Woolf"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1992",
+        "pages": 333,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780375727436",
+        "title": "Hateship, Friendship, Courtship, Loveship, Marriage",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Alice Munro"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 323,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140250395",
+        "title": "None To Accompany Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Nadine Gordimer"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "1995",
+        "pages": 324,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0140074481",
+        "title": "Life & Times of Michael K",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "J. M. Coetzee"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "nob"
+        ],
+        "publish_date": "1985",
+        "pages": 184,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735214392",
+        "title": "Talk To Me",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Kenney"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": 304,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143127529",
+        "title": "Book of Life",
+        "subtitle": "Book Three of the All Souls Trilogy",
+        "authors": [
+            {
+                "name": "Deborah E. Harkness"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2014",
+        "pages": 561,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143123620",
+        "title": "Shadow of Night",
+        "subtitle": "Book Two of the All Souls Trilogy",
+        "authors": [
+            {
+                "name": "Deborah E. Harkness"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": 583,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143119685",
+        "title": "Discovery of Witches",
+        "subtitle": "Book Two of the All Souls Trilogy",
+        "authors": [
+            {
+                "name": "Deborah E. Harkness"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 579,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780807083697",
+        "title": "Kindred",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Octavia E. Butler"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2008",
+        "pages": 287,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Beacon Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593128503",
+        "title": "Deadly Education",
+        "subtitle": "Lesson One of the Scholomance - a Novel",
+        "authors": [
+            {
+                "name": "Naomi Novik"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": "313+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593128862",
+        "title": "Last Graduate",
+        "subtitle": "Lesson Two of the Scholomance - a Novel",
+        "authors": [
+            {
+                "name": "Naomi Novik"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 388,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781524797515",
+        "title": "Star Wars",
+        "subtitle": "Phasma - Journey To Star Wars: the Last Jedi",
+        "authors": [
+            {
+                "name": "Delilah S. Dawson"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 380,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
