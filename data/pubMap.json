@@ -3785,5 +3785,29 @@
         "locations": [
             "New York"
         ]
+    },
+    {
+        "name": [
+            "Abaddon Books"
+        ],
+        "locations": [
+            "Oxford"
+        ]
+    },
+    {
+        "name": [
+            "Quality Paperback Book Club"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Broadview Press"
+        ],
+        "locations": [
+            "Peterborough, Canada"
+        ]
     }
 ]
