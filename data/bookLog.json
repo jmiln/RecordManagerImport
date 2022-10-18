@@ -23279,27 +23279,6 @@
         ]
     },
     {
-        "isbn": "9780525423652",
-        "title": "Crossed",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ally Condie"
-            }
-        ],
-        "publish_date": "2011",
-        "publishers": [
-            {
-                "name": "Dutton / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525423645",
         "title": "Matched",
         "subtitle": "",
@@ -33241,33 +33220,6 @@
         ]
     },
     {
-        "isbn": "9780385514231",
-        "title": "Origin",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Dan Brown"
-            }
-        ],
-        "publish_date": "2017",
-        "pages": 461,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Doubleday / Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250200808",
         "title": "Turn A Blind Eye",
         "subtitle": "A Detective William Warwick Novel",
@@ -37162,33 +37114,6 @@
         "publishers": [
             {
                 "name": "Washington Square Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780451225245",
-        "title": "Pillars Of The Earth",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ken Follett"
-            }
-        ],
-        "publish_date": "2007",
-        "pages": 973,
-        "price": 13.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "New American Library"
             }
         ],
         "publish_places": [
@@ -42065,37 +41990,6 @@
         "publish_places": [
             {
                 "name": "Boston"
-            }
-        ]
-    },
-    {
-        "isbn": "9780765387561",
-        "title": "Invisible Life Of Addie Larue",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "V. E. Schwab"
-            }
-        ],
-        "keywords": [
-            "sfi",
-            "fan"
-        ],
-        "publish_date": "2020",
-        "pages": 447,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Tor: Tom Doherty Associates"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
             }
         ]
     },
@@ -98456,40 +98350,6 @@
         ]
     },
     {
-        "isbn": "9780593101537",
-        "title": "Personal Librarian",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Marie Benedict"
-            },
-            {
-                "name": "Victoria Christopher Murray"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2021",
-        "pages": 341,
-        "price": 14.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Berkley Books/penguin Random"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780547424774",
         "title": "Giver",
         "subtitle": "Gift Edition",
@@ -117645,37 +117505,6 @@
         ]
     },
     {
-        "isbn": "9781501173219",
-        "title": "All the Light We Cannot See",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Anthony Doerr"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic",
-            "pul"
-        ],
-        "publish_date": "2017",
-        "pages": "531+",
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780525536963",
         "title": "Vanishing Half",
         "subtitle": "A Novel",
@@ -127824,6 +127653,578 @@
         "publish_places": [
             {
                 "name": "Berkeley, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781538752814",
+        "title": "Red Book",
+        "subtitle": "A Billy Harney Thriller",
+        "authors": [
+            {
+                "name": "Patterson, James"
+            },
+            {
+                "name": "David Ellis"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 386,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451225245",
+        "title": "Pillars of the Earth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ken Follett"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 973,
+        "price": 13.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "New American Library"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593356159",
+        "title": "Maid",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nita Prose"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 289,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385514231",
+        "title": "Origin",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Dan Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 461,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Doubleday / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0345433262",
+        "title": "Slaves of Obsession",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anne Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2000",
+        "pages": 344,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316015059",
+        "title": "Double Cross",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 389,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525423652",
+        "title": "Crossed",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ally Condie"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": 367,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781947591967",
+        "title": "Sentinel",
+        "subtitle": "The Fifth Covenant Novel",
+        "authors": [
+            {
+                "name": "Jennifer L. Armentrout"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": "347+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781947591943",
+        "title": "Apollyon",
+        "subtitle": "The Fourth Covenant Novel",
+        "authors": [
+            {
+                "name": "Jennifer L. Armentrout"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 398,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781947591875",
+        "title": "Deity",
+        "subtitle": "The Third Covenant Novel",
+        "authors": [
+            {
+                "name": "Jennifer L. Armentrout"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 478,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781947591981",
+        "title": "Pure",
+        "subtitle": "The Second Covenant Novel",
+        "authors": [
+            {
+                "name": "Jennifer L. Armentrout"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 402,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984812285",
+        "title": "We Are Not From Here",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenny Torres Sanchez"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 346,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Philomel Books/ Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525555582",
+        "title": "Echo Mountain",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Lauren Wolk"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2021",
+        "pages": 356,
+        "price": 5.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dutton / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780425227510",
+        "title": "Vision In White",
+        "subtitle": "Book One In the Bride Quartet",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 343,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984804921",
+        "title": "Pagan Stone",
+        "subtitle": "Book Three of the Sign of Seven Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 321,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780751573077",
+        "title": "Paris Seamstress",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Natasha Lester"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "pages": 435,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sphere / Little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501173219",
+        "title": "All the Light We Cannot See",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2017",
+        "pages": 531,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593101537",
+        "title": "Personal Librarian",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Marie Benedict"
+            },
+            {
+                "name": "Victoria Christopher Murray"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2021",
+        "pages": 341,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780765387561",
+        "title": "Invisible Life of Addie Larue",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "V. E. Schwab"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 444,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
             }
         ]
     }
