@@ -7917,27 +7917,6 @@
         ]
     },
     {
-        "isbn": "9781439153871",
-        "title": "Vermilion Drift",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "William Kent Krueger"
-            }
-        ],
-        "publish_date": "2010",
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780451490742",
         "title": "Murderous Relation",
         "subtitle": "A Veronica Speedwell Mystery",
@@ -8460,27 +8439,6 @@
         "publishers": [
             {
                 "name": "Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781501132957",
-        "title": "Woman In Cabin 10",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Ruth Ware"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Scout Press / S&s"
             }
         ],
         "publish_places": [
@@ -11480,27 +11438,6 @@
         "publishers": [
             {
                 "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781439190050",
-        "title": "Shell Collector",
-        "subtitle": "Stories",
-        "authors": [
-            {
-                "name": "Anthony Doerr"
-            }
-        ],
-        "publish_date": "2011",
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
             }
         ],
         "publish_places": [
@@ -26298,35 +26235,6 @@
         ]
     },
     {
-        "isbn": "9781473230118",
-        "title": "Andromeda Anthology",
-        "subtitle": "Containing A For Andromeda And The Andromeda Breakthrough",
-        "authors": [
-            {
-                "name": "Fred Hoyle"
-            },
-            {
-                "name": "John Elliott"
-            }
-        ],
-        "publish_date": "2020",
-        "pages": 394,
-        "price": 8,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Gollancz / Orion"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "London"
-            }
-        ]
-    },
-    {
         "isbn": "9780451490544",
         "title": "Let Me Lie",
         "subtitle": "A Novel",
@@ -32839,32 +32747,6 @@
         ]
     },
     {
-        "isbn": "9781503948976",
-        "title": "Extraordinary Life Of Sam Hell",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Robert Dugoni"
-            }
-        ],
-        "publish_date": "2018",
-        "pages": 428,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Lake Union Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Seattle, Wa."
-            }
-        ]
-    },
-    {
         "isbn": "0679735771",
         "title": "American Psycho",
         "subtitle": "A Novel",
@@ -34131,7 +34013,7 @@
     {
         "isbn": "9781599954097",
         "title": "Unsaid",
-        "subtitle": "A  Novel",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "Neil Abramson"
@@ -45987,36 +45869,6 @@
         "publishers": [
             {
                 "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780062073624",
-        "title": "Moving Finger",
-        "subtitle": "A Miss Marple Mystery",
-        "authors": [
-            {
-                "name": "Agatha Christie"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2011",
-        "pages": 226,
-        "price": 7.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Harper / Harper-Collins"
             }
         ],
         "publish_places": [
@@ -60499,36 +60351,6 @@
         ]
     },
     {
-        "isbn": "9780312606121",
-        "title": "True Colors",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Kristin Hannah"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "fic"
-        ],
-        "publish_date": "2010",
-        "pages": 491,
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "St. Martin's Griffin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780743417358",
         "title": "Weaveworld",
         "subtitle": "",
@@ -73500,7 +73322,7 @@
     {
         "isbn": "9781439157817",
         "title": "Copper River",
-        "subtitle": "A Cork O'connor Mystery",
+        "subtitle": "A Novel",
         "authors": [
             {
                 "name": "William Kent Krueger"
@@ -75621,7 +75443,7 @@
         "subtitle": "",
         "authors": [
             {
-                "name": "Nora Roberts"
+                "name": "J. D. Robb"
             }
         ],
         "keywords": [
@@ -80994,36 +80816,6 @@
         "publishers": [
             {
                 "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780307454690",
-        "title": "Bruno, Chief of Police (Vintage)",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Martin Walker"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2010",
-        "pages": "273+",
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Vintage Books"
             }
         ],
         "publish_places": [
@@ -128220,6 +128012,1318 @@
         "publishers": [
             {
                 "name": "Tor: Tom Doherty Associates"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446603775",
+        "title": "Dawn",
+        "subtitle": "Book One of the Xenogenesis Series",
+        "authors": [
+            {
+                "name": "Octavia E. Butler"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "1997",
+        "pages": 248,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Warner Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780374104092",
+        "title": "Annihilation",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jeff Vandermeer"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2014",
+        "pages": 195,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Farrar, Straus and Giroux"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781473230118",
+        "title": "Andromeda Anthology",
+        "subtitle": "Containing a for Andromeda and the Andromeda Breakthrough",
+        "authors": [
+            {
+                "name": "Fred Hoyle"
+            },
+            {
+                "name": "John Elliott"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2020",
+        "pages": 394,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Gollancz / Orion"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984820679",
+        "title": "Locklands",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Robert Jackson Bennett"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2022",
+        "pages": 546,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Del Rey / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062359988",
+        "title": "Another Brooklyn",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jacqueline Woodson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2016",
+        "pages": 175,
+        "price": 12.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Amistad / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780156319522",
+        "title": "Flush, a Biography",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Virginia Woolf"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1983",
+        "pages": 177,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Diego, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780385333474",
+        "title": "God Bless You, Mr. Rosewater",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kurt Vonnegut"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1998",
+        "pages": 275,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press / Penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060566944",
+        "title": "Desire Lines",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Christina Baker Kline"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": "343+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982104535",
+        "title": "Dearly Beloved",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Cara Wall"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "342+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0156628708",
+        "title": "Mrs. Dalloway",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Virginia Woolf"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1981",
+        "pages": 197,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harvest / Harcourt, Inc."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "San Diego, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9780061244438",
+        "title": "Ireland",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Frank Delaney"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2008",
+        "pages": 559,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250195258",
+        "title": "Girl From Berlin",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ronald H. Balson"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 372,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781503948976",
+        "title": "Extraordinary Life of Sam Hell",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Robert Dugoni"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 428,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9781439190050",
+        "title": "Shell Collector",
+        "subtitle": "Stories",
+        "authors": [
+            {
+                "name": "Anthony Doerr"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2011",
+        "pages": "219+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399563669",
+        "title": "Book of Form and Emptiness",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ruth Ozeki"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 548,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008496753",
+        "title": "On a Night Like This",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Lindsey Kelk"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 345,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780312606121",
+        "title": "True Colors",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kristin Hannah"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2010",
+        "pages": "491+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781984804907",
+        "title": "Blood Brothers",
+        "subtitle": "Book One of the Sign of Seven Trilogy",
+        "authors": [
+            {
+                "name": "Nora Roberts"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 336,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142420591",
+        "title": "Between Shades of Gray",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruta Sepetys"
+            }
+        ],
+        "keywords": [
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2012",
+        "pages": 352,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781684151141",
+        "title": "Expanse",
+        "subtitle": "Origins",
+        "authors": [
+            {
+                "name": "James S. A. Corey"
+            },
+            {
+                "name": "Hallie Lambert"
+            },
+            {
+                "name": "Georgia Lee"
+            }
+        ],
+        "keywords": [
+            "gra",
+            "sfi",
+            "com"
+        ],
+        "publish_date": "2018",
+        "pages": "u",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "ill": 5,
+        "publishers": [
+            {
+                "name": "Boom! Studios"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Los Angeles, Ca."
+            }
+        ]
+    },
+    {
+        "isbn": "9781250093974",
+        "title": "Vicious Vet",
+        "subtitle": "An Agatha Raisin Mystery",
+        "authors": [
+            {
+                "name": "M. C. Beaton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 213,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501132957",
+        "title": "Woman In Cabin 10",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ruth Ware"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": "340+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scout Press / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982154899",
+        "title": "Game On",
+        "subtitle": "Tempting Twenty-Eight",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 286,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781464203718",
+        "title": "Sussex Downs Murder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "John Bude"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 231,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Poisoned Pen Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9780062364616",
+        "title": "Big Four",
+        "subtitle": "A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 211,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780451488930",
+        "title": "Agent In Place",
+        "subtitle": "A Gray Man Novel",
+        "authors": [
+            {
+                "name": "Mark Greaney"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 513,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439153871",
+        "title": "Vermilion Drift",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": "304+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780099536635",
+        "title": "Suffer the Little Children",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Donna Leon"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": 342,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Arrow Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781504061322",
+        "title": "Case of the Lazy Lover",
+        "subtitle": "A Perry Mason Mystery",
+        "authors": [
+            {
+                "name": "Erle Stanley Gardner"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 220,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Open Road Media"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643138596",
+        "title": "Heather and Homicide",
+        "subtitle": "the Highland Bookshop Mystery Series, Book 4",
+        "authors": [
+            {
+                "name": "Molly Macrae"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 275,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643136950",
+        "title": "Thistles and Thieves",
+        "subtitle": "the Highland Bookshop Mystery Series, Book 3",
+        "authors": [
+            {
+                "name": "Molly Macrae"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 279,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781643130279",
+        "title": "Scones and Scoundrels",
+        "subtitle": "the Highland Bookshop Mystery Series, Book 2",
+        "authors": [
+            {
+                "name": "Molly Macrae"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 305,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781681776194",
+        "title": "Plaid and Plagiarism",
+        "subtitle": "The Highland Bookshop Mystery Series, Book 1",
+        "authors": [
+            {
+                "name": "Molly Macrae"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 279,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Pegasus Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307454690",
+        "title": "Bruno, Chief of Police",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Martin Walker"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": "273+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062074096",
+        "title": "Curtain",
+        "subtitle": "Poirot's Last Case - A Hercule Poirot Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 224,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641292719",
+        "title": "Flowers Over the Inferno",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ilaria Tuti"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": "350+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062073624",
+        "title": "Moving Finger",
+        "subtitle": "A Miss Marple Mystery",
+        "authors": [
+            {
+                "name": "Agatha Christie"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 226,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper / Harper-Collins"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982157135",
+        "title": "Bounty",
+        "subtitle": "A Fox and O'hare Novel",
+        "authors": [
+            {
+                "name": "Janet Evanovich"
+            },
+            {
+                "name": "Steve Hamilton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 313,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780525539322",
+        "title": "Robert B. Parker's Grudge Match",
+        "subtitle": "A Sunny Randall Novel",
+        "authors": [
+            {
+                "name": "Mike Lupica"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 309,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0060191872",
+        "title": "Run",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Stuart Woods"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2000",
+        "pages": 356,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Collins Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250022080",
+        "title": "Nature of the Beast",
+        "subtitle": "A Chief Inspector Gamache Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 376,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780060763893",
+        "title": "Judas Strain",
+        "subtitle": "A Sigma Force Novel",
+        "authors": [
+            {
+                "name": "James Rollins"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2007",
+        "pages": 450,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476789385",
+        "title": "Use of Force",
+        "subtitle": "A Thriller",
+        "authors": [
+            {
+                "name": "Brad Thor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 360,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books / Atria"
             }
         ],
         "publish_places": [

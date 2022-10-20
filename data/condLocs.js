@@ -41,6 +41,7 @@ module.exports.condMap = {
 
     // Previous owner stuff
     poad:  "Prev. Owner's address label{ on} ${inside}.",
+    poadin:"Prev. Owner's address label inked out{ on} ${inside}.",
     poin:  "Prev. Owner's initials{ on} ${inside}.",
     poins: "Prev. Owner's inscription{ on} ${inside}.",
     poma:  "Prev. Owner's mark{ on} ${inside}.",
@@ -74,6 +75,7 @@ module.exports.condMap = {
     fsta: "Faint Stain to ${page edges}.",
     lsta: "Light Stain to ${page edges}.",
     tsta: "Tiny Stain to ${page edges}.",
+    ssta: "Small Stain to ${page edges}.",
 
     // SoilIng To Boards
     fsoib: "Faint Soiling to boards.",
@@ -91,6 +93,7 @@ module.exports.condMap = {
     cr:   "${} creased.",
     cre:  "${} creased.",
     crea: "${} creased.",
+    djcr: "dj creased at ${}.",
     fwcr: "Front Wrap Creased.",
     fpcr: "Front Page Creased.",
     rwcr: "Rear Wrap Creased.",
@@ -134,6 +137,7 @@ module.exports.condLocs = {
     fb:   "front board",
     ffep: "ffep",
     fe:   "fore-edge",
+    feps: "front end-papers",
     ffe:  "front fore-edge",
     fp:   "front page",
     fpoc: "front pocket",
@@ -156,6 +160,7 @@ module.exports.condLocs = {
     usp:  "upper spine",
     udjs: "upper dj spine",
     upe:  "upper page edges",
+    uep:  "upped edge of early pages",
     tesp: "top edge of spine",
     htp:  "half title page",
     tp:   "title page",
