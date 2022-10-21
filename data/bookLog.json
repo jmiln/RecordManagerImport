@@ -12042,27 +12042,6 @@
         ]
     },
     {
-        "isbn": "9780008348021",
-        "title": "Secret Orphan",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Glynis Peters"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Harper-Collins Publishers"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "London"
-            }
-        ]
-    },
-    {
         "isbn": "0801864410",
         "title": "Sacred Night / Tahar Ben Jelloun ; Translated By Alan Sheridan.",
         "subtitle": "",
@@ -36271,32 +36250,6 @@
         ]
     },
     {
-        "isbn": "9781616203160",
-        "title": "Art Forger",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Barbara A. Shapiro"
-            }
-        ],
-        "publish_date": "2013",
-        "pages": 369,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Algonquin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Chapel Hill, Nc."
-            }
-        ]
-    },
-    {
         "isbn": "9780812988192",
         "title": "Good Morning, Midnight",
         "subtitle": "A Novel",
@@ -58695,37 +58648,6 @@
         ]
     },
     {
-        "isbn": "9780812971835",
-        "title": "Olive Kitteridge",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Elizabeth Strout"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic",
-            "pul"
-        ],
-        "publish_date": "2008",
-        "pages": 286,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Random House"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "039592720X",
         "title": "Interpreter Of Maladies",
         "subtitle": "",
@@ -61412,36 +61334,6 @@
         "publish_places": [
             {
                 "name": "Uhrichsville, Oh."
-            }
-        ]
-    },
-    {
-        "isbn": "9780800727024",
-        "title": "One More River To Cross",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Jane Kirkpatrick"
-            }
-        ],
-        "keywords": [
-            "xfi",
-            "rom"
-        ],
-        "publish_date": "2019",
-        "pages": 345,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Revell / Baker Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Grand Rapids, Mi."
             }
         ]
     },
@@ -115862,36 +115754,6 @@
         ]
     },
     {
-        "isbn": "9780345505347",
-        "title": "Hotel On the Corner of Bitter and Sweet",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Jamie Ford"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "hfi"
-        ],
-        "publish_date": "2009",
-        "pages": 301,
-        "price": 8.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781984820747",
         "title": "Dictionary of Lost Words",
         "subtitle": "A Novel",
@@ -117198,36 +117060,6 @@
         "publishers": [
             {
                 "name": "Harper / Harper-Collins"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780316461245",
-        "title": "Sweetness of Water",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Nathan Harris"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2022",
-        "pages": 358,
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Back Bay/little, Brown & Co."
             }
         ],
         "publish_places": [
@@ -129329,6 +129161,278 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780800727024",
+        "title": "One More River To Cross",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jane Kirkpatrick"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 345,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780800727888",
+        "title": "Burden of Proof",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "T. Davis Bunn"
+            }
+        ],
+        "keywords": [
+            "xfi"
+        ],
+        "publish_date": "2020",
+        "pages": 306,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Revell / Baker Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Grand Rapids, Mi."
+            }
+        ]
+    },
+    {
+        "isbn": "9780764231872",
+        "title": "Storm Rising",
+        "subtitle": "The Book of the Wars - Book 1",
+        "authors": [
+            {
+                "name": "Ronie Kendig"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "mys"
+        ],
+        "publish_date": "2019",
+        "pages": 381,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
+            }
+        ]
+    },
+    {
+        "isbn": "9780812971835",
+        "title": "Olive Kitteridge",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Strout"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic",
+            "pul"
+        ],
+        "publish_date": "2008",
+        "pages": 286,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008348021",
+        "title": "Secret Orphan",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Glynis Peters"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2019",
+        "pages": 388,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Harper-Impulse"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781542005135",
+        "title": "Dressmaker's Gift",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fiona Valpy"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2019",
+        "pages": 276,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Lake Union Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Seattle, Wa."
+            }
+        ]
+    },
+    {
+        "isbn": "9780316461245",
+        "title": "Sweetness of Water",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nathan Harris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2022",
+        "pages": 358,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Back Bay/little, Brown & Co."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780345505347",
+        "title": "Hotel On the Corner of Bitter and Sweet",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jamie Ford"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2009",
+        "pages": 301,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781616203160",
+        "title": "Art Forger",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Barbara A. Shapiro"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2013",
+        "pages": 369,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Algonquin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Chapel Hill, Nc."
             }
         ]
     }
