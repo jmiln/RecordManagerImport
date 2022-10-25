@@ -7095,9 +7095,7 @@
             "War of Two Queens",
             "Light In the Flame",
             "Grace and Glory",
-            "Shadow In the Ember",
-            "Kan Ve Kulden",
-            "Gracia Y Gloria"
+            "Shadow In the Ember"
         ],
         "url": "https://openlibrary.org/authors/OL7173196A/Jennifer_L._Armentrout?sort=new"
     },
@@ -7110,7 +7108,6 @@
     },
     "Natasha Lester": {
         "titles": [
-            "Dior Bequest",
             "Riviera House",
             "Paris Secret",
             "Her Mothers Secret",
@@ -7131,25 +7128,18 @@
     "Robert Jackson Bennett": {
         "titles": [
             "Shorefall",
-            "Kiliclar Kenti",
-            "Mucizeler Kenti",
             "Vigilance",
             "Foundryside",
-            "Merdivenler Kenti",
             "City of Miracles",
             "City of Blades",
-            "Miasto Schodow",
             "City of Stairs"
         ],
         "url": "https://openlibrary.org/authors/OL6808908A/Robert_Jackson_Bennett?sort=new"
     },
     "Jacqueline Woodson": {
         "titles": [
-            "Harbour Me",
             "Harbor Me",
             "Behind You",
-            "Um Outro Brooklyn",
-            "Em Carne Viva",
             "If You Come Softly"
         ],
         "url": "https://openlibrary.org/authors/OL29142A/Jacqueline_Woodson?sort=new"
@@ -7157,15 +7147,9 @@
     "Kurt Vonnegut": {
         "titles": [
             "Palm Sunday",
-            "Pianola",
             "Mother Night",
             "Pity the Reader",
-            "Barbazul",
-            "Sirens of Titan",
-            "Titan'in Sirenleri",
-            "As Sereias De Tita",
-            "Complete Stories",
-            "Cama De Gato"
+            "Sirens of Titan"
         ],
         "url": "https://openlibrary.org/authors/OL20187A/Kurt_Vonnegut?sort=new"
     },
@@ -7173,11 +7157,9 @@
         "titles": [
             "Last Storyteller",
             "Shannon",
-            "Tipperary",
             "Simple Courage",
             "At Ruby's",
             "Pearl",
-            "Slagveld",
             "Frank Delaney"
         ],
         "url": "https://openlibrary.org/authors/OL336531A/Frank_Delaney?sort=new"
@@ -7186,7 +7168,6 @@
         "titles": [
             "Affair of Spies",
             "Trust",
-            "Karolinas Tochter",
             "Karolina's Twins"
         ],
         "url": "https://openlibrary.org/authors/OL7523336A/Ronald_H._Balson?sort=new"
@@ -7202,7 +7183,6 @@
     },
     "Erle Stanley Gardner": {
         "titles": [
-            "D. A. Breaks a Seal",
             "Cats Prowl At Night",
             "Owls Don't Blink",
             "Double Or Quits",
@@ -7223,18 +7203,10 @@
     "Ronie Kendig": {
         "titles": [
             "War of Torment",
-            "Stone",
             "Shadows of Honor",
             "Range",
             "Kings Falling",
-            "Dawn of Vengeance",
-            "Soul Raging",
-            "Brand of Light",
-            "Thirst of Steel",
-            "Fierian",
-            "Crown of Souls",
             "Accelerant",
-            "Breed Apart Trilogy",
             "Falcon"
         ],
         "url": "https://openlibrary.org/authors/OL6762962A/Ronie_Kendig?sort=new"
@@ -7243,14 +7215,103 @@
         "titles": [
             "Season of Dreams",
             "Recipe for Hope",
-            "Gumus Serce",
             "Skylark's Secret",
             "Beekeeper's Promise",
             "Sea of Memories",
-            "Askin Fransizcasi",
             "French for Always",
             "French for Love"
         ],
         "url": "https://openlibrary.org/authors/OL7537809A/Fiona_Valpy?sort=new"
+    },
+    "Jasper Fforde": {
+        "titles": [
+            "Constant Rabbit",
+            "Something Rotten",
+            "Lost In a Good Book",
+            "Well of Lost Plots",
+            "Eyre Affair"
+        ],
+        "url": "https://openlibrary.org/authors/OL1393212A/Jasper_Fforde?sort=new"
+    },
+    "Randy Wayne White": {
+        "titles": [
+            "Crocs",
+            "Stingers",
+            "Salt River",
+            "American Traveler",
+            "Seduced"
+        ],
+        "url": "https://openlibrary.org/authors/OL39832A/Randy_Wayne_White?sort=new"
+    },
+    "Ann Leary": {
+        "titles": [
+            "Children",
+            "Good House",
+            "Special Delivery",
+            "Long Weekend"
+        ],
+        "url": "https://openlibrary.org/authors/OL1517124A/Ann_Leary?sort=new"
+    },
+    "Janet Skeslien Charles": {
+        "titles": [
+            "Moonlight In Odessa"
+        ],
+        "url": "https://openlibrary.org/authors/OL6788759A/Janet_Skeslien_Charles?sort=new"
+    },
+    "Sylvia Townsend Warner": {
+        "titles": [
+            "Winter In the Air",
+            "English Climate",
+            "Summer Will Show",
+            "Looly Willowes",
+            "With the Hunted",
+            "Flint Anchor"
+        ],
+        "url": "https://openlibrary.org/authors/OL20510A/Sylvia_Townsend_Warner?sort=new"
+    },
+    "Dan Moren": {
+        "titles": [
+            "Nova Incident",
+            "Aleph Extraction",
+            "Caledonian Gambit"
+        ],
+        "url": "https://openlibrary.org/authors/OL7501365A/Dan_Moren?sort=new"
+    },
+    "E. K. Johnston": {
+        "titles": [
+            "Aetherbound",
+            "Spindle",
+            "Prairie Fire",
+            "Story of Owen",
+            "Kingdom of Sleep",
+            "Thousand Nights"
+        ],
+        "url": "https://openlibrary.org/authors/OL7232144A/E._K._Johnston?sort=new"
+    },
+    "Mary Alice Monroe": {
+        "titles": [
+            "Long Road Home",
+            "On Ocean Boulevard",
+            "Summer Guests"
+        ],
+        "url": "https://openlibrary.org/authors/OL1385391A/Mary_Alice_Monroe?sort=new"
+    },
+    "Melanie Hudson": {
+        "titles": [
+            "Woman At Table 7",
+            "Dear Rosie Hughes",
+            "Wedding Cake Tree"
+        ],
+        "url": "https://openlibrary.org/authors/OL6105794A/Melanie_Hudson?sort=new"
+    },
+    "Jenny Holiday": {
+        "titles": [
+            "Once Upon a Bride",
+            "Sandcastle Beach",
+            "Mermaid Inn",
+            "Paradise Cove",
+            "Engagement Game"
+        ],
+        "url": "https://openlibrary.org/authors/OL7636934A/Jenny_Holiday?sort=new"
     }
 }

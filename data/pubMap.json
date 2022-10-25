@@ -2866,7 +2866,8 @@
     },
     {
         "name": [
-            "Reagan Arthur/Back Bay"
+            "Reagan Arthur/Back Bay",
+            "Reagan Arthur Books"
         ],
         "locations": [
             "New York"
@@ -3837,6 +3838,22 @@
     {
         "name": [
             "Harper-Impulse"
+        ],
+        "locations": [
+            "London"
+        ]
+    },
+    {
+        "name": [
+            "Marysue Rucci Books / S&s"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "Angry Robot / Watkins Media"
         ],
         "locations": [
             "London"
