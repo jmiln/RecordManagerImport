@@ -36854,32 +36854,6 @@
         ]
     },
     {
-        "isbn": "9780735221109",
-        "title": "Couple Next Door",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Shari Lapena"
-            }
-        ],
-        "publish_date": "2017",
-        "pages": "308+",
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Penguin Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781473682146",
         "title": "Wolf And The Watchman",
         "subtitle": "",
@@ -40520,66 +40494,6 @@
         ]
     },
     {
-        "isbn": "0393310167",
-        "title": "Truelove",
-        "subtitle": "The Aubrey/ Maturin Novels, Book 15",
-        "authors": [
-            {
-                "name": "Patrick O'brian"
-            }
-        ],
-        "keywords": [
-            "nau",
-            "hfi"
-        ],
-        "publish_date": "1993",
-        "pages": 256,
-        "price": 6.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "W. W. Norton & Co"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0393312445",
-        "title": "Wine-Dark Sea",
-        "subtitle": "The Aubrey/ Maturin Novels, Book 16",
-        "authors": [
-            {
-                "name": "Patrick O'brian"
-            }
-        ],
-        "keywords": [
-            "nau",
-            "hfi"
-        ],
-        "publish_date": "1994",
-        "pages": 261,
-        "price": 6.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "W. W. Norton & Co"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "039330762X",
         "title": "Mauritius Command",
         "subtitle": "The Aubrey/ Maturin Novels, Book 4",
@@ -40624,36 +40538,6 @@
         ],
         "publish_date": "1991",
         "pages": 325,
-        "price": 7,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "W. W. Norton & Co"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0393308138",
-        "title": "Fortune Of War",
-        "subtitle": "The Aubrey/ Maturin Novels, Book 6",
-        "authors": [
-            {
-                "name": "Patrick O'brian"
-            }
-        ],
-        "keywords": [
-            "nau",
-            "hfi"
-        ],
-        "publish_date": "1991",
-        "pages": 329,
         "price": 7,
         "binding": [
             "pb"
@@ -40834,66 +40718,6 @@
         ],
         "publish_date": "1992",
         "pages": 287,
-        "price": 7,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "W. W. Norton & Co"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0393309053",
-        "title": "Letter Of Marque",
-        "subtitle": "The Aubrey/ Maturin Novels, Book 12",
-        "authors": [
-            {
-                "name": "Patrick O'brian"
-            }
-        ],
-        "keywords": [
-            "nau",
-            "hfi"
-        ],
-        "publish_date": "1992",
-        "pages": 284,
-        "price": 7,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "W. W. Norton & Co"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "0393308200",
-        "title": "Surgeon's Mate",
-        "subtitle": "The Aubrey/ Maturin Novels, Book 7",
-        "authors": [
-            {
-                "name": "Patrick O'brian"
-            }
-        ],
-        "keywords": [
-            "nau",
-            "hfi"
-        ],
-        "publish_date": "1992",
-        "pages": 382,
         "price": 7,
         "binding": [
             "pb"
@@ -130281,6 +130105,339 @@
         "publishers": [
             {
                 "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008523794",
+        "title": "Red Cross Orphans",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Glynis Peters"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2022",
+        "pages": 391,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "One More Chapter / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250809025",
+        "title": "Three Sisters",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Heather Morris"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "hfi"
+        ],
+        "publish_date": "2022",
+        "pages": "404+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250811783",
+        "title": "Four Treasures of the Sky",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Jenny Tinghui Zhang"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 326,
+        "price": 16.8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Flatiron Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735221109",
+        "title": "Couple Next Door",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Shari Lapena"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": "308+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593104262",
+        "title": "Tom Clancy Enemy Contact",
+        "subtitle": "A Jack Ryan Jr. Novel",
+        "authors": [
+            {
+                "name": "Mike Maden"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 611,
+        "price": 11.5,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Random House Large Print"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393310167",
+        "title": "Truelove",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 15",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1993",
+        "pages": 256,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393309053",
+        "title": "Letter of Marque",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 12",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 284,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393312445",
+        "title": "Wine-Dark Sea",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 16",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1994",
+        "pages": 261,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393308634",
+        "title": "Treason's Harbour",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 9",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 334,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393308138",
+        "title": "Fortune of War",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 6",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1991",
+        "pages": 329,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0393308200",
+        "title": "Surgeon's Mate",
+        "subtitle": "The Aubrey/ Maturin Novels, Book 7",
+        "authors": [
+            {
+                "name": "Patrick O'brian"
+            }
+        ],
+        "keywords": [
+            "nau",
+            "hfi"
+        ],
+        "publish_date": "1992",
+        "pages": 382,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "W. W. Norton & Co"
             }
         ],
         "publish_places": [
