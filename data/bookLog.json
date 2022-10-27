@@ -64486,37 +64486,6 @@
         ]
     },
     {
-        "isbn": "9780399176807",
-        "title": "Tom Clancy Duty And Honor",
-        "subtitle": "A Jack Ryan Jr. Novel",
-        "authors": [
-            {
-                "name": "Grant Blackwood"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2016",
-        "pages": 425,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781681195087",
         "title": "Curse So Dark And Lonely",
         "subtitle": "",
@@ -75877,37 +75846,6 @@
         "publishers": [
             {
                 "name": "G. P. Putnam's Sons"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781250066213",
-        "title": "Better Man",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Louise Penny"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2019",
-        "pages": 437,
-        "price": 15.5,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Minotaur Books"
             }
         ],
         "publish_places": [
@@ -130443,6 +130381,311 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780571339013",
+        "title": "English Murder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Cyril Hare"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 202,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Faber & Faber Ltd."
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593132821",
+        "title": "Christmas Shopaholic",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sophie Kinsella"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 422,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Dial Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385753067",
+        "title": "Uncaged",
+        "subtitle": "The Singular Menace, Book 1",
+        "authors": [
+            {
+                "name": "John Sandford"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2014",
+        "pages": 407,
+        "price": 10.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250066213",
+        "title": "Better Man",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Louise Penny"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 437,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399176807",
+        "title": "Tom Clancy Duty and Honor",
+        "subtitle": "A Jack Ryan Jr. Novel",
+        "authors": [
+            {
+                "name": "Grant Blackwood"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 425,
+        "price": 10,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "G. P. Putnam's Sons"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780749021375",
+        "title": "Circus Train Conspiracy",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward Marston"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 318,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Allison & Busby, Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780749012496",
+        "title": "Peril On the Royal Train",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward Marston"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2014",
+        "pages": 348,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Allison & Busby, Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780749010577",
+        "title": "Blood On the Line",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Edward Marston"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 349,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Allison & Busby, Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780749007782",
+        "title": "Silver Locomotive Mystery",
+        "subtitle": "The Railway Detective Series",
+        "authors": [
+            {
+                "name": "Edward Marston"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2010",
+        "pages": 348,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Allison & Busby, Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780749013066",
+        "title": "Stationmaster's Farewell",
+        "subtitle": "The Railway Detective Series",
+        "authors": [
+            {
+                "name": "Edward Marston"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2013",
+        "pages": 382,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Allison & Busby, Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
             }
         ]
     }
