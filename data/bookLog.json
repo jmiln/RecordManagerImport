@@ -10028,27 +10028,6 @@
         ]
     },
     {
-        "isbn": "9780399181221",
-        "title": "Merry And Bright",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Debbie Macomber"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Ballantine Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "0786869216",
         "title": "Pleasure Of My Company",
         "subtitle": "A Novel",
@@ -52308,36 +52287,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9780008340520",
-        "title": "German Midwife",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Mandy Robotham"
-            }
-        ],
-        "keywords": [
-            "rom",
-            "hfi"
-        ],
-        "publish_date": "2019",
-        "pages": 354,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Avon Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "London"
             }
         ]
     },
@@ -129574,36 +129523,6 @@
         ]
     },
     {
-        "isbn": "9781982134204",
-        "title": "Paris Library",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Janet Skeslien Charles"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2020",
-        "pages": "351+",
-        "price": 10,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781400079278",
         "title": "Kafka On the Shore",
         "subtitle": "",
@@ -130681,6 +130600,699 @@
         "publishers": [
             {
                 "name": "Allison & Busby, Limited"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781732280915",
+        "title": "Good Bunch of Men",
+        "subtitle": "A Dickie Floyd Detective Novel",
+        "authors": [
+            {
+                "name": "Danny R. Smith"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": "306+",
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Dickie Floyd Novels"
+            }
+        ]
+    },
+    {
+        "isbn": "9781941110942",
+        "title": "Scavenger",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Christopher Chambers"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 344,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Three Rooms Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781608091737",
+        "title": "Yesterday's Echo",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Matt Coyle"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 297,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Oceanview Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Sarasota, Fl."
+            }
+        ]
+    },
+    {
+        "isbn": "9781450283229",
+        "title": "Ballad of a Dead Nobody",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Liza Cody"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2011",
+        "pages": 305,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "IUniverse"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Bloomington, IN."
+            }
+        ]
+    },
+    {
+        "isbn": "9781838299217",
+        "title": "Murder At the Spring Ball",
+        "subtitle": "A 1920s Mystery",
+        "authors": [
+            {
+                "name": "Benedict Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 232,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781787478374",
+        "title": "Man On the Street",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Trevor Wood"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 426,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Quercus"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781641292856",
+        "title": "Murder In Chianti",
+        "subtitle": "A Tuscan Mystery",
+        "authors": [
+            {
+                "name": "Camilla Trinchieri"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": "304+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Soho Crime / Soho Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781908524638",
+        "title": "Quiet Place",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Seicho Matsumoto"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 235,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bitter Lemon Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250145420",
+        "title": "Midsummer's Equation",
+        "subtitle": "A Detective Galileo Mystery",
+        "authors": [
+            {
+                "name": "Keigo Higashino"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2017",
+        "pages": 358,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385754729",
+        "title": "Book Thief",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Markus Zusak"
+            }
+        ],
+        "keywords": [
+            "ya",
+            "tfi",
+            "jfi"
+        ],
+        "publish_date": "2013",
+        "pages": 552,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781617732324",
+        "title": "Christmas Cake Murder",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Joanne Fluke"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2018",
+        "pages": 270,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399181221",
+        "title": "Merry and Bright",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 247,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0743477472",
+        "title": "Family Blessings",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Fern Michaels"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2004",
+        "pages": 226,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780553391695",
+        "title": "Dashing Through the Snow",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 244,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781496728449",
+        "title": "Light Beyond the Trenches",
+        "subtitle": "A Novel of WWI",
+        "authors": [
+            {
+                "name": "Alan Hlad"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 362,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "Kensington Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250108678",
+        "title": "Hope At Christmas",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Nancy Naigle"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": 342,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008340520",
+        "title": "German Midwife",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mandy Robotham"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi"
+        ],
+        "publish_date": "2019",
+        "pages": 354,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Avon Books / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446526296",
+        "title": "Finding Father Christmas",
+        "subtitle": "A Novella",
+        "authors": [
+            {
+                "name": "Robin Jones Gunn"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2007",
+        "pages": 161,
+        "price": 8,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "bc": true,
+        "publishers": [
+            {
+                "name": "Faith Words / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781546010395",
+        "title": "Jacob's Bell",
+        "subtitle": "A Christmas Story",
+        "authors": [
+            {
+                "name": "Snyder, John"
+            }
+        ],
+        "keywords": [
+            "xfi",
+            "rom"
+        ],
+        "publish_date": "2019",
+        "pages": 214,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Faith Words / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250192745",
+        "title": "Ninth Hour",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Alice Mcdermott"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 247,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Picador"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982134204",
+        "title": "Paris Library",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Janet Skeslien Charles"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2020",
+        "pages": "351+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335426918",
+        "title": "American Librarian",
+        "subtitle": "A Novel of World War Ii",
+        "authors": [
+            {
+                "name": "Madeline Martin"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": "383+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hanover Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008525316",
+        "title": "Polish Girl",
+        "subtitle": "A New Historical Novel From the Author of International Bestseller the Brothers of Auschwitz",
+        "authors": [
+            {
+                "name": "Malka Adler"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": "384+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "One More Chapter / Harper"
             }
         ],
         "publish_places": [

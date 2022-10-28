@@ -3741,7 +3741,8 @@
     },
     {
         "name": [
-            "Faithwords"
+            "Faithwords",
+            "Faith Words / Hachette"
         ],
         "locations": [
             "New York"
@@ -3849,6 +3850,22 @@
         ],
         "locations": [
             "London"
+        ]
+    },
+    {
+        "name": [
+            "Three Rooms Press"
+        ],
+        "locations": [
+            "New York"
+        ]
+    },
+    {
+        "name": [
+            "IUniverse"
+        ],
+        "locations": [
+            "Bloomington, In."
         ]
     }
 ]
