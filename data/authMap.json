@@ -7187,8 +7187,7 @@
             "Owls Don't Blink",
             "Double Or Quits",
             "Bats Fly At Dusk",
-            "Spill the Jackpot",
-            "D. A. Calls a Turn"
+            "Spill the Jackpot"
         ],
         "url": "https://openlibrary.org/authors/OL7977240A/Erle_Stanley_Gardner?sort=new"
     },
@@ -7328,13 +7327,9 @@
     },
     "Sophie Kinsella": {
         "titles": [
-            "Fairy Mom and Me #2",
             "I Owe You One",
-            "Fairy Mom and Me #1",
             "Surprise Me",
-            "Udivi Meni︠a︡",
             "Fairy Mom and Me",
-            "Buscando a Audrey",
             "Finding Audrey"
         ],
         "url": "https://openlibrary.org/authors/OL1393290A/Sophie_Kinsella?sort=new"
@@ -7377,7 +7372,6 @@
     "Liza Cody": {
         "titles": [
             "Ghost Station",
-            "Mr Bo",
             "Gimme More",
             "Rift",
             "Bad Company",
@@ -7401,7 +7395,6 @@
             "You Can Run",
             "Dead End Street",
             "One Way Street",
-            "Going Shopping 2004",
             "Edinburgh"
         ],
         "url": "https://openlibrary.org/authors/OL3499490A/Trevor_Wood?sort=new"
@@ -7415,39 +7408,9 @@
         "url": "https://openlibrary.org/authors/OL8005361A/Camilla_Trinchieri?sort=new"
     },
     "Seicho Matsumoto": {
-        "titles": [
-            "Shi Gu",
-            "Toi Sekkin",
-            "Kong Zhi Cheng",
-            "Huai Ren Men",
-            "Zhong Yang Liu Sha",
-            "Ku No Shiro",
-            "Shui Zhi Ji",
-            "Yan Zhi Qi Liu",
-            "Hei Se Bi Ji =",
-            "Xinxuan Zhan Qi",
-            "Ban Sheng Ji =",
-            "Sha Qi",
-            "Showa Shi Hakkutsu",
-            "Dangai",
-            "Onibi No Machi",
-            "Stena Glaz",
-            "Kamigami No Ranshin",
-            "Tochki I Linii"
-        ],
         "url": "https://openlibrary.org/authors/OL4283456A/Seichō_Matsumoto?sort=new"
     },
     "Keigo Higashino": {
-        "titles": [
-            "Dang Shi De Mou Ren",
-            "Bai Jin Shu Ju",
-            "Lian Ai Lan Che",
-            "Xue Yan Zhui Zhu",
-            "Wihomhan Pinosu",
-            "Suteki Na Nipponjin",
-            "Masukaredo Naito =",
-            "Setsuen Cheisu"
-        ],
         "url": "https://openlibrary.org/authors/OL5332979A/Keigo_Higashino?sort=new"
     },
     "Robin Jones Gunn": {
@@ -7456,11 +7419,6 @@
             "Forever With You",
             "Spoken for",
             "Victim of Grace",
-            "Cottage By the Sea",
-            "Finally and Forever",
-            "Departures",
-            "Canary Island Song",
-            "Under a Maui Moon",
             "Secrets",
             "Coming Attractions",
             "Peculiar Treasures"
@@ -7470,8 +7428,6 @@
     "Alan Hlad": {
         "titles": [
             "Book Spy",
-            "De Vlucht Naar Huis",
-            "Luz De La Esperanza",
             "Long Flight Home"
         ],
         "url": "https://openlibrary.org/authors/OL7629460A/Alan_Hlad?sort=new"
@@ -7482,9 +7438,6 @@
             "Wedding Ranch",
             "Shell Collector",
             "Christmas Angels",
-            "Dear Santa",
-            "Christmas Shop",
-            "Until Tomorrow",
             "Christmas Joy",
             "Every Yesterday"
         ],
@@ -7493,14 +7446,8 @@
     "Snyder, John": {
         "titles": [
             "Halima the Hippo",
-            "John Poisonous Lips",
             "Guardians",
-            "Palouse Alphabet",
             "Prospects of Power",
-            "Angels Journal",
-            "Ems Documentation",
-            "Golden Ring",
-            "Goal",
             "Play Ball",
             "Wind Trust"
         ],
@@ -7523,5 +7470,60 @@
             "Miaracle Next Door"
         ],
         "url": "https://openlibrary.org/authors/OL3840504A/Malka_Adler?sort=new"
+    },
+    "Louis Bayard": {
+        "titles": [
+            "Jackie and Me",
+            "Lucky Strikes",
+            "Roosevelt's Beast",
+            "Beast In the Jungle",
+            "School of Night",
+            "Black Tower",
+            "Mr. Timothy"
+        ],
+        "url": "https://openlibrary.org/authors/OL6053696A/Louis_Bayard?sort=new"
+    },
+    "Matthew Sullivan": {
+        "titles": [
+            "Last Out"
+        ],
+        "url": "https://openlibrary.org/authors/OL7910528A/Matthew_Sullivan?sort=new"
+    },
+    "Hendrik Groen": {
+        "titles": [
+            "On the Bright Side"
+        ],
+        "url": "https://openlibrary.org/authors/OL7522010A/Hendrik_Groen?sort=new"
+    },
+    "Sarah Maine": {
+        "titles": [
+            "Awakenings",
+            "Alchemy and Rose",
+            "Women of the Dunes",
+            "Bhalla Strand"
+        ],
+        "url": "https://openlibrary.org/authors/OL7540526A/Sarah_Maine?sort=new"
+    },
+    "Amy Harmon": {
+        "titles": [
+            "Girl Called Samson",
+            "Different Blue",
+            "First Girl Child",
+            "Smallest Part",
+            "Queen and the Cure",
+            "Making Faces"
+        ],
+        "url": "https://openlibrary.org/authors/OL7454274A/Amy_Harmon?sort=new"
+    },
+    "Jane Smiley": {
+        "titles": [
+            "Dangerous Business",
+            "Dickens",
+            "Strays of Paris",
+            "Riding Lessons",
+            "Twenty Yawns",
+            "Golden Age"
+        ],
+        "url": "https://openlibrary.org/authors/OL32519A/Jane_Smiley?sort=new"
     }
 }
