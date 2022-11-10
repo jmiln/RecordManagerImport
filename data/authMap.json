@@ -7509,8 +7509,6 @@
             "Girl Called Samson",
             "Different Blue",
             "First Girl Child",
-            "Smallest Part",
-            "Queen and the Cure",
             "Making Faces"
         ],
         "url": "https://openlibrary.org/authors/OL7454274A/Amy_Harmon?sort=new"
@@ -7518,12 +7516,101 @@
     "Jane Smiley": {
         "titles": [
             "Dangerous Business",
-            "Dickens",
-            "Strays of Paris",
-            "Riding Lessons",
             "Twenty Yawns",
             "Golden Age"
         ],
         "url": "https://openlibrary.org/authors/OL32519A/Jane_Smiley?sort=new"
+    },
+    "Jessica Fellowes": {
+        "titles": [
+            "Mitford Secret",
+            "Mitford Mystery",
+            "Best Friend",
+            "Bright Young Dead"
+        ],
+        "url": "https://openlibrary.org/authors/OL7059193A/Jessica_Fellowes?sort=new"
+    },
+    "Bonnie Macbird": {
+        "titles": [
+            "Three Locks",
+            "Unquiet Spirits",
+            "Art In the Blood"
+        ],
+        "url": "https://openlibrary.org/authors/OL3324599A/Bonnie_MacBird?sort=new"
+    },
+    "P. J. Tracy": {
+        "titles": [
+            "Devil You Know",
+            "Desolation Canyon",
+            "Ice Cold Heart",
+            "Off the Grid",
+            "Two Evils",
+            "Shoot To Thrill"
+        ],
+        "url": "https://openlibrary.org/authors/OL1392338A/P._J._Tracy?sort=new"
+    },
+    "Stieg Larsson": {
+        "titles": [
+            "Expo Files"
+        ],
+        "url": "https://openlibrary.org/authors/OL1414302A/Stieg_Larsson?sort=new"
+    },
+    "A. D. Scott": {
+        "titles": [
+            "Low Road",
+            "North Sea Requiem"
+        ],
+        "url": "https://openlibrary.org/authors/OL4338908A/A._D._Scott?sort=new"
+    },
+    "M. L. Longworth": {
+        "titles": [
+            "Noel Killing"
+        ],
+        "url": "https://openlibrary.org/authors/OL9155305A/M._L._Longworth?sort=new"
+    },
+    "Ellie Alexander": {
+        "titles": [
+            "Donut Disturb",
+            "Without a Brew",
+            "Chilled To the Cone",
+            "Cup of Holiday Fear"
+        ],
+        "url": "https://openlibrary.org/authors/OL7459281A/Ellie_Alexander?sort=new"
+    },
+    "Kyle Mills": {
+        "titles": [
+            "Red War",
+            "Enemy of the State",
+            "Survivor",
+            "Darkness Falls",
+            "Second Horseman"
+        ],
+        "url": "https://openlibrary.org/authors/OL30068A/Kyle_Mills?sort=new"
+    },
+    "Kevin Henkes": {
+        "titles": [
+            "House",
+            "Lilly and Friends",
+            "Sun Flower Lion",
+            "Penny and Her Sled",
+            "Parade of Elephants"
+        ],
+        "url": "https://openlibrary.org/authors/OL3425416A/Kevin_Henkes?sort=new"
+    },
+    "Mohsin Hamid": {
+        "titles": [
+            "Moth Smoke"
+        ],
+        "url": "https://openlibrary.org/authors/OL30582A/Mohsin_Hamid?sort=new"
+    },
+    "Anita Brookner": {
+        "titles": [
+            "Debut",
+            "Closed Eye",
+            "Next Big Thing",
+            "Fraud",
+            "Brief Lives"
+        ],
+        "url": "https://openlibrary.org/authors/OL22173A/Anita_Brookner?sort=new"
     }
 }

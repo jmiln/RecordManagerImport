@@ -16114,27 +16114,6 @@
         ]
     },
     {
-        "isbn": "9780062883094",
-        "title": "Pieces Of Her",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Karin Slaughter"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780062563187",
         "title": "War Of The Wolf",
         "subtitle": "A Novel",
@@ -22625,27 +22604,6 @@
         ]
     },
     {
-        "isbn": "9780743298087",
-        "title": "Once Upon A River",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Diane Setterfield"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Emily Bestler Books"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780812983203",
         "title": "Summer Before The War",
         "subtitle": "A Novel",
@@ -23044,27 +23002,6 @@
         "publish_places": [
             {
                 "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781492670124",
-        "title": "7 1/2 Deaths Of Evelyn Hardcastle",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Stuart Turton"
-            }
-        ],
-        "publish_date": "2019",
-        "publishers": [
-            {
-                "name": "Sourcebooks Landmark"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Naperville, Il."
             }
         ]
     },
@@ -39049,36 +38986,6 @@
         "publishers": [
             {
                 "name": "Riverhead Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781400031801",
-        "title": "Kalahari Typing School For Men",
-        "subtitle": "The No. 1 Ladies' Detective Agency, Book 4",
-        "authors": [
-            {
-                "name": "Alexander Mccall Smith"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2002",
-        "pages": 191,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Anchor / Random House"
             }
         ],
         "publish_places": [
@@ -99174,36 +99081,6 @@
         ]
     },
     {
-        "isbn": "9781501143519",
-        "title": "Gunslinger",
-        "subtitle": "The Dark Tower, Book 1",
-        "authors": [
-            {
-                "name": "Stephen King"
-            }
-        ],
-        "keywords": [
-            "hor",
-            "thr"
-        ],
-        "publish_date": "2016",
-        "pages": 253,
-        "price": 9,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Scribner / Simon & Schuster"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9780316454933",
         "title": "Queen of the Conquered",
         "subtitle": "",
@@ -119504,37 +119381,6 @@
         ]
     },
     {
-        "isbn": "9780062654199",
-        "title": "Alice Network",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "Kate Quinn"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2017",
-        "pages": "503+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "french": true,
-        "publishers": [
-            {
-                "name": "William Morrow"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781481455923",
         "title": "City of Bones",
         "subtitle": "The Mortal Instruments, Book One - a Shadowhunters Novel",
@@ -131014,36 +130860,6 @@
         ]
     },
     {
-        "isbn": "9781335426918",
-        "title": "American Librarian",
-        "subtitle": "A Novel of World War Ii",
-        "authors": [
-            {
-                "name": "Madeline Martin"
-            }
-        ],
-        "keywords": [
-            "lit",
-            "fic"
-        ],
-        "publish_date": "2022",
-        "pages": "383+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Hanover Square Press"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "Toronto, Ontario"
-            }
-        ]
-    },
-    {
         "isbn": "9780008525316",
         "title": "Polish Girl",
         "subtitle": "A New Historical Novel From the Author of International Bestseller the Brothers of Auschwitz",
@@ -131929,6 +131745,1062 @@
         "publishers": [
             {
                 "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780399181252",
+        "title": "Cottage By the Sea",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Debbie Macomber"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 334,
+        "price": 11,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Ballantine Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781335426918",
+        "title": "American Librarian",
+        "subtitle": "A Novel of World War Ii",
+        "authors": [
+            {
+                "name": "Madeline Martin"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "hfi",
+            "ww2"
+        ],
+        "publish_date": "2022",
+        "pages": "383+",
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hanover Square Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Toronto, Ontario"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476791456",
+        "title": "Confess",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Colleen Hoover"
+            }
+        ],
+        "keywords": [
+            "rom",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": 308,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781501143519",
+        "title": "Gunslinger",
+        "subtitle": "The Dark Tower, Book 1",
+        "authors": [
+            {
+                "name": "Stephen King"
+            }
+        ],
+        "keywords": [
+            "hor",
+            "thr"
+        ],
+        "publish_date": "2016",
+        "pages": "253+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Scribner / Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062883094",
+        "title": "Pieces of Her",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karin Slaughter"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 470,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780802148445",
+        "title": "Small Town",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Thomas Perry"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 320,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Mysterious Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250316813",
+        "title": "Mitford Scandal",
+        "subtitle": "A Mitford Murders Mystery",
+        "authors": [
+            {
+                "name": "Jessica Fellowes"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 369,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008195106",
+        "title": "Devil's Due",
+        "subtitle": "A Sherlock Holmes Adventure",
+        "authors": [
+            {
+                "name": "Bonnie Macbird"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 369,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Collins Crime Club / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250813831",
+        "title": "Deep Into the Dark",
+        "subtitle": "A Mystery",
+        "authors": [
+            {
+                "name": "P. J. Tracy"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 356,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307454560",
+        "title": "Girl Who Kicked the Hornet's Nest",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stieg Larsson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2012",
+        "pages": 653,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Crime / Black Lizard"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593556207",
+        "title": "Clive Cussler's Dark Vector",
+        "subtitle": "A Novel From the Numa Files",
+        "authors": [
+            {
+                "name": "Graham Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 514,
+        "price": 17,
+        "binding": [
+            "pb"
+        ],
+        "lp": true,
+        "publishers": [
+            {
+                "name": "Random House Large Print"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781838299293",
+        "title": "Mystery of Mistletoe Hall",
+        "subtitle": "A 1920s Mystery",
+        "authors": [
+            {
+                "name": "Benedict Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 241,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9788419162014",
+        "title": "Death From High Places",
+        "subtitle": "A 1920s Mystery",
+        "authors": [
+            {
+                "name": "Benedict Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 82,
+        "price": 6,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781492670124",
+        "title": "7 1/2 Deaths of Evelyn Hardcastle",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Stuart Turton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 464,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Sourcebooks Landmark"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Naperville, Il."
+            }
+        ]
+    },
+    {
+        "isbn": "9781476756189",
+        "title": "Kind of Grief",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "A. D. Scott"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 356,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143135296",
+        "title": "Vanishing Museum On the Rue Mistral",
+        "subtitle": "A Provencal Mystery",
+        "authors": [
+            {
+                "name": "M. L. Longworth"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 323,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780446582605",
+        "title": "Death of a Gentle Lady",
+        "subtitle": "A Hamish Macbeth Mystery",
+        "authors": [
+            {
+                "name": "M. C. Beaton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2008",
+        "pages": 245,
+        "price": 13,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250781451",
+        "title": "Cure for What Ales You",
+        "subtitle": "A Sloan Krause Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 276,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250205773",
+        "title": "Without a Brew",
+        "subtitle": "A Sloan Krause Mystery",
+        "authors": [
+            {
+                "name": "Ellie Alexander"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": 295,
+        "price": 14.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781476783482",
+        "title": "Order To Kill",
+        "subtitle": "A Mitch Rapp Novel",
+        "authors": [
+            {
+                "name": "Kyle Mills"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2016",
+        "pages": 374,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250282460",
+        "title": "Affair of Spies",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Ronald H. Balson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 327,
+        "price": 16.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719848",
+        "title": "6:20 Man",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 420,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250754950",
+        "title": "Desolation Canyon",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "P. J. Tracy"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 310,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Minotaur Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0316073016",
+        "title": "Bad Boy Brawly Brown",
+        "subtitle": "An Easy Rawlings Novel",
+        "authors": [
+            {
+                "name": "Walter Mosley"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2002",
+        "pages": 311,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Boston"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538752012",
+        "title": "Overkill",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Sandra Brown"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 406,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780008130831",
+        "title": "Art In the Blood",
+        "subtitle": "A Sherlock Holmes Adventure",
+        "authors": [
+            {
+                "name": "Bonnie Macbird"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2015",
+        "pages": 306,
+        "price": 14,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Collins Crime Club / Harper"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9780061964176",
+        "title": "Junonia",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kevin Henkes"
+            }
+        ],
+        "keywords": [
+            "chi",
+            "jfi"
+        ],
+        "publish_date": "2011",
+        "pages": 176,
+        "price": 9,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Greenwillow Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780593102183",
+        "title": "Paris Bookseller",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Kerri Maher"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 319,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Berkley Books/penguin Random"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062654199",
+        "title": "Alice Network",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Kate Quinn"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2017",
+        "pages": "532+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "french": true,
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780735212206",
+        "title": "Exit West",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Mohsin Hamid"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2018",
+        "pages": 231,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Riverhead Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781400031801",
+        "title": "Kalahari Typing School for Men",
+        "subtitle": "The No. 1 Ladies' Detective Agency, Book 4",
+        "authors": [
+            {
+                "name": "Alexander Mccall Smith"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2002",
+        "pages": 191,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780307278449",
+        "title": "Bluest Eye",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Toni Morrison"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2007",
+        "pages": 206,
+        "price": 8.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage International"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780143127550",
+        "title": "Everything I Never Told You",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Celeste Ng"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2015",
+        "pages": "297+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Penguin Books"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0679781471",
+        "title": "Visitors",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Anita Brookner"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "1999",
+        "pages": 242,
+        "price": 7,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Vintage Contemporaries"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780743298087",
+        "title": "Once Upon a River",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Diane Setterfield"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2019",
+        "pages": 475,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Emily Bestler Books"
             }
         ],
         "publish_places": [
