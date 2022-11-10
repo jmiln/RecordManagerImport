@@ -9571,27 +9571,6 @@
         ]
     },
     {
-        "isbn": "9780316438964",
-        "title": "Last Wish: Introducing The Witcher",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Andrzej Sapkowski"
-            }
-        ],
-        "publish_date": "2017",
-        "publishers": [
-            {
-                "name": "Orbit / Hachette"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781592129577",
         "title": "Battlefield Earth",
         "subtitle": "Pulse-Pounding Sci-Fi Action",
@@ -132806,6 +132785,251 @@
         "publish_places": [
             {
                 "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316438964",
+        "title": "Last Wish: Introducing the Witcher",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Andrzej Sapkowski"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 344,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316187749",
+        "title": "Theft of Swords",
+        "subtitle": "Volume 1 of the Riyria Chronicles",
+        "authors": [
+            {
+                "name": "Michael J. Sullivan"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2011",
+        "pages": 691,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316243711",
+        "title": "Crown Tower",
+        "subtitle": "Volume 2 of the Riyria Chronicles",
+        "authors": [
+            {
+                "name": "Michael J. Sullivan"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": 414,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780356502281",
+        "title": "Rose and the Thorn",
+        "subtitle": "The Riyria Chronicles, Book 2",
+        "authors": [
+            {
+                "name": "Michael J. Sullivan"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2013",
+        "pages": "355+",
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "London"
+            }
+        ]
+    },
+    {
+        "isbn": "9781943363087",
+        "title": "Death of Dulgath",
+        "subtitle": "Volume 3 of the the Riyria Chronicles",
+        "authors": [
+            {
+                "name": "Michael J. Sullivan"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2015",
+        "pages": 404,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781943363131",
+        "title": "Disappearance of Winter's Daughter",
+        "subtitle": "Volume 4 of the the Riyria Chronicles",
+        "authors": [
+            {
+                "name": "Michael J. Sullivan"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2017",
+        "pages": 453,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9781985746152",
+        "title": "Aching God",
+        "subtitle": "Iconoclasts, Book 1",
+        "authors": [
+            {
+                "name": "Mike Shel"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2018",
+        "pages": 599,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9780578502168",
+        "title": "Sin Eater",
+        "subtitle": "Iconoclasts, Book 2",
+        "authors": [
+            {
+                "name": "Mike Shel"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2019",
+        "pages": 569,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9780578879239",
+        "title": "Idols Fall",
+        "subtitle": "Iconoclasts, Book 3",
+        "authors": [
+            {
+                "name": "Mike Shel"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 683,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
             }
         ]
     }
