@@ -14465,27 +14465,6 @@
         ]
     },
     {
-        "isbn": "9780142181324",
-        "title": "Mrs. Lincoln's Rival",
-        "subtitle": "",
-        "authors": [
-            {
-                "name": "Jennifer Chiaverini"
-            }
-        ],
-        "publish_date": "2014",
-        "publishers": [
-            {
-                "name": "Plume Books / Penguin"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781250019851",
         "title": "First Frost",
         "subtitle": "",
@@ -68572,36 +68551,6 @@
         ]
     },
     {
-        "isbn": "9781439157794",
-        "title": "Blood Hollow",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "William Kent Krueger"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2009",
-        "pages": "344+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781439157787",
         "title": "Purgatory Ridge",
         "subtitle": "A Novel",
@@ -72659,36 +72608,6 @@
         ],
         "publish_date": "2014",
         "pages": "307+",
-        "price": 9.5,
-        "binding": [
-            "pb"
-        ],
-        "publishers": [
-            {
-                "name": "Atria Books / S&s"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781439157817",
-        "title": "Copper River",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "William Kent Krueger"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2006",
-        "pages": "309+",
         "price": 9.5,
         "binding": [
             "pb"
@@ -77726,38 +77645,6 @@
         "publish_date": "2019",
         "pages": 369,
         "price": 15,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Grand Central Publishing"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
-        "isbn": "9781538719725",
-        "title": "Mercy",
-        "subtitle": "An Atlee Pine Thriller",
-        "authors": [
-            {
-                "name": "David Baldacci",
-                "url": "https://openlibrary.org/authors/OL28165A/David_Baldacci"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2021",
-        "pages": 404,
-        "price": 15.5,
         "binding": [
             "hc",
             "dj"
@@ -106981,40 +106868,6 @@
         ]
     },
     {
-        "isbn": "9780759554344",
-        "title": "Run, Rose, Run",
-        "subtitle": "A Novel",
-        "authors": [
-            {
-                "name": "James Patterson"
-            },
-            {
-                "name": "Dolly Parton"
-            }
-        ],
-        "keywords": [
-            "mys",
-            "cfi"
-        ],
-        "publish_date": "2022",
-        "pages": 439,
-        "price": 16,
-        "binding": [
-            "hc",
-            "dj"
-        ],
-        "publishers": [
-            {
-                "name": "Little, Brown & Company"
-            }
-        ],
-        "publish_places": [
-            {
-                "name": "New York"
-            }
-        ]
-    },
-    {
         "isbn": "9781728247595",
         "title": "Lies I Tell",
         "subtitle": "A Novel",
@@ -133030,6 +132883,489 @@
         "publishers": [
             {
                 "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9780316705851",
+        "title": "Shards of Earth",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Adrian Tchaikovsky"
+            }
+        ],
+        "keywords": [
+            "sfi",
+            "fan"
+        ],
+        "publish_date": "2021",
+        "pages": 548,
+        "price": 15,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Orbit / Hachette"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780385350280",
+        "title": "Twelve Tribes of Hattie",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Ayana Mathis"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 243,
+        "price": 13.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Borzoi / Alfred A. Knopf"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780142181324",
+        "title": "Mrs. Lincoln's Rival",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Jennifer Chiaverini"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2014",
+        "pages": 415,
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Plume Books / Penguin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781250231512",
+        "title": "Woman of Intelligence",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Karin Tanabe"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 368,
+        "price": 10,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "St. Martin's Griffin"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781598568875",
+        "title": "Dean's Watch",
+        "subtitle": "",
+        "authors": [
+            {
+                "name": "Elizabeth Goudge"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2012",
+        "pages": 350,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Hendrickson Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Peabody, Ma."
+            }
+        ]
+    },
+    {
+        "isbn": "9780804171038",
+        "title": "China",
+        "subtitle": "The Novel",
+        "authors": [
+            {
+                "name": "Edward Rutherfurd"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2022",
+        "pages": 764,
+        "price": 11,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Anchor / Random House"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781841957982",
+        "title": "Penelopiad",
+        "subtitle": "The Myth of Penelope and Odysseus",
+        "authors": [
+            {
+                "name": "Margaret Atwood"
+            }
+        ],
+        "keywords": [
+            "lit",
+            "fic"
+        ],
+        "publish_date": "2005",
+        "pages": 159,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Grove Press"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439157817",
+        "title": "Copper River",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2006",
+        "pages": "309+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781439157794",
+        "title": "Blood Hollow",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "William Kent Krueger"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2009",
+        "pages": "344+",
+        "price": 9,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Atria Books / S&s"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781982151690",
+        "title": "Private Cathedral",
+        "subtitle": "A Dave Robicheaux Novel",
+        "authors": [
+            {
+                "name": "James Lee Burke"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 367,
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Simon & Schuster"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781951327033",
+        "title": "Blood Evidence",
+        "subtitle": "A Case Leary Legal Thriller",
+        "authors": [
+            {
+                "name": "Robin James"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2019",
+        "pages": 337,
+        "price": 8,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Published By Author"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062855329",
+        "title": "Never Have I Ever",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "Joshilyn Jackson"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2020",
+        "pages": "340+",
+        "price": 9.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9781538719725",
+        "title": "Mercy",
+        "subtitle": "An Atlee Pine Thriller",
+        "authors": [
+            {
+                "name": "David Baldacci"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2021",
+        "pages": 404,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Grand Central Publishing"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780062886101",
+        "title": "End of Days",
+        "subtitle": "A Pike Logan Novel",
+        "authors": [
+            {
+                "name": "Brad Taylor"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 433,
+        "price": 15.5,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "William Morrow"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "9780759554344",
+        "title": "Run, Rose, Run",
+        "subtitle": "A Novel",
+        "authors": [
+            {
+                "name": "James Patterson"
+            },
+            {
+                "name": "Dolly Parton"
+            }
+        ],
+        "keywords": [
+            "mys",
+            "cfi"
+        ],
+        "publish_date": "2022",
+        "pages": 439,
+        "price": 16,
+        "binding": [
+            "hc",
+            "dj"
+        ],
+        "publishers": [
+            {
+                "name": "Little, Brown & Company"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "New York"
+            }
+        ]
+    },
+    {
+        "isbn": "0764220454",
+        "title": "Heathersleigh Homecoming",
+        "subtitle": "The Secrets of Heathersleigh Hall, Book 3",
+        "authors": [
+            {
+                "name": "Michael R. Phillips"
+            }
+        ],
+        "keywords": [
+            "cfi",
+            "hfi"
+        ],
+        "publish_date": "1999",
+        "pages": 429,
+        "price": 7.5,
+        "binding": [
+            "pb"
+        ],
+        "publishers": [
+            {
+                "name": "Bethany House Publishers"
+            }
+        ],
+        "publish_places": [
+            {
+                "name": "Minneapolis, Mn."
             }
         ]
     }
